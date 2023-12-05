@@ -1,0 +1,71 @@
+1. Difficulty Level 1 (Topic: Colors):
+    Question: Which of the following is not a primary color?
+    A) Red
+    B) Green
+    C) Yellow
+    D) Blue
+    E) Violet
+    Answer: E) Violet
+
+2. Difficulty Level 2 (Topic: Geography):
+    Question: Which of the following continents is Egypt located on?
+    A) Asia
+    B) Europe
+    C) Antarctic
+    D) Africa
+    E) Australia
+   Answer: D) Africa 
+   
+3. Difficulty Level 3 (Topic: Mathematics):
+   Question: What is the square root of 289?
+   A) 17
+   B) 18
+   C) 19
+   D) 15
+   E) 16
+   Answer: A) 17
+   
+4. Difficulty Level 4 (Topic: Literature):
+   Question: Who is the author of the novel '1984'?
+   A) Fyodor Dostoevsky
+   B) George Orwell
+   C) Charles Dickens
+   D) Ernest Hemingway
+   E) Jane Austen
+   Answer: B) George Orwell
+   
+5. Difficulty Level 5 (Topic: Science):
+   Question: What element is represented by the symbol 'Au' on the periodic table?
+   A) Silver
+   B) Bronze
+   C) Iron
+   D) Gold
+   E) Copper
+   Answer: D) Gold
+   
+6. Difficulty Level 6 (Topic: World History):
+   Question: In which century did the French Revolution take place?
+   A) 16th century
+   B) 17th century
+   C) 18th century
+   D) 19th century
+   E) 20th century
+   Answer: C) 18th century
+   
+7. Difficulty Level 7 (Topic: Astronomy):
+   Question: Which planet in our solar system has the most moons?
+   A) Earth
+   B) Mars
+   C) Jupiter
+   D) Saturn
+   E) Neptune
+   Answer: D) Saturn
+   
+8. Difficulty Level 8 (Topic: Philosophy):
+   Question: Which philosopher is famous for the statement "I think, therefore I am"?
+   A) Socrates
+   B) Plato
+   C) Rene Descartes
+   D) Friedrich Nietzsche
+   E) Aristotle
+   Answer: C) Rene Descartes

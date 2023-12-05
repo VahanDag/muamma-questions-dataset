@@ -1,0 +1,395 @@
+{
+    "dataset1": {
+        "question1": {
+            "question": "Who is the current president of the United States?",
+            "options": {
+                "A": "Donald Trump",
+                "B": "Barack Obama",
+                "C": "George W. Bush",
+                "D": "Joe Biden",
+                "E": "Bill Clinton"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        "question2": {
+            "question": "In which country were the 2020 summer Olympics held?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "South Korea",
+                "D": "United States",
+                "E": "Brazil"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        "question3": {
+            "question": "Who won the 2021 Grammy for Album of the Year?",
+            "options": {
+                "A": "Post Malone",
+                "B": "Billie Eilish",
+                "C": "Taylor Swift",
+                "D": "Beyonce",
+                "E": "Ariana Grande"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        "question4": {
+            "question": "Who is the author of the 'A Song of Ice and Fire' series?",
+            "options": {
+                "A": "J.K. Rowling",
+                "B": "George R.R. Martin",
+                "C": "Tolkien",
+                "D": "Stephen King",
+                "E": "Neil Gaiman"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        "question5": {
+            "question": "What is the official language spoken in Brazil?",
+            "options": {
+                "A": "Spanish",
+                "B": "Portuguese",
+                "C": "English",
+                "D": "Italian",
+                "E": "German"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        "question6": {
+            "question": "Who is the director of the movie 'Inception'?",
+            "options": {
+                "A": "Christopher Nolan",
+                "B": "Quentin Tarantino",
+                "C": "Steven Spielberg",
+                "D": "David Fincher",
+                "E": "James Cameron"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        "question7": {
+            "question": "Which singer released the hit song 'Bad Habits' in 2021?",
+            "options": {
+                "A": "Justin Bieber",
+                "B": "Ed Sheeran",
+                "C": "Dua Lipa",
+                "D": "The Weeknd",
+                "E": "Bruno Mars"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        "question8": {
+            "question": "In which TV series does the character 'Walter White' appear?",
+            "options": {
+                "A": "Game of Thrones",
+                "B": "Mad Men",
+                "C": "Breaking Bad",
+                "D": "The Sopranos",
+                "E": "Stranger Things"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    },
+    "dataset2": {
+        "question1": {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "London",
+                "B": "Rome",
+                "C": "Paris",
+                "D": "Berlin",
+                "E": "Madrid"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        "question2": {
+            "question": "Which company was established on 4th April 1975 by Bill Gates and Paul Allen?",
+            "options": {
+                "A": "Apple",
+                "B": "Microsoft",
+                "C": "Atari",
+                "D": "Commodore",
+                "E": "Amazon"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        "question3": {
+            "question": "In the 'Harry Potter' series, what does the 'S.P.E.W' stand for?",
+            "options": {
+                "A": "Society for the Promotion of Elfish Welfare",
+                "B": "Special Powers Enhancement Wheel",
+                "C": "Society of Potters for the Eradication of Warlocks",
+                "D": "Society for the Prevention of Evil Witches",
+                "E": "Special Potion for Every Wizard"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        "question4": {
+            "question": "Which planet is known as the 'Ringed Planet'?",
+            "options": {
+                "A": "Jupiter",
+                "B": "Mars",
+                "C": "Venus",
+                "D": "Saturn",
+                "E": "Uranus"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        "question5": {
+            "question": "'The Old Man and The Sea' was written by which author?",
+            "options": {
+                "A": "Ernest Hemingway",
+                "B": "Charles Dickens",
+                "C": "William Shakespeare",
+                "D": "John Steinbeck",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        "question6": {
+            "question": "Who played the Joker in the 2019 movie 'Joker'?",
+            "options": {
+                "A": "Heath Ledger",
+                "B": "Joaquin Phoenix",
+                "C": "Jared Leto",
+                "D": "Robert De Niro",
+                "E": "Jack Nicholson"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        "question7": {
+            "question": "The song 'Perfect' released in 2017 was sung by who?",
+            "options": {
+                "A": "Justin Bieber",
+                "B": "Ed Sheeran",
+                "C": "Bruno Mars",
+                "D": "Drake",
+                "E": "Ariana Grande"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        "question8": {
+            "question": "In 'How I Met Your Mother', who is the mother?",
+            "options": {
+                "A": "Lily Aldrin",
+                "B": "Robin Scherbatsky",
+                "C": "Tracy McConnell",
+                "D": "Zoey Pierson",
+                "E": "Victoria"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    },
+    "dataset3": {
+        "question1": {
+            "question": "What is the tallest mountain in the world?",
+            "options": {
+                "A": "Mount Everest",
+                "B": "K2",
+                "C": "Kilimanjaro",
+                "D": "Matterhorn",
+                "E": "Elbrus"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        "question2": {
+            "question": "Who invented the electric light bulb?",
+            "options": {
+                "A": "Nikola Tesla",
+                "B": "Alexander Graham Bell",
+                "C": "Thomas Edison",
+                "D": "Georges M\u00e9li\u00e8s",
+                "E": "Henry Ford"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        "question3": {
+            "question": "Who is the author of the '1984' novel?",
+            "options": {
+                "A": "F. Scott Fitzgerald",
+                "B": "George Orwell",
+                "C": "J.D. Salinger",
+                "D": "Aldous Huxley",
+                "E": "John Steinbeck"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        "question4": {
+            "question": "Which planet is closest to the sun?",
+            "options": {
+                "A": "Venus",
+                "B": "Earth",
+                "C": "Mars",
+                "D": "Jupiter",
+                "E": "Mercury"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        "question5": {
+            "question": "What is the capital of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Adelaide",
+                "D": "Canberra",
+                "E": "Perth"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        "question6": {
+            "question": "Who directed the film 'Pulp Fiction'?",
+            "options": {
+                "A": "Quentin Tarantino",
+                "B": "Martin Scorsese",
+                "C": "David Fincher",
+                "D": "Stanley Kubrick",
+                "E": "Ridley Scott"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        "question7": {
+            "question": "The group \u2018BTS\u2019 originated from which country?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "South Korea",
+                "D": "United States",
+                "E": "United Kingdom"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        "question8": {
+            "question": "In 'Game of Thrones', who sits on the Iron Throne at the end?",
+            "options": {
+                "A": "Jon Snow",
+                "B": "Sansa Stark",
+                "C": "Daenerys Targaryen",
+                "D": "Bran Stark",
+                "E": "Tyrion Lannister"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    },
+    "dataset4": {
+        "question1": {
+            "question": "What is the currency of Japan?",
+            "options": {
+                "A": "Yen",
+                "B": "Won",
+                "C": "Renminbi",
+                "D": "Dollar",
+                "E": "Peso"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        "question2": {
+            "question": "Facebook was first opened to the public in what year?",
+            "options": {
+                "A": "2000",
+                "B": "2002",
+                "C": "2004",
+                "D": "2006",
+                "E": "2008"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        "question3": {
+            "question": "What is the name of the hobbit in 'The Lord of The Rings' series?",
+            "options": {
+                "A": "Bilbo Baggins",
+                "B": "Frodo Baggins",
+                "C": "Samwise Gamgee",
+                "D": "Gandalf",
+                "E": "Aragorn"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        "question4": {
+            "question": "Which of these elements is a Noble Gas?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon",
+                "C": "Nitrogen",
+                "D": "Helium",
+                "E": "Hydrogen"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        "question5": {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Harper Lee",
+                "B": "Mark Twain",
+                "C": "Truman Capote",
+                "D": "Ernest Hemingway",
+                "E": "J.D. Salinger"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        "question6": {
+            "question": "Who starred as the main character in the movie 'The Truman Show'?",
+            "options": {
+                "A": "Tom Hanks",
+                "B": "Jim Carrey",
+                "C": "Johnny Depp",
+                "D": "Leonardo DiCaprio",
+                "E": "Brad Pitt"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        "question7": {
+            "question": "Who sang the 2020 hit single 'Blinding Lights'?",
+            "options": {
+                "A": "Drake",
+                "B": "BTS",
+                "C": "Doja Cat",
+                "D": "Billie Eilish",
+                "E": "The Weeknd"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        "question8": {
+            "question": "What is the real identity of the character 'Red Reddington' in the series 'The Blacklist'?",
+            "options": {
+                "A": "He is Elizabeth Keen's father",
+                "B": "He is an imposter",
+                "C": "He is a government agent",
+                "D": "He is a former KGB agent",
+                "E": "He is Elizabeth Keen's husband"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    }
+   
+}

@@ -1,0 +1,492 @@
+{
+    "dataset1": [
+        {
+            "question": "Which color is made by mixing yellow and blue?",
+            "options": {
+                "A": "Purple",
+                "B": "Green",
+                "C": "Orange",
+                "D": "Red",
+                "E": "Black"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which is the third planet from the sun?",
+            "options": {
+                "A": "Venus",
+                "B": "Jupiter",
+                "C": "Earth",
+                "D": "Mars",
+                "E": "Mercury"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "In literature, who wrote the novel '1984'?",
+            "options": {
+                "A": "J.D. Salinger",
+                "B": "George Orwell",
+                "C": "Ernest Hemingway",
+                "D": "F. Scott Fitzgerald",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "In mathematics, what is the square root of 256?",
+            "options": {
+                "A": "12",
+                "B": "14",
+                "C": "16",
+                "D": "18",
+                "E": "20"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In history, which event started World War I?",
+            "options": {
+                "A": "Invasion of Poland",
+                "B": "Bombing of Hiroshima",
+                "C": "French Revolution",
+                "D": "Assassination of Archduke Franz Ferdinand",
+                "E": "Boston Tea Party"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "In geography, which is the largest desert in the world?",
+            "options": {
+                "A": "Atacama",
+                "B": "Sahara",
+                "C": "Kalahari",
+                "D": "Gobi",
+                "E": "Arctic"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "In science, who developed the theory of relativity? ",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Nicolaus Copernicus",
+                "C": "Albert Einstein",
+                "D": "Marie Curie",
+                "E": "Charles Darwin"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In philosophy, who is considered the father of existentialism?",
+            "options": {
+                "A": "Rene Descartes",
+                "B": "Soren Kierkegaard",
+                "C": "Friedrich Nietzsche",
+                "D": "Karl Marx",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset2": [
+        {
+            "question": "Which color is made by mixing yellow and blue?",
+            "options": {
+                "A": "Purple",
+                "B": "Green",
+                "C": "Orange",
+                "D": "Red",
+                "E": "Black"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which is the third planet from the sun?",
+            "options": {
+                "A": "Venus",
+                "B": "Jupiter",
+                "C": "Earth",
+                "D": "Mars",
+                "E": "Mercury"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "In literature, who wrote the novel '1984'?",
+            "options": {
+                "A": "J.D. Salinger",
+                "B": "George Orwell",
+                "C": "Ernest Hemingway",
+                "D": "F. Scott Fitzgerald",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "In mathematics, what is the square root of 256?",
+            "options": {
+                "A": "12",
+                "B": "14",
+                "C": "16",
+                "D": "18",
+                "E": "20"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In history, which event started World War I?",
+            "options": {
+                "A": "Invasion of Poland",
+                "B": "Bombing of Hiroshima",
+                "C": "French Revolution",
+                "D": "Assassination of Archduke Franz Ferdinand",
+                "E": "Boston Tea Party"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "In geography, which is the largest desert in the world?",
+            "options": {
+                "A": "Atacama",
+                "B": "Sahara",
+                "C": "Kalahari",
+                "D": "Gobi",
+                "E": "Arctic"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "In science, who developed the theory of relativity? ",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Nicolaus Copernicus",
+                "C": "Albert Einstein",
+                "D": "Marie Curie",
+                "E": "Charles Darwin"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In philosophy, who is considered the father of existentialism?",
+            "options": {
+                "A": "Rene Descartes",
+                "B": "Soren Kierkegaard",
+                "C": "Friedrich Nietzsche",
+                "D": "Karl Marx",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset3": [
+        {
+            "question": "What color is a banana?",
+            "options": {
+                "A": "Red",
+                "B": "Blue",
+                "C": "Yellow",
+                "D": "Purple",
+                "E": "Black"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What's the capital of Canada?",
+            "options": {
+                "A": "Vancouver",
+                "B": "Toronto",
+                "C": "Ottawa",
+                "D": "Montreal",
+                "E": "Quebec"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What's the atomic number of Helium?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "4",
+                "D": "8",
+                "E": "0"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Who wrote 'Pride and Prejudice'?",
+            "options": {
+                "A": "Emily Bronte",
+                "B": "Virginia Woolf",
+                "C": "Jane Austen",
+                "D": "George Eliot",
+                "E": "Charles Dickens"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In Greek mythology, who was the god of the sea?",
+            "options": {
+                "A": "Zeus",
+                "B": "Hades",
+                "C": "Hermes",
+                "D": "Apollo",
+                "E": "Poseidon"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "How many keys does a standard piano have?",
+            "options": {
+                "A": "66",
+                "B": "76",
+                "C": "88",
+                "D": "98",
+                "E": "108"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Who developed the general theory of relativity?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Max Planck",
+                "D": "Niels Bohr",
+                "E": "Werner Heisenberg"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the exact speed of light in vacuum in terms of meters per second?",
+            "options": {
+                "A": "2.998 x 10^8 m/s",
+                "B": "3.000 x 10^8 m/s",
+                "C": "186,282 m/s",
+                "D": "299,792 m/s",
+                "E": "3.145 x 10^8 m/s"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset4": [
+        {
+            "question": "Which color is created by mixing yellow and blue?",
+            "options": {
+                "A": "Red",
+                "B": "Orange",
+                "C": "Green",
+                "D": "Purple",
+                "E": "Pink"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the chemical symbol for Oxygen?",
+            "options": {
+                "A": "O",
+                "B": "Ox",
+                "C": "Ob",
+                "D": "Og",
+                "E": "Or"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Where is the Sistine Chapel located?",
+            "options": {
+                "A": "Paris, France",
+                "B": "London, England",
+                "C": "Rome, Italy",
+                "D": "Barcelona, Spain",
+                "E": "Berlin, Germany"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which book was written by Jane Austen?",
+            "options": {
+                "A": "To Kill a Mockingbird",
+                "B": "Pride and Prejudice",
+                "C": "1984",
+                "D": "Moby Dick",
+                "E": "The Great Gatsby"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the square root of 289?",
+            "options": {
+                "A": "17",
+                "B": "12",
+                "C": "19",
+                "D": "15",
+                "E": "16"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Who won the Nobel Prize in Physics in 1921?",
+            "options": {
+                "A": "Niels Bohr",
+                "B": "Max Planck",
+                "C": "Albert Einstein",
+                "D": "Ernest O. Lawrence",
+                "E": "Werner Heisenberg"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Who wrote the piece commonly known as Moonlight Sonata?",
+            "options": {
+                "A": "Wolfgang Amadeus Mozart",
+                "B": "Johann Sebastian Bach",
+                "C": "Franz Schubert",
+                "D": "Ludwig van Beethoven",
+                "E": "Johannes Brahms"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "According to the theory of relativity, what is the maximum speed anything can travel?",
+            "options": {
+                "A": "Speed of Light",
+                "B": "Speed of Sound",
+                "C": "Infinity",
+                "D": "1000 miles per hour",
+                "E": "There is no limit"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset5": [
+        {
+            "question": "What color is the sky on a clear day?",
+            "options": {
+                "A": "Green",
+                "B": "Blue",
+                "C": "Red",
+                "D": "Purple",
+                "E": "Black"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which artist is famous for the painting 'The Starry Night'?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Pablo Picasso",
+                "C": "Vincent Van Gogh",
+                "D": "Claude Monet",
+                "E": "Rembrandt"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Adelaide",
+                "D": "Brisbane",
+                "E": "Canberra"
+            },
+            "correct_answer": "E",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the chemical symbol for the element Gold?",
+            "options": {
+                "A": "Go",
+                "B": "Gd",
+                "C": "Au",
+                "D": "Ag",
+                "E": "Ge"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In the TV series 'Game of Thrones', who sat on the Iron Throne at the end?",
+            "options": {
+                "A": "Jon Snow",
+                "B": "Daenerys Targaryen",
+                "C": "Sansa Stark",
+                "D": "Bran Stark",
+                "E": "Tyrion Lannister"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "options": {
+                "A": "Germany",
+                "B": "Brazil",
+                "C": "France",
+                "D": "Argentina",
+                "E": "Spain"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "The scientific study of the universe and its celestial bodies is called?",
+            "options": {
+                "A": "Geology",
+                "B": "Astronomy",
+                "C": "Astrology",
+                "D": "Ecology",
+                "E": "Meteorology"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What theorem states that, in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the other two sides?",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Pythagorean Theorem",
+                "C": "Binomial Theorem",
+                "D": "Central Limit Theorem",
+                "E": "Fundamental Theorem of Algebra"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ]
+}

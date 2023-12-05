@@ -1,0 +1,1962 @@
+{
+    "dataset1": [
+        {
+            "question": "Who is the current president of the United States?",
+            "options": {
+                "A": "Donald Trump",
+                "B": "Barack Obama",
+                "C": "George W. Bush",
+                "D": "Joe Biden",
+                "E": "Bill Clinton"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "In which country were the 2020 summer Olympics held?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "South Korea",
+                "D": "United States",
+                "E": "Brazil"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who won the 2021 Grammy for Album of the Year?",
+            "options": {
+                "A": "Post Malone",
+                "B": "Billie Eilish",
+                "C": "Taylor Swift",
+                "D": "Beyonce",
+                "E": "Ariana Grande"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Who is the author of the 'A Song of Ice and Fire' series?",
+            "options": {
+                "A": "J.K. Rowling",
+                "B": "George R.R. Martin",
+                "C": "Tolkien",
+                "D": "Stephen King",
+                "E": "Neil Gaiman"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the official language spoken in Brazil?",
+            "options": {
+                "A": "Spanish",
+                "B": "Portuguese",
+                "C": "English",
+                "D": "Italian",
+                "E": "German"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Who is the director of the movie 'Inception'?",
+            "options": {
+                "A": "Christopher Nolan",
+                "B": "Quentin Tarantino",
+                "C": "Steven Spielberg",
+                "D": "David Fincher",
+                "E": "James Cameron"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "Which singer released the hit song 'Bad Habits' in 2021?",
+            "options": {
+                "A": "Justin Bieber",
+                "B": "Ed Sheeran",
+                "C": "Dua Lipa",
+                "D": "The Weeknd",
+                "E": "Bruno Mars"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "In which TV series does the character 'Walter White' appear?",
+            "options": {
+                "A": "Game of Thrones",
+                "B": "Mad Men",
+                "C": "Breaking Bad",
+                "D": "The Sopranos",
+                "E": "Stranger Things"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset2": [
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "London",
+                "B": "Rome",
+                "C": "Paris",
+                "D": "Berlin",
+                "E": "Madrid"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which company was established on 4th April 1975 by Bill Gates and Paul Allen?",
+            "options": {
+                "A": "Apple",
+                "B": "Microsoft",
+                "C": "Atari",
+                "D": "Commodore",
+                "E": "Amazon"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "In the 'Harry Potter' series, what does the 'S.P.E.W' stand for?",
+            "options": {
+                "A": "Society for the Promotion of Elfish Welfare",
+                "B": "Special Powers Enhancement Wheel",
+                "C": "Society of Potters for the Eradication of Warlocks",
+                "D": "Society for the Prevention of Evil Witches",
+                "E": "Special Potion for Every Wizard"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet is known as the 'Ringed Planet'?",
+            "options": {
+                "A": "Jupiter",
+                "B": "Mars",
+                "C": "Venus",
+                "D": "Saturn",
+                "E": "Uranus"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "'The Old Man and The Sea' was written by which author?",
+            "options": {
+                "A": "Ernest Hemingway",
+                "B": "Charles Dickens",
+                "C": "William Shakespeare",
+                "D": "John Steinbeck",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Who played the Joker in the 2019 movie 'Joker'?",
+            "options": {
+                "A": "Heath Ledger",
+                "B": "Joaquin Phoenix",
+                "C": "Jared Leto",
+                "D": "Robert De Niro",
+                "E": "Jack Nicholson"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "The song 'Perfect' released in 2017 was sung by who?",
+            "options": {
+                "A": "Justin Bieber",
+                "B": "Ed Sheeran",
+                "C": "Bruno Mars",
+                "D": "Drake",
+                "E": "Ariana Grande"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "In 'How I Met Your Mother', who is the mother?",
+            "options": {
+                "A": "Lily Aldrin",
+                "B": "Robin Scherbatsky",
+                "C": "Tracy McConnell",
+                "D": "Zoey Pierson",
+                "E": "Victoria"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset3": [
+        {
+            "question": "What is the tallest mountain in the world?",
+            "options": {
+                "A": "Mount Everest",
+                "B": "K2",
+                "C": "Kilimanjaro",
+                "D": "Matterhorn",
+                "E": "Elbrus"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Who invented the electric light bulb?",
+            "options": {
+                "A": "Nikola Tesla",
+                "B": "Alexander Graham Bell",
+                "C": "Thomas Edison",
+                "D": "Georges M\u00e9li\u00e8s",
+                "E": "Henry Ford"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Who is the author of the '1984' novel?",
+            "options": {
+                "A": "F. Scott Fitzgerald",
+                "B": "George Orwell",
+                "C": "J.D. Salinger",
+                "D": "Aldous Huxley",
+                "E": "John Steinbeck"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet is closest to the sun?",
+            "options": {
+                "A": "Venus",
+                "B": "Earth",
+                "C": "Mars",
+                "D": "Jupiter",
+                "E": "Mercury"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Adelaide",
+                "D": "Canberra",
+                "E": "Perth"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Who directed the film 'Pulp Fiction'?",
+            "options": {
+                "A": "Quentin Tarantino",
+                "B": "Martin Scorsese",
+                "C": "David Fincher",
+                "D": "Stanley Kubrick",
+                "E": "Ridley Scott"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "The group \u2018BTS\u2019 originated from which country?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "South Korea",
+                "D": "United States",
+                "E": "United Kingdom"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In 'Game of Thrones', who sits on the Iron Throne at the end?",
+            "options": {
+                "A": "Jon Snow",
+                "B": "Sansa Stark",
+                "C": "Daenerys Targaryen",
+                "D": "Bran Stark",
+                "E": "Tyrion Lannister"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset4": [
+        {
+            "question": "What is the currency of Japan?",
+            "options": {
+                "A": "Yen",
+                "B": "Won",
+                "C": "Renminbi",
+                "D": "Dollar",
+                "E": "Peso"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Facebook was first opened to the public in what year?",
+            "options": {
+                "A": "2000",
+                "B": "2002",
+                "C": "2004",
+                "D": "2006",
+                "E": "2008"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the name of the hobbit in 'The Lord of The Rings' series?",
+            "options": {
+                "A": "Bilbo Baggins",
+                "B": "Frodo Baggins",
+                "C": "Samwise Gamgee",
+                "D": "Gandalf",
+                "E": "Aragorn"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which of these elements is a Noble Gas?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon",
+                "C": "Nitrogen",
+                "D": "Helium",
+                "E": "Hydrogen"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Harper Lee",
+                "B": "Mark Twain",
+                "C": "Truman Capote",
+                "D": "Ernest Hemingway",
+                "E": "J.D. Salinger"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Who starred as the main character in the movie 'The Truman Show'?",
+            "options": {
+                "A": "Tom Hanks",
+                "B": "Jim Carrey",
+                "C": "Johnny Depp",
+                "D": "Leonardo DiCaprio",
+                "E": "Brad Pitt"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Who sang the 2020 hit single 'Blinding Lights'?",
+            "options": {
+                "A": "Drake",
+                "B": "BTS",
+                "C": "Doja Cat",
+                "D": "Billie Eilish",
+                "E": "The Weeknd"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the real identity of the character 'Red Reddington' in the series 'The Blacklist'?",
+            "options": {
+                "A": "He is Elizabeth Keen's father",
+                "B": "He is an imposter",
+                "C": "He is a government agent",
+                "D": "He is a former KGB agent",
+                "E": "He is Elizabeth Keen's husband"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset5": [
+        {
+            "question": "What color is the sky on a clear day?",
+            "options": {
+                "A": "Green",
+                "B": "Blue",
+                "C": "Red",
+                "D": "Purple",
+                "E": "Black"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which artist is famous for the painting 'The Starry Night'?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Pablo Picasso",
+                "C": "Vincent Van Gogh",
+                "D": "Claude Monet",
+                "E": "Rembrandt"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Adelaide",
+                "D": "Brisbane",
+                "E": "Canberra"
+            },
+            "correct_answer": "E",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the chemical symbol for the element Gold?",
+            "options": {
+                "A": "Go",
+                "B": "Gd",
+                "C": "Au",
+                "D": "Ag",
+                "E": "Ge"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In the TV series 'Game of Thrones', who sat on the Iron Throne at the end?",
+            "options": {
+                "A": "Jon Snow",
+                "B": "Daenerys Targaryen",
+                "C": "Sansa Stark",
+                "D": "Bran Stark",
+                "E": "Tyrion Lannister"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "options": {
+                "A": "Germany",
+                "B": "Brazil",
+                "C": "France",
+                "D": "Argentina",
+                "E": "Spain"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "The scientific study of the universe and its celestial bodies is called?",
+            "options": {
+                "A": "Geology",
+                "B": "Astronomy",
+                "C": "Astrology",
+                "D": "Ecology",
+                "E": "Meteorology"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What theorem states that, in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the other two sides?",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Pythagorean Theorem",
+                "C": "Binomial Theorem",
+                "D": "Central Limit Theorem",
+                "E": "Fundamental Theorem of Algebra"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset6": [
+        {
+            "question": "Who is the current president of the United States?",
+            "options": {
+                "A": "Donald Trump",
+                "B": "Barack Obama",
+                "C": "Joe Biden",
+                "D": "Bill Clinton",
+                "E": "George W. Bush"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "The coronavirus pandemic started in which year?",
+            "options": {
+                "A": "2017",
+                "B": "2018",
+                "C": "2019",
+                "D": "2020",
+                "E": "2021"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Who won the Nobel Prize in Literature in 2020?",
+            "options": {
+                "A": "Louise Gl\u00fcck",
+                "B": "Peter Handke",
+                "C": "Olga Tokarczuk",
+                "D": "Bob Dylan",
+                "E": "Kazuo Ishiguro"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which country successfully landed a rover on Mars in 2021?",
+            "options": {
+                "A": "Russia",
+                "B": "China",
+                "C": "USA",
+                "D": "India",
+                "E": "Japan"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the name of the famous painting by Edvard Munch which depicts a person screaming?",
+            "options": {
+                "A": "The Starry Night",
+                "B": "The Scream",
+                "C": "The Persistence of Memory",
+                "D": "The Girl With A Pearl Earring",
+                "E": "American Gothic"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In 2020, which country withdrew from the European Union?",
+            "options": {
+                "A": "Germany",
+                "B": "France",
+                "C": "Spain",
+                "D": "Italy",
+                "E": "United Kingdom"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "Which of the following individuals wasn't a key figure in The French Revolution?",
+            "options": {
+                "A": "Maximilien Robespierre",
+                "B": "Louis XVI",
+                "C": "Napoleon Bonaparte",
+                "D": "Marie Antoinette",
+                "E": "King Henry VIII"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "What was the name of the 1st human-made object sent into space?",
+            "options": {
+                "A": "Apollo 11",
+                "B": "Sputnik 1",
+                "C": "Vostok 1",
+                "D": "Luna 1",
+                "E": "Mariner 1"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset7": [
+        {
+            "question": "Who played the role of Tony Stark in the Iron Man series?",
+            "options": {
+                "A": "Chris Hemsworth",
+                "B": "Chris Evans",
+                "C": "Robert Downey Jr.",
+                "D": "Tom Holland",
+                "E": "Samuel L. Jackson"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What year did the first Harry Potter film release?",
+            "options": {
+                "A": "1999",
+                "B": "2000",
+                "C": "2001",
+                "D": "2002",
+                "E": "2003"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Who is the director of the 'Dark Knight' trilogy?",
+            "options": {
+                "A": "Quentin Tarantino",
+                "B": "Steven Spielberg",
+                "C": "Martin Scorsese",
+                "D": "Christopher Nolan",
+                "E": "Peter Jackson"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Which movie won Best Picture at the 92nd Academy Awards in 2020?",
+            "options": {
+                "A": "Joker",
+                "B": "1917",
+                "C": "Parasite",
+                "D": "Once Upon a Time in Hollywood",
+                "E": "The Irishman"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Who played Andy Dufresne in the film 'The Shawshank Redemption'?",
+            "options": {
+                "A": "Morgan Freeman",
+                "B": "Tim Robbins",
+                "C": "Bob Gunton",
+                "D": "James Whitmore",
+                "E": "William Sadler"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the name of the computer in '2001: A Space Odyssey'?",
+            "options": {
+                "A": "WOPR",
+                "B": "Deep Thought",
+                "C": "Mother",
+                "D": "HAL 9000",
+                "E": "GERTY"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Which film features the quote 'I'm walking here!' shouted by actor Dustin Hoffman?",
+            "options": {
+                "A": "The Graduate",
+                "B": "Midnight Cowboy",
+                "C": "Rain Man",
+                "D": "All The President's Men",
+                "E": "Kramer vs. Kramer"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Who directed 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'?",
+            "options": {
+                "A": "Stanley Kubrick",
+                "B": "Alfred Hitchcock",
+                "C": "Frank Capra",
+                "D": "Steven Spielberg",
+                "E": "Martin Scorsese"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset8": [
+        {
+            "question": "Who sang the 2019 pop hit 'Bad Guy'?",
+            "options": {
+                "A": "Billie Eilish",
+                "B": "Ariana Grande",
+                "C": "Taylor Swift",
+                "D": "Katy Perry",
+                "E": "Selena Gomez"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Who won the Album of the Year at the 63rd Annual Grammy Awards?",
+            "options": {
+                "A": "Dua Lipa",
+                "B": "Billie Eilish",
+                "C": "Taylor Swift",
+                "D": "Phoebe Bridgers",
+                "E": "Jhen\u00e9 Aiko"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which band sang 'Smells Like Teen Spirit'?",
+            "options": {
+                "A": "Red Hot Chili Peppers",
+                "B": "Pearl Jam",
+                "C": "Nirvana",
+                "D": "Radiohead",
+                "E": "Green Day"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Who released the 2020 album 'Future Nostalgia'?",
+            "options": {
+                "A": "Lady Gaga",
+                "B": "Dua Lipa",
+                "C": "The Weeknd",
+                "D": "Harry Styles",
+                "E": "Ariana Grande"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which band wrote the song 'Bohemian Rhapsody'?",
+            "options": {
+                "A": "The Beatles",
+                "B": "Queen",
+                "C": "Led Zeppelin",
+                "D": "The Rolling Stones",
+                "E": "Pink Floyd"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Who composed the soundtrack for 'The Dark Knight' trilogy?",
+            "options": {
+                "A": "John Williams",
+                "B": "Hans Zimmer",
+                "C": "James Horner",
+                "D": "Ennio Morricone",
+                "E": "Howard Shore"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Who is known as the 'King of Reggae'?",
+            "options": {
+                "A": "UB40",
+                "B": "Jimmy Cliff",
+                "C": "Peter Tosh",
+                "D": "Burning Spear",
+                "E": "Bob Marley"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "Who composed 'The Four Seasons'?",
+            "options": {
+                "A": "Wolfgang Mozart",
+                "B": "Johann Bach",
+                "C": "Ludwig Beethoven",
+                "D": "Antonio Vivaldi",
+                "E": "Franz Haydn"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset9": [
+        {
+            "question": "What is the longest-running scripted primetime TV show in the US?",
+            "options": {
+                "A": "Friends",
+                "B": "Breaking Bad",
+                "C": "The Big Bang Theory",
+                "D": "The Simpsons",
+                "E": "Game of Thrones"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "Who played Jon Snow in the series 'Game of Thrones'?",
+            "options": {
+                "A": "Kit Harington",
+                "B": "Sean Bean",
+                "C": "Richard Madden",
+                "D": "Peter Dinklage",
+                "E": "Jason Momoa"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Who played Chandler Bing in the TV show 'Friends'?",
+            "options": {
+                "A": "Matthew Perry",
+                "B": "Matt LeBlanc",
+                "C": "David Schwimmer",
+                "D": "Courteney Cox",
+                "E": "Jennifer Aniston"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "In 'The Office', what does the acronym 'Dunder Mifflin' represent?",
+            "options": {
+                "A": "A law firm",
+                "B": "A hospital",
+                "C": "A school",
+                "D": "A paper company",
+                "E": "A bank"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "In 'Parks and Recreation', what is the name of the town where the series is set?",
+            "options": {
+                "A": "Scranton",
+                "B": "Pawnee",
+                "C": "Springfield",
+                "D": "Eagleton",
+                "E": "Shelbyville"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In 'Breaking Bad', which element is represented by 'Br' in the periodic table?",
+            "options": {
+                "A": "Beryllium",
+                "B": "Boron",
+                "C": "Bromine",
+                "D": "Barium",
+                "E": "Bismuth"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What British TV series is 'House of Cards' based on?",
+            "options": {
+                "A": "The Crown",
+                "B": "EastEnders",
+                "C": "Downton Abbey",
+                "D": "House of Cards",
+                "E": "Peaky Blinders"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Who created 'The Twilight Zone'?",
+            "options": {
+                "A": "Alfred Hitchcock",
+                "B": "Rod Serling",
+                "C": "Steven Spielberg",
+                "D": "David Lynch",
+                "E": "Stanley Kubrick"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset10": [
+        {
+            "question": "Which continent is Australia in?",
+            "options": {
+                "A": "Africa",
+                "B": "Asia",
+                "C": "Antarctica",
+                "D": "Australia",
+                "E": "Europe"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "Paris",
+                "B": "Bordeaux",
+                "C": "Lyon",
+                "D": "Marseille",
+                "E": "Toulouse"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Who wrote the novel '1984'?",
+            "options": {
+                "A": "John Steinbeck",
+                "B": "George Orwell",
+                "C": "J.D. Salinger",
+                "D": "F. Scott Fitzgerald",
+                "E": "Ernest Hemingway"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the lightest element in the periodic table?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Helium",
+                "C": "Hydrogen",
+                "D": "Nitrogen",
+                "E": "Carbon"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the name of the world's largest ocean?",
+            "options": {
+                "A": "Atlantic Ocean",
+                "B": "Indian Ocean",
+                "C": "Arctic Ocean",
+                "D": "Southern Ocean",
+                "E": "Pacific Ocean"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "What animal is known as the 'ship of the desert'?",
+            "options": {
+                "A": "Camel",
+                "B": "Elephant",
+                "C": "Dromedary",
+                "D": "Donkey",
+                "E": "Horse"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "In Greek mythology, who is the goddess of wisdom?",
+            "options": {
+                "A": "Hera",
+                "B": "Aphrodite",
+                "C": "Artemis",
+                "D": "Hestia",
+                "E": "Athena"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "Who won the 2020 US Presidential election?",
+            "options": {
+                "A": "Donald Trump",
+                "B": "Joe Biden",
+                "C": "Bernie Sanders",
+                "D": "Elizabeth Warren",
+                "E": "Kamala Harris"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset11": [
+        {
+            "question": "What chemical element is represented by the symbol 'K'?",
+            "options": {
+                "A": "Potassium",
+                "B": "Krypton",
+                "C": "Kryptonite",
+                "D": "Kallium",
+                "E": "Kalium"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "options": {
+                "A": "Milan",
+                "B": "Rome",
+                "C": "Venice",
+                "D": "Florence",
+                "E": "Naples"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": {
+                "A": "Alexander Graham Bell",
+                "B": "Thomas Alva Edison",
+                "C": "Nikola Tesla",
+                "D": "Guglielmo Marconi",
+                "E": "Eli Whitney"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "In what year did World War II end?",
+            "options": {
+                "A": "1942",
+                "B": "1943",
+                "C": "1944",
+                "D": "1945",
+                "E": "1946"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the capital of India?",
+            "options": {
+                "A": "Delhi",
+                "B": "Mumbai",
+                "C": "Chennai",
+                "D": "Kolkata",
+                "E": "Bangalore"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "The 2011 'Occupy Wall Street' movement originated in which city?",
+            "options": {
+                "A": "Washington D.C.",
+                "B": "San Francisco",
+                "C": "Chicago",
+                "D": "Boston",
+                "E": "New York City"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "How many planets in our solar system are known as 'gas giants'?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4",
+                "E": "5"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "What type of virus was responsible for the COVID-19 pandemic?",
+            "options": {
+                "A": "Rhinovirus",
+                "B": "Adenovirus",
+                "C": "Influenza virus",
+                "D": "Retrovirus",
+                "E": "Coronavirus"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset12": [
+        {
+            "question": "Which of the following countries is not part of the European Union?",
+            "options": {
+                "A": "France",
+                "B": "Germany",
+                "C": "Hungary",
+                "D": "Norway",
+                "E": "Belgium"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What color results from the mixture of yellow and blue paints?",
+            "options": {
+                "A": "Orange",
+                "B": "Purple",
+                "C": "Green",
+                "D": "Red",
+                "E": "Brown"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "When was the internet invented?",
+            "options": {
+                "A": "1955",
+                "B": "1969",
+                "C": "1973",
+                "D": "1980",
+                "E": "1995"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet is known as the 'red planet'?",
+            "options": {
+                "A": "Mars",
+                "B": "Jupiter",
+                "C": "Saturn",
+                "D": "Venus",
+                "E": "Mercury"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Pablo Picasso",
+                "C": "Vincent Van Gogh",
+                "D": "Michelangelo",
+                "E": "Raphael"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Generally, what type of blood can be donated to any blood type?",
+            "options": {
+                "A": "A positive",
+                "B": "B positive",
+                "C": "AB positive",
+                "D": "O positive",
+                "E": "O negative"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "In what year did the 'Summer of Love' chiefly occur in San Francisco?",
+            "options": {
+                "A": "1965",
+                "B": "1967",
+                "C": "1969",
+                "D": "1971",
+                "E": "1973"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Which company became the first to reach a market capitalization of $1 trillion in 2018?",
+            "options": {
+                "A": "Microsoft",
+                "B": "Amazon",
+                "C": "Apple",
+                "D": "Google",
+                "E": "Facebook"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset13": [
+        {
+            "question": "Which metal is heavier, silver or gold?",
+            "options": {
+                "A": "Gold",
+                "B": "Silver",
+                "C": "Their weight is the same",
+                "D": "It depends on the volume",
+                "E": "It depends on the temperature"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "The 2022 FIFA World Cup will be hosted by which country?",
+            "options": {
+                "A": "Brazil",
+                "B": "Russia",
+                "C": "USA",
+                "D": "Qatar",
+                "E": "France"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Harper Lee",
+                "B": "J.K. Rowling",
+                "C": "Margaret Mitchell",
+                "D": "Maya Angelou",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet in our solar system is known for its ring system?",
+            "options": {
+                "A": "Jupiter",
+                "B": "Mars",
+                "C": "Venus",
+                "D": "Uranus",
+                "E": "Saturn"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "Which country gave the Statue of Liberty to the United States as a gift?",
+            "options": {
+                "A": "England",
+                "B": "France",
+                "C": "Spain",
+                "D": "Germany",
+                "E": "Italy"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Who was named Time's Person of the Year in 2019?",
+            "options": {
+                "A": "Donald Trump",
+                "B": "Elon Musk",
+                "C": "Greta Thunberg",
+                "D": "Joe Biden",
+                "E": "Bill Gates"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In what year did the Great Fire of London occur?",
+            "options": {
+                "A": "1558",
+                "B": "1666",
+                "C": "1759",
+                "D": "1812",
+                "E": "1901"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the distance in kilometers from the Earth to the Moon?",
+            "options": {
+                "A": "384,400 km",
+                "B": "485,600 km",
+                "C": "576,800 km",
+                "D": "604,200 km",
+                "E": "750,000 km"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset14": [
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "Berlin",
+                "B": "Moscow",
+                "C": "Paris",
+                "D": "Rome",
+                "E": "Madrid"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the scientific name for the process plants use to convert sunlight into food?",
+            "options": {
+                "A": "Respiration",
+                "B": "Transpiration",
+                "C": "Photosynthesis",
+                "D": "Evolution",
+                "E": "Combustion"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What year did World War II end?",
+            "options": {
+                "A": "1940",
+                "B": "1942",
+                "C": "1945",
+                "D": "1948",
+                "E": "1950"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What composer wrote the music for the opera 'The Magic Flute'?",
+            "options": {
+                "A": "Beethoven",
+                "B": "Mozart",
+                "C": "Bach",
+                "D": "Handel",
+                "E": "Chopin"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What author wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Ernest Hemingway",
+                "B": "Mark Twain",
+                "C": "Harper Lee",
+                "D": "F. Scott Fitzgerald",
+                "E": "George Orwell"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the square root of 256?",
+            "options": {
+                "A": "12",
+                "B": "14",
+                "C": "16",
+                "D": "18",
+                "E": "20"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the capital of New Zealand?",
+            "options": {
+                "A": "Auckland",
+                "B": "Sydney",
+                "C": "Christchurch",
+                "D": "Wellington",
+                "E": "Perth"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "In 2006, Pluto was reclassified from a planet to what?",
+            "options": {
+                "A": "Asteroid",
+                "B": "Dwarf planet",
+                "C": "Moon of Neptune",
+                "D": "Comet",
+                "E": "Gas giant"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset15": [
+        {
+            "question": "What is the capital of France?",
+            "options": {
+                "A": "Rome",
+                "B": "Berlin",
+                "C": "Paris",
+                "D": "London",
+                "E": "Madrid"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": {
+                "A": "Michelangelo",
+                "B": "Raphael",
+                "C": "Leonardo da Vinci",
+                "D": "Rembrandt",
+                "E": "Van Gogh"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the name of the longest river in the world?",
+            "options": {
+                "A": "Amazon River",
+                "B": "Mississippi River",
+                "C": "Yellow River",
+                "D": "Nile River",
+                "E": "Yangtze River"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": {
+                "A": "Earth",
+                "B": "Saturn",
+                "C": "Jupiter",
+                "D": "Uranus",
+                "E": "Mars"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In what year was the United States Declaration of Independence signed?",
+            "options": {
+                "A": "1492",
+                "B": "1776",
+                "C": "1812",
+                "D": "1861",
+                "E": "1945"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Who developed the Theory of Relativity?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Nikola Tesla",
+                "C": "Thomas Edison",
+                "D": "Galileo Galilei",
+                "E": "Albert Einstein"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the heaviest naturally occurring element on the periodic table?",
+            "options": {
+                "A": "Uranium",
+                "B": "Platinum",
+                "C": "Uranium",
+                "D": "Gold",
+                "E": "Osmium"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which company first developed the Android operating system?",
+            "options": {
+                "A": "Microsoft",
+                "B": "Apple",
+                "C": "Blackberry",
+                "D": "Android Inc.",
+                "E": "Nokia"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset16": [
+        {
+            "question": "What color is the sun?",
+            "options": {
+                "A": "Yellow",
+                "B": "White",
+                "C": "Blue",
+                "D": "Red",
+                "E": "Green"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who was the first man to walk on the moon?",
+            "options": {
+                "A": "Buzz Aldrin",
+                "B": "Yuri Gagarin",
+                "C": "Neil Armstrong",
+                "D": "Michael Collins",
+                "E": "John Glenn"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which country is also known as the Land of the Rising Sun?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "India",
+                "D": "Thailand",
+                "E": "Malaysia"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": {
+                "A": "S",
+                "B": "Si",
+                "C": "Ag",
+                "D": "Se",
+                "E": "Al"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Who composed the music for 'The Four Seasons'?",
+            "options": {
+                "A": "Bach",
+                "B": "Vivaldi",
+                "C": "Mozart",
+                "D": "Beethoven",
+                "E": "Chopin"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the capital of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Perth",
+                "D": "Canberra",
+                "E": "Adelaide"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Which is the world's deepest underwater trench?",
+            "options": {
+                "A": "Atlantic Trench",
+                "B": "Indian Ocean's Diamantina Trench",
+                "C": "Arctic's Molloy Deep",
+                "D": "Mariana Trench",
+                "E": "Java Trench"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Who won the FIFA World Cup in 2010?",
+            "options": {
+                "A": "Brazil",
+                "B": "Italy",
+                "C": "Germany",
+                "D": "Spain",
+                "E": "France"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset17": [
+        {
+            "question": "What year was the iPhone first released?",
+            "options": {
+                "A": "2005",
+                "B": "2007",
+                "C": "2010",
+                "D": "2013",
+                "E": "2015"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "options": {
+                "A": "France",
+                "B": "Germany",
+                "C": "Brazil",
+                "D": "Spain",
+                "E": "Argentina"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Who directed the movie 'Inception' released in 2010?",
+            "options": {
+                "A": "Martin Scorsese",
+                "B": "Christopher Nolan",
+                "C": "David Fincher",
+                "D": "Quentin Tarantino",
+                "E": "Steven Spielberg"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": {
+                "A": "Earth",
+                "B": "Jupiter",
+                "C": "Saturn",
+                "D": "Mars",
+                "E": "Neptune"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Who is the author of the 'Harry Potter' book series?",
+            "options": {
+                "A": "J.R.R. Tolkien",
+                "B": "George R.R. Martin",
+                "C": "J.K. Rowling",
+                "D": "Stephen King",
+                "E": "Suzanne Collins"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which artist painted 'The Starry Night'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Vincent van Gogh",
+                "C": "Leonardo da Vinci",
+                "D": "Michelangelo",
+                "E": "Claude Monet"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": {
+                "A": "Alexander Bell",
+                "B": "Thomas Edison",
+                "C": "Albert Einstein",
+                "D": "Nikola Tesla",
+                "E": "Isaac Newton"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": {
+                "A": "Gu",
+                "B": "Au",
+                "C": "Ag",
+                "D": "Go",
+                "E": "Gl"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset18": [
+        {
+            "question": "Who is the current President of the Turkey?",
+            "options": {
+                "A": "Recep Tayyip Erdogan",
+                "B": "Deniz Gezmis",
+                "C": "Kemal Sunal",
+                "D": "Kemal Kilicdaroglu",
+                "E": "Abdullah Gul"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which band released the album '21' in 2011?",
+            "options": {
+                "A": "Coldplay",
+                "B": "Linkin Park",
+                "C": "Green Day",
+                "D": "Adele",
+                "E": "The Beatles"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Who won the Nobel Prize in Literature in 2017?",
+            "options": {
+                "A": "Bob Dylan",
+                "B": "J.K. Rowling",
+                "C": "Haruki Murakami",
+                "D": "Stephen King",
+                "E": "Margaret Atwood"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which animal is the largest land mammal?",
+            "options": {
+                "A": "Giraffe",
+                "B": "Hippopotamus",
+                "C": "Polar Bear",
+                "D": "Elephant",
+                "E": "Rhino"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Who is the author of the 'A Song of Ice and Fire' book series?",
+            "options": {
+                "A": "J.R.R. Tolkien",
+                "B": "George R.R. Martin",
+                "C": "J.K. Rowling",
+                "D": "Stephen King",
+                "E": "Suzanne Collins"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which artist painted the 'Mona Lisa'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Vincent van Gogh",
+                "C": "Leonardo da Vinci",
+                "D": "Michelangelo",
+                "E": "Claude Monet"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Thomas Edison",
+                "C": "Albert Einstein",
+                "D": "Nikola Tesla",
+                "E": "Galileo Galilei"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": {
+                "A": "Gu",
+                "B": "Au",
+                "C": "Ag",
+                "D": "Go",
+                "E": "Sv"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset19": [
+        {
+            "question": "Who directed the movie 'Parasite' released in 2019?",
+            "options": {
+                "A": "Quentin Tarantino",
+                "B": "Martin Scorsese",
+                "C": "Bong Joon-ho",
+                "D": "Pedro Almod\u00f3var",
+                "E": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which country hosted the 2016 Summer Olympics?",
+            "options": {
+                "A": "China",
+                "B": "Brazil",
+                "C": "Russia",
+                "D": "Japan",
+                "E": "United States"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who won the Academy Award for Best Actor in 2016 for his role in 'The Revenant'?",
+            "options": {
+                "A": "Leonardo DiCaprio",
+                "B": "Brad Pitt",
+                "C": "Tom Hanks",
+                "D": "Johnny Depp",
+                "E": "Joaquin Phoenix"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": {
+                "A": "Earth",
+                "B": "Jupiter",
+                "C": "Mars",
+                "D": "Venus",
+                "E": "Mercury"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Who is the author of the 'The Hunger Games' book series?",
+            "options": {
+                "A": "J.R.R. Tolkien",
+                "B": "George R.R. Martin",
+                "C": "J.K. Rowling",
+                "D": "Stephenie Meyer",
+                "E": "Suzanne Collins"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "Who painted the famous artwork 'The Creation of Adam'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Vincent van Gogh",
+                "C": "Leonardo da Vinci",
+                "D": "Michelangelo",
+                "E": "Claude Monet"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "options": {
+                "A": "Alexander Fleming",
+                "B": "Thomas Edison",
+                "C": "Albert Einstein",
+                "D": "Nikola Tesla",
+                "E": "Isaac Newton"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the chemical symbol for calcium?",
+            "options": {
+                "A": "Gu",
+                "B": "Au",
+                "C": "Ag",
+                "D": "Ca",
+                "E": "Cl"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset20": [
+        {
+            "question": "Which country won the Eurovision Song Contest in 2018?",
+            "options": {
+                "A": "Sweden",
+                "B": "Italy",
+                "C": "Portugal",
+                "D": "France",
+                "E": "Russia"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which band released the album 'Nevermind' in 1991?",
+            "options": {
+                "A": "Red Hot Chili Peppers",
+                "B": "Nirvana",
+                "C": "Pearl Jam",
+                "D": "Green Day",
+                "E": "Metallica"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who won the Nobel Prize in Physics in 2017?",
+            "options": {
+                "A": "Roger Penrose",
+                "B": "Albert Fert",
+                "C": "Kip Thorne",
+                "D": "Isamu Akasaki",
+                "E": "François Englert"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the capital city of Ghana?",
+            "options": {
+                "A": "Nairobi",
+                "B": "Niamey",
+                "C": "Abuja",
+                "D": "Accra",
+                "E": "Perth"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Who is the author of the 'The Lord of the Rings' book series?",
+            "options": {
+                "A": "George R.R. Martin",
+                "B": "J.R.R. Tolkien",
+                "C": "J.K. Rowling",
+                "D": "Stephen King",
+                "E": "Suzanne Collins"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which artist painted the famous artwork 'Water Lilies'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Vincent van Gogh",
+                "C": "Leonardo da Vinci",
+                "D": "Claude Monet",
+                "E": "Michelangelo"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Who invented the light bulb?",
+            "options": {
+                "A": "Alexander Graham Bell",
+                "B": "Thomas Edison",
+                "C": "Albert Einstein",
+                "D": "Nikola Tesla",
+                "E": "Isaac Newton"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the chemical symbol for iron?",
+            "options": {
+                "A": "Gu",
+                "B": "Fe",
+                "C": "Ag",
+                "D": "Go",
+                "E": "Ir"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ]
+}
