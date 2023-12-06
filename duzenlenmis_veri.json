@@ -3673,7 +3673,7 @@
         {
             "question": "Who wrote the famous novel 'Pride and Prejudice'?",
             "options": {
-                "A": "Charlotte Brontë",
+                "A": "Charlotte Bront\u00c3\u00ab",
                 "B": "Jane Austen",
                 "C": "Emily Dickinson",
                 "D": "Mark Twain",
@@ -4023,6 +4023,1214 @@
             },
             "correct_answer": "B",
             "difficulty": 4
+        }
+    ],
+    "dataset42": [
+        {
+            "question": "What year did the American Civil War begin?",
+            "options": {
+                "A": "1776",
+                "B": "1861",
+                "C": "1918",
+                "D": "1945",
+                "E": "1492"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What was the first human-made object to reach space?",
+            "options": {
+                "A": "V2 Rocket",
+                "B": "Satellite Sputnik 1",
+                "C": "Apollo 11",
+                "D": "Hubble Space Telescope",
+                "E": "International Space Station"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "What ancient civilization built the Great Pyramids of Giza?",
+            "options": {
+                "A": "Mayans",
+                "B": "Incas",
+                "C": "Egyptians",
+                "D": "Greeks",
+                "E": "Romans"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which scientist created the three laws of motion?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Nikola Tesla",
+                "D": "Marie Curie",
+                "E": "Galileo Galilei"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the sum of 2 + 2?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6",
+                "E": "7"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Ernest Hemingway",
+                "B": "Mark Twain",
+                "C": "Harper Lee",
+                "D": "F. Scott Fitzgerald",
+                "E": "John Steinbeck"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Which movie won the Academy Award for Best Picture in 1994?",
+            "options": {
+                "A": "Forrest Gump",
+                "B": "Schindler's List",
+                "C": "Titanic",
+                "D": "Pulp Fiction",
+                "E": "The Shawshank Redemption"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "Who composed the famous classical piece 'F\u00fcr Elise'?",
+            "options": {
+                "A": "Ludwig van Beethoven",
+                "B": "Wolfgang Amadeus Mozart",
+                "C": "Johann Sebastian Bach",
+                "D": "Franz Schubert",
+                "E": "Johannes Brahms"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset43": [
+        {
+            "question": "The city of Pompeii was destroyed in the eruption of which volcano?",
+            "options": {
+                "A": "Mount Kilimanjaro",
+                "B": "Mount Vesuvius",
+                "C": "Mount Everest",
+                "D": "Mount Fuji",
+                "E": "Mount Etna"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What company developed the first commercially successful personal computer?",
+            "options": {
+                "A": "IBM",
+                "B": "Apple",
+                "C": "Microsoft",
+                "D": "Intel",
+                "E": "Dell"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Who painted the famous artwork 'The Starry Night'?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Leonardo da Vinci",
+                "C": "Pablo Picasso",
+                "D": "Claude Monet",
+                "E": "Salvador Dal\u00ed"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": {
+                "A": "Ag",
+                "B": "Au",
+                "C": "Fe",
+                "D": "Hg",
+                "E": "Pb"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": {
+                "A": "4",
+                "B": "6",
+                "C": "8",
+                "D": "10",
+                "E": "12"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which actress won the Academy Award for Best Actress in 2019?",
+            "options": {
+                "A": "Cate Blanchett",
+                "B": "Julianne Moore",
+                "C": "Natalie Portman",
+                "D": "Jennifer Lawrence",
+                "E": "Olivia Colman"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "Which band performed the song 'Bohemian Rhapsody'?",
+            "options": {
+                "A": "The Beatles",
+                "B": "Queen",
+                "C": "Led Zeppelin",
+                "D": "Rolling Stones",
+                "E": "Pink Floyd"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Who is the author of the famous novel '1984'?",
+            "options": {
+                "A": "George Orwell",
+                "B": "Aldous Huxley",
+                "C": "Ray Bradbury",
+                "D": "Margaret Atwood",
+                "E": "J.D. Salinger"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset44": [
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Venus",
+                "D": "Jupiter",
+                "E": "Saturn"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the study of how organisms interact with their environment called?",
+            "options": {
+                "A": "Ecology",
+                "B": "Zoology",
+                "C": "Botany",
+                "D": "Biology",
+                "E": "Geology"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the longest river in the world?",
+            "options": {
+                "A": "Amazon River",
+                "B": "Nile River",
+                "C": "Yangtze River",
+                "D": "Mississippi River",
+                "E": "Congo River"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which tennis player has won the most Grand Slam titles?",
+            "options": {
+                "A": "Roger Federer",
+                "B": "Rafael Nadal",
+                "C": "Novak Djokovic",
+                "D": "Serena Williams",
+                "E": "Pete Sampras"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the mathematical constant \u03c0 (pi) approximately equal to?",
+            "options": {
+                "A": "1.414",
+                "B": "2.718",
+                "C": "3.142",
+                "D": "4.669",
+                "E": "5.678"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Who is considered the father of psychoanalysis?",
+            "options": {
+                "A": "Sigmund Freud",
+                "B": "Carl Jung",
+                "C": "Ivan Pavlov",
+                "D": "B.F. Skinner",
+                "E": "Abraham Maslow"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": {
+                "A": "Melbourne",
+                "B": "Sydney",
+                "C": "Canberra",
+                "D": "Perth",
+                "E": "Brisbane"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Who is the Greek god of the seas and earthquakes?",
+            "options": {
+                "A": "Zeus",
+                "B": "Poseidon",
+                "C": "Hades",
+                "D": "Apollo",
+                "E": "Ares"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset45": [
+        {
+            "question": "Who developed the theory of relativity?",
+            "options": {
+                "A": "Michael Faraday",
+                "B": "Isaac Newton",
+                "C": "Albert Einstein",
+                "D": "Thomas Edison",
+                "E": "Stephen Hawking"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which programming language is widely used for developing web applications?",
+            "options": {
+                "A": "Java",
+                "B": "C++",
+                "C": "Python",
+                "D": "JavaScript",
+                "E": "Ruby"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the largest internal organ in the human body?",
+            "options": {
+                "A": "Heart",
+                "B": "Lungs",
+                "C": "Liver",
+                "D": "Stomach",
+                "E": "Brain"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which economic system is characterized by private ownership and free market competition?",
+            "options": {
+                "A": "Communism",
+                "B": "Socialism",
+                "C": "Capitalism",
+                "D": "Fascism",
+                "E": "Anarchism"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the largest ocean on Earth?",
+            "options": {
+                "A": "Atlantic Ocean",
+                "B": "Indian Ocean",
+                "C": "Southern Ocean",
+                "D": "Arctic Ocean",
+                "E": "Pacific Ocean"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "Who is the author of the famous book 'Moby-Dick'?",
+            "options": {
+                "A": "Mark Twain",
+                "B": "Herman Melville",
+                "C": "William Shakespeare",
+                "D": "Jane Austen",
+                "E": "Charles Dickens"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Which video game series features the character Mario?",
+            "options": {
+                "A": "Call of Duty",
+                "B": "Grand Theft Auto",
+                "C": "The Legend of Zelda",
+                "D": "Super Mario",
+                "E": "Minecraft"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Who painted the famous artwork 'The Last Supper'?",
+            "options": {
+                "A": "Michelangelo",
+                "B": "Leonardo da Vinci",
+                "C": "Pablo Picasso",
+                "D": "Vincent van Gogh",
+                "E": "Salvador Dal\u00ed"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset46": [
+        {
+            "question": "What year did World War II end?",
+            "options": {
+                "A": "1942",
+                "B": "1944",
+                "C": "1945",
+                "D": "1946",
+                "E": "1948"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which of the following is not a programming language?",
+            "options": {
+                "A": "Python",
+                "B": "Java",
+                "C": "HTML",
+                "D": "C++",
+                "E": "Rust"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Who wrote the novel 'Pride and Prejudice'?",
+            "options": {
+                "A": "Emily Dickinson",
+                "B": "Jane Austen",
+                "C": "Virginia Woolf",
+                "D": "Charlotte Bronte",
+                "E": "Harper Lee"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": {
+                "A": "Venus",
+                "B": "Mars",
+                "C": "Jupiter",
+                "D": "Uranus",
+                "E": "Pluto"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the square root of 25?",
+            "options": {
+                "A": "2",
+                "B": "4",
+                "C": "5",
+                "D": "6",
+                "E": "7"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Who directed the movie 'The Shawshank Redemption'?",
+            "options": {
+                "A": "Christopher Nolan",
+                "B": "Martin Scorsese",
+                "C": "Steven Spielberg",
+                "D": "Frank Darabont",
+                "E": "Quentin Tarantino"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "options": {
+                "A": "Germany",
+                "B": "Argentina",
+                "C": "Brazil",
+                "D": "France",
+                "E": "Spain"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the largest organ in the human body?",
+            "options": {
+                "A": "Heart",
+                "B": "Liver",
+                "C": "Brain",
+                "D": "Skin",
+                "E": "Lungs"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset47": [
+        {
+            "question": "Which famous ancient civilization built the Great Pyramids of Giza?",
+            "options": {
+                "A": "Mayans",
+                "B": "Romans",
+                "C": "Egyptians",
+                "D": "Greeks",
+                "E": "Persians"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What technology company was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne?",
+            "options": {
+                "A": "IBM",
+                "B": "Microsoft",
+                "C": "Apple",
+                "D": "Intel",
+                "E": "Samsung"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Who wrote the play 'Romeo and Juliet'?",
+            "options": {
+                "A": "William Shakespeare",
+                "B": "Mark Twain",
+                "C": "George Orwell",
+                "D": "Charles Dickens",
+                "E": "F. Scott Fitzgerald"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which scientist developed the theory of relativity?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Marie Curie",
+                "D": "Galileo Galilei",
+                "E": "Nikola Tesla"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the result of 2 + 4 * 3 - 8?",
+            "options": {
+                "A": "4",
+                "B": "10",
+                "C": "14",
+                "D": "18",
+                "E": "22"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Who played the character of Tony Stark / Iron Man in the Marvel Cinematic Universe?",
+            "options": {
+                "A": "Chris Hemsworth",
+                "B": "Hugh Jackman",
+                "C": "Robert Downey Jr.",
+                "D": "Tom Holland",
+                "E": "Mark Ruffalo"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Which country won the most Olympic gold medals in the 2016 Rio Olympics?",
+            "options": {
+                "A": "United States",
+                "B": "China",
+                "C": "Great Britain",
+                "D": "Russia",
+                "E": "Germany"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the disease caused by the human immunodeficiency virus (HIV)?",
+            "options": {
+                "A": "Cancer",
+                "B": "Diabetes",
+                "C": "Tuberculosis",
+                "D": "AIDS",
+                "E": "Malaria"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset48": [
+        {
+            "question": "What year did the United States become an independent country?",
+            "options": {
+                "A": "1773",
+                "B": "1787",
+                "C": "1776",
+                "D": "1792",
+                "E": "1812"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the capital city of Japan?",
+            "options": {
+                "A": "Tokyo",
+                "B": "Beijing",
+                "C": "Seoul",
+                "D": "Osaka",
+                "E": "Shanghai"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Who painted the famous artwork 'Mona Lisa'?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Leonardo da Vinci",
+                "C": "Pablo Picasso",
+                "D": "Salvador Dali",
+                "E": "Claude Monet"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "True or False: The Earth revolves around the Sun.",
+            "options": {
+                "A": "True",
+                "B": "False",
+                "C": "-",
+                "D": "-",
+                "E": "-"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the value of pi (\u03c0) up to two decimal places?",
+            "options": {
+                "A": "3.14",
+                "B": "3.16",
+                "C": "3.18",
+                "D": "3.20",
+                "E": "3.22"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Who directed the film 'Inception'?",
+            "options": {
+                "A": "Ridley Scott",
+                "B": "David Fincher",
+                "C": "Stanley Kubrick",
+                "D": "Christopher Nolan",
+                "E": "James Cameron"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Who is the all-time leading goalscorer in FIFA World Cup history?",
+            "options": {
+                "A": "Pel\u00e9",
+                "B": "Ronaldo",
+                "C": "Miroslav Klose",
+                "D": "Lionel Messi",
+                "E": "Cristiano Ronaldo"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the study of human behavior and the mind called?",
+            "options": {
+                "A": "Sociology",
+                "B": "Anthropology",
+                "C": "Psychology",
+                "D": "Neuroscience",
+                "E": "Criminology"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset49": [
+        {
+            "question": "Who was the first Roman Emperor?",
+            "options": {
+                "A": "Julius Caesar",
+                "B": "Augustus",
+                "C": "Mark Antony",
+                "D": "Nero",
+                "E": "Constantine"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What was the name of the first computer virus?",
+            "options": {
+                "A": "Melissa",
+                "B": "Stuxnet",
+                "C": "Mydoom",
+                "D": "ILOVEYOU",
+                "E": "Creeper"
+            },
+            "correct_answer": "E",
+            "difficulty": 2
+        },
+        {
+            "question": "Who wrote the novel '1984'?",
+            "options": {
+                "A": "George Orwell",
+                "B": "Aldous Huxley",
+                "C": "Ray Bradbury",
+                "D": "J.D. Salinger",
+                "E": "Ernest Hemingway"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": {
+                "A": "Ag",
+                "B": "Au",
+                "C": "Pt",
+                "D": "Hg",
+                "E": "Fe"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "If a+b=7 and a-b=1, what is the value of a?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6",
+                "E": "7"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which actor played the character of James Bond in the movie 'Skyfall'?",
+            "options": {
+                "A": "Daniel Craig",
+                "B": "Pierce Brosnan",
+                "C": "Sean Connery",
+                "D": "Roger Moore",
+                "E": "Timothy Dalton"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "Who holds the record for the most home runs in a single MLB season?",
+            "options": {
+                "A": "Babe Ruth",
+                "B": "Barry Bonds",
+                "C": "Mark McGwire",
+                "D": "Sammy Sosa",
+                "E": "Hank Aaron"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": {
+                "A": "Mercury",
+                "B": "Saturn",
+                "C": "Mars",
+                "D": "Earth",
+                "E": "Jupiter"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset50": [
+        {
+            "topic": "Geography",
+            "question": "Which is the largest continent of the world by area?",
+            "options": {
+                "A": "Africa",
+                "B": "Europe",
+                "C": "Asia",
+                "D": "North America",
+                "E": "Antarctica"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "topic": "Sports",
+            "question": "Which country won the FIFA World Cup in 2014?",
+            "options": {
+                "A": "Brazil",
+                "B": "Germany",
+                "C": "Argentina",
+                "D": "Italy",
+                "E": "Spain"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "topic": "Cinema & TV",
+            "question": "Who directed the movie 'Inception'?",
+            "options": {
+                "A": "Steven Spielberg",
+                "B": "James Cameron",
+                "C": "Christopher Nolan",
+                "D": "David Fincher",
+                "E": "Quentin Tarantino"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "topic": "Mathematics",
+            "question": "What is the value of the mathematical constant 'pi' to three decimal places?",
+            "options": {
+                "A": "3",
+                "B": "3.142",
+                "C": "3.141",
+                "D": "3.154",
+                "E": "3.124"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "topic": "Astronomy",
+            "question": "Which planet in our Solar System has the most moons?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Jupiter",
+                "D": "Saturn",
+                "E": "Neptune"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "topic": "Mythology",
+            "question": "In Greek mythology, who is the god of the underworld?",
+            "options": {
+                "A": "Zeus",
+                "B": "Hades",
+                "C": "Poseidon",
+                "D": "Apollo",
+                "E": "Ares"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "topic": "Economics",
+            "question": "What is the term for the total value of goods and services produced within a country's borders in a specific time period?",
+            "options": {
+                "A": "Net Export",
+                "B": "Gross National Product",
+                "C": "Gross Domestic Product",
+                "D": "Balance of Trade",
+                "E": "National Income"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "topic": "Philosophy",
+            "question": "Who authored the philosophical work 'Critique of Pure Reason'?",
+            "options": {
+                "A": "Plato",
+                "B": "Aristotle",
+                "C": "Immanuel Kant",
+                "D": "René Descartes",
+                "E": "Søren Kierkegaard"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset51": [
+        {
+            "topic": "Literature",
+            "question": "Who wrote 'The Great Gatsby'?",
+            "options": {
+                "A": "F. Scott Fitzgerald",
+                "B": "Ernest Hemingway",
+                "C": "Mark Twain",
+                "D": "John Steinbeck",
+                "E": "William Faulkner"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "topic": "Computer Science",
+            "question": "What does 'CPU' stand for in computer science?",
+            "options": {
+                "A": "Central Process Unit",
+                "B": "Central Processing Union",
+                "C": "Central Processing Unit",
+                "D": "Computer Processing Unit",
+                "E": "Central Processor Utility"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "topic": "General Culture",
+            "question": "Which of the following rivers is the longest?",
+            "options": {
+                "A": "Amazon",
+                "B": "Mississippi",
+                "C": "Nile",
+                "D": "Yangtze",
+                "E": "Congo"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "topic": "Health & Medicine",
+            "question": "What is the most common blood type in humans?",
+            "options": {
+                "A": "AB-",
+                "B": "B+",
+                "C": "O-",
+                "D": "O+",
+                "E": "A-"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "topic": "Science",
+            "question": "What is the main function of white blood cells in the human body?",
+            "options": {
+                "A": "Supply energy",
+                "B": "Carry oxygen",
+                "C": "Digest food",
+                "D": "Fight infection",
+                "E": "Produce insulin"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "topic": "Technology",
+            "question": "Who is credited with inventing the World Wide Web?",
+            "options": {
+                "A": "Bill Gates",
+                "B": "Steve Jobs",
+                "C": "Mark Zuckerberg",
+                "D": "Larry Page",
+                "E": "Tim Berners-Lee"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "topic": "Environmental Science",
+            "question": "Which gas is the primary contributor to global warming?",
+            "options": {
+                "A": "Methane",
+                "B": "Nitrous Oxide",
+                "C": "Carbon Dioxide",
+                "D": "Ozone",
+                "E": "Chlorofluorocarbons"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "topic": "Art & Design",
+            "question": "Which movement is Vincent van Gogh associated with?",
+            "options": {
+                "A": "Renaissance",
+                "B": "Impressionism",
+                "C": "Cubism",
+                "D": "Post-Impressionism",
+                "E": "Surrealism"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset52": [
+        {
+            "topic": "Music",
+            "question": "Which musical instrument does a violinist play?",
+            "options": {
+                "A": "Guitar",
+                "B": "Violin",
+                "C": "Drums",
+                "D": "Flute",
+                "E": "Piano"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "topic": "Video Games",
+            "question": "In which video game series is the character 'Link' a primary protagonist?",
+            "options": {
+                "A": "Final Fantasy",
+                "B": "World of Warcraft",
+                "C": "The Legend of Zelda",
+                "D": "Super Mario",
+                "E": "Halo"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "topic": "Politics",
+            "question": "Which political ideology generally promotes minimal government intervention in the economy?",
+            "options": {
+                "A": "Communism",
+                "B": "Socialism",
+                "C": "Liberalism",
+                "D": "Libertarianism",
+                "E": "Conservatism"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "topic": "History",
+            "question": "The atomic bombs dropped on Hiroshima and Nagasaki ended which war?",
+            "options": {
+                "A": "World War I",
+                "B": "Korean War",
+                "C": "Vietnam War",
+                "D": "World War II",
+                "E": "Cold War"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "topic": "Psychology",
+            "question": "Who is known as the father of psychoanalysis?",
+            "options": {
+                "A": "Carl Jung",
+                "B": "B. F. Skinner",
+                "C": "Sigmund Freud",
+                "D": "Jean Piaget",
+                "E": "William James"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "topic": "Mathematics",
+            "question": "What is the next prime number after 7?",
+            "options": {
+                "A": "9",
+                "B": "10",
+                "C": "11",
+                "D": "12",
+                "E": "13"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "topic": "Economics",
+            "question": "What is 'quantitative easing' in the context of monetary policy?",
+            "options": {
+                "A": "Reducing interest rates",
+                "B": "Increasing money supply",
+                "C": "Decreasing taxes",
+                "D": "Balancing the budget",
+                "E": "Controlling inflation"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "topic": "Astronomy",
+            "question": "What is the term for a black hole's boundary beyond which nothing can escape?",
+            "options": {
+                "A": "Event Matrix",
+                "B": "Singularity",
+                "C": "Photon Sphere",
+                "D": "Accretion Disk",
+                "E": "Event Horizon"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset53": [
+        {
+            "topic": "Cinema & TV",
+            "question": "Which actor played Jack Dawson in the movie 'Titanic'?",
+            "options": {
+                "A": "Johnny Depp",
+                "B": "Brad Pitt",
+                "C": "Leonardo DiCaprio",
+                "D": "Matt Damon",
+                "E": "Tom Cruise"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "topic": "Science",
+            "question": "What is the process by which plants make their own food called?",
+            "options": {
+                "A": "Respiration",
+                "B": "Osmosis",
+                "C": "Fermentation",
+                "D": "Photosynthesis",
+                "E": "Digestion"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "topic": "Geography",
+            "question": "Mount Everest is part of which mountain range?",
+            "options": {
+                "A": "Rocky Mountains",
+                "B": "Andes",
+                "C": "Alps",
+                "D": "Himalayas",
+                "E": "Appalachians"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "topic": "Health & Medicine",
+            "question": "What is the name of the hormone that regulates blood sugar levels?",
+            "options": {
+                "A": "Adrenaline",
+                "B": "Cortisol",
+                "C": "Insulin",
+                "D": "Prolactin",
+                "E": "Estrogen"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "topic": "Mathematics",
+            "question": "What is the square root of 169?",
+            "options": {
+                "A": "11",
+                "B": "13",
+                "C": "14",
+                "D": "16",
+                "E": "17"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "topic": "Environmental Science",
+            "question": "How many times hotter is Venus's surface compared to Earth's due to the greenhouse effect?",
+            "options": {
+                "A": "Twice",
+                "B": "Thrice",
+                "C": "Four times",
+                "D": "Five times",
+                "E": "About the same"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "topic": "Politics",
+            "question": "What is the main role of the United Nations Security Council?",
+            "options": {
+                "A": "Enforcing human rights laws",
+                "B": "Maintaining international peace and security",
+                "C": "Managing global economic policy",
+                "D": "Promoting sustainable development",
+                "E": "Coordinating humanitarian aid"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "topic": "Philosophy",
+            "question": "The allegory of the cave is a famous element in the work of which philosopher?",
+            "options": {
+                "A": "Plato",
+                "B": "Aristotle",
+                "C": "Socrates",
+                "D": "Nietzsche",
+                "E": "Kant"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
         }
     ]
 }

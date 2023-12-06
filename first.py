@@ -6,10 +6,10 @@ from openai import OpenAI
 client = OpenAI()
 
 completion = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    max_tokens=3600,
+    model="gpt-4-1106-preview",
+    max_tokens=3750,
     messages=[
-        {"role": "system", "content": "You are a wise person who plays question and answer games for at least 15 hours every day throughout your life.."},
+        {"role": "system", "content": "You are a super assistant designed to output JSON and prepare questions for all Q&A applications in the world."},
             {"role": "user", "content": """Generate 4 sets of 8 multiple-choice questions each. For each set, randomly select 8 topics from the following list and create one question per topic: History, Technology, General Culture, Science, Mathematics, Literature, Cinema & TV, Music, Geography, Sports, Computer Science, Health & Medicine, Economics, Environmental Science, Philosophy, Video Games, Art & Design, Psychology, Astronomy, Politics, Mythology. Ensure each question has increasing difficulty from 1 to 8 within its set(The second question is harder than the first question, the third question is harder than the second question, etc.). Include five options (A, B, C, D, E) for each question and indicate the correct answer. Format each set as a separate JSON object.
 Expected format:
 {
