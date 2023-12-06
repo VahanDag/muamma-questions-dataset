@@ -7,7 +7,7 @@ from openai import OpenAI
 client = OpenAI()
 
 # JSON dosya ismi
-questions_file = "questions.json"
+questions_file = "questions_yedek.json"
 
 # Veri yüklemesi için hazırlık
 data = {}

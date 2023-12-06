@@ -12,4 +12,3 @@ data = json.loads(api_get.text)
 
 questions = data["results"]
 
-print(len(questions))
