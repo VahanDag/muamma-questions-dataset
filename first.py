@@ -3,14 +3,27 @@ import os
 
 from openai import OpenAI
 
+# API anahtarınızı buraya girin
 client = OpenAI()
 
-completion = client.chat.completions.create(
-    model="gpt-4-1106-preview",
-    max_tokens=3750,
-    messages=[
+# JSON dosya ismi
+questions_file = "duzenlenmis_veri.json"
+
+# Veri yüklemesi için hazırlık
+data = {}
+if os.path.exists(questions_file):
+    with open(questions_file, "r") as file:
+        data = json.load(file)
+
+# Sonsuz döngü
+while True:
+    try:
+      completion = client.chat.completions.create(
+        model="gpt-4-1106-preview",
+        response_format={ "type": "json_object" },
+        messages=[
         {"role": "system", "content": "You are a super assistant designed to output JSON and prepare questions for all Q&A applications in the world."},
-            {"role": "user", "content": """Generate 4 sets of 8 multiple-choice questions each. For each set, randomly select 8 topics from the following list and create one question per topic: History, Technology, General Culture, Science, Mathematics, Literature, Cinema & TV, Music, Geography, Sports, Computer Science, Health & Medicine, Economics, Environmental Science, Philosophy, Video Games, Art & Design, Psychology, Astronomy, Politics, Mythology. Ensure each question has increasing difficulty from 1 to 8 within its set(The second question is harder than the first question, the third question is harder than the second question, etc.). Include five options (A, B, C, D, E) for each question and indicate the correct answer. Format each set as a separate JSON object.
+        {"role": "user", "content": """Generate 4 sets of 8 multiple-choice questions each. For each set, randomly select 8 topics from the following list and create one question per topic: History, Technology, General Knowladge, Science, Mathematics, Literature, Cinema & TV, Music, Geography, Sports, Computer Science, Health & Medicine, Economics, Environmental Science, Philosophy, Video Games, Art & Design, Psychology, Astronomy, Politics, Mythology. Ensure each question has increasing difficulty from 1 to 8 within its set(The second question is harder than the first question, the third question is harder than the second question, etc.). Include five options (A, B, C, D, E) for each question and indicate the correct answer. Format each set as a separate JSON object.
 Expected format:
 {
   "dataset1": [
@@ -36,26 +49,23 @@ Alert: Make sure the questions you generate are not the same questions you gener
          }
     ]
 )
+        # API çıktısını işle
+      api_output = json.loads(completion.choices[0].message.content)
 
-print(completion.choices[0].message)
+        # Yeni dataset'leri dosyaya ekleyin
+      for key, dataset in api_output.items():
+          dataset_name = 'dataset' + str(len(data) + 1)
+          data[dataset_name] = dataset
 
-# JSON olarak işle
-questions_file = "duzenlenmis_veri.json"
-data = {}
+        # JSON olarak kaydet
+      with open(questions_file, "w") as file:
+          json.dump(data, file, indent=4)
 
-# Burada api_output, birden fazla dataset içeren bir sözlük olmalı
-api_output = json.loads(completion.choices[0].message.content)
+    except Exception as e:
+        print(f"Bir hata oluştu: {e}")
+        break  # Hata durumunda döngüden çık
 
-# Dosyanın var olup olmadığını kontrol edin ve varsa içeriğini yükleyin
-if os.path.exists(questions_file):
-    with open(questions_file, "r") as file:
-        data = json.load(file)
+    # İsteğe bağlı: Belirli bir iterasyon sayısından sonra döngüyü durdur
+    if len(data) >= 100:  # MAX_DATASET_COUNT, maksimum dataset sayısı
+        break
 
-# Yeni dataset'leri questions.json dosyasına ekleyin
-for key, dataset in api_output.items():
-    dataset_name = 'dataset' + str(len(data) + 1)
-    data[dataset_name] = dataset
-
-# JSON olarak kaydet
-with open(questions_file, "w") as file:
-    json.dump(data, file, indent=4)

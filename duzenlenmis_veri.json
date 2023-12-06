@@ -4908,8 +4908,8 @@
                 "A": "Plato",
                 "B": "Aristotle",
                 "C": "Immanuel Kant",
-                "D": "René Descartes",
-                "E": "Søren Kierkegaard"
+                "D": "Ren\u00c3\u00a9 Descartes",
+                "E": "S\u00c3\u00b8ren Kierkegaard"
             },
             "correct_answer": "C",
             "difficulty": 8
@@ -5230,6 +5230,4902 @@
                 "E": "Kant"
             },
             "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset54": [
+        {
+            "question": "In what year did World War I begin?",
+            "options": {
+                "A": "1912",
+                "B": "1914",
+                "C": "1916",
+                "D": "1918",
+                "E": "1920"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What does RAM stand for in computer technology?",
+            "options": {
+                "A": "Readily Accessed Memory",
+                "B": "Random Access Memory",
+                "C": "Rapid Action Memory",
+                "D": "Randomly Assigned Memory",
+                "E": "Rapid Allocation Module"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Donatello",
+                "C": "Raphael",
+                "D": "Michelangelo",
+                "E": "Caravaggio"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the name of the longest river entirely in France?",
+            "options": {
+                "A": "Seine",
+                "B": "Loire",
+                "C": "Rhine",
+                "D": "Rhone",
+                "E": "Garonne"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "The 'Milankovitch Cycles' are a concept in which scientific field?",
+            "options": {
+                "A": "Quantum Physics",
+                "B": "Chemistry",
+                "C": "Astronomy",
+                "D": "Climatology",
+                "E": "Biology"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "In literature, who authored 'In Search of Lost Time'?",
+            "options": {
+                "A": "F. Scott Fitzgerald",
+                "B": "James Joyce",
+                "C": "Marcel Proust",
+                "D": "Ernest Hemingway",
+                "E": "Virginia Woolf"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In economics, what is the term for the total value of goods produced and services provided in a country during one year?",
+            "options": {
+                "A": "Gross National Product (GNP)",
+                "B": "Net National Product (NNP)",
+                "C": "Gross Domestic Product (GDP)",
+                "D": "National Gross Income (NGI)",
+                "E": "Total National Output (TNO)"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which psychological theory was introduced by Carl Jung?",
+            "options": {
+                "A": "Behaviorism",
+                "B": "Psychoanalysis",
+                "C": "Humanistic Psychology",
+                "D": "Cognitive Behavioral Therapy",
+                "E": "Analytical Psychology"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset55": [
+        {
+            "question": "In Greek mythology, who is the god of the sea?",
+            "options": {
+                "A": "Apollo",
+                "B": "Hades",
+                "C": "Zeus",
+                "D": "Poseidon",
+                "E": "Ares"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": {
+                "A": "Toronto",
+                "B": "Montreal",
+                "C": "Vancouver",
+                "D": "Ottawa",
+                "E": "Calgary"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "In what year did the original 'Super Mario Bros.' game release for the Nintendo Entertainment System?",
+            "options": {
+                "A": "1980",
+                "B": "1983",
+                "C": "1985",
+                "D": "1987",
+                "E": "1989"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Who directed the movie 'Pulp Fiction'?",
+            "options": {
+                "A": "Steven Spielberg",
+                "B": "Quentin Tarantino",
+                "C": "Martin Scorsese",
+                "D": "Ridley Scott",
+                "E": "James Cameron"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which vitamin is also known as ascorbic acid?",
+            "options": {
+                "A": "Vitamin A",
+                "B": "Vitamin B12",
+                "C": "Vitamin C",
+                "D": "Vitamin D",
+                "E": "Vitamin E"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the main subject of the 'Treaty of Versailles'?",
+            "options": {
+                "A": "The end of the Russian Empire",
+                "B": "The establishment of the League of Nations",
+                "C": "The end of World War I",
+                "D": "The beginning of World War II",
+                "E": "The division of the Ottoman Empire"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In computer science, what does the acronym 'SQL' stand for?",
+            "options": {
+                "A": "Structured Query Language",
+                "B": "Sequential Query List",
+                "C": "Simple Query Language",
+                "D": "Standardized Query Language",
+                "E": "Simplified Query List"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "The Heisenberg uncertainty principle is a key concept of which theory in physics?",
+            "options": {
+                "A": "Classical Mechanics",
+                "B": "Quantum Mechanics",
+                "C": "Relativity Theory",
+                "D": "Thermodynamics",
+                "E": "Electromagnetic Theory"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset56": [
+        {
+            "question": "Which artist is known for the painting 'The Starry Night'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Vincent van Gogh",
+                "C": "Claude Monet",
+                "D": "Salvador Dal\u00ed",
+                "E": "Edvard Munch"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "The concept of 'Tabula Rasa' is associated with which philosopher?",
+            "options": {
+                "A": "Socrates",
+                "B": "Plato",
+                "C": "Ren\u00e9 Descartes",
+                "D": "John Locke",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Which continent has the highest mean elevation?",
+            "options": {
+                "A": "Africa",
+                "B": "Antarctica",
+                "C": "Asia",
+                "D": "South America",
+                "E": "North America"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Who sang 'Like a Rolling Stone'?",
+            "options": {
+                "A": "The Beatles",
+                "B": "Bob Dylan",
+                "C": "Bruce Springsteen",
+                "D": "Neil Young",
+                "E": "Rolling Stones"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which one of these elements is a noble gas?",
+            "options": {
+                "A": "Nitrogen",
+                "B": "Oxygen",
+                "C": "Chlorine",
+                "D": "Argon",
+                "E": "Hydrogen"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Which of these soccer players has never played for Real Madrid?",
+            "options": {
+                "A": "David Beckham",
+                "B": "Ronaldo Naz\u00e1rio",
+                "C": "Zinedine Zidane",
+                "D": "Lionel Messi",
+                "E": "Cristiano Ronaldo"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "What kind of animal is featured prominently in the 'Call of Duty: Ghosts' video game?",
+            "options": {
+                "A": "A bear",
+                "B": "A wolf",
+                "C": "An eagle",
+                "D": "A dog",
+                "E": "A shark"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "In mathematics, what is the Riemann Hypothesis concerned with?",
+            "options": {
+                "A": "Vector spaces",
+                "B": "The distribution of prime numbers",
+                "C": "Geometry of curves",
+                "D": "Calculus optimization",
+                "E": "Probability theory"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset57": [
+        {
+            "question": "Which country gifted the Statue of Liberty to the United States?",
+            "options": {
+                "A": "United Kingdom",
+                "B": "Germany",
+                "C": "France",
+                "D": "Italy",
+                "E": "Spain"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "In which movie is the fictional character Tony Stark the main protagonist?",
+            "options": {
+                "A": "Batman Begins",
+                "B": "Iron Man",
+                "C": "Man of Steel",
+                "D": "The Incredibles",
+                "E": "Spider-Man"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Red blood cells are primarily responsible for what function in the human body?",
+            "options": {
+                "A": "Fighting infection",
+                "B": "Clotting blood",
+                "C": "Controlling blood sugar",
+                "D": "Transporting oxygen",
+                "E": "Regulating temperature"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Who wrote 'The Wealth of Nations'?",
+            "options": {
+                "A": "John Maynard Keynes",
+                "B": "Milton Friedman",
+                "C": "Karl Marx",
+                "D": "Adam Smith",
+                "E": "David Ricardo"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Which elements are diatomic molecules at standard temperature and pressure?",
+            "options": {
+                "A": "Helium and Neon",
+                "B": "Hydrogen and Oxygen",
+                "C": "Lithium and Potassium",
+                "D": "Carbon and Silicon",
+                "E": "Phosphorus and Sulfur"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which of the following golf tournaments is not one of the four major championships?",
+            "options": {
+                "A": "The Masters",
+                "B": "The Open Championship",
+                "C": "Ryder Cup",
+                "D": "U.S. Open",
+                "E": "PGA Championship"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In the context of environmental science, what does 'biodiversity' refer to?",
+            "options": {
+                "A": "The diversity of a singular species",
+                "B": "The rate of deforestation",
+                "C": "The variety of life in the world or in a particular habitat or ecosystem",
+                "D": "The pollution levels in the ocean",
+                "E": "The climate change effects on polar regions"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In computing, what is the 'Turing Test' used to assess?",
+            "options": {
+                "A": "Network security",
+                "B": "Data encryption",
+                "C": "Processor speed",
+                "D": "A machine's ability to exhibit intelligent behavior",
+                "E": "Software bugs and glitches"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset58": [
+        {
+            "question": "In which year did the famous historical event, the fall of the Berlin Wall, occur?",
+            "options": {
+                "A": "1987",
+                "B": "1989",
+                "C": "1991",
+                "D": "1985",
+                "E": "1990"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which technology company is known for having developed the Windows operating system?",
+            "options": {
+                "A": "Amazon",
+                "B": "IBM",
+                "C": "Microsoft",
+                "D": "Apple",
+                "E": "Intel"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which of the following elements is NOT a noble gas?",
+            "options": {
+                "A": "Helium",
+                "B": "Xenon",
+                "C": "Oxygen",
+                "D": "Neon",
+                "E": "Argon"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the prime factorization of 77?",
+            "options": {
+                "A": "7 x 9",
+                "B": "11 x 7",
+                "C": "7 x 7",
+                "D": "17 x 4",
+                "E": "13 x 6"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which author wrote 'Crime and Punishment'?",
+            "options": {
+                "A": "Leo Tolstoy",
+                "B": "Fyodor Dostoevsky",
+                "C": "Anton Chekhov",
+                "D": "Alexander Pushkin",
+                "E": "Ivan Turgenev"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In which movie did Leonardo DiCaprio's character famously declare 'I'm the king of the world!'?",
+            "options": {
+                "A": "The Wolf of Wall Street",
+                "B": "Revolutionary Road",
+                "C": "Catch Me If You Can",
+                "D": "Titanic",
+                "E": "Inception"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "The aria 'Nessun Dorma' is part of which opera?",
+            "options": {
+                "A": "La Boh\u00e8me",
+                "B": "Carmen",
+                "C": "Madama Butterfly",
+                "D": "Turandot",
+                "E": "Rigoletto"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Which river is considered the longest river in the world?",
+            "options": {
+                "A": "Yangtze",
+                "B": "Nile",
+                "C": "Amazon",
+                "D": "Mississippi",
+                "E": "Yenisei"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset59": [
+        {
+            "question": "Which is the smallest planet in our solar system?",
+            "options": {
+                "A": "Mars",
+                "B": "Earth",
+                "C": "Mercury",
+                "D": "Venus",
+                "E": "Pluto"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "The Pythagorean theorem is applicable in which kind of geometry?",
+            "options": {
+                "A": "Spherical",
+                "B": "Euclidean",
+                "C": "Hyperbolic",
+                "D": "Elliptical",
+                "E": "Projective"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Brisbane",
+                "D": "Perth",
+                "E": "Canberra"
+            },
+            "correct_answer": "E",
+            "difficulty": 3
+        },
+        {
+            "question": "In which year did the video game 'Super Mario Bros.' first release?",
+            "options": {
+                "A": "1983",
+                "B": "1985",
+                "C": "1987",
+                "D": "1980",
+                "E": "1990"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "The concept of 'Tabula Rasa' is associated with which philosopher?",
+            "options": {
+                "A": "Plato",
+                "B": "Ren\u00e9 Descartes",
+                "C": "Immanuel Kant",
+                "D": "Aristotle",
+                "E": "John Locke"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "Which painting is considered a seminal work of the Renaissance period?",
+            "options": {
+                "A": "The Last Supper",
+                "B": "American Gothic",
+                "C": "Guernica",
+                "D": "Starry Night",
+                "E": "The School of Athens"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "Which hormone is primarily responsible for the regulation of blood sugar levels?",
+            "options": {
+                "A": "Insulin",
+                "B": "Cortisol",
+                "C": "Adrenaline",
+                "D": "Glucagon",
+                "E": "Estrogen"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "The Bretton Woods Conference led to the creation of which two global financial institutions?",
+            "options": {
+                "A": "World Bank and IMF",
+                "B": "Federal Reserve and European Central Bank",
+                "C": "UN and WTO",
+                "D": "Asian Development Bank and African Development Bank",
+                "E": "World Trade Organization and UNESCO"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset60": [
+        {
+            "question": "What is the chemical symbol for silver?",
+            "options": {
+                "A": "Ag",
+                "B": "Au",
+                "C": "Fe",
+                "D": "Gd",
+                "E": "Ga"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which artist is famous for painting the 'Mona Lisa'?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Pablo Picasso",
+                "C": "Leonardo da Vinci",
+                "D": "Claude Monet",
+                "E": "Rembrandt"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "How many pieces are each player given at the start of a game of chess?",
+            "options": {
+                "A": "14",
+                "B": "16",
+                "C": "18",
+                "D": "20",
+                "E": "12"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which Greek god is traditionally depicted wielding a trident?",
+            "options": {
+                "A": "Zeus",
+                "B": "Hades",
+                "C": "Apollo",
+                "D": "Poseidon",
+                "E": "Hermes"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the defining characteristic of a mammal?",
+            "options": {
+                "A": "Warm-blooded",
+                "B": "Has a beak",
+                "C": "Lays eggs",
+                "D": "Has fur or hair",
+                "E": "Can fly"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "The concept of Gross Domestic Product (GDP) is used in which field?",
+            "options": {
+                "A": "Biology",
+                "B": "Meteorology",
+                "C": "Economics",
+                "D": "Sociology",
+                "E": "Psychology"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the most abundant gas in the Earth's atmosphere?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Hydrogen",
+                "C": "Carbon Dioxide",
+                "D": "Nitrogen",
+                "E": "Argon"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Who is the author of the influential economics book 'The Wealth of Nations'?",
+            "options": {
+                "A": "Adam Smith",
+                "B": "John Maynard Keynes",
+                "C": "Milton Friedman",
+                "D": "Karl Marx",
+                "E": "Paul Samuelson"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset61": [
+        {
+            "question": "Which organ is primarily responsible for filtering blood in the human body?",
+            "options": {
+                "A": "Heart",
+                "B": "Liver",
+                "C": "Kidneys",
+                "D": "Lungs",
+                "E": "Stomach"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which country is known for the historical landmark of Machu Picchu?",
+            "options": {
+                "A": "Brazil",
+                "B": "Peru",
+                "C": "Colombia",
+                "D": "Chile",
+                "E": "Mexico"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "In Dostoevsky's novel 'The Brothers Karamazov', which character is the father?",
+            "options": {
+                "A": "Ivan",
+                "B": "Alyosha",
+                "C": "Smerdyakov",
+                "D": "Fyodor",
+                "E": "Mitya"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Who composed the 'Four Seasons' concertos?",
+            "options": {
+                "A": "Johann Sebastian Bach",
+                "B": "Wolfgang Amadeus Mozart",
+                "C": "Antonio Vivaldi",
+                "D": "Ludwig van Beethoven",
+                "E": "Franz Schubert"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "The Scoville scale is used to measure the what?",
+            "options": {
+                "A": "Bitterness of chocolate",
+                "B": "Acidity of vinegar",
+                "C": "Spiciness of peppers",
+                "D": "Sweetness of sugar",
+                "E": "Saltiness of seawater"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which psychological theory was developed by Sigmund Freud?",
+            "options": {
+                "A": "Behaviorism",
+                "B": "Cognitive Dissonance",
+                "C": "Psychoanalysis",
+                "D": "Humanistic Psychology",
+                "E": "Classical Conditioning"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the primary purpose of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+            "options": {
+                "A": "Promote nuclear energy",
+                "B": "Regulate international trade",
+                "C": "Prevent pandemics",
+                "D": "Stabilize greenhouse gas concentrations",
+                "E": "Implement global education standards"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "The Nash equilibrium is a key concept in which field?",
+            "options": {
+                "A": "Geometry",
+                "B": "Quantum Physics",
+                "C": "Medicine",
+                "D": "Game Theory",
+                "E": "Astronomy"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset62": [
+        {
+            "question": "What is the primary gas in Earth's atmosphere?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Hydrogen",
+                "C": "Carbon Dioxide",
+                "D": "Nitrogen",
+                "E": "Helium"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "Who painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Leonardo da Vinci",
+                "C": "Pablo Picasso",
+                "D": "Michelangelo",
+                "E": "Raphael"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "In computing, what does 'CPU' stand for?",
+            "options": {
+                "A": "Central Process Unit",
+                "B": "Central Processing Unit",
+                "C": "Computer Processing Unit",
+                "D": "Central Processor Unit",
+                "E": "Control Processing Unit"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which philosopher is known for the quote 'I think, therefore I am'?",
+            "options": {
+                "A": "Aristotle",
+                "B": "Plato",
+                "C": "Socrates",
+                "D": "Friedrich Nietzsche",
+                "E": "Ren\u00e9 Descartes"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "In economics, what is the term for the total value of goods produced and services provided in a country during one year?",
+            "options": {
+                "A": "Net Income",
+                "B": "Gross Domestic Product",
+                "C": "Gross National Product",
+                "D": "Economic Output",
+                "E": "Fiscal Volume"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the name of the theorem that states the square of the hypotenuse is equal to the sum of the squares of the other two sides?",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Pythagorean Theorem",
+                "C": "Euler's Theorem",
+                "D": "Pascal's Theorem",
+                "E": "Archimedes' Principle"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "What year did the first human land on the Moon?",
+            "options": {
+                "A": "1965",
+                "B": "1973",
+                "C": "1969",
+                "D": "1970",
+                "E": "1968"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In which video game is the fictional drug 'Nuka-Cola' found?",
+            "options": {
+                "A": "Half-Life",
+                "B": "BioShock",
+                "C": "Fallout",
+                "D": "The Elder Scrolls",
+                "E": "Mass Effect"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset63": [
+        {
+            "question": "Which country is the second-largest in the world by land area?",
+            "options": {
+                "A": "United States",
+                "B": "Canada",
+                "C": "Russia",
+                "D": "China",
+                "E": "Brazil"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the powerhouse of the cell?",
+            "options": {
+                "A": "Nucleus",
+                "B": "Endoplasmic Reticulum",
+                "C": "Mitochondria",
+                "D": "Ribosome",
+                "E": "Golgi Apparatus"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "In what year did the Great Fire of London occur?",
+            "options": {
+                "A": "1666",
+                "B": "1751",
+                "C": "1544",
+                "D": "1605",
+                "E": "1492"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "How many planets in our solar system have rings?",
+            "options": {
+                "A": "One",
+                "B": "Two",
+                "C": "Three",
+                "D": "Four",
+                "E": "Five"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Who composed the Brandenburg Concertos?",
+            "options": {
+                "A": "Wolfgang Amadeus Mozart",
+                "B": "Ludwig van Beethoven",
+                "C": "Franz Schubert",
+                "D": "Antonio Vivaldi",
+                "E": "Johann Sebastian Bach"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "Which athlete has won the most Olympic gold medals?",
+            "options": {
+                "A": "Usain Bolt",
+                "B": "Larisa Latynina",
+                "C": "Mark Spitz",
+                "D": "Michael Phelps",
+                "E": "Carl Lewis"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the time complexity of the fastest known algorithm for multiplying two n-digit numbers?",
+            "options": {
+                "A": "O(n log n)",
+                "B": "O(n^2)",
+                "C": "O(n log n log log n)",
+                "D": "O(n^1.585)",
+                "E": "O(2^n)"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which of these famous books was written by Virginia Woolf?",
+            "options": {
+                "A": "Pride and Prejudice",
+                "B": "To the Lighthouse",
+                "C": "The Bell Jar",
+                "D": "The Sound and the Fury",
+                "E": "Jane Eyre"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset64": [
+        {
+            "question": "Which river is the longest in the world?",
+            "options": {
+                "A": "Amazon River",
+                "B": "Yangtze River",
+                "C": "Mississippi River",
+                "D": "Nile River",
+                "E": "Congo River"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the standard SI unit for measuring temperature?",
+            "options": {
+                "A": "Fahrenheit",
+                "B": "Kelvin",
+                "C": "Celsius",
+                "D": "Rankine",
+                "E": "Reaumur"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "What book did John Steinbeck write that won the Nobel Prize in Literature in 1962?",
+            "options": {
+                "A": "East of Eden",
+                "B": "Of Mice and Men",
+                "C": "The Pearl",
+                "D": "The Grapes of Wrath",
+                "E": "Cannery Row"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "In what year was the original PlayStation console released?",
+            "options": {
+                "A": "1991",
+                "B": "1992",
+                "C": "1993",
+                "D": "1994",
+                "E": "1995"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": {
+                "A": "Au",
+                "B": "Ag",
+                "C": "Fe",
+                "D": "Ge",
+                "E": "Ga"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "In football (soccer), which country has won the FIFA World Cup the most times?",
+            "options": {
+                "A": "Italy",
+                "B": "Argentina",
+                "C": "Germany",
+                "D": "Brazil",
+                "E": "Spain"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "The concept that the benefit from an action should exceed its cost is known as what in economics?",
+            "options": {
+                "A": "Comparative advantage",
+                "B": "Supply and demand",
+                "C": "Cost-benefit analysis",
+                "D": "Opportunity cost",
+                "E": "Marginal utility"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Whose presidency is associated with the New Deal in the United States?",
+            "options": {
+                "A": "Harry S. Truman",
+                "B": "Dwight D. Eisenhower",
+                "C": "Theodore Roosevelt",
+                "D": "Woodrow Wilson",
+                "E": "Franklin D. Roosevelt"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset65": [
+        {
+            "question": "What is known as 'the study of life' in science?",
+            "options": {
+                "A": "Chemistry",
+                "B": "Physics",
+                "C": "Biology",
+                "D": "Geology",
+                "E": "Astronomy"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What city is known as the birthplace of the Italian Renaissance?",
+            "options": {
+                "A": "Rome",
+                "B": "Venice",
+                "C": "Naples",
+                "D": "Florence",
+                "E": "Milan"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Who directed the movie 'Titanic'?",
+            "options": {
+                "A": "Steven Spielberg",
+                "B": "James Cameron",
+                "C": "Martin Scorsese",
+                "D": "Christopher Nolan",
+                "E": "Ridley Scott"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What instrument measures atmospheric pressure?",
+            "options": {
+                "A": "Thermometer",
+                "B": "Anemometer",
+                "C": "Hygrometer",
+                "D": "Barometer",
+                "E": "Altimeter"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "In mythology, who is the Roman equivalent of the Greek god Zeus?",
+            "options": {
+                "A": "Mars",
+                "B": "Jupiter",
+                "C": "Neptune",
+                "D": "Vulcan",
+                "E": "Janus"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In mathematics, what name is given to a polygon with ten sides?",
+            "options": {
+                "A": "Hexagon",
+                "B": "Heptagon",
+                "C": "Octagon",
+                "D": "Nonagon",
+                "E": "Decagon"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "In philosophy, who wrote 'Critique of Pure Reason'?",
+            "options": {
+                "A": "S\u00f8ren Kierkegaard",
+                "B": "David Hume",
+                "C": "Friedrich Nietzsche",
+                "D": "Immanuel Kant",
+                "E": "John Locke"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "The first successful vaccine was introduced by Edward Jenner to protect against what disease?",
+            "options": {
+                "A": "Cholera",
+                "B": "Influenza",
+                "C": "Smallpox",
+                "D": "Tuberculosis",
+                "E": "Polio"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset66": [
+        {
+            "question": "What is the capital city of France?",
+            "options": {
+                "A": "Berlin",
+                "B": "Madrid",
+                "C": "Paris",
+                "D": "Rome",
+                "E": "London"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which device is used to measure blood pressure?",
+            "options": {
+                "A": "Thermometer",
+                "B": "Sphygmomanometer",
+                "C": "Stethoscope",
+                "D": "Otoscope",
+                "E": "Spirometer"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "Who is considered the father of modern economics?",
+            "options": {
+                "A": "Karl Marx",
+                "B": "John Maynard Keynes",
+                "C": "Adam Smith",
+                "D": "Milton Friedman",
+                "E": "Paul Samuelson"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Economics"
+        },
+        {
+            "question": "In video game development, what does the acronym 'NPC' stand for?",
+            "options": {
+                "A": "Non-Player Character",
+                "B": "National Playing Committee",
+                "C": "New Player Creation",
+                "D": "Non-Playable Creation",
+                "E": "Network Player Component"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Video Games"
+        },
+        {
+            "question": "What is the name of the philosopher who wrote 'Critique of Pure Reason'?",
+            "options": {
+                "A": "S\u00f8ren Kierkegaard",
+                "B": "Friedrich Nietzsche",
+                "C": "David Hume",
+                "D": "Immanuel Kant",
+                "E": "Georg Wilhelm Friedrich Hegel"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "Which mathematician is famous for the Last Theorem that was proven only in 1994?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Blaise Pascal",
+                "C": "Carl Friedrich Gauss",
+                "D": "Pierre de Fermat",
+                "E": "Leonhard Euler"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which artist painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Michelangelo",
+                "C": "Raphael",
+                "D": "Donatello",
+                "E": "Caravaggio"
+            },
+            "correct_answer": "B",
+            "difficulty": 7,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "The Oort Cloud is believed to be a large spherical shell surrounding what in our solar system?",
+            "options": {
+                "A": "The Kuiper Belt",
+                "B": "The Asteroid Belt",
+                "C": "The Solar System",
+                "D": "The Milky Way",
+                "E": "The Earth\u2019s Orbit"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Astronomy"
+        }
+    ],
+    "dataset67": [
+        {
+            "question": "Who was the first American President?",
+            "options": {
+                "A": "Abraham Lincoln",
+                "B": "George Washington",
+                "C": "Thomas Jefferson",
+                "D": "Theodore Roosevelt",
+                "E": "John Adams"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What element on the periodic table has the atomic number of 10?",
+            "options": {
+                "A": "Helium",
+                "B": "Nitrogen",
+                "C": "Neon",
+                "D": "Oxygen",
+                "E": "Carbon"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "Science"
+        },
+        {
+            "question": "In computer science, what does 'CPU' stand for?",
+            "options": {
+                "A": "Controlled Processing Unit",
+                "B": "Central Process Unit",
+                "C": "Computer Personal Unit",
+                "D": "Central Processing Unit",
+                "E": "Computer Processing Unit"
+            },
+            "correct_answer": "D",
+            "difficulty": 3,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "What type of animal is the main character in George Orwell's novel 'Animal Farm'?",
+            "options": {
+                "A": "Horse",
+                "B": "Pig",
+                "C": "Dog",
+                "D": "Cat",
+                "E": "Cow"
+            },
+            "correct_answer": "B",
+            "difficulty": 4,
+            "topic": "Literature"
+        },
+        {
+            "question": "Which city hosted the Summer Olympic Games in 2000?",
+            "options": {
+                "A": "Athens",
+                "B": "Beijing",
+                "C": "Sydney",
+                "D": "Atlanta",
+                "E": "London"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Sports"
+        },
+        {
+            "question": "What syndrome is characterized by the absence of part of chromosome 5, and is associated with a distinctive cat-like cry at birth?",
+            "options": {
+                "A": "Turner Syndrome",
+                "B": "Klinefelter Syndrome",
+                "C": "Down Syndrome",
+                "D": "Cri-du-chat Syndrome",
+                "E": "Patau Syndrome"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "The Kyoto Protocol aimed to fight what global issue?",
+            "options": {
+                "A": "Terrorism",
+                "B": "Drug Trafficking",
+                "C": "Global Warming",
+                "D": "Economic Recession",
+                "E": "World Hunger"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Who is the Greek goddess of wisdom, courage, and warfare?",
+            "options": {
+                "A": "Aphrodite",
+                "B": "Artemis",
+                "C": "Hera",
+                "D": "Athena",
+                "E": "Demeter"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Mythology"
+        }
+    ],
+    "dataset68": [
+        {
+            "question": "Whom did John Wilkes Booth assassinate?",
+            "options": {
+                "A": "Abraham Lincoln",
+                "B": "John F. Kennedy",
+                "C": "James A. Garfield",
+                "D": "William McKinley",
+                "E": "Franklin D. Roosevelt"
+            },
+            "correct_answer": "A",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What does 'HTTP' stand for in website addresses?",
+            "options": {
+                "A": "Hypertext Transfer Proof",
+                "B": "Hypertext Transfer Protocol",
+                "C": "Hightail Text Transfer Protocol",
+                "D": "Hypertext Translation Protocol",
+                "E": "Hypertext Transfer Process"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Technology"
+        },
+        {
+            "question": "The study of matter and energy and their interactions is known as what?",
+            "options": {
+                "A": "Biology",
+                "B": "Chemistry",
+                "C": "Geology",
+                "D": "Physics",
+                "E": "Astronomy"
+            },
+            "correct_answer": "D",
+            "difficulty": 3,
+            "topic": "Science"
+        },
+        {
+            "question": "What is the value of the mathematical constant 'pi' rounded to two decimal places?",
+            "options": {
+                "A": "2.15",
+                "B": "3.15",
+                "C": "3.14",
+                "D": "4.15",
+                "E": "4.14"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which TV series coined the phrase 'Winter is coming'?",
+            "options": {
+                "A": "Breaking Bad",
+                "B": "The Walking Dead",
+                "C": "Vikings",
+                "D": "The Witcher",
+                "E": "Game of Thrones"
+            },
+            "correct_answer": "E",
+            "difficulty": 5,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "Which band released the hit song 'Stairway to Heaven' in 1971?",
+            "options": {
+                "A": "Black Sabbath",
+                "B": "AC/DC",
+                "C": "Pink Floyd",
+                "D": "Led Zeppelin",
+                "E": "The Rolling Stones"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Music"
+        },
+        {
+            "question": "In psychology, which type of memory has an essentially unlimited capacity?",
+            "options": {
+                "A": "Short-term memory",
+                "B": "Sensory memory",
+                "C": "Implicit memory",
+                "D": "Long-term memory",
+                "E": "Working memory"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Psychology"
+        },
+        {
+            "question": "The term 'laissez-faire' economics is associated with which economic philosophy?",
+            "options": {
+                "A": "Keynesian Economics",
+                "B": "Mercantilism",
+                "C": "Classical Economics",
+                "D": "Marxist Economics",
+                "E": "Supply-side Economics"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Economics"
+        }
+    ],
+    "dataset69": [
+        {
+            "question": "Which river is the longest in the world?",
+            "options": {
+                "A": "Yangtze",
+                "B": "Amazon",
+                "C": "Nile",
+                "D": "Congo",
+                "E": "Mississippi"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "In computing, what does the 'RAM' in computer RAM stand for?",
+            "options": {
+                "A": "Random Access Memory",
+                "B": "Readily Abstracted Memory",
+                "C": "Rapid Allocation Module",
+                "D": "Random Allocation Machine",
+                "E": "Readily Access Module"
+            },
+            "correct_answer": "A",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "Which famous painter started the Impressionist movement?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Pablo Picasso",
+                "C": "Claude Monet",
+                "D": "Edgar Degas",
+                "E": "Paul C\u00e9zanne"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "What does the term 'Mesozoic' refer to?",
+            "options": {
+                "A": "An era of geologic time, consisting of the Triassic, Jurassic, and Cretaceous periods",
+                "B": "A supercontinent that existed during the late Paleozoic and early Mesozoic eras",
+                "C": "The middle part of the Earth's crust",
+                "D": "A prehistoric period when mammals were the dominant species",
+                "E": "A classification of mineral hardness"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Which work of literature introduced the concept of 'doublethink'?",
+            "options": {
+                "A": "Brave New World",
+                "B": "1984",
+                "C": "Animal Farm",
+                "D": "Fahrenheit 451",
+                "E": "The Handmaid's Tale"
+            },
+            "correct_answer": "B",
+            "difficulty": 5,
+            "topic": "Literature"
+        },
+        {
+            "question": "Which celestial body is known as the 'Red Planet'?",
+            "options": {
+                "A": "Mercury",
+                "B": "Venus",
+                "C": "Earth",
+                "D": "Mars",
+                "E": "Jupiter"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "Which ancient civilization built the Machu Picchu complex?",
+            "options": {
+                "A": "The Inca",
+                "B": "The Aztec",
+                "C": "The Olmec",
+                "D": "The Maya",
+                "E": "The Toltec"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "History"
+        },
+        {
+            "question": "What moral theory mainly asserts that the morality of an action is based on its consequences?",
+            "options": {
+                "A": "Deontology",
+                "B": "Stoicism",
+                "C": "Existentialism",
+                "D": "Utilitarianism",
+                "E": "Virtue Ethics"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Philosophy"
+        }
+    ],
+    "dataset70": [
+        {
+            "question": "In what year did the American Civil War end?",
+            "options": {
+                "A": "1861",
+                "B": "1865",
+                "C": "1870",
+                "D": "1901",
+                "E": "1855"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What is the primary function of RAM in a computer?",
+            "options": {
+                "A": "Permanent data storage",
+                "B": "Display graphics",
+                "C": "Store data for fast access by the CPU",
+                "D": "Manage input/output operations",
+                "E": "Power the computer"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "Technology"
+        },
+        {
+            "question": "Who is the author of the play 'Romeo and Juliet'?",
+            "options": {
+                "A": "Oscar Wilde",
+                "B": "Victor Hugo",
+                "C": "Mark Twain",
+                "D": "Fyodor Dostoevsky",
+                "E": "William Shakespeare"
+            },
+            "correct_answer": "E",
+            "difficulty": 3,
+            "topic": "Literature"
+        },
+        {
+            "question": "In which sport would you perform a Fosbury Flop?",
+            "options": {
+                "A": "Swimming",
+                "B": "High Jump",
+                "C": "Diving",
+                "D": "Pole Vaulting",
+                "E": "Gymnastics"
+            },
+            "correct_answer": "B",
+            "difficulty": 4,
+            "topic": "Sports"
+        },
+        {
+            "question": "What is the process by which plants produce their food using sunlight called?",
+            "options": {
+                "A": "Osmosis",
+                "B": "Digestion",
+                "C": "Photosynthesis",
+                "D": "Respiration",
+                "E": "Fermentation"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Science"
+        },
+        {
+            "question": "Which of the following is a prime number?",
+            "options": {
+                "A": "25",
+                "B": "51",
+                "C": "57",
+                "D": "73",
+                "E": "82"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "The concept of 'tabula rasa' (blank slate) is associated with which philosopher?",
+            "options": {
+                "A": "Plato",
+                "B": "Ren\u00e9 Descartes",
+                "C": "Friedrich Nietzsche",
+                "D": "John Locke",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "Where is the Hubble Space Telescope primarily used?",
+            "options": {
+                "A": "On the Moon",
+                "B": "In a ground-based observatory",
+                "C": "Attached to the International Space Station",
+                "D": "In low Earth orbit",
+                "E": "On Mars"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Astronomy"
+        }
+    ],
+    "dataset71": [
+        {
+            "question": "Who composed the 'Moonlight Sonata'?",
+            "options": {
+                "A": "Wolfgang Amadeus Mozart",
+                "B": "Johann Sebastian Bach",
+                "C": "Ludwig van Beethoven",
+                "D": "Franz Schubert",
+                "E": "Pyotr Ilyich Tchaikovsky"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Music"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Perth",
+                "D": "Canberra",
+                "E": "Brisbane"
+            },
+            "correct_answer": "D",
+            "difficulty": 2,
+            "topic": "Geography"
+        },
+        {
+            "question": "In what year was the World Wide Web invented?",
+            "options": {
+                "A": "1983",
+                "B": "1989",
+                "C": "1991",
+                "D": "1995",
+                "E": "2000"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Technology"
+        },
+        {
+            "question": "How many chromosomes does a human gamete typically have?",
+            "options": {
+                "A": "46",
+                "B": "44",
+                "C": "23",
+                "D": "22",
+                "E": "42"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "The Treaty of Versailles was signed after which major conflict?",
+            "options": {
+                "A": "War of 1812",
+                "B": "American Civil War",
+                "C": "World War I",
+                "D": "World War II",
+                "E": "Napoleonic Wars"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "History"
+        },
+        {
+            "question": "What is the economic principle that describes a situation where all potential trades have been made, and no party can be better off without making another party worse off?",
+            "options": {
+                "A": "Comparative advantage",
+                "B": "Gross domestic product",
+                "C": "Pareto efficiency",
+                "D": "Inflation",
+                "E": "Scarcity"
+            },
+            "correct_answer": "C",
+            "difficulty": 6,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which of the following gases is most responsible for the greenhouse effect on Earth?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Hydrogen",
+                "C": "Nitrogen",
+                "D": "Carbon Dioxide",
+                "E": "Methane"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Which painter is famous for cutting off part of his ear?",
+            "options": {
+                "A": "Claude Monet",
+                "B": "Vincent van Gogh",
+                "C": "Pablo Picasso",
+                "D": "Leonardo da Vinci",
+                "E": "Salvador Dal\u00ed"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Art & Design"
+        }
+    ],
+    "dataset72": [
+        {
+            "question": "What is the largest planet in our Solar System?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Jupiter",
+                "D": "Saturn",
+                "E": "Neptune"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "What does CPU stand for in computer terminology?",
+            "options": {
+                "A": "Central Processing Unit",
+                "B": "Computer Processing Utility",
+                "C": "Central Performance Unit",
+                "D": "Control Panel User",
+                "E": "Central Programming Unit"
+            },
+            "correct_answer": "A",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "Which mythological creature is known for its ability to rise from its ashes?",
+            "options": {
+                "A": "Griffin",
+                "B": "Dragon",
+                "C": "Phoenix",
+                "D": "Minotaur",
+                "E": "Cerberus"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Mythology"
+        },
+        {
+            "question": "The psychological theory of 'attachment' was first described by which psychologist?",
+            "options": {
+                "A": "Sigmund Freud",
+                "B": "Carl Rogers",
+                "C": "John Watson",
+                "D": "John Bowlby",
+                "E": "B. F. Skinner"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Psychology"
+        },
+        {
+            "question": "What year marked the fall of the Berlin Wall?",
+            "options": {
+                "A": "1980",
+                "B": "1987",
+                "C": "1989",
+                "D": "1991",
+                "E": "1994"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "History"
+        },
+        {
+            "question": "Which of these movies was directed by Stanley Kubrick?",
+            "options": {
+                "A": "Schindler's List",
+                "B": "The Shining",
+                "C": "Pulp Fiction",
+                "D": "Forrest Gump",
+                "E": "Gladiator"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "Who wrote the epic poem 'The Divine Comedy'?",
+            "options": {
+                "A": "Dante Alighieri",
+                "B": "Geoffrey Chaucer",
+                "C": "William Shakespeare",
+                "D": "Homer",
+                "E": "Virgil"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "Literature"
+        },
+        {
+            "question": "The Kardashev Scale is a method of measuring a civilization's level of technological advancement based on its ability to:",
+            "options": {
+                "A": "Travel through time",
+                "B": "Control energy on a planetary scale",
+                "C": "Achieve peace among its population",
+                "D": "Manipulate matter at an atomic level",
+                "E": "Communicate with extraterrestrial life"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Science"
+        }
+    ],
+    "dataset73": [
+        {
+            "question": "In what year was the original 'Super Mario Bros.' video game released for the Nintendo Entertainment System (NES)?",
+            "options": {
+                "A": "1983",
+                "B": "1985",
+                "C": "1987",
+                "D": "1990",
+                "E": "1992"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "Video Games"
+        },
+        {
+            "question": "Which city is known as the 'City of Love'?",
+            "options": {
+                "A": "New York City",
+                "B": "Rome",
+                "C": "Paris",
+                "D": "Venice",
+                "E": "London"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "General Knowledge"
+        },
+        {
+            "question": "Which branch of mathematics deals with the properties and relationships of points, lines, angles, and surfaces?",
+            "options": {
+                "A": "Algebra",
+                "B": "Geometry",
+                "C": "Calculus",
+                "D": "Trigonometry",
+                "E": "Number Theory"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "What element is designated by the chemical symbol 'Fe'?",
+            "options": {
+                "A": "Iron",
+                "B": "Lead",
+                "C": "Fluorine",
+                "D": "Helium",
+                "E": "Gold"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Science"
+        },
+        {
+            "question": "The 'Mona Lisa', a famous painting by Leonardo da Vinci, is on display in which museum?",
+            "options": {
+                "A": "The Louvre",
+                "B": "The Metropolitan Museum of Art",
+                "C": "The Prado",
+                "D": "The Uffizi Gallery",
+                "E": "The Hermitage Museum"
+            },
+            "correct_answer": "A",
+            "difficulty": 5,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "According to Maslow's hierarchy of needs, which of the following is considered a 'self-actualization' need?",
+            "options": {
+                "A": "Food and water",
+                "B": "Employment and health",
+                "C": "Friendship and family",
+                "D": "Esteem and respect",
+                "E": "Creativity and problem-solving"
+            },
+            "correct_answer": "E",
+            "difficulty": 6,
+            "topic": "Psychology"
+        },
+        {
+            "question": "Which political philosopher is known for the idea of the 'social contract'?",
+            "options": {
+                "A": "John Locke",
+                "B": "Aristotle",
+                "C": "Thomas Hobbes",
+                "D": "Jean-Jacques Rousseau",
+                "E": "Adam Smith"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "The term 'quasar' refers to:",
+            "options": {
+                "A": "An asteroid composed primarily of iron and nickel",
+                "B": "A region of space with a gravitational field so intense that no matter or radiation can escape",
+                "C": "The explosive death of a massive star",
+                "D": "A highly luminous and active galactic nucleus",
+                "E": "The boundary around a black hole beyond which there is no return"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Astronomy"
+        }
+    ],
+    "dataset74": [
+        {
+            "topic": "Mythology",
+            "question": "In Greek mythology, who is the ruler of the Olympian gods?",
+            "options": {
+                "A": "Hades",
+                "B": "Apollo",
+                "C": "Zeus",
+                "D": "Ares",
+                "E": "Poseidon"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "topic": "Mathematics",
+            "question": "What is the value of the mathematical constant 'pi' to two decimal places?",
+            "options": {
+                "A": "3.14",
+                "B": "2.72",
+                "C": "1.62",
+                "D": "1.41",
+                "E": "6.28"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "topic": "Astronomy",
+            "question": "What phenomenon occurs when the moon fully obscures the sun in a solar eclipse?",
+            "options": {
+                "A": "Lunar eclipse",
+                "B": "Totality",
+                "C": "Perigee",
+                "D": "Syzygy",
+                "E": "Aphelion"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "topic": "Science",
+            "question": "Which element has the highest electrical conductivity?",
+            "options": {
+                "A": "Iron",
+                "B": "Gold",
+                "C": "Copper",
+                "D": "Silver",
+                "E": "Aluminum"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "topic": "Literature",
+            "question": "Who wrote the epic poem 'Paradise Lost'?",
+            "options": {
+                "A": "William Wordsworth",
+                "B": "John Milton",
+                "C": "Geoffrey Chaucer",
+                "D": "John Keats",
+                "E": "T.S. Eliot"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "topic": "Politics",
+            "question": "What term describes the policy of extending a country's power and influence through diplomacy or military force?",
+            "options": {
+                "A": "Socialism",
+                "B": "Communism",
+                "C": "Imperialism",
+                "D": "Nationalism",
+                "E": "Liberalism"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "topic": "Economics",
+            "question": "Which economist is best known for his work on the theory of 'invisible hand' in the free market?",
+            "options": {
+                "A": "John Maynard Keynes",
+                "B": "Milton Friedman",
+                "C": "Karl Marx",
+                "D": "Adam Smith",
+                "E": "Friedrich Hayek"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "topic": "Art & Design",
+            "question": "What is the art movement that Salvador Dali and Rene Magritte are associated with?",
+            "options": {
+                "A": "Impressionism",
+                "B": "Surrealism",
+                "C": "Cubism",
+                "D": "Expressionism",
+                "E": "Fauvism"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset75": [
+        {
+            "topic": "Geography",
+            "question": "Which is the longest river in the world?",
+            "options": {
+                "A": "Mississippi",
+                "B": "Yangtze",
+                "C": "Amazon",
+                "D": "Nile",
+                "E": "Congo"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "topic": "Video Games",
+            "question": "What is the name of the protagonist in the video game series 'The Legend of Zelda'?",
+            "options": {
+                "A": "Zelda",
+                "B": "Ganon",
+                "C": "Link",
+                "D": "Epona",
+                "E": "Navi"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "topic": "Music",
+            "question": "The Beatles were a legendary band originating from which city?",
+            "options": {
+                "A": "Manchester",
+                "B": "London",
+                "C": "Liverpool",
+                "D": "Bristol",
+                "E": "Glasgow"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "topic": "Technology",
+            "question": "What protocol is commonly used for secure communication over the Internet?",
+            "options": {
+                "A": "HTTP",
+                "B": "FTP",
+                "C": "SMTP",
+                "D": "HTTPS",
+                "E": "SSH"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "topic": "Computer Science",
+            "question": "Which data structure uses a first in, first out (FIFO) order?",
+            "options": {
+                "A": "Stack",
+                "B": "Queue",
+                "C": "Array",
+                "D": "Linked List",
+                "E": "Graph"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "topic": "Psychology",
+            "question": "Who is known as the father of psychoanalysis?",
+            "options": {
+                "A": "Carl Jung",
+                "B": "Jean Piaget",
+                "C": "William James",
+                "D": "B.F. Skinner",
+                "E": "Sigmund Freud"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "topic": "Environmental Science",
+            "question": "What is the main gas responsible for the greenhouse effect in Earth's atmosphere?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon Dioxide",
+                "C": "Nitrogen",
+                "D": "Methane",
+                "E": "Hydrogen"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "topic": "History",
+            "question": "The 'Long March', which took place from 1934 to 1935, was a pivotal event in the history of which country?",
+            "options": {
+                "A": "Russia",
+                "B": "Japan",
+                "C": "China",
+                "D": "India",
+                "E": "Vietnam"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset76": [
+        {
+            "topic": "General Knowledge",
+            "question": "Which instrument measures atmospheric pressure?",
+            "options": {
+                "A": "Barometer",
+                "B": "Thermometer",
+                "C": "Anemometer",
+                "D": "Hygrometer",
+                "E": "Seismometer"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "topic": "Cinema & TV",
+            "question": "In which film did Marilyn Monroe famously stand over a subway grate as her white dress was blown above her knees?",
+            "options": {
+                "A": "Gentlemen Prefer Blondes",
+                "B": "How to Marry a Millionaire",
+                "C": "The Seven Year Itch",
+                "D": "Some Like It Hot",
+                "E": "Niagara"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "topic": "Health & Medicine",
+            "question": "What is the common name for the medical condition 'myocardial infarction'?",
+            "options": {
+                "A": "Stroke",
+                "B": "Heart Attack",
+                "C": "Asthma Attack",
+                "D": "Seizure",
+                "E": "Hypertension"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "topic": "Art & Design",
+            "question": "Which artist painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Michelangelo",
+                "C": "Raphael",
+                "D": "Caravaggio",
+                "E": "Titian"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "topic": "Philosophy",
+            "question": "Who wrote the philosophical work titled 'Meditations'?",
+            "options": {
+                "A": "Plato",
+                "B": "Socrates",
+                "C": "Aristotle",
+                "D": "Immanuel Kant",
+                "E": "Marcus Aurelius"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "topic": "Sports",
+            "question": "Which sport features a 'peloton'?",
+            "options": {
+                "A": "Running",
+                "B": "Swimming",
+                "C": "Cycling",
+                "D": "Skiing",
+                "E": "Horse Racing"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "topic": "Philosophy",
+            "question": "Who is considered the father of existentialism?",
+            "options": {
+                "A": "Friedrich Nietzsche",
+                "B": "Jean-Paul Sartre",
+                "C": "S\u00f8ren Kierkegaard",
+                "D": "Martin Heidegger",
+                "E": "Albert Camus"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "topic": "Mathematics",
+            "question": "What is the only even prime number?",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "5",
+                "D": "7",
+                "E": "11"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset77": [
+        {
+            "topic": "Sports",
+            "question": "How many players are on a basketball team on the court at any one time?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "7",
+                "E": "8"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "topic": "Health & Medicine",
+            "question": "What is the largest internal organ in the human body?",
+            "options": {
+                "A": "Heart",
+                "B": "Brain",
+                "C": "Liver",
+                "D": "Kidney",
+                "E": "Lung"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "topic": "Computer Science",
+            "question": "What does 'SQL' stand for?",
+            "options": {
+                "A": "Standard Query Language",
+                "B": "Structured Query Language",
+                "C": "Simple Query Language",
+                "D": "Sequential Query Language",
+                "E": "Secure Query Language"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "topic": "Music",
+            "question": "Which composer is famous for 'The Four Seasons'?",
+            "options": {
+                "A": "Ludwig van Beethoven",
+                "B": "Johann Sebastian Bach",
+                "C": "Wolfgang Amadeus Mozart",
+                "D": "Antonio Vivaldi",
+                "E": "Johannes Brahms"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "topic": "Psychology",
+            "question": "What does the 'Stanford prison experiment' explore about human behavior?",
+            "options": {
+                "A": "Memory",
+                "B": "Learning",
+                "C": "Conformity",
+                "D": "Power and authority",
+                "E": "Cognition"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "topic": "Economics",
+            "question": "What term is described as 'the cost of an alternative that must be forgone in order to pursue a certain action'?",
+            "options": {
+                "A": "Elasticity",
+                "B": "Opportunity cost",
+                "C": "Marginal cost",
+                "D": "Variable cost",
+                "E": "Sunk cost"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "topic": "Literature",
+            "question": "Which author is known for 'One Hundred Years of Solitude'?",
+            "options": {
+                "A": "Gabriel Garcia Marquez",
+                "B": "Carlos Fuentes",
+                "C": "Mario Vargas Llosa",
+                "D": "Julio Cort\u00e1zar",
+                "E": "Isabel Allende"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "topic": "Environmental Science",
+            "question": "What is the primary cause of the process known as 'acid rain'?",
+            "options": {
+                "A": "Volcanic eruptions",
+                "B": "Forest fires",
+                "C": "Industrial emissions of sulfur dioxide and nitrogen oxide",
+                "D": "Decomposition of organic matter",
+                "E": "Excessive agricultural fertilization"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset78": [
+        {
+            "question": "In what year did the American Civil War begin?",
+            "options": {
+                "A": "1855",
+                "B": "1861",
+                "C": "1877",
+                "D": "1901",
+                "E": "1804"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What is the term for data that is structured in tables, rows, and columns?",
+            "options": {
+                "A": "Flat-file",
+                "B": "Hierarchical",
+                "C": "Unstructured",
+                "D": "Relational",
+                "E": "Graph"
+            },
+            "correct_answer": "D",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "Which of these rivers is the longest in the world?",
+            "options": {
+                "A": "Mississippi",
+                "B": "Yangtze",
+                "C": "Congo",
+                "D": "Amazon",
+                "E": "Nile"
+            },
+            "correct_answer": "E",
+            "difficulty": 3,
+            "topic": "Geography"
+        },
+        {
+            "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "Harper Lee",
+                "B": "Ernest Hemingway",
+                "C": "Mark Twain",
+                "D": "Jane Austen",
+                "E": "F. Scott Fitzgerald"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Literature"
+        },
+        {
+            "question": "What gas law relates the pressure and volume of a gas at constant temperature?",
+            "options": {
+                "A": "Dalton's Law",
+                "B": "Henry's Law",
+                "C": "Charles's Law",
+                "D": "Boyle's Law",
+                "E": "Gay-Lussac's Law"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Science"
+        },
+        {
+            "question": "Which film won the Academy Award for Best Picture in 2020?",
+            "options": {
+                "A": "1917",
+                "B": "Parasite",
+                "C": "Ford v Ferrari",
+                "D": "Joker",
+                "E": "Once Upon a Time in Hollywood"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "What mathematical concept is primarily concerned with the study of shapes, sizes, relative position of figures, and properties of space?",
+            "options": {
+                "A": "Calculus",
+                "B": "Algebra",
+                "C": "Geometry",
+                "D": "Trigonometry",
+                "E": "Statistics"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which ancient civilization built the Temple of Artemis, one of the Seven Wonders of the Ancient World?",
+            "options": {
+                "A": "Roman",
+                "B": "Egyptian",
+                "C": "Greek",
+                "D": "Persian",
+                "E": "Babylonian"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Mythology"
+        }
+    ],
+    "dataset79": [
+        {
+            "question": "The modern periodic table is arranged in order of increasing atomic what?",
+            "options": {
+                "A": "Weight",
+                "B": "Mass",
+                "C": "Number",
+                "D": "Density",
+                "E": "Energy"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Science"
+        },
+        {
+            "question": "What disease is characterized by the loss of bone density?",
+            "options": {
+                "A": "Osteoarthritis",
+                "B": "Scoliosis",
+                "C": "Osteoporosis",
+                "D": "Bone cancer",
+                "E": "Rheumatoid arthritis"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "What is the name of the scale used to measure the magnitude of earthquakes?",
+            "options": {
+                "A": "Beaufort Scale",
+                "B": "Kelvin Scale",
+                "C": "Richter Scale",
+                "D": "Fujita Scale",
+                "E": "Mercalli Scale"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Which Greek philosopher is known for his contributions to Western philosophy and his famous student, Alexander the Great?",
+            "options": {
+                "A": "Plato",
+                "B": "Socrates",
+                "C": "Epicurus",
+                "D": "Aristotle",
+                "E": "Pythagoras"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "What does the 'HTTP' stand for in website addresses?",
+            "options": {
+                "A": "Hyperactive Transfer Text Protocol",
+                "B": "Hyper Text Transfer Protocol",
+                "C": "Hyper Text Transfer Process",
+                "D": "Hyper Transfer Text Protocol",
+                "E": "High Transfer Text Protocol"
+            },
+            "correct_answer": "B",
+            "difficulty": 5,
+            "topic": "Technology"
+        },
+        {
+            "question": "What is the theory that human behaviors may be partly influenced by the genes we inherit?",
+            "options": {
+                "A": "Behavioral Genetics",
+                "B": "Social Learning Theory",
+                "C": "Cognitive Dissonance",
+                "D": "Functionalism",
+                "E": "Humanism"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Psychology"
+        },
+        {
+            "question": "Which country has won the most FIFA World Cup titles?",
+            "options": {
+                "A": "Germany",
+                "B": "Italy",
+                "C": "Brazil",
+                "D": "Argentina",
+                "E": "France"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Sports"
+        },
+        {
+            "question": "Which artist is credited with having invented the mobile, a type of kinetic sculpture?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Alexander Calder",
+                "C": "Vincent van Gogh",
+                "D": "Salvador Dali",
+                "E": "Michelangelo"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Art & Design"
+        }
+    ],
+    "dataset80": [
+        {
+            "question": "The treaty of Versailles was signed in what year, ending World War I?",
+            "options": {
+                "A": "1916",
+                "B": "1918",
+                "C": "1919",
+                "D": "1920",
+                "E": "1921"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "Which layer of the Earth lies just below the crust?",
+            "options": {
+                "A": "Core",
+                "B": "Mantle",
+                "C": "Outer Core",
+                "D": "Lithosphere",
+                "E": "Asthenosphere"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which device is used to measure atmospheric pressure?",
+            "options": {
+                "A": "Thermometer",
+                "B": "Barometer",
+                "C": "Anemometer",
+                "D": "Hydrometer",
+                "E": "Spectrometer"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Science"
+        },
+        {
+            "question": "In what year did the first man-made object reach space?",
+            "options": {
+                "A": "1942",
+                "B": "1957",
+                "C": "1961",
+                "D": "1969",
+                "E": "1972"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "What is the integral of the function f(x) = 2x?",
+            "options": {
+                "A": "x^3 + C",
+                "B": "x + C",
+                "C": "2x + C",
+                "D": "x^2 + C",
+                "E": "2x^2 + C"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "In economic theory, which term refers to the cost of the next best alternative use of resources?",
+            "options": {
+                "A": "Opportunity Cost",
+                "B": "Marginal Cost",
+                "C": "Sunk Cost",
+                "D": "Variable Cost",
+                "E": "Fixed Cost"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which band released the album 'The Dark Side of the Moon'?",
+            "options": {
+                "A": "The Rolling Stones",
+                "B": "The Beatles",
+                "C": "Pink Floyd",
+                "D": "Led Zeppelin",
+                "E": "Queen"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Music"
+        },
+        {
+            "question": "What is the primary mechanism that drives the theory of plate tectonics?",
+            "options": {
+                "A": "Gravity",
+                "B": "Magnetic Reversal",
+                "C": "Solar Radiation",
+                "D": "Mantle Convection",
+                "E": "Asteroid Impacts"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Environmental Science"
+        }
+    ],
+    "dataset81": [
+        {
+            "question": "Which treaty marked the end of World War II?",
+            "options": {
+                "A": "Treaty of Ghent",
+                "B": "Treaty of Versailles",
+                "C": "Potsdam Agreement",
+                "D": "Paris Peace Treaties",
+                "E": "Geneva Convention"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What is the SI unit of electric current?",
+            "options": {
+                "A": "Volt",
+                "B": "Watt",
+                "C": "Ampere",
+                "D": "Ohm",
+                "E": "Coulomb"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "Science"
+        },
+        {
+            "question": "Which of the following companies was founded by Steve Jobs after leaving Apple in 1985?",
+            "options": {
+                "A": "Microsoft",
+                "B": "NeXT",
+                "C": "Atari",
+                "D": "Compaq",
+                "E": "Dell"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which planet is famous for its prominent ring system?",
+            "options": {
+                "A": "Mars",
+                "B": "Venus",
+                "C": "Jupiter",
+                "D": "Uranus",
+                "E": "Saturn"
+            },
+            "correct_answer": "E",
+            "difficulty": 4,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "What is the term for a painting technique in which water-based pigments are applied to a moist plaster surface?",
+            "options": {
+                "A": "Oil Painting",
+                "B": "Fresco",
+                "C": "Acrylic Painting",
+                "D": "Watercolor",
+                "E": "Gouache"
+            },
+            "correct_answer": "B",
+            "difficulty": 5,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "Which video game, first released in 2004, is often credited with popularizing the massively multiplayer online role-playing game (MMORPG) genre?",
+            "options": {
+                "A": "World of Warcraft",
+                "B": "EverQuest",
+                "C": "Guild Wars",
+                "D": "Dungeons & Dragons Online",
+                "E": "Runescape"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Video Games"
+        },
+        {
+            "question": "What psychological principle explains why people tend to seek consistency among their beliefs and perceptions?",
+            "options": {
+                "A": "Cognitive Dissonance",
+                "B": "Halo Effect",
+                "C": "Confirmation Bias",
+                "D": "Fundamental Attribution Error",
+                "E": "Social Facilitation"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "Psychology"
+        },
+        {
+            "question": "What is the name for the economic policy of controlling inflation by limiting the amount of money in circulation?",
+            "options": {
+                "A": "Fiscal Policy",
+                "B": "Quantitative Easing",
+                "C": "Monetary Tightening",
+                "D": "Supply-Side Economics",
+                "E": "Demand-Side Economics"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Economics"
+        }
+    ],
+    "dataset82": [
+        {
+            "question": "Which year did the Second World War begin?",
+            "options": {
+                "A": "1931",
+                "B": "1939",
+                "C": "1941",
+                "D": "1945",
+                "E": "1936"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What does RAM stand for in computer technology?",
+            "options": {
+                "A": "Read Access Memory",
+                "B": "Random Access Memory",
+                "C": "Run Access Memory",
+                "D": "Run-Allocate Memory",
+                "E": "Random-Allocate Memory"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which country is the largest by land area?",
+            "options": {
+                "A": "USA",
+                "B": "China",
+                "C": "Canada",
+                "D": "Russia",
+                "E": "Australia"
+            },
+            "correct_answer": "D",
+            "difficulty": 3,
+            "topic": "Geography"
+        },
+        {
+            "question": "What does the 'F' in FBI stand for?",
+            "options": {
+                "A": "Federal",
+                "B": "Federative",
+                "C": "Federation",
+                "D": "Forensic",
+                "E": "Formal"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "General Knowledge"
+        },
+        {
+            "question": "In what century did the Renaissance begin?",
+            "options": {
+                "A": "12th Century",
+                "B": "13th Century",
+                "C": "14th Century",
+                "D": "15th Century",
+                "E": "16th Century"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "History"
+        },
+        {
+            "question": "What is the main subject of the book '1984' by George Orwell?",
+            "options": {
+                "A": "Alien Invasion",
+                "B": "World War II",
+                "C": "Dystopian Future",
+                "D": "Time Travel",
+                "E": "Romance"
+            },
+            "correct_answer": "C",
+            "difficulty": 6,
+            "topic": "Literature"
+        },
+        {
+            "question": "Which of the following is not an official language of the United Nations?",
+            "options": {
+                "A": "English",
+                "B": "French",
+                "C": "Spanish",
+                "D": "Arabic",
+                "E": "Portuguese"
+            },
+            "correct_answer": "E",
+            "difficulty": 7,
+            "topic": "General Knowledge"
+        },
+        {
+            "question": "By what process do plants convert carbon dioxide and water into glucose and oxygen, using sunlight as energy?",
+            "options": {
+                "A": "Cellular respiration",
+                "B": "Fermentation",
+                "C": "Photosynthesis",
+                "D": "Chemosynthesis",
+                "E": "Osmosis"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Science"
+        }
+    ],
+    "dataset83": [
+        {
+            "question": "Name the smallest planet within our solar system.",
+            "options": {
+                "A": "Mercury",
+                "B": "Venus",
+                "C": "Earth",
+                "D": "Mars",
+                "E": "Pluto"
+            },
+            "correct_answer": "A",
+            "difficulty": 1,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "Who is considered the father of modern computer science?",
+            "options": {
+                "A": "Steve Jobs",
+                "B": "Bill Gates",
+                "C": "Charles Babbage",
+                "D": "Alan Turing",
+                "E": "John von Neumann"
+            },
+            "correct_answer": "D",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "Which movie won the Best Picture award at the Oscars in 2000?",
+            "options": {
+                "A": "Gladiator",
+                "B": "American Beauty",
+                "C": "Crouching Tiger, Hidden Dragon",
+                "D": "Traffic",
+                "E": "Chocolat"
+            },
+            "correct_answer": "A",
+            "difficulty": 3,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "Who painted the 'Mona Lisa'?",
+            "options": {
+                "A": "Vincent van Gogh",
+                "B": "Pablo Picasso",
+                "C": "Michelangelo",
+                "D": "Leonardo da Vinci",
+                "E": "Raphael"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "Which artist released the album 'Thriller'?",
+            "options": {
+                "A": "Prince",
+                "B": "Madonna",
+                "C": "Michael Jackson",
+                "D": "Bruce Springsteen",
+                "E": "Whitney Houston"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Music"
+        },
+        {
+            "question": "In economics, the 'law of supply and demand' states that what happens if demand increases while supply remains the same?",
+            "options": {
+                "A": "Prices decrease",
+                "B": "Prices increase",
+                "C": "Supply decreases",
+                "D": "Supply increases automatically",
+                "E": "Demand decreases"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which philosopher is famous for the quote 'I think, therefore I am'?",
+            "options": {
+                "A": "Plato",
+                "B": "Aristotle",
+                "C": "Socrates",
+                "D": "Ren\u00e9 Descartes",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "The psychological 'id, ego, and superego' are concepts originated by which psychologist?",
+            "options": {
+                "A": "B.F. Skinner",
+                "B": "Carl Jung",
+                "C": "Jean Piaget",
+                "D": "Sigmund Freud",
+                "E": "William James"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Psychology"
+        }
+    ],
+    "dataset84": [
+        {
+            "question": "The Great Pyramid of Giza was constructed for which Egyptian Pharaoh?",
+            "options": {
+                "A": "Khufu",
+                "B": "Tutankhamun",
+                "C": "Ramses II",
+                "D": "Akhenaten",
+                "E": "Menkaure"
+            },
+            "correct_answer": "A",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "In what year was the first iPhone released?",
+            "options": {
+                "A": "2005",
+                "B": "2007",
+                "C": "2008",
+                "D": "2009",
+                "E": "2010"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Technology"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Brisbane",
+                "D": "Canberra",
+                "E": "Perth"
+            },
+            "correct_answer": "D",
+            "difficulty": 3,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which chemical element has the symbol 'Au'?",
+            "options": {
+                "A": "Silver",
+                "B": "Gold",
+                "C": "Aluminum",
+                "D": "Argon",
+                "E": "Arsenic"
+            },
+            "correct_answer": "B",
+            "difficulty": 4,
+            "topic": "Science"
+        },
+        {
+            "question": "The Fibonacci sequence starts with the following two numbers:",
+            "options": {
+                "A": "1, 3",
+                "B": "1, 2",
+                "C": "1, 1",
+                "D": "2, 2",
+                "E": "0, 1"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "In 'Moby-Dick,' who is the captain of the Pequod?",
+            "options": {
+                "A": "Ahab",
+                "B": "Starbuck",
+                "C": "Ishmael",
+                "D": "Queequeg",
+                "E": "Stubb"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Literature"
+        },
+        {
+            "question": "Which of these sports is not a part of a modern pentathlon?",
+            "options": {
+                "A": "Fencing",
+                "B": "Swimming",
+                "C": "Running",
+                "D": "Cycling",
+                "E": "Shooting"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Sports"
+        },
+        {
+            "question": "Which virus is responsible for causing COVID-19?",
+            "options": {
+                "A": "Human immunodeficiency virus (HIV)",
+                "B": "Hepatitis B virus (HBV)",
+                "C": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+                "D": "Ebola virus",
+                "E": "Hantavirus"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Health & Medicine"
+        }
+    ],
+    "dataset85": [
+        {
+            "question": "In Greek mythology, who is the god of the sea?",
+            "options": {
+                "A": "Hades",
+                "B": "Zeus",
+                "C": "Poseidon",
+                "D": "Apollo",
+                "E": "Ares"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Mythology"
+        },
+        {
+            "question": "What is the theoretical form of super-expensive computing that utilizes principles of quantum mechanics?",
+            "options": {
+                "A": "Supercomputing",
+                "B": "Quantum computing",
+                "C": "Cloud computing",
+                "D": "Nano computing",
+                "E": "Optical computing"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "What gas do most trees and plants require to perform photosynthesis?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon dioxide",
+                "C": "Nitrogen",
+                "D": "Helium",
+                "E": "Methane"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Who directed the movie 'Inception'?",
+            "options": {
+                "A": "Steven Spielberg",
+                "B": "Martin Scorsese",
+                "C": "Christopher Nolan",
+                "D": "James Cameron",
+                "E": "Quentin Tarantino"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "Which artist painted 'The Starry Night'?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Claude Monet",
+                "C": "Vincent van Gogh",
+                "D": "Pablo Picasso",
+                "E": "Salvador Dali"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "If x^2 + x - 6 = 0, which of the following is a correct solution for x?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "-2",
+                "E": "-3"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which economic theory suggests that a higher supply of money leads to inflation, and vice versa?",
+            "options": {
+                "A": "Keynesian Economics",
+                "B": "Supply-Side Economics",
+                "C": "Monetarism",
+                "D": "Marxian Economics",
+                "E": "Classical Economics"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Economics"
+        },
+        {
+            "question": "What was the primary political concern of John Rawls' theory of justice as fairness?",
+            "options": {
+                "A": "Eliminating poverty",
+                "B": "Designing a welfare state",
+                "C": "Defining property rights",
+                "D": "Instituting a monarchy",
+                "E": "Creating equal basic liberties for all"
+            },
+            "correct_answer": "E",
+            "difficulty": 8,
+            "topic": "Philosophy"
+        }
+    ],
+    "dataset86": [
+        {
+            "question": "In what year did World War II end?",
+            "options": {
+                "A": "1945",
+                "B": "1950",
+                "C": "1939",
+                "D": "1918",
+                "E": "1941"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which company developed the VHS tape format?",
+            "options": {
+                "A": "Sony",
+                "B": "Panasonic",
+                "C": "JVC",
+                "D": "Philips",
+                "E": "Toshiba"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the capital city of Canada?",
+            "options": {
+                "A": "Toronto",
+                "B": "Montreal",
+                "C": "Vancouver",
+                "D": "Ottawa",
+                "E": "Quebec City"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Which element is denoted by the symbol 'Na' on the periodic table?",
+            "options": {
+                "A": "Nickel",
+                "B": "Nitrogen",
+                "C": "Sodium",
+                "D": "Neon",
+                "E": "Nobelium"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Which Greek philosopher is known for his method of questioning, the 'Socratic method'?",
+            "options": {
+                "A": "Plato",
+                "B": "Aristotle",
+                "C": "Socrates",
+                "D": "Epicurus",
+                "E": "Pythagoras"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Who is considered the 'father of American psychology'?",
+            "options": {
+                "A": "Sigmund Freud",
+                "B": "Carl Jung",
+                "C": "Jean Piaget",
+                "D": "William James",
+                "E": "John B. Watson"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "In music, which note does the treble clef symbol locate on the staff?",
+            "options": {
+                "A": "C",
+                "B": "E",
+                "C": "G",
+                "D": "B",
+                "E": "A"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the only integer that is neither prime nor composite?",
+            "options": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "-1",
+                "E": "3"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset87": [
+        {
+            "question": "Which planet in our Solar System is known for having rings?",
+            "options": {
+                "A": "Mars",
+                "B": "Saturn",
+                "C": "Jupiter",
+                "D": "Neptune",
+                "E": "Uranus"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who was the main actor in the movie 'Cast Away'?",
+            "options": {
+                "A": "Tom Hanks",
+                "B": "Brad Pitt",
+                "C": "Leonardo DiCaprio",
+                "D": "Matt Damon",
+                "E": "George Clooney"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Which programming language traditionally uses '.py' as its file extension?",
+            "options": {
+                "A": "JavaScript",
+                "B": "C++",
+                "C": "Python",
+                "D": "Ruby",
+                "E": "PHP"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What does the acronym GDP stand for in economics?",
+            "options": {
+                "A": "Gross Domestic Product",
+                "B": "General Depreciation Policy",
+                "C": "Government Debt Percentage",
+                "D": "Gross Development Process",
+                "E": "General Domestic Provision"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "Which country hosted the 1992 Summer Olympics?",
+            "options": {
+                "A": "Australia",
+                "B": "Spain",
+                "C": "Greece",
+                "D": "South Korea",
+                "E": "United States"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What was the original name of Nintendo's 'Super Mario' when he first appeared in 'Donkey Kong'?",
+            "options": {
+                "A": "Jumpman",
+                "B": "Plumberman",
+                "C": "Mr. Video",
+                "D": "Mario",
+                "E": "Luigi"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "What does the Beaufort scale measure?",
+            "options": {
+                "A": "Earthquake intensity",
+                "B": "Wind force",
+                "C": "Temperature",
+                "D": "Atmospheric pressure",
+                "E": "Ocean depth"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Identify the author of the play 'Waiting for Godot'.",
+            "options": {
+                "A": "T.S. Eliot",
+                "B": "Harold Pinter",
+                "C": "Samuel Beckett",
+                "D": "Eugene O'Neill",
+                "E": "Arthur Miller"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset88": [
+        {
+            "question": "What is the Pythagorean theorem used for?",
+            "options": {
+                "A": "Calculating the area of a circle",
+                "B": "Determining the sides of a triangle",
+                "C": "Calculating the circumference of a circle",
+                "D": "Solving quadratic equations",
+                "E": "Determining the sides of a square"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who wrote the novel 'Pride and Prejudice'?",
+            "options": {
+                "A": "Emily Bront\u00eb",
+                "B": "Charles Dickens",
+                "C": "Jane Austen",
+                "D": "Mary Shelley",
+                "E": "Charlotte Bront\u00eb"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which of these structures is the oldest?",
+            "options": {
+                "A": "Roman Colosseum",
+                "B": "Machu Picchu",
+                "C": "Pyramids of Giza",
+                "D": "Taj Mahal",
+                "E": "Great Wall of China"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "In which organ of the human body would you find the hippocampus?",
+            "options": {
+                "A": "Heart",
+                "B": "Brain",
+                "C": "Liver",
+                "D": "Kidney",
+                "E": "Stomach"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What do the letters HTML, a language used to create web pages, stand for?",
+            "options": {
+                "A": "HyperText Markup Language",
+                "B": "HyperTransfer Markup Language",
+                "C": "HighText Machine Language",
+                "D": "HyperTool Markup Language",
+                "E": "HyperTransfer Machine Language"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "What famous artist painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Michelangelo",
+                "C": "Raphael",
+                "D": "Donatello",
+                "E": "Caravaggio"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "The Treaty of Versailles was signed at the end of which major historical event?",
+            "options": {
+                "A": "The American Revolution",
+                "B": "Napoleonic Wars",
+                "C": "World War II",
+                "D": "Franco-Prussian War",
+                "E": "World War I"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "Which physicist is known for the Uncertainty Principle?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Niels Bohr",
+                "D": "Werner Heisenberg",
+                "E": "Richard Feynman"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset89": [
+        {
+            "question": "What does the acronym UFO stand for?",
+            "options": {
+                "A": "Unknown Flying Object",
+                "B": "Unidentified Flying Object",
+                "C": "Ultra Fast Object",
+                "D": "Universal Field Oscillator",
+                "E": "Underwater Floating Object"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "In the context of environmental science, what does 'biodegradable' mean?",
+            "options": {
+                "A": "Soluble in water",
+                "B": "Capable of decomposing by bacteria or other living organisms",
+                "C": "Consisting of plant-based materials",
+                "D": "Can be broken down chemically",
+                "E": "Can be recycled"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who was the first democratically elected President of Russia?",
+            "options": {
+                "A": "Mikhail Gorbachev",
+                "B": "Vladimir Putin",
+                "C": "Boris Yeltsin",
+                "D": "Dmitry Medvedev",
+                "E": "Nikita Khrushchev"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What is an antonym for 'benevolent'?",
+            "options": {
+                "A": "Charitable",
+                "B": "Kind",
+                "C": "Malevolent",
+                "D": "Magnanimous",
+                "E": "Generous"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Which musician is known as the 'King of Pop'?",
+            "options": {
+                "A": "Elvis Presley",
+                "B": "Michael Jackson",
+                "C": "Prince",
+                "D": "Justin Bieber",
+                "E": "David Bowie"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which artist is credited with popularizing the ready-made art form?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Salvador Dali",
+                "C": "Marcel Duchamp",
+                "D": "Andy Warhol",
+                "E": "Jean-Michel Basquiat"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What form of digital currency uses decentralized control as opposed to centralized digital currency and central banking systems?",
+            "options": {
+                "A": "PayPal",
+                "B": "Credit",
+                "C": "Cryptocurrency",
+                "D": "Digital tokens",
+                "E": "Mobile payment"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which philosopher is famous for his allegory of the cave?",
+            "options": {
+                "A": "Socrates",
+                "B": "Plato",
+                "C": "Aristotle",
+                "D": "Ren\u00e9 Descartes",
+                "E": "Friedrich Nietzsche"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset90": [
+        {
+            "question": "What is the smallest country in the world?",
+            "options": {
+                "A": "Nauru",
+                "B": "Monaco",
+                "C": "Vatican City",
+                "D": "San Marino",
+                "E": "Liechtenstein"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which of the following is NOT a programming language?",
+            "options": {
+                "A": "Python",
+                "B": "Ruby",
+                "C": "Haskell",
+                "D": "Erlang",
+                "E": "Mercury"
+            },
+            "correct_answer": "E",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "What is the main function of the white blood cells?",
+            "options": {
+                "A": "Carry oxygen",
+                "B": "Fight infections",
+                "C": "Clot blood",
+                "D": "Carry nutrients",
+                "E": "Remove waste"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": {
+                "A": "F. Scott Fitzgerald",
+                "B": "Ernest Hemingway",
+                "C": "Harper Lee",
+                "D": "John Steinbeck",
+                "E": "William Faulkner"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "Literature"
+        },
+        {
+            "question": "What year did Steve Jobs introduce the first iPhone?",
+            "options": {
+                "A": "2004",
+                "B": "2005",
+                "C": "2006",
+                "D": "2007",
+                "E": "2008"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which of these psychological terms refers to the innate parts of our personality?",
+            "options": {
+                "A": "Superego",
+                "B": "Id",
+                "C": "Ego",
+                "D": "Oedipus complex",
+                "E": "Archetypes"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Psychology"
+        },
+        {
+            "question": "In terms of market capitalization, which company first reached a valuation of $1 trillion?",
+            "options": {
+                "A": "Amazon",
+                "B": "Apple",
+                "C": "Google",
+                "D": "Microsoft",
+                "E": "Saudi Aramco"
+            },
+            "correct_answer": "B",
+            "difficulty": 7,
+            "topic": "Economics"
+        },
+        {
+            "question": "The 'Oedipus complex' is a concept in which field?",
+            "options": {
+                "A": "Astronomy",
+                "B": "Literature",
+                "C": "Psychology",
+                "D": "Mythology",
+                "E": "Philosophy"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Psychology"
+        }
+    ],
+    "dataset91": [
+        {
+            "question": "Which vitamin is produced when a person is exposed to sunlight?",
+            "options": {
+                "A": "Vitamin A",
+                "B": "Vitamin B12",
+                "C": "Vitamin C",
+                "D": "Vitamin D",
+                "E": "Vitamin E"
+            },
+            "correct_answer": "D",
+            "difficulty": 1,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "The Battle of Hastings in 1066 was fought in which country?",
+            "options": {
+                "A": "France",
+                "B": "England",
+                "C": "Scotland",
+                "D": "Norway",
+                "E": "Germany"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "History"
+        },
+        {
+            "question": "Which is the longest river in the world?",
+            "options": {
+                "A": "Amazon",
+                "B": "Nile",
+                "C": "Yangtze",
+                "D": "Mississippi",
+                "E": "Congo"
+            },
+            "correct_answer": "A",
+            "difficulty": 3,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which artist is famous for the painting 'The Starry Night'?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Leonardo da Vinci",
+                "C": "Claude Monet",
+                "D": "Vincent van Gogh",
+                "E": "Salvador Dal\u00ed"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "In mathematics, what is the name of a polygon with ten sides?",
+            "options": {
+                "A": "Hexagon",
+                "B": "Octagon",
+                "C": "Decagon",
+                "D": "Dodecagon",
+                "E": "Nonagon"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "In economics, what term describes the total value of goods produced and services provided in a country during one year?",
+            "options": {
+                "A": "Gross Domestic Product (GDP)",
+                "B": "Net Income",
+                "C": "Gross National Product (GNP)",
+                "D": "National Debt",
+                "E": "Fiscal Deficit"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Economics"
+        },
+        {
+            "question": "In computer science, what does the principle of 'garbage collection' refer to?",
+            "options": {
+                "A": "Cleaning out temporary files",
+                "B": "Deleting obsolete code",
+                "C": "Automatic memory management",
+                "D": "Removing malware",
+                "E": "Defragmenting a hard drive"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "Which ancient civilization believed in the god Horus?",
+            "options": {
+                "A": "Greek",
+                "B": "Roman",
+                "C": "Egyptian",
+                "D": "Norse",
+                "E": "Aztec"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Mythology"
+        }
+    ],
+    "dataset92": [
+        {
+            "question": "In which country would you find the ancient ruins of Machu Picchu?",
+            "options": {
+                "A": "Argentina",
+                "B": "Chile",
+                "C": "Brazil",
+                "D": "Peru",
+                "E": "Bolivia"
+            },
+            "correct_answer": "D",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which element is represented by the symbol 'O' in the periodic table?",
+            "options": {
+                "A": "Gold",
+                "B": "Oxygen",
+                "C": "Osmium",
+                "D": "Oganesson",
+                "E": "Lead"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Science"
+        },
+        {
+            "question": "Who was the first Roman emperor?",
+            "options": {
+                "A": "Julius Caesar",
+                "B": "Nero",
+                "C": "Augustus",
+                "D": "Constantine",
+                "E": "Tiberius"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "History"
+        },
+        {
+            "question": "What is the capital city of Australia?",
+            "options": {
+                "A": "Sydney",
+                "B": "Melbourne",
+                "C": "Perth",
+                "D": "Canberra",
+                "E": "Brisbane"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "General Knowledge"
+        },
+        {
+            "question": "The Fibonacci sequence starts with what two numbers?",
+            "options": {
+                "A": "0 and 1",
+                "B": "1 and 1",
+                "C": "1 and 2",
+                "D": "1 and 3",
+                "E": "2 and 3"
+            },
+            "correct_answer": "B",
+            "difficulty": 5,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which philosopher is known for his statement 'I think, therefore I am'?",
+            "options": {
+                "A": "Plato",
+                "B": "Aristotle",
+                "C": "Socrates",
+                "D": "Descartes",
+                "E": "Kant"
+            },
+            "correct_answer": "D",
+            "difficulty": 6,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "The concept of 'dark matter' is associated with which field of study?",
+            "options": {
+                "A": "Biology",
+                "B": "Chemistry",
+                "C": "Astronomy",
+                "D": "Psychology",
+                "E": "Physics"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "Who is considered the 'Father of Computer Science' for his work on computational algorithms?",
+            "options": {
+                "A": "Charles Babbage",
+                "B": "John von Neumann",
+                "C": "Alan Turing",
+                "D": "Ada Lovelace",
+                "E": "Steve Jobs"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Computer Science"
+        }
+    ],
+    "dataset93": [
+        {
+            "question": "What does GPU stand for in the context of computer graphics?",
+            "options": {
+                "A": "Graphics Processing Unit",
+                "B": "General Processing Unit",
+                "C": "Graphical Performance Unit",
+                "D": "General Purpose Unit",
+                "E": "Graphics Performance Unit"
+            },
+            "correct_answer": "A",
+            "difficulty": 1,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which sport is known as 'The Sport of Kings'?",
+            "options": {
+                "A": "Golf",
+                "B": "Polo",
+                "C": "Horse Racing",
+                "D": "Tennis",
+                "E": "Fencing"
+            },
+            "correct_answer": "C",
+            "difficulty": 2,
+            "topic": "Sports"
+        },
+        {
+            "question": "In 1928, Alexander Fleming discovered which antibiotic?",
+            "options": {
+                "A": "Penicillin",
+                "B": "Streptomycin",
+                "C": "Tetracycline",
+                "D": "Erythromycin",
+                "E": "Ciprofloxacin"
+            },
+            "correct_answer": "A",
+            "difficulty": 3,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "What does the Mona Lisa have missing that most people normally have?",
+            "options": {
+                "A": "Eyebrows",
+                "B": "Earrings",
+                "C": "A smile",
+                "D": "Shoes",
+                "E": "Fingers"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "Who composed the famous operatic piece 'The Four Seasons'?",
+            "options": {
+                "A": "Johann Sebastian Bach",
+                "B": "Wolfgang Amadeus Mozart",
+                "C": "Ludwig van Beethoven",
+                "D": "Antonio Vivaldi",
+                "E": "Georges Bizet"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Music"
+        },
+        {
+            "question": "Which movie featured the quote 'Here's looking at you, kid'?",
+            "options": {
+                "A": "Gone with the Wind",
+                "B": "Casablanca",
+                "C": "The Godfather",
+                "D": "A Streetcar Named Desire",
+                "E": "Citizen Kane"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "A typical adult human skeleton has how many bones?",
+            "options": {
+                "A": "206",
+                "B": "210",
+                "C": "205",
+                "D": "211",
+                "E": "207"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "Science"
+        },
+        {
+            "question": "What event began on April 12, 1861, when Confederate forces fired upon Fort Sumter?",
+            "options": {
+                "A": "American Revolutionary War",
+                "B": "The War of 1812",
+                "C": "American Civil War",
+                "D": "Spanish-American War",
+                "E": "World War I"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "History"
+        }
+    ],
+    "dataset94": [
+        {
+            "question": "Who was the first president of the United States?",
+            "options": {
+                "A": "Abraham Lincoln",
+                "B": "Thomas Jefferson",
+                "C": "George Washington",
+                "D": "John Adams",
+                "E": "Andrew Jackson"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What does RAM stand for in computer technology?",
+            "options": {
+                "A": "Readily Access Memory",
+                "B": "Random Access Memory",
+                "C": "Rapid Action Memory",
+                "D": "Range Abstract Memory",
+                "E": "Rendered Additional Memory"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": {
+                "A": "Toronto",
+                "B": "Vancouver",
+                "C": "Montreal",
+                "D": "Ottawa",
+                "E": "Calgary"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Who wrote the novel 'Moby-Dick'?",
+            "options": {
+                "A": "Mark Twain",
+                "B": "John Steinbeck",
+                "C": "Herman Melville",
+                "D": "F. Scott Fitzgerald",
+                "E": "Ernest Hemingway"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": {
+                "A": "Venus",
+                "B": "Saturn",
+                "C": "Mercury",
+                "D": "Mars",
+                "E": "Jupiter"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the name of the phobia that involves an abnormal fear of spiders?",
+            "options": {
+                "A": "Agoraphobia",
+                "B": "Claustrophobia",
+                "C": "Arachnophobia",
+                "D": "Ophidiophobia",
+                "E": "Acrophobia"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Which artist painted the ceiling of the Sistine Chapel?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Michelangelo",
+                "C": "Raphael",
+                "D": "Donatello",
+                "E": "Sandro Botticelli"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the most abundant gas in the Earth's atmosphere?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Carbon Dioxide",
+                "C": "Helium",
+                "D": "Nitrogen",
+                "E": "Hydrogen"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset95": [
+        {
+            "question": "What is the formula for the area of a circle?",
+            "options": {
+                "A": "\u03c0r",
+                "B": "\u03c0r\u00b2",
+                "C": "2\u03c0r",
+                "D": "\u03c0/2r\u00b2",
+                "E": "2\u03c0r\u00b2"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "In which city can you find the Colosseum?",
+            "options": {
+                "A": "Athens",
+                "B": "Cairo",
+                "C": "Rome",
+                "D": "Paris",
+                "E": "London"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the primary function of white blood cells in the body?",
+            "options": {
+                "A": "Transport oxygen",
+                "B": "Clot blood",
+                "C": "Regulate water levels",
+                "D": "Fight infections",
+                "E": "Transfer nutrients"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "Which classical philosopher is known for his writings on the theory of forms?",
+            "options": {
+                "A": "Aristotle",
+                "B": "Socrates",
+                "C": "Plato",
+                "D": "Pythagoras",
+                "E": "Democritus"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Which company was Steve Jobs associated with?",
+            "options": {
+                "A": "Microsoft",
+                "B": "Apple",
+                "C": "Google",
+                "D": "Amazon",
+                "E": "Facebook"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In economics, what does 'GDP' stand for?",
+            "options": {
+                "A": "Gross Domestic Policy",
+                "B": "General Depreciation Principle",
+                "C": "Gradual Debt Payment",
+                "D": "Gross Domestic Product",
+                "E": "General Domestic Provision"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the name of the protagonist in the video game series 'The Legend of Zelda'?",
+            "options": {
+                "A": "Link",
+                "B": "Mario",
+                "C": "Samus",
+                "D": "Sonic",
+                "E": "Ganon"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "The psychological term 'cognitive dissonance' is associated with which psychologist?",
+            "options": {
+                "A": "Sigmund Freud",
+                "B": "Carl Jung",
+                "C": "Abraham Maslow",
+                "D": "Carl Rogers",
+                "E": "Leon Festinger"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset96": [
+        {
+            "question": "Which music genre is commonly associated with Elvis Presley?",
+            "options": {
+                "A": "Rock and roll",
+                "B": "Jazz",
+                "C": "Classical",
+                "D": "Hip-hop",
+                "E": "Country"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the main ingredient in traditional Japanese miso soup?",
+            "options": {
+                "A": "Tofu",
+                "B": "Seaweed",
+                "C": "Miso paste",
+                "D": "Rice",
+                "E": "Noodles"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "The Battle of Hastings in 1066 was fought in which country?",
+            "options": {
+                "A": "France",
+                "B": "England",
+                "C": "Germany",
+                "D": "Norway",
+                "E": "Spain"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which vitamin is produced when a human is exposed to sunlight?",
+            "options": {
+                "A": "Vitamin C",
+                "B": "Vitamin E",
+                "C": "Vitamin B12",
+                "D": "Vitamin A",
+                "E": "Vitamin D"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the highest-grossing film of all time, unadjusted for inflation?",
+            "options": {
+                "A": "Avatar",
+                "B": "Avengers: Endgame",
+                "C": "Titanic",
+                "D": "Star Wars: The Force Awakens",
+                "E": "Jurassic World"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "In what year did the first human land on the moon?",
+            "options": {
+                "A": "1965",
+                "B": "1969",
+                "C": "1971",
+                "D": "1967",
+                "E": "1973"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "In computer science, what does 'SQL' stand for?",
+            "options": {
+                "A": "Structured Question Language",
+                "B": "Simple Query Language",
+                "C": "Structured Query Language",
+                "D": "Standard Query Language",
+                "E": "Sequential Query Language"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "According to Plato, besides 'the good,' which two forms exist at the highest level?",
+            "options": {
+                "A": "Truth and beauty",
+                "B": "Honor and power",
+                "C": "Equality and liberty",
+                "D": "Truth and honor",
+                "E": "Beauty and equality"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset97": [
+        {
+            "question": "What is the standard shape of a stop sign in the United States?",
+            "options": {
+                "A": "Circle",
+                "B": "Triangle",
+                "C": "Square",
+                "D": "Octagon",
+                "E": "Pentagon"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the medical term for the shoulder blade?",
+            "options": {
+                "A": "Sternum",
+                "B": "Scapula",
+                "C": "Clavicle",
+                "D": "Patella",
+                "E": "Humerus"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who was the author of 'The Great Gatsby'?",
+            "options": {
+                "A": "William Faulkner",
+                "B": "Ernest Hemingway",
+                "C": "F. Scott Fitzgerald",
+                "D": "John Steinbeck",
+                "E": "Mark Twain"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What was the original purpose of the Ancient Olympic Games?",
+            "options": {
+                "A": "Celebrating peace between Greek city-states",
+                "B": "Marking the crowning of a new Roman emperor",
+                "C": "Honoring the gods",
+                "D": "Training for war",
+                "E": "Promoting health and fitness"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": {
+                "A": "0",
+                "B": "1",
+                "C": "2",
+                "D": "3",
+                "E": "5"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which gas giant in the solar system is known for its prominent ring system?",
+            "options": {
+                "A": "Jupiter",
+                "B": "Saturn",
+                "C": "Neptune",
+                "D": "Uranus",
+                "E": "Mars"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the phenomenon where the amount of environmental resources is insufficient to fulfill the total desires and needs of humans called?",
+            "options": {
+                "A": "Overpopulation",
+                "B": "Global warming",
+                "C": "Resource depletion",
+                "D": "Ecological overshoot",
+                "E": "Carbon footprint"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "The concept of 'Tabula Rasa', which suggests that humans are born without mental content, is associated with which thinker?",
+            "options": {
+                "A": "Socrates",
+                "B": "Plato",
+                "C": "Immanuel Kant",
+                "D": "John Locke",
+                "E": "Ren\u00e9 Descartes"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset98": [
+        {
+            "question": "Who was the first president of the United States?",
+            "options": {
+                "A": "Abraham Lincoln",
+                "B": "George Washington",
+                "C": "Thomas Jefferson",
+                "D": "Theodore Roosevelt",
+                "E": "John Adams"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "In which year was the World Wide Web invented?",
+            "options": {
+                "A": "1983",
+                "B": "1985",
+                "C": "1989",
+                "D": "1991",
+                "E": "1993"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which of these countries is a landlocked country in South America?",
+            "options": {
+                "A": "Chile",
+                "B": "Peru",
+                "C": "Bolivia",
+                "D": "Brazil",
+                "E": "Argentina"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What is the powerhouse of a cell known as?",
+            "options": {
+                "A": "Nucleus",
+                "B": "Endoplasmic Reticulum",
+                "C": "Ribosome",
+                "D": "Mitochondria",
+                "E": "Golgi Apparatus"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Which film won the Academy Award for Best Picture in 2010?",
+            "options": {
+                "A": "Avatar",
+                "B": "The Hurt Locker",
+                "C": "The Blind Side",
+                "D": "Up in the Air",
+                "E": "Inglourious Basterds"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What is an example of a cooperative game in game theory?",
+            "options": {
+                "A": "Prisoner's Dilemma",
+                "B": "Stag Hunt",
+                "C": "Chicken Game",
+                "D": "Deadlock",
+                "E": "The Assurance Game"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "The concept of 'tabula rasa' is associated with which philosopher?",
+            "options": {
+                "A": "Ren\u00e9 Descartes",
+                "B": "John Locke",
+                "C": "Immanuel Kant",
+                "D": "Friedrich Nietzsche",
+                "E": "Aristotle"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "The existentialist novel 'Nausea' was written by which author?",
+            "options": {
+                "A": "Albert Camus",
+                "B": "Jean-Paul Sartre",
+                "C": "Fyodor Dostoevsky",
+                "D": "Franz Kafka",
+                "E": "Herman Hesse"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset99": [
+        {
+            "question": "What is the standard taste of the water?",
+            "options": {
+                "A": "Salty",
+                "B": "Sweet",
+                "C": "Bitter",
+                "D": "Umami",
+                "E": "Water has no taste"
+            },
+            "correct_answer": "E",
+            "difficulty": 1
+        },
+        {
+            "question": "Who is credited with painting the 'Mona Lisa'?",
+            "options": {
+                "A": "Leonardo da Vinci",
+                "B": "Michelangelo",
+                "C": "Raphael",
+                "D": "Donatello",
+                "E": "Vincent van Gogh"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "During which century did the Renaissance begin?",
+            "options": {
+                "A": "12th Century",
+                "B": "13th Century",
+                "C": "14th Century",
+                "D": "15th Century",
+                "E": "16th Century"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What does GDP stand for in economics?",
+            "options": {
+                "A": "General Domestic Product",
+                "B": "Gross Domestic Product",
+                "C": "Government Department of Purchases",
+                "D": "Global Domestic Purchase",
+                "E": "General Data Protection"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which planet has the most moons?",
+            "options": {
+                "A": "Earth",
+                "B": "Mars",
+                "C": "Jupiter",
+                "D": "Saturn",
+                "E": "Neptune"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which philosopher is known for his allegory of the cave?",
+            "options": {
+                "A": "Socrates",
+                "B": "Plato",
+                "C": "Aristotle",
+                "D": "Epicurus",
+                "E": "Thomas Aquinas"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Which psychological theory was developed by Sigmund Freud?",
+            "options": {
+                "A": "Behaviorism",
+                "B": "Humanism",
+                "C": "Psychoanalysis",
+                "D": "Cognitive Psychology",
+                "E": "Functionalism"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which theorem states that for any right-angled triangle, the area of the square on the hypotenuse is equal to the sum of the areas of the squares on the other two sides?",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Pythagorean Theorem",
+                "C": "Ptolemy's Theorem",
+                "D": "Euler's Theorem",
+                "E": "Thales' Theorem"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset100": [
+        {
+            "question": "Which player is known as 'The Great One' in ice hockey?",
+            "options": {
+                "A": "Mario Lemieux",
+                "B": "Wayne Gretzky",
+                "C": "Bobby Orr",
+                "D": "Gordie Howe",
+                "E": "Sidney Crosby"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "What type of animal is the main character in the video game series 'Sonic'?",
+            "options": {
+                "A": "Cat",
+                "B": "Hedgehog",
+                "C": "Mouse",
+                "D": "Rabbit",
+                "E": "Dog"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the largest continent by land area?",
+            "options": {
+                "A": "Africa",
+                "B": "Europe",
+                "C": "Asia",
+                "D": "North America",
+                "E": "South America"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Nicolaus Copernicus",
+                "C": "Albert Einstein",
+                "D": "Niels Bohr",
+                "E": "Max Planck"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What does the HTTP stand for in a website address?",
+            "options": {
+                "A": "Hyper Text Transfer Protocol",
+                "B": "Hyper Transfer Technology Protocol",
+                "C": "High Technology Text Protocol",
+                "D": "Hyper Transfer Text Process",
+                "E": "Hyperlink Transfer Technology Protocol"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "The novel 'One Hundred Years of Solitude' was written by which Colombian author?",
+            "options": {
+                "A": "Gabriel Garc\u00eda M\u00e1rquez",
+                "B": "Mario Vargas Llosa",
+                "C": "Julio Cort\u00e1zar",
+                "D": "Jorge Luis Borges",
+                "E": "Laura Restrepo"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "Which vitamin is produced when the human body is exposed to sunlight?",
+            "options": {
+                "A": "Vitamin A",
+                "B": "Vitamin B12",
+                "C": "Vitamin C",
+                "D": "Vitamin D",
+                "E": "Vitamin E"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Which artist painted 'Guernica' as a response to the bombing of a Basque country village during the Spanish Civil War?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Salvador Dal\u00ed",
+                "C": "Joan Mir\u00f3",
+                "D": "Francisco Goya",
+                "E": "Diego Vel\u00e1zquez"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset101": [
+        {
+            "question": "Who is the author of the sonnet sequence 'Astrophil and Stella'?",
+            "options": {
+                "A": "Edmund Spenser",
+                "B": "William Shakespeare",
+                "C": "Christopher Marlowe",
+                "D": "Sir Philip Sidney",
+                "E": "Ben Jonson"
+            },
+            "correct_answer": "D",
+            "difficulty": 1
+        },
+        {
+            "question": "What is 2+2?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6",
+                "E": "7"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which hormone regulates the blood sugar level?",
+            "options": {
+                "A": "Adrenaline",
+                "B": "Cortisol",
+                "C": "Insulin",
+                "D": "Glucagon",
+                "E": "Testosterone"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which city is the capital of Canada?",
+            "options": {
+                "A": "Toronto",
+                "B": "Montreal",
+                "C": "Vancouver",
+                "D": "Ottawa",
+                "E": "Calgary"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Who created the character Sherlock Holmes?",
+            "options": {
+                "A": "Agatha Christie",
+                "B": "Arthur Conan Doyle",
+                "C": "Edgar Allan Poe",
+                "D": "Charles Dickens",
+                "E": "Ian Fleming"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which branch of philosophy deals primarily with the nature of beauty and art?",
+            "options": {
+                "A": "Metaphysics",
+                "B": "Epistemology",
+                "C": "Aesthetics",
+                "D": "Ethics",
+                "E": "Political Philosophy"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Which country has the highest number of coral reef species?",
+            "options": {
+                "A": "Australia",
+                "B": "Indonesia",
+                "C": "Philippines",
+                "D": "Maldives",
+                "E": "Fiji"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Who was the lead singer of the band Queen?",
+            "options": {
+                "A": "Bon Jovi",
+                "B": "David Bowie",
+                "C": "Freddie Mercury",
+                "D": "Elton John",
+                "E": "Mick Jagger"
+            },
+            "correct_answer": "C",
             "difficulty": 8
         }
     ]
