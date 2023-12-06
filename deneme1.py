@@ -4,7 +4,7 @@ import requests
 
 data = {}
 
-url = "https://opentdb.com/api.php?amount=99"
+url = "https://opentdb.com/api.php?amount=10&category=23&type=multiple"
 
 api_get = requests.get(url)
 
