@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "question": "What is the German word for &quot;spoon&quot;?",
+            "options": {
+                "A": "L&ouml;ffel",
+                "B": "L\u00f6ffel",
+                "C": "Messer",
+                "D": "Gabel",
+                "E": "Essst&auml;bchen"
+            },
+            "true_answer": "L&ouml;ffel",
+            "correct_answer": "A"
+        }
+    ],
+    [
+        {
+            "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+            "options": {
+                "A": "Ad hominem",
+                "B": "Tu quoque",
+                "C": "Argumentum ad populum",
+                "D": "Post hoc ergo propter hoc",
+                "E": "Post hoc ergo propter hoc"
+            },
+            "true_answer": "Ad hominem",
+            "correct_answer": "A"
+        }
+    ],
+    [
+        {
+            "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+            "options": {
+                "A": "Vietnam War",
+                "B": "American Revolutionary War",
+                "C": "World War I",
+                "D": "World War II",
+                "E": "American Civil War"
+            },
+            "true_answer": "World War II",
+            "correct_answer": "D"
+        }
+    ],
+    [
+        {
+            "question": "Which of these companies does NOT manufacture automobiles?",
+            "options": {
+                "A": "Ducati",
+                "B": "Nissan",
+                "C": "GMC",
+                "D": "Nissan",
+                "E": "Fiat"
+            },
+            "true_answer": "Ducati",
+            "correct_answer": "A"
+        }
+    ],
+    [
+        {
+            "question": "What year was Apple Inc. founded?",
+            "options": {
+                "A": "1974",
+                "B": "1980",
+                "C": "1978",
+                "D": "1985",
+                "E": "1976"
+            },
+            "true_answer": "1976",
+            "correct_answer": "E"
+        }
+    ],
+    [
+        {
+            "question": "When was Hubba Bubba first introduced?",
+            "options": {
+                "A": "1984",
+                "B": "1979",
+                "C": "1980",
+                "D": "1972",
+                "E": "1950"
+            },
+            "true_answer": "1979",
+            "correct_answer": "B"
+        }
+    ],
+    [
+        {
+            "question": "What is the romanized Russian word for &quot;winter&quot;?",
+            "options": {
+                "A": "Vesna",
+                "B": "Zima",
+                "C": "Leto",
+                "D": "Leto",
+                "E": "Osen&#039;"
+            },
+            "true_answer": "Zima",
+            "correct_answer": "B"
+        }
+    ],
+    [
+        {
+            "question": "What is the romanized Russian word for &quot;winter&quot;?",
+            "options": {
+                "A": "Vesna",
+                "B": "Zima",
+                "C": "Leto",
+                "D": "Osen&#039;",
+                "E": "Leto"
+            },
+            "true_answer": "Zima",
+            "correct_answer": "B"
+        }
+    ],
+    [
+        {
+            "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+            "options": {
+                "A": "Ferrari",
+                "B": "Maserati",
+                "C": "Alfa Romeo",
+                "D": "Lamborghini",
+                "E": "Fiat"
+            },
+            "true_answer": "Fiat",
+            "correct_answer": "E"
+        }
+    ],
+    [
+        {
+            "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+            "options": {
+                "A": "Standing on his head",
+                "B": "Reciting pi to 100 digits",
+                "C": "Typing on a keyboard during a handstand",
+                "D": "Jumping over an office chair",
+                "E": "Jumping backwards over a desk"
+            },
+            "true_answer": "Jumping over an office chair",
+            "correct_answer": "D"
+        }
+    ]
+]

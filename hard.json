@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+            "options": {
+                "A": "Justin Bieber - Love Yourself",
+                "B": "Ed Sheeran - I See Fire",
+                "C": "Marvin Gaye - Sexual Healing",
+                "D": "a-ha - Take On Me",
+                "E": "Coldplay - Midnight"
+            },
+            "true_answer": "Ed Sheeran - I See Fire",
+            "correct_answer": "B"
+        }
+    ],
+    [
+        {
+            "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+            "options": {
+                "A": "Pug",
+                "B": "Bulldog",
+                "C": "Pug",
+                "D": "Yorkshire Terrier",
+                "E": "Boxer"
+            },
+            "true_answer": "Bulldog",
+            "correct_answer": "B"
+        }
+    ],
+    [
+        {
+            "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+            "options": {
+                "A": "Open Room",
+                "B": "Sitting Room",
+                "C": "Parlor",
+                "D": "Loft",
+                "E": "Drawing Room"
+            },
+            "true_answer": "Parlor",
+            "correct_answer": "C"
+        }
+    ],
+    [
+        {
+            "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+            "options": {
+                "A": "100",
+                "B": "200",
+                "C": "150",
+                "D": "155",
+                "E": "250"
+            },
+            "true_answer": "150",
+            "correct_answer": "C"
+        }
+    ],
+    [
+        {
+            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+            "options": {
+                "A": "Snake Pit",
+                "B": "The Tomb of the Acient&#039;s",
+                "C": "The Puppet Master&#039;s Theater",
+                "D": "The Shatter&#039;s",
+                "E": "Spider Den"
+            },
+            "true_answer": "The Shatter&#039;s",
+            "correct_answer": "D"
+        }
+    ]
+]
