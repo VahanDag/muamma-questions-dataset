@@ -39,12 +39,9 @@
 
 # print(y)
 
-def sayHello():
-  return "5115"
+import json
 
-data = {
-  "selam": 123,
-  "merhaba": sayHello()
-}
+data = {}
 
-print(data)
+with open("questions8.json","w") as file:
+  json.dump(data, file, indent=4)

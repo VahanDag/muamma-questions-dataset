@@ -1,128 +1,5282 @@
 [
-    [
-        {
-            "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-            "options": {
-                "A": "Donald Trump",
-                "B": "Bill Gates",
-                "C": "Richard Branson",
-                "D": "Alan Sugar",
-                "E": "Mark Zuckerberg"
-            },
-            "true_answer": "Richard Branson",
-            "correct_answer": "C"
-        }
-    ],
-    [
-        {
-            "question": "What machine element is located in the center of fidget spinners?",
-            "options": {
-                "A": "Bearings",
-                "B": "Belts",
-                "C": "Axles",
-                "D": "Wheels",
-                "E": "Gears"
-            },
-            "true_answer": "Bearings",
-            "correct_answer": "A"
-        }
-    ],
-    [
-        {
-            "question": "What is Tasmania?",
-            "options": {
-                "A": "A Psychological Disorder",
-                "B": "The Name of a Warner Brothers Cartoon Character",
-                "C": "An Australian State",
-                "D": "A flavor of Ben and Jerry&#039;s ice-cream",
-                "E": "A European Country"
-            },
-            "true_answer": "An Australian State",
-            "correct_answer": "C"
-        }
-    ],
-    [
-        {
-            "question": "The Canadian $1 coin is colloquially known as a what?",
-            "options": {
-                "A": "Boolie",
-                "B": "Foolie",
-                "C": "Moodie",
-                "D": "Loonie",
-                "E": "Toonie"
-            },
-            "true_answer": "Loonie",
-            "correct_answer": "D"
-        }
-    ],
-    [
-        {
-            "question": "Earth is located in which galaxy?",
-            "options": {
-                "A": "The Cosmic Latte Galaxy",
-                "B": "The Milky Way Galaxy",
-                "C": "The Black Hole",
-                "D": "The Galaxy Note",
-                "E": "The Mars Galaxy"
-            },
-            "true_answer": "The Milky Way Galaxy",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "What is the Spanish word for &quot;donkey&quot;?",
-            "options": {
-                "A": "Toro",
-                "B": "Caballo",
-                "C": "Burro",
-                "D": "Burro",
-                "E": "Perro"
-            },
-            "true_answer": "Burro",
-            "correct_answer": "C"
-        }
-    ],
-    [
-        {
-            "question": "When was the Playstation 3 released?",
-            "options": {
-                "A": "December 25, 2007",
-                "B": "July 16, 2006",
-                "C": "January 8, 2007",
-                "D": "January 8, 2007",
-                "E": "November 11, 2006"
-            },
-            "true_answer": "November 11, 2006",
-            "correct_answer": "E"
-        }
-    ],
-    [
-        {
-            "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
-            "options": {
-                "A": "The Mega Powers",
-                "B": "Demolition",
-                "C": "The Dream Team",
-                "D": "The British Bulldogs",
-                "E": "The Bushwhackers"
-            },
-            "true_answer": "Demolition",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "Which one of these is not a typical European sword design?",
-            "options": {
-                "A": "Falchion",
-                "B": "Ulfberht",
-                "C": "Scimitar",
-                "D": "Flamberge",
-                "E": "Katana"
-            },
-            "true_answer": "Scimitar",
-            "correct_answer": "C"
-        }
-    ]
+    {
+        "question": "What is the famous Papa John&#039;s last name?",
+        "options": {
+            "A": "Jackson",
+            "B": "Williams",
+            "C": "ANDERSON",
+            "D": "Chowder",
+            "E": "Schnatter"
+        },
+        "true_answer": "Schnatter",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is Cynophobia the fear of?",
+        "options": {
+            "A": "Dogs",
+            "B": "Germs",
+            "C": "Flying",
+            "D": "Birds",
+            "E": "Snakes"
+        },
+        "true_answer": "Dogs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "Henry Ford",
+            "B": "John Cadbury",
+            "C": "John Tyler",
+            "D": "Joseph Fry",
+            "E": "Andrew Johnson"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": " Hola",
+            "B": "Au Revoir",
+            "C": "Au Revoir",
+            "D": "Adi&oacute;s",
+            "E": "Salir"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "options": {
+            "A": "Gemini",
+            "B": "Libra",
+            "C": "Taurus",
+            "D": "Gemini",
+            "E": "Capricorn"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Octagon",
+            "B": "Circle",
+            "C": "Circle",
+            "D": "Hexagon",
+            "E": "Triangle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the nickname of the US state of California?",
+        "options": {
+            "A": "Golden State",
+            "B": "Treasure State",
+            "C": "Sunshine State",
+            "D": "Bayou State",
+            "E": "Bay State"
+        },
+        "true_answer": "Golden State",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is Tasmania?",
+        "options": {
+            "A": "The Name of a Warner Brothers Cartoon Character",
+            "B": "A Psychological Disorder",
+            "C": "A flavor of Ben and Jerry's ice-cream",
+            "D": "An Australian State",
+            "E": "A flavor of Ben and Jerry&#039;s ice-cream"
+        },
+        "true_answer": "An Australian State",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "options": {
+            "A": "2,546 ft",
+            "B": "2,722 ft",
+            "C": "2,546 ft",
+            "D": "3,024 ft",
+            "E": "2,717 ft"
+        },
+        "true_answer": "2,722 ft",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Moldova",
+            "B": "Denmark",
+            "C": "Czech Republic",
+            "D": "Wales",
+            "E": "Moldova"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which country, not including Japan, has the most people of japanese decent?",
+        "options": {
+            "A": "Brazil",
+            "B": "China",
+            "C": "United States of America",
+            "D": "South Korea",
+            "E": "Canada"
+        },
+        "true_answer": "Brazil",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Aries",
+            "B": "Libra",
+            "C": "Aquarius",
+            "D": "Capricorn",
+            "E": "Sagittarius"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "options": {
+            "A": "A sport",
+            "B": "A dance",
+            "C": "A type of fish",
+            "D": "A language",
+            "E": "A medical procedure"
+        },
+        "true_answer": "A dance",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "Polska",
+            "B": "Polszka",
+            "C": "P\u00falska",
+            "D": "P&oacute;land",
+            "E": "Pupcia"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "options": {
+            "A": "Lima",
+            "B": "Cali",
+            "C": "Bogot&aacute;",
+            "D": "Medell&iacute;n",
+            "E": "Quito"
+        },
+        "true_answer": "Medell&iacute;n",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Licorice",
+            "B": "Bubblegum",
+            "C": "Chocolate",
+            "D": "Lollipop",
+            "E": "Chocolate"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "November 27, 2006",
+            "B": "December 25, 2007",
+            "C": "January 8, 2007",
+            "D": "July 16, 2006",
+            "E": "November 11, 2006"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "Swiss Air",
+            "B": "British Airways",
+            "C": "United Airlines",
+            "D": "TWA",
+            "E": "Air France"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "options": {
+            "A": "Alan Sugar",
+            "B": "Donald Trump",
+            "C": "Richard Branson",
+            "D": "Bill Gates",
+            "E": "Elon Musk"
+        },
+        "true_answer": "Richard Branson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Spider-Man 2",
+            "B": "Howard the Duck",
+            "C": "Wolverine: Adamantium Rage",
+            "D": "Howard the Duck",
+            "E": "Silver Surfer"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Notebook",
+            "B": "Money",
+            "C": "Keys",
+            "D": "Watch",
+            "E": "Handkerchief"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "Greenwich Mean Time",
+            "B": "Glasgow Man Time",
+            "C": "Global Meridian Time",
+            "D": "General Median Time",
+            "E": "Glasgow Man Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Source",
+            "B": "Lie",
+            "C": "Truth",
+            "D": "Answer",
+            "E": "Cause"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is not the host of a program on NPR?",
+        "options": {
+            "A": "Ben Shapiro",
+            "B": "Peter Sagal",
+            "C": "Terry Gross",
+            "D": "Ben Shapiro",
+            "E": "Ira Glass"
+        },
+        "true_answer": "Ben Shapiro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Elul",
+            "B": "Succoss",
+            "C": "New Year",
+            "D": "Rosh Hashanah",
+            "E": "Elul"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "options": {
+            "A": "Mars",
+            "B": "Venus",
+            "C": "Jupiter",
+            "D": "Mercury",
+            "E": "Earth"
+        },
+        "true_answer": "Mercury",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Earth is located in which galaxy?",
+        "options": {
+            "A": "The Mars Galaxy",
+            "B": "The Mars Galaxy",
+            "C": "The Black Hole",
+            "D": "The Milky Way Galaxy",
+            "E": "The Galaxy Note"
+        },
+        "true_answer": "The Milky Way Galaxy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Area 51 is located in which US state?",
+        "options": {
+            "A": "New Mexico",
+            "B": "Nevada",
+            "C": "Utah",
+            "D": "Arizona",
+            "E": "California"
+        },
+        "true_answer": "Nevada",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Virgo",
+            "B": "Libra",
+            "C": "Sagittarius",
+            "D": "Aries",
+            "E": "Cancer"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "options": {
+            "A": "Peter Benchley",
+            "B": "Michael Crichton",
+            "C": "Irvine Welsh",
+            "D": "J.K. Rowling",
+            "E": "Chuck Paluhniuk"
+        },
+        "true_answer": "Michael Crichton",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which candy is NOT made by Mars?",
+        "options": {
+            "A": "Snickers",
+            "B": "M&amp;M&#039;s",
+            "C": "Skittles",
+            "D": "Twix",
+            "E": "Almond Joy"
+        },
+        "true_answer": "Almond Joy",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Green",
+            "B": "Blue",
+            "C": "Orange",
+            "D": "Red",
+            "E": "Yellow"
+        },
+        "true_answer": "Green",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "Theodore Roosevelt",
+            "B": "Abraham Lincoln",
+            "C": "Thomas Jefferson",
+            "D": "John F. Kennedy",
+            "E": "John F. Kennedy"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "escargot",
+            "B": "fiche",
+            "C": "poisson",
+            "D": "fiche",
+            "E": "mer"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Silk",
+            "B": "Cotton",
+            "C": "Straw",
+            "D": "Hemp",
+            "E": "Flax"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "options": {
+            "A": "Green",
+            "B": "Yellow",
+            "C": "Blue",
+            "D": "Pink",
+            "E": "Red"
+        },
+        "true_answer": "Pink",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In which fast food chain can you order a Jamocha Shake?",
+        "options": {
+            "A": "Arby&#039;s",
+            "B": "Wendy&#039;s",
+            "C": "McDonald&#039;s",
+            "D": "Burger King",
+            "E": "Subway"
+        },
+        "true_answer": "Arby&#039;s",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "Abraham Lincoln",
+            "C": "George Washington",
+            "D": "Thomas Jefferson",
+            "E": "Benjamin Franklin"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the French word for &quot;hat&quot;?",
+        "options": {
+            "A": "Bonnet",
+            "B": " &Eacute;charpe",
+            "C": " Casque",
+            "D": "Chapeau",
+            "E": "Chaussure"
+        },
+        "true_answer": "Chapeau",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": {
+            "A": "Spanish",
+            "B": "Brazilian",
+            "C": "English",
+            "D": "Portugese",
+            "E": "Spanglish"
+        },
+        "true_answer": "Portugese",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "options": {
+            "A": "Fish",
+            "B": "Fish",
+            "C": "Twins",
+            "D": "Scales",
+            "E": "Maiden"
+        },
+        "true_answer": "Twins",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "options": {
+            "A": "Lift",
+            "B": "Weight",
+            "C": "Weight",
+            "D": "Thrust",
+            "E": "Drag"
+        },
+        "true_answer": "Lift",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "options": {
+            "A": "Tiger",
+            "B": "Gorilla",
+            "C": "Panda",
+            "D": "Elephant",
+            "E": "Crocodile"
+        },
+        "true_answer": "Gorilla",
+        "correct_answer": "B"
+    },
+    {
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "options": {
+            "A": "20",
+            "B": "16",
+            "C": "12",
+            "D": "15",
+            "E": "19"
+        },
+        "true_answer": "19",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "Boston Beer Company",
+            "B": "D. G. Yuengling and Son, Inc",
+            "C": "Anheuser Busch",
+            "D": "Corona",
+            "E": "Miller Coors"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "John F. Kennedy",
+            "B": "Thomas Jefferson",
+            "C": "Abraham Lincoln",
+            "D": "John F. Kennedy",
+            "E": "Theodore Roosevelt"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How many furlongs are there in a mile?",
+        "options": {
+            "A": "Four",
+            "B": "Ten",
+            "C": "Eight",
+            "D": "Two",
+            "E": "Six"
+        },
+        "true_answer": "Eight",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "India",
+            "B": "Hong Kong",
+            "C": "New Zealand",
+            "D": "Canada",
+            "E": "South Africa"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Triangle",
+            "B": "Square",
+            "C": "Octagon",
+            "D": "Hexagon",
+            "E": "Circle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Belief",
+            "B": "Source",
+            "C": "Truth",
+            "D": "Answer",
+            "E": "Cause"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "options": {
+            "A": "Bogot&aacute;",
+            "B": "Medell&iacute;n",
+            "C": "Cali",
+            "D": "Quito",
+            "E": "Lima"
+        },
+        "true_answer": "Medell&iacute;n",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the French word for &quot;hat&quot;?",
+        "options": {
+            "A": " &Eacute;charpe",
+            "B": " Casque",
+            "C": "Bonnet",
+            "D": "Chapeau",
+            "E": "Bonnet"
+        },
+        "true_answer": "Chapeau",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "options": {
+            "A": "Designer clothing",
+            "B": "Unreleased film reels",
+            "C": "Wax sculptures",
+            "D": "Vintage cars",
+            "E": "Live animals"
+        },
+        "true_answer": "Wax sculptures",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "Glasgow Man Time",
+            "B": "General Median Time",
+            "C": "General Median Time",
+            "D": "Greenwich Mean Time",
+            "E": "Global Meridian Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "options": {
+            "A": "2,546 ft",
+            "B": "2,722 ft",
+            "C": "3,024 ft",
+            "D": "2,546 ft",
+            "E": "2,717 ft"
+        },
+        "true_answer": "2,722 ft",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Money",
+            "B": "Watch",
+            "C": "Keys",
+            "D": "Notebook",
+            "E": "Toothbrush"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "options": {
+            "A": "Kibbled Freaky Cow",
+            "B": "Kentucky Fresh Cheese",
+            "C": "Kiwi Food Cut",
+            "D": "Kentucky Fresh Cheese",
+            "E": "Kentucky Fried Chicken"
+        },
+        "true_answer": "Kentucky Fried Chicken",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+        "options": {
+            "A": "Wings",
+            "B": "Intestines",
+            "C": "Liver",
+            "D": "Heart",
+            "E": "Stomach"
+        },
+        "true_answer": "Liver",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "Swiss Air",
+            "B": "TWA",
+            "C": "British Airways",
+            "D": "Air France",
+            "E": "Pan American Airlines"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which one of these is not a typical European sword design?",
+        "options": {
+            "A": "Scimitar",
+            "B": "Scimitar",
+            "C": "Ulfberht",
+            "D": "Falchion",
+            "E": "Flamberge"
+        },
+        "true_answer": "Scimitar",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "options": {
+            "A": "Microsoft",
+            "B": "Google",
+            "C": "Razer",
+            "D": "Oculus",
+            "E": "HTC"
+        },
+        "true_answer": "HTC",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "pomme",
+            "B": "mer",
+            "C": "fiche",
+            "D": "poisson",
+            "E": "escargot"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Toonie",
+            "B": "Moodie",
+            "C": "Foolie",
+            "D": "Boolie",
+            "E": "Loonie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "E"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "7",
+            "B": "8",
+            "C": "10",
+            "D": "6",
+            "E": "9"
+        },
+        "true_answer": "7",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Sword",
+            "B": "Cellphone",
+            "C": "Pen",
+            "D": "Pen",
+            "E": "Key"
+        },
+        "true_answer": "Key",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the first ever London Underground line to be built?",
+        "options": {
+            "A": "Victoria Line",
+            "B": "Circle Line",
+            "C": "Metropolitan Line",
+            "D": "Northern Line",
+            "E": "Bakerloo Line"
+        },
+        "true_answer": "Metropolitan Line",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "July 16, 2006",
+            "B": "November 11, 2006",
+            "C": "January 8, 2007",
+            "D": "December 25, 2007",
+            "E": "June 12, 2006"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "options": {
+            "A": "Sega",
+            "B": "Crypton Future Media",
+            "C": "Sony",
+            "D": "Crypton Future Media",
+            "E": "Yamaha Corporation"
+        },
+        "true_answer": "Crypton Future Media",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "options": {
+            "A": "Caballo",
+            "B": "Burro",
+            "C": "Toro",
+            "D": "Gato",
+            "E": "Perro"
+        },
+        "true_answer": "Burro",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "options": {
+            "A": "Space Capsule",
+            "B": "Jet",
+            "C": "Stealth Blimp",
+            "D": "Rocket",
+            "E": "Helicopter"
+        },
+        "true_answer": "Helicopter",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Secure",
+            "B": "Single",
+            "C": "Solid",
+            "D": "Subscriber",
+            "E": "Strong"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "options": {
+            "A": "Franklin D. Roosevelt",
+            "B": "Martin Van Buren",
+            "C": "John Quincy Adams",
+            "D": "Ulysses Grant",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "Thomas Jefferson",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "options": {
+            "A": "The League of Gentlemen&lrm;",
+            "B": "The Penny Dreadfuls",
+            "C": "Monty Python",
+            "D": "The Penny Dreadfuls",
+            "E": "The Goodies&lrm;"
+        },
+        "true_answer": "Monty Python",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "options": {
+            "A": "Fish",
+            "B": "Twins",
+            "C": "Scales",
+            "D": "Maiden",
+            "E": "Maiden"
+        },
+        "true_answer": "Twins",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "options": {
+            "A": "Gemini",
+            "B": "Capricorn",
+            "C": "Taurus",
+            "D": "Libra",
+            "E": "Taurus"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "100",
+            "B": "33",
+            "C": "69",
+            "D": "25",
+            "E": "50"
+        },
+        "true_answer": "100",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Red",
+            "B": "Purple",
+            "C": "Green",
+            "D": "Blue",
+            "E": "Yellow"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What alcoholic drink is made from molasses?",
+        "options": {
+            "A": "Vodka",
+            "B": "Tequila",
+            "C": "Whisky",
+            "D": "Gin",
+            "E": "Rum"
+        },
+        "true_answer": "Rum",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Red",
+            "B": "Blue",
+            "C": "Green",
+            "D": "Yellow",
+            "E": "Purple"
+        },
+        "true_answer": "Green",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Single",
+            "B": "Subscriber",
+            "C": "Solid",
+            "D": "Secure",
+            "E": "Stealth"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "options": {
+            "A": "The Goodies",
+            "B": "Monty Python",
+            "C": "The Goodies&lrm;",
+            "D": "The League of Gentlemen&lrm;",
+            "E": "The Penny Dreadfuls"
+        },
+        "true_answer": "Monty Python",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Stanford",
+            "B": "Stanford",
+            "C": "Princeton",
+            "D": "University of Pennsylvania",
+            "E": "Harvard"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "options": {
+            "A": "Oculus",
+            "B": "Razer",
+            "C": "HTC",
+            "D": "Samsung",
+            "E": "Google"
+        },
+        "true_answer": "HTC",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "South Africa",
+            "B": "India",
+            "C": "Canada",
+            "D": "Hong Kong",
+            "E": "New Zealand"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Watch",
+            "B": "Phone",
+            "C": "Keys",
+            "D": "Notebook",
+            "E": "Money"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "options": {
+            "A": "The British Bulldogs",
+            "B": "Demolition",
+            "C": "The Dream Team",
+            "D": "The Bushwhackers",
+            "E": "The Rockers"
+        },
+        "true_answer": "Demolition",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does a funambulist walk on?",
+        "options": {
+            "A": "A Banana Peel",
+            "B": "Broken Glass",
+            "C": "A Tight Rope",
+            "D": "Balls",
+            "E": "The Moon"
+        },
+        "true_answer": "A Tight Rope",
+        "correct_answer": "C"
+    },
+    {
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "options": {
+            "A": "Smoking",
+            "B": "Smoking",
+            "C": "Slacking",
+            "D": "Cheating",
+            "E": "Stealing"
+        },
+        "true_answer": "Slacking",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "Andrew Johnson",
+            "B": "John Cadbury",
+            "C": "Joseph Fry",
+            "D": "John Tyler",
+            "E": "Andrew Johnson"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In which fast food chain can you order a Jamocha Shake?",
+        "options": {
+            "A": "Taco Bell",
+            "B": "Arby&#039;s",
+            "C": "Wendy&#039;s",
+            "D": "McDonald&#039;s",
+            "E": "Burger King"
+        },
+        "true_answer": "Arby&#039;s",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "options": {
+            "A": "Lion",
+            "B": "Panda",
+            "C": "Tiger",
+            "D": "Gorilla",
+            "E": "Crocodile"
+        },
+        "true_answer": "Gorilla",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Boolie",
+            "B": "Foolie",
+            "C": "Loonie",
+            "D": "Joonie",
+            "E": "Moodie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Moldova",
+            "B": "Moldova",
+            "C": "Czech Republic",
+            "D": "Denmark",
+            "E": "Wales"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "options": {
+            "A": "Look",
+            "B": "Print",
+            "C": "Copy",
+            "D": "Digest",
+            "E": "Read"
+        },
+        "true_answer": "Print",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "options": {
+            "A": "Quito",
+            "B": "Bogot&aacute;",
+            "C": "Medell&iacute;n",
+            "D": "Cali",
+            "E": "Lima"
+        },
+        "true_answer": "Medell&iacute;n",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which candy is NOT made by Mars?",
+        "options": {
+            "A": "Almond Joy",
+            "B": "Reese's",
+            "C": "Snickers",
+            "D": "M&amp;M&#039;s",
+            "E": "Twix"
+        },
+        "true_answer": "Almond Joy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "Pupcia",
+            "B": "P&oacuteland",
+            "C": "P&oacute;land",
+            "D": "Polszka",
+            "E": "Polska"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+        "options": {
+            "A": "Heart",
+            "B": "Brain",
+            "C": "Liver",
+            "D": "Stomach",
+            "E": "Intestines"
+        },
+        "true_answer": "Liver",
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "options": {
+            "A": "Watermelon",
+            "B": "Pear",
+            "C": "Peach",
+            "D": "Plum",
+            "E": "Apple"
+        },
+        "true_answer": "Plum",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Red",
+            "D": "Yellow",
+            "E": "Purple"
+        },
+        "true_answer": "Green",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "options": {
+            "A": "Albert Einstein",
+            "B": "Lawrence Bragg",
+            "C": "Malala Yousafzai",
+            "D": "Werner Heisenberg",
+            "E": "Yasser Arafat"
+        },
+        "true_answer": "Malala Yousafzai",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "options": {
+            "A": "MAN",
+            "B": "LHR",
+            "C": "EGLL",
+            "D": "EGCC",
+            "E": "EGLL"
+        },
+        "true_answer": "MAN",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "large Intestine",
+            "B": "Liver",
+            "C": "Heart",
+            "D": "Kidney",
+            "E": "Skin"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Cancer",
+            "B": "Virgo",
+            "C": "Sagittarius",
+            "D": "Libra",
+            "E": "Leo"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "A"
+    },
+    {
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "options": {
+            "A": "19",
+            "B": "20",
+            "C": "19",
+            "D": "15",
+            "E": "12"
+        },
+        "true_answer": "19",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "options": {
+            "A": "A sport",
+            "B": "A medical procedure",
+            "C": "A language",
+            "D": "A cooking technique",
+            "E": "A dance"
+        },
+        "true_answer": "A dance",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "options": {
+            "A": "Gato",
+            "B": "Perro",
+            "C": "Toro",
+            "D": "Caballo",
+            "E": "Burro"
+        },
+        "true_answer": "Burro",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Key",
+            "B": "Cellphone",
+            "C": "Pen",
+            "D": "Sword",
+            "E": "Phone"
+        },
+        "true_answer": "Key",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "TWA",
+            "B": "Swiss Air",
+            "C": "British Airways",
+            "D": "Lufthansa",
+            "E": "Air France"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Benjamin Franklin",
+            "B": "Thomas Jefferson",
+            "C": "George Washington",
+            "D": "Abraham Lincoln",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "John F. Kennedy",
+            "B": "John F. Kennedy",
+            "C": "Abraham Lincoln",
+            "D": "Thomas Jefferson",
+            "E": "Theodore Roosevelt"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is Tasmania?",
+        "options": {
+            "A": "The Name of a Warner Brothers Cartoon Character",
+            "B": "A flavor of Ben and Jerry&#039;s ice-cream",
+            "C": "A Psychological Disorder",
+            "D": "An Australian State",
+            "E": "A Psychological Disorder"
+        },
+        "true_answer": "An Australian State",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Truth",
+            "B": "Source",
+            "C": "Cause",
+            "D": "Answer",
+            "E": "Conclusion"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "British Airways",
+            "B": "TWA",
+            "C": "Air France",
+            "D": "Swiss Air",
+            "E": "American Airlines"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Licorice",
+            "B": "Bubblegum",
+            "C": "Lollipop",
+            "D": "Chocolate",
+            "E": "Chewing Gum"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "options": {
+            "A": "Thin Duck",
+            "B": "Fat Man",
+            "C": "Noah&#039;s Ark",
+            "D": "Trojan Horse",
+            "E": "Spruce Goose"
+        },
+        "true_answer": "Spruce Goose",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "14",
+            "B": "12",
+            "C": "16",
+            "D": "8",
+            "E": "10"
+        },
+        "true_answer": "12",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is Tasmania?",
+        "options": {
+            "A": "The Name of a Warner Brothers Cartoon Character",
+            "B": "A flavor of Ben and Jerry&#039;s ice-cream",
+            "C": "An Australian State",
+            "D": "A Psychological Disorder",
+            "E": "A flavor of Ben and Jerry's ice-cream"
+        },
+        "true_answer": "An Australian State",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Rosh Hashanah",
+            "B": "Yom Kippur",
+            "C": "Elul",
+            "D": "Succoss",
+            "E": "New Year"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "options": {
+            "A": "Capricorn",
+            "B": "Libra",
+            "C": "Taurus",
+            "D": "Gemini",
+            "E": "Taurus"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "options": {
+            "A": "John Quincy Adams",
+            "B": "Martin Van Buren",
+            "C": "Franklin D. Roosevelt",
+            "D": "Ulysses Grant",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "Thomas Jefferson",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "options": {
+            "A": "Jupiter",
+            "B": "Mercury",
+            "C": "Earth",
+            "D": "Mars",
+            "E": "Venus"
+        },
+        "true_answer": "Mercury",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "John Tyler",
+            "B": "Abraham Lincoln",
+            "C": "Andrew Johnson",
+            "D": "Joseph Fry",
+            "E": "John Cadbury"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "options": {
+            "A": "A dance",
+            "B": "A sport",
+            "C": "A language",
+            "D": "A medical procedure",
+            "E": "A medical procedure"
+        },
+        "true_answer": "A dance",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Cause",
+            "B": "Answer",
+            "C": "Source",
+            "D": "Evidence",
+            "E": "Truth"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "options": {
+            "A": "Jet",
+            "B": "Space Capsule",
+            "C": "Helicopter",
+            "D": "Stealth Blimp",
+            "E": "Stealth Blimp"
+        },
+        "true_answer": "Helicopter",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": "Au Revoir",
+            "B": "Hola",
+            "C": "Adi&oacute;s",
+            "D": "Salir",
+            "E": " Hola"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Hexagon",
+            "B": "Rectangle",
+            "C": "Octagon",
+            "D": "Triangle",
+            "E": "Circle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "options": {
+            "A": "2,717 ft",
+            "B": "2,715 ft",
+            "C": "3,024 ft",
+            "D": "2,546 ft",
+            "E": "2,722 ft"
+        },
+        "true_answer": "2,722 ft",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Virgo",
+            "B": "Libra",
+            "C": "Scorpio",
+            "D": "Cancer",
+            "E": "Sagittarius"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "options": {
+            "A": "MAN",
+            "B": "LHR",
+            "C": "EGCC",
+            "D": "LHR",
+            "E": "EGLL"
+        },
+        "true_answer": "MAN",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was the first ever London Underground line to be built?",
+        "options": {
+            "A": "Northern Line",
+            "B": "Metropolitan Line",
+            "C": "Victoria Line",
+            "D": "Circle Line",
+            "E": "Bakerloo Line"
+        },
+        "true_answer": "Metropolitan Line",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "options": {
+            "A": "Blue",
+            "B": "Purple",
+            "C": "Red",
+            "D": "Green",
+            "E": "Yellow"
+        },
+        "true_answer": "Green",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "options": {
+            "A": "Cali",
+            "B": "Medell&iacute;n",
+            "C": "Quito",
+            "D": "Bogot&aacute;",
+            "E": "Caracas"
+        },
+        "true_answer": "Medell&iacute;n",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Czech Republic",
+            "B": "Czech Republic",
+            "C": "Moldova",
+            "D": "Wales",
+            "E": "Denmark"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "options": {
+            "A": "Bill Gates",
+            "B": "Elon Musk",
+            "C": "Donald Trump",
+            "D": "Richard Branson",
+            "E": "Alan Sugar"
+        },
+        "true_answer": "Richard Branson",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "options": {
+            "A": "Google",
+            "B": "Razer",
+            "C": "Samsung",
+            "D": "Oculus",
+            "E": "HTC"
+        },
+        "true_answer": "HTC",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Flax",
+            "B": "Silk",
+            "C": "Straw",
+            "D": "Hemp",
+            "E": "Cotton"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "P&oacute;land",
+            "B": "Polska",
+            "C": "Polszka",
+            "D": "P&oacute;land",
+            "E": "Pupcia"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "Glasgow Man Time",
+            "B": "General Median Time",
+            "C": "Global Meridian Time",
+            "D": "Greenwich Main Time",
+            "E": "Greenwich Mean Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "options": {
+            "A": "7th",
+            "B": "4th",
+            "C": "6th",
+            "D": "2nd",
+            "E": "5th"
+        },
+        "true_answer": "6th",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": {
+            "A": "English",
+            "B": "Portugese",
+            "C": "Spanish",
+            "D": "Brazilian",
+            "E": "French"
+        },
+        "true_answer": "Portugese",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "options": {
+            "A": "Irvine Welsh",
+            "B": "Michael Crichton",
+            "C": "Peter Benchley",
+            "D": "Chuck Paluhniuk",
+            "E": "Peter Benchley"
+        },
+        "true_answer": "Michael Crichton",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "options": {
+            "A": "Sonic",
+            "B": "Whataburger",
+            "C": "McDonald&#039;s",
+            "D": "Taco Bell",
+            "E": "Burger King"
+        },
+        "true_answer": "McDonald&#039;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "George Washington",
+            "C": "Benjamin Franklin",
+            "D": "Thomas Jefferson",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "mer",
+            "B": "fiche",
+            "C": "poisson",
+            "D": "escargot",
+            "E": "table"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Howard the Duck",
+            "B": "Wolverine: Adamantium Rage",
+            "C": "Howard the Duck",
+            "D": "Spider-Man 2",
+            "E": "Silver Surfer"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "options": {
+            "A": "Peach",
+            "B": "Pear",
+            "C": "Apple",
+            "D": "Banana",
+            "E": "Plum"
+        },
+        "true_answer": "Plum",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Subscriber",
+            "B": "Securely",
+            "C": "Single",
+            "D": "Solid",
+            "E": "Secure"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Money",
+            "B": "Keys",
+            "C": "Watch",
+            "D": "Mobile Phone",
+            "E": "Notebook"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Death Star",
+            "B": "Millenium Falcon",
+            "C": "Big Eye",
+            "D": "Hubble Space Telescope",
+            "E": "Little Eye"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Princeton",
+            "B": "Harvard",
+            "C": "Stanford",
+            "D": "University of Pennsylvania",
+            "E": "Stanford"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Blue",
+            "B": "Red",
+            "C": "Yellow",
+            "D": "Green",
+            "E": "Purple"
+        },
+        "true_answer": "Green",
+        "correct_answer": "D"
+    },
+    {
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "options": {
+            "A": "Slacking",
+            "B": "Cheating",
+            "C": "Smoking",
+            "D": "Smoking",
+            "E": "Stealing"
+        },
+        "true_answer": "Slacking",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "options": {
+            "A": "Professor",
+            "B": "Musician",
+            "C": "Engineer",
+            "D": "Model",
+            "E": "Biologist"
+        },
+        "true_answer": "Model",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "options": {
+            "A": "Big Bird",
+            "B": "Spruce Goose",
+            "C": "Trojan Horse",
+            "D": "Fat Man",
+            "E": "Noah&#039;s Ark"
+        },
+        "true_answer": "Spruce Goose",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What was the first ever London Underground line to be built?",
+        "options": {
+            "A": "Metropolitan Line",
+            "B": "Bakerloo Line",
+            "C": "Circle Line",
+            "D": "Victoria Line",
+            "E": "Central Line"
+        },
+        "true_answer": "Metropolitan Line",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "options": {
+            "A": "Fish",
+            "B": "Twins",
+            "C": "Maiden",
+            "D": "Scales",
+            "E": "Fish"
+        },
+        "true_answer": "Twins",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "9",
+            "B": "6",
+            "C": "10",
+            "D": "8",
+            "E": "7"
+        },
+        "true_answer": "7",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What alcoholic drink is made from molasses?",
+        "options": {
+            "A": "Vodka",
+            "B": "Tequila",
+            "C": "Rum",
+            "D": "Gin",
+            "E": "Whisky"
+        },
+        "true_answer": "Rum",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Czech Republic",
+            "B": "Denmark",
+            "C": "Moldova",
+            "D": "Moldova",
+            "E": "Wales"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+        "options": {
+            "A": "Cone",
+            "B": "Cylinder",
+            "C": "Pyramid",
+            "D": "Cube",
+            "E": "Sphere"
+        },
+        "true_answer": "Cube",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "options": {
+            "A": "HTC",
+            "B": "Google",
+            "C": "Oculus",
+            "D": "Sony",
+            "E": "Razer"
+        },
+        "true_answer": "HTC",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "Steve Jobs",
+            "B": "John Tyler",
+            "C": "John Cadbury",
+            "D": "Andrew Johnson",
+            "E": "Joseph Fry"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Rosh Hashanah",
+            "B": "Hanukkah",
+            "C": "Elul",
+            "D": "Succoss",
+            "E": "New Year"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is Tasmania?",
+        "options": {
+            "A": "A Psychological Disorder",
+            "B": "An Australian State",
+            "C": "The Name of a Warner Brothers Cartoon Character",
+            "D": "A flavor of Ben and Jerry&#039;s ice-cream",
+            "E": "An African Country"
+        },
+        "true_answer": "An Australian State",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Moodie",
+            "B": "Loonie",
+            "C": "Boolie",
+            "D": "Doonie",
+            "E": "Foolie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is Cynophobia the fear of?",
+        "options": {
+            "A": "Dogs",
+            "B": "Germs",
+            "C": "Birds",
+            "D": "Cats",
+            "E": "Flying"
+        },
+        "true_answer": "Dogs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "options": {
+            "A": "Wax sculptures",
+            "B": "Ancient artifacts",
+            "C": "Vintage cars",
+            "D": "Designer clothing",
+            "E": "Unreleased film reels"
+        },
+        "true_answer": "Wax sculptures",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "Skin",
+            "B": "Liver",
+            "C": "large Intestine",
+            "D": "Lungs",
+            "E": "Heart"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "options": {
+            "A": "Peter Benchley",
+            "B": "Irvine Welsh",
+            "C": "Chuck Paluhniuk",
+            "D": "Michael Crichton",
+            "E": "George Orwell"
+        },
+        "true_answer": "Michael Crichton",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Death Star",
+            "B": "Big Eye",
+            "C": "Hubble Space Telescope",
+            "D": "Death Star",
+            "E": "Millenium Falcon"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "options": {
+            "A": "2nd",
+            "B": "7th",
+            "C": "4th",
+            "D": "6th",
+            "E": "3rd"
+        },
+        "true_answer": "6th",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Silver Surfer",
+            "B": "Wolverine: Adamantium Rage",
+            "C": "Silver Surfer",
+            "D": "Spider-Man 2",
+            "E": "Howard the Duck"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "options": {
+            "A": "Libra",
+            "B": "Gemini",
+            "C": "Taurus",
+            "D": "Capricorn",
+            "E": "Taurus"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Licorice",
+            "B": "Lollipop",
+            "C": "Toffee",
+            "D": "Chocolate",
+            "E": "Bubblegum"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What machine element is located in the center of fidget spinners?",
+        "options": {
+            "A": "Belts",
+            "B": "Axles",
+            "C": "Springs",
+            "D": "Bearings",
+            "E": "Gears"
+        },
+        "true_answer": "Bearings",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Yellow",
+            "B": "Red",
+            "C": "Purple",
+            "D": "Green",
+            "E": "Blue"
+        },
+        "true_answer": "Green",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Blue",
+            "B": "Red",
+            "C": "Green",
+            "D": "Orange",
+            "E": "Yellow"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "E"
+    },
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "options": {
+            "A": "2,722 ft",
+            "B": "2,546 ft",
+            "C": "2,719 ft",
+            "D": "2,717 ft",
+            "E": "3,024 ft"
+        },
+        "true_answer": "2,722 ft",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Area 51 is located in which US state?",
+        "options": {
+            "A": "New Mexico",
+            "B": "Colorado",
+            "C": "Nevada",
+            "D": "Arizona",
+            "E": "Utah"
+        },
+        "true_answer": "Nevada",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "12",
+            "B": "8",
+            "C": "14",
+            "D": "16",
+            "E": "10"
+        },
+        "true_answer": "12",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "50",
+            "B": "100",
+            "C": "25",
+            "D": "69",
+            "E": "500"
+        },
+        "true_answer": "100",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "options": {
+            "A": "MAN",
+            "B": "EGLL",
+            "C": "EGLL",
+            "D": "LHR",
+            "E": "EGCC"
+        },
+        "true_answer": "MAN",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "John F. Kennedy",
+            "B": "John F. Kennedy",
+            "C": "Theodore Roosevelt",
+            "D": "Thomas Jefferson",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "November 11, 2006",
+            "B": "December 25, 2007",
+            "C": "February 29, 2007",
+            "D": "July 16, 2006",
+            "E": "January 8, 2007"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following blood component forms a plug at the site of injuries?",
+        "options": {
+            "A": "Platelets",
+            "B": "White blood cells",
+            "C": "Blood plasma",
+            "D": "Blood plasma",
+            "E": "Red blood cells"
+        },
+        "true_answer": "Platelets",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Aries",
+            "B": "Sagittarius",
+            "C": "Libra",
+            "D": "Gemini",
+            "E": "Capricorn"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "options": {
+            "A": "Donald Trump",
+            "B": "Alan Sugar",
+            "C": "Bill Gates",
+            "D": "Richard Branson",
+            "E": "Steve Jobs"
+        },
+        "true_answer": "Richard Branson",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Thomas Jefferson",
+            "B": "George Washington",
+            "C": "John F. Kennedy",
+            "D": "Benjamin Franklin",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "options": {
+            "A": "Musician",
+            "B": "Biologist",
+            "C": "Professor",
+            "D": "Singer",
+            "E": "Model"
+        },
+        "true_answer": "Model",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Strong",
+            "B": "Secure",
+            "C": "Single",
+            "D": "Subscriber",
+            "E": "Solid"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Thomas Jefferson",
+            "B": "Benjamin Franklin",
+            "C": "Abraham Lincoln",
+            "D": "Abraham Lincoln",
+            "E": "George Washington"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Notebook",
+            "B": "Watch",
+            "C": "Money",
+            "D": "Keys",
+            "E": "Cellphone"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "options": {
+            "A": "Stephen King",
+            "B": "Michael Crichton",
+            "C": "Irvine Welsh",
+            "D": "Chuck Paluhniuk",
+            "E": "Peter Benchley"
+        },
+        "true_answer": "Michael Crichton",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "options": {
+            "A": "Spruce Goose",
+            "B": "Fat Man",
+            "C": "Noah&#039;s Ark",
+            "D": "Woodchuck",
+            "E": "Trojan Horse"
+        },
+        "true_answer": "Spruce Goose",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "Anheuser Busch",
+            "B": "Pabst Brewing Company",
+            "C": "Boston Beer Company",
+            "D": "Miller Coors",
+            "E": "D. G. Yuengling and Son, Inc"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Subscriber",
+            "B": "Sturdy",
+            "C": "Secure",
+            "D": "Single",
+            "E": "Solid"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which country, not including Japan, has the most people of japanese decent?",
+        "options": {
+            "A": "China",
+            "B": "North Korea",
+            "C": "United States of America",
+            "D": "Brazil",
+            "E": "South Korea"
+        },
+        "true_answer": "Brazil",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Stanford",
+            "B": "Stanford",
+            "C": "Princeton",
+            "D": "University of Pennsylvania",
+            "E": "Harvard"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the famous Papa John&#039;s last name?",
+        "options": {
+            "A": "Schnatter",
+            "B": "Jefferson",
+            "C": "ANDERSON",
+            "D": "Williams",
+            "E": "Chowder"
+        },
+        "true_answer": "Schnatter",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the nickname of the US state of California?",
+        "options": {
+            "A": "Golden State",
+            "B": "Sunshine State",
+            "C": "Bay State",
+            "D": "Treasure State",
+            "E": "Bay State"
+        },
+        "true_answer": "Golden State",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+        "options": {
+            "A": "Cube",
+            "B": "Pyramid",
+            "C": "Cylinder",
+            "D": "Cone",
+            "E": "Sphere"
+        },
+        "true_answer": "Cube",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "Theodore Roosevelt",
+            "B": "Abraham Lincoln",
+            "C": "John F. Kennedy",
+            "D": "John F. Kennedy",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Foolie",
+            "B": "Loonie",
+            "C": "Loonie",
+            "D": "Moodie",
+            "E": "Boolie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many furlongs are there in a mile?",
+        "options": {
+            "A": "Two",
+            "B": "Six",
+            "C": "Ten",
+            "D": "Eight",
+            "E": "Four"
+        },
+        "true_answer": "Eight",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "Lufthansa",
+            "B": "TWA",
+            "C": "British Airways",
+            "D": "Swiss Air",
+            "E": "Air France"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following blood component forms a plug at the site of injuries?",
+        "options": {
+            "A": "White blood cells",
+            "B": "Red blood cells",
+            "C": "Platelets",
+            "D": "Blood plasma",
+            "E": "Blood plasma"
+        },
+        "true_answer": "Platelets",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Elul",
+            "B": "Succoss",
+            "C": "Succoss",
+            "D": "Rosh Hashanah",
+            "E": "New Year"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "options": {
+            "A": "4th",
+            "B": "2nd",
+            "C": "5th",
+            "D": "7th",
+            "E": "6th"
+        },
+        "true_answer": "6th",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "options": {
+            "A": "Twister",
+            "B": "Munchkin",
+            "C": "Twister",
+            "D": "Uno",
+            "E": "Go Fish"
+        },
+        "true_answer": "Uno",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "Heart",
+            "B": "Liver",
+            "C": "Skin",
+            "D": "Brain",
+            "E": "large Intestine"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "options": {
+            "A": "Werner Heisenberg",
+            "B": "Malala Yousafzai",
+            "C": "Lawrence Bragg",
+            "D": "Yasser Arafat",
+            "E": "Marie Curie"
+        },
+        "true_answer": "Malala Yousafzai",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "options": {
+            "A": "Perro",
+            "B": "Burro",
+            "C": "Caballo",
+            "D": "Vaca",
+            "E": "Toro"
+        },
+        "true_answer": "Burro",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Yellow",
+            "B": "Green",
+            "C": "Blue",
+            "D": "Red",
+            "E": "Purple"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+        "options": {
+            "A": "Stomach",
+            "B": "Heart",
+            "C": "Intestines",
+            "D": "Heart",
+            "E": "Liver"
+        },
+        "true_answer": "Liver",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "options": {
+            "A": "Vintage cars",
+            "B": "Wax sculptures",
+            "C": "Unreleased film reels",
+            "D": "Designer clothing",
+            "E": "Rare gems"
+        },
+        "true_answer": "Wax sculptures",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What nuts are used in the production of marzipan?",
+        "options": {
+            "A": "Almonds",
+            "B": "Peanuts",
+            "C": "Walnuts",
+            "D": "Cashews",
+            "E": "Pistachios"
+        },
+        "true_answer": "Almonds",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Flax",
+            "B": "Straw",
+            "C": "Cotton",
+            "D": "Silk",
+            "E": "Hemp"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Death Star",
+            "B": "Death Star",
+            "C": "Big Eye",
+            "D": "Hubble Space Telescope",
+            "E": "Millenium Falcon"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "69",
+            "B": "69",
+            "C": "100",
+            "D": "50",
+            "E": "25"
+        },
+        "true_answer": "100",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "14",
+            "B": "10",
+            "C": "16",
+            "D": "12",
+            "E": "8"
+        },
+        "true_answer": "12",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Earth is located in which galaxy?",
+        "options": {
+            "A": "The Galaxy Note",
+            "B": "The Black Hole",
+            "C": "The Milky Way Galaxy",
+            "D": "The Mars Galaxy",
+            "E": "The Galaxy Note"
+        },
+        "true_answer": "The Milky Way Galaxy",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which one of these is not a typical European sword design?",
+        "options": {
+            "A": "Scimitar",
+            "B": "Falchion",
+            "C": "Ulfberht",
+            "D": "Flamberge",
+            "E": "Scimitar"
+        },
+        "true_answer": "Scimitar",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "Hong Kong",
+            "B": "South Africa",
+            "C": "New Zealand",
+            "D": "Australia",
+            "E": "Canada"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which candy is NOT made by Mars?",
+        "options": {
+            "A": "M&amp;M&#039;s",
+            "B": "Kit Kat",
+            "C": "Twix",
+            "D": "Almond Joy",
+            "E": "Snickers"
+        },
+        "true_answer": "Almond Joy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "feesh",
+            "B": "mer",
+            "C": "poisson",
+            "D": "escargot",
+            "E": "fiche"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "options": {
+            "A": "Panda",
+            "B": "Gorilla",
+            "C": "Crocodile",
+            "D": "Lion",
+            "E": "Tiger"
+        },
+        "true_answer": "Gorilla",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": " Hola",
+            "B": "Adi&oacute;s",
+            "C": "Salir",
+            "D": "Au Revoir",
+            "E": "Namaste"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "options": {
+            "A": "Scales",
+            "B": "Fish",
+            "C": "Fish",
+            "D": "Maiden",
+            "E": "Twins"
+        },
+        "true_answer": "Twins",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Rectangle",
+            "B": "Triangle",
+            "C": "Hexagon",
+            "D": "Octagon",
+            "E": "Circle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "options": {
+            "A": "George Washington",
+            "B": "John Quincy Adams",
+            "C": "Martin Van Buren",
+            "D": "Thomas Jefferson",
+            "E": "Ulysses Grant"
+        },
+        "true_answer": "Thomas Jefferson",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "10",
+            "B": "6",
+            "C": "7",
+            "D": "9",
+            "E": "8"
+        },
+        "true_answer": "7",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "options": {
+            "A": "Model",
+            "B": "Professor",
+            "C": "Actress",
+            "D": "Musician",
+            "E": "Biologist"
+        },
+        "true_answer": "Model",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What machine element is located in the center of fidget spinners?",
+        "options": {
+            "A": "Axles",
+            "B": "Bearings",
+            "C": "Belts",
+            "D": "Sprockets",
+            "E": "Gears"
+        },
+        "true_answer": "Bearings",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "options": {
+            "A": "Sega",
+            "B": "Nintendo",
+            "C": "Sony",
+            "D": "Yamaha Corporation",
+            "E": "Crypton Future Media"
+        },
+        "true_answer": "Crypton Future Media",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "George Washington",
+            "C": "Benjamin Franklin",
+            "D": "Thomas Jefferson",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is not the host of a program on NPR?",
+        "options": {
+            "A": "Ben Shapiro",
+            "B": "Ira Glass",
+            "C": "Ben Shapiro",
+            "D": "Peter Sagal",
+            "E": "Terry Gross"
+        },
+        "true_answer": "Ben Shapiro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "options": {
+            "A": "Rock Band",
+            "B": "Guitar Hero Live",
+            "C": "Dance Dance Revolution",
+            "D": "Guitar Hero Live",
+            "E": "Meat Beat Mania"
+        },
+        "true_answer": "Rock Band",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "16",
+            "B": "10",
+            "C": "14",
+            "D": "12",
+            "E": "15"
+        },
+        "true_answer": "12",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the famous Papa John&#039;s last name?",
+        "options": {
+            "A": "Schnatter",
+            "B": "Chowder",
+            "C": "ANDERSON",
+            "D": "Williams",
+            "E": "Chowder"
+        },
+        "true_answer": "Schnatter",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does a funambulist walk on?",
+        "options": {
+            "A": "The Moon",
+            "B": "Broken Glass",
+            "C": "A Banana Peel",
+            "D": "A Tight Rope",
+            "E": "Balls"
+        },
+        "true_answer": "A Tight Rope",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "options": {
+            "A": "EGLL",
+            "B": "MAN",
+            "C": "LHR",
+            "D": "EGCC",
+            "E": "LHR"
+        },
+        "true_answer": "MAN",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Money",
+            "B": "Watch",
+            "C": "Phone",
+            "D": "Notebook",
+            "E": "Keys"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "Liver",
+            "B": "Skin",
+            "C": "Heart",
+            "D": "large Intestine",
+            "E": "Brain"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "TWA",
+            "B": "British Airways",
+            "C": "Swiss Air",
+            "D": "Delta Air Lines",
+            "E": "Air France"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "options": {
+            "A": "Earth",
+            "B": "Venus",
+            "C": "Mercury",
+            "D": "Mars",
+            "E": "Jupiter"
+        },
+        "true_answer": "Mercury",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Thomas Jefferson",
+            "B": "Thomas Jefferson",
+            "C": "Abraham Lincoln",
+            "D": "Benjamin Franklin",
+            "E": "George Washington"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "options": {
+            "A": "Vintage cars",
+            "B": "Sculpting tools",
+            "C": "Unreleased film reels",
+            "D": "Wax sculptures",
+            "E": "Designer clothing"
+        },
+        "true_answer": "Wax sculptures",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "options": {
+            "A": "Go Fish",
+            "B": "Uno",
+            "C": "Munchkin",
+            "D": "Twister",
+            "E": "Twister"
+        },
+        "true_answer": "Uno",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "Joseph Fry",
+            "B": "John Cadbury",
+            "C": "Andrew Johnson",
+            "D": "Joseph Smith",
+            "E": "John Tyler"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "Thomas Jefferson",
+            "C": "George Washington",
+            "D": "Abraham Lincoln",
+            "E": "Benjamin Franklin"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "options": {
+            "A": "The League of Gentlemen&lrm;",
+            "B": "Mr. Bean",
+            "C": "Monty Python",
+            "D": "The Penny Dreadfuls",
+            "E": "The Goodies&lrm;"
+        },
+        "true_answer": "Monty Python",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "options": {
+            "A": "Read",
+            "B": "Look",
+            "C": "Print",
+            "D": "Taste",
+            "E": "Digest"
+        },
+        "true_answer": "Print",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Green",
+            "B": "Blue",
+            "C": "Yellow",
+            "D": "Orange",
+            "E": "Red"
+        },
+        "true_answer": "Green",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "options": {
+            "A": "Flying Fish",
+            "B": "Spruce Goose",
+            "C": "Noah&#039;s Ark",
+            "D": "Trojan Horse",
+            "E": "Fat Man"
+        },
+        "true_answer": "Spruce Goose",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "General Median Time",
+            "B": "Glasgow Man Time",
+            "C": "Global Meridian Time",
+            "D": "General Median Time",
+            "E": "Greenwich Mean Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "options": {
+            "A": "Demolition",
+            "B": "The Bushwhackers",
+            "C": "The Dream Team",
+            "D": "The British Bulldogs",
+            "E": "The Crushers"
+        },
+        "true_answer": "Demolition",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What nuts are used in the production of marzipan?",
+        "options": {
+            "A": "Cashews",
+            "B": "Peanuts",
+            "C": "Pistachios",
+            "D": "Almonds",
+            "E": "Walnuts"
+        },
+        "true_answer": "Almonds",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Circle",
+            "B": "Octagon",
+            "C": "Hexagon",
+            "D": "Triangle",
+            "E": "Rectangle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "options": {
+            "A": "Yellow",
+            "B": "Pink",
+            "C": "Red",
+            "D": "Green",
+            "E": "Blue"
+        },
+        "true_answer": "Pink",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "P&oacute;land",
+            "B": "Polszka",
+            "C": "Pupcia",
+            "D": "Polshka",
+            "E": "Polska"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "December 25, 2007",
+            "B": "December 25, 2007",
+            "C": "July 16, 2006",
+            "D": "November 11, 2006",
+            "E": "January 8, 2007"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "Boston Beer Company",
+            "B": "Heineken",
+            "C": "Anheuser Busch",
+            "D": "Miller Coors",
+            "E": "D. G. Yuengling and Son, Inc"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Stanford",
+            "B": "Harvard",
+            "C": "Princeton",
+            "D": "University of Pennsylvania",
+            "E": "Stanford"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Death Star",
+            "B": "Hubble Space Telescope",
+            "C": "Big Eye",
+            "D": "Millenium Falcon",
+            "E": "Starship Enterprise"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "50",
+            "B": "25",
+            "C": "69",
+            "D": "69",
+            "E": "100"
+        },
+        "true_answer": "100",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In which fast food chain can you order a Jamocha Shake?",
+        "options": {
+            "A": "Taco Bell",
+            "B": "McDonald&#039;s",
+            "C": "Arby&#039;s",
+            "D": "Burger King",
+            "E": "Wendy&#039;s"
+        },
+        "true_answer": "Arby&#039;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Hemp",
+            "B": "Silk",
+            "C": "Cotton",
+            "D": "Flax",
+            "E": "Straw"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "New Year",
+            "B": "Rosh Hashanah",
+            "C": "Elul",
+            "D": "Succoss",
+            "E": "Chanukah"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Key",
+            "B": "Sword",
+            "C": "Pen",
+            "D": "Gun",
+            "E": "Cellphone"
+        },
+        "true_answer": "Key",
+        "correct_answer": "A"
+    },
+    {
+        "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+        "options": {
+            "A": "Slacking",
+            "B": "Cheating",
+            "C": "Smoking",
+            "D": "Stealing",
+            "E": "Smoking"
+        },
+        "true_answer": "Slacking",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Sword",
+            "B": "Pen",
+            "C": "Shield",
+            "D": "Cellphone",
+            "E": "Key"
+        },
+        "true_answer": "Key",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "options": {
+            "A": "The Goodies&lrm;",
+            "B": "Monty Python",
+            "C": "The Penny Dreadfuls",
+            "D": "The League of Gentlemen&lrm;",
+            "E": "The League of Gentlemen&lrm;"
+        },
+        "true_answer": "Monty Python",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+        "options": {
+            "A": "Bogot&aacute;",
+            "B": "Medell&iacute;n",
+            "C": "Quito",
+            "D": "Cali",
+            "E": "Quito"
+        },
+        "true_answer": "Medell&iacute;n",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "large Intestine",
+            "B": "Skin",
+            "C": "Kidney",
+            "D": "Liver",
+            "E": "Heart"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+        "options": {
+            "A": "Transformers",
+            "B": "Rubik&rsquo;s Cube",
+            "C": "Care Bears",
+            "D": "G.I. Joe",
+            "E": "Cabbage Patch Kids"
+        },
+        "true_answer": "Cabbage Patch Kids",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "options": {
+            "A": "John Quincy Adams",
+            "B": "Martin Van Buren",
+            "C": "Thomas Jefferson",
+            "D": "Ulysses Grant",
+            "E": "Franklin D. Roosevelt"
+        },
+        "true_answer": "Thomas Jefferson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "options": {
+            "A": "Just Dance",
+            "B": "Dance Dance Revolution",
+            "C": "Rock Band",
+            "D": "Guitar Hero Live",
+            "E": "Meat Beat Mania"
+        },
+        "true_answer": "Rock Band",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "options": {
+            "A": "Malala Yousafzai",
+            "B": "Werner Heisenberg",
+            "C": "Marie Curie",
+            "D": "Yasser Arafat",
+            "E": "Lawrence Bragg"
+        },
+        "true_answer": "Malala Yousafzai",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "12",
+            "B": "14",
+            "C": "18",
+            "D": "16",
+            "E": "10"
+        },
+        "true_answer": "12",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Moldova",
+            "B": "Czech Republic",
+            "C": "Denmark",
+            "D": "Moldova",
+            "E": "Wales"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Solid",
+            "B": "Subscriber",
+            "C": "Secure",
+            "D": "Silicon",
+            "E": "Single"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Source",
+            "B": "Fact",
+            "C": "Truth",
+            "D": "Cause",
+            "E": "Answer"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "John F. Kennedy",
+            "B": "John F. Kennedy",
+            "C": "Theodore Roosevelt",
+            "D": "Abraham Lincoln",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Capricorn",
+            "B": "Sagittarius",
+            "C": "Libra",
+            "D": "Aries",
+            "E": "Aquarius"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+        "options": {
+            "A": "Heart",
+            "B": "Intestines",
+            "C": "Stomach",
+            "D": "Liver",
+            "E": "Beak"
+        },
+        "true_answer": "Liver",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "January 8, 2007",
+            "B": "July 16, 2006",
+            "C": "November 11, 2006",
+            "D": "January 8, 2007",
+            "E": "December 25, 2007"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "British Airways",
+            "B": "TWA",
+            "C": "Delta Airlines",
+            "D": "Air France",
+            "E": "Swiss Air"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Elul",
+            "B": "New Year",
+            "C": "Succoss",
+            "D": "Rosh Hashanah",
+            "E": "Elul"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "options": {
+            "A": "Wax sculptures",
+            "B": "Designer clothing",
+            "C": "Unreleased film reels",
+            "D": "Ancient artifacts",
+            "E": "Vintage cars"
+        },
+        "true_answer": "Wax sculptures",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "options": {
+            "A": "Crypton Future Media",
+            "B": "Sega",
+            "C": "Nintendo",
+            "D": "Sony",
+            "E": "Yamaha Corporation"
+        },
+        "true_answer": "Crypton Future Media",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "New Zealand",
+            "B": "Canada",
+            "C": "Hong Kong",
+            "D": "South Africa",
+            "E": "United Kingdom"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "options": {
+            "A": "A sport",
+            "B": "A medical procedure",
+            "C": "A dance",
+            "D": "A language",
+            "E": "An edible food"
+        },
+        "true_answer": "A dance",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "options": {
+            "A": "Yellow",
+            "B": "Purple",
+            "C": "Blue",
+            "D": "Red",
+            "E": "Green"
+        },
+        "true_answer": "Green",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "options": {
+            "A": "Demolition",
+            "B": "The Ultimate Warriors",
+            "C": "The Dream Team",
+            "D": "The British Bulldogs",
+            "E": "The Bushwhackers"
+        },
+        "true_answer": "Demolition",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "Thomas Jefferson",
+            "C": "George Washington",
+            "D": "John F. Kennedy",
+            "E": "Benjamin Franklin"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the French word for &quot;hat&quot;?",
+        "options": {
+            "A": "Chapeau",
+            "B": "Gants",
+            "C": " &Eacute;charpe",
+            "D": "Bonnet",
+            "E": " Casque"
+        },
+        "true_answer": "Chapeau",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "options": {
+            "A": "Alan Sugar",
+            "B": "Richard Branson",
+            "C": "Jeff Bezos",
+            "D": "Donald Trump",
+            "E": "Bill Gates"
+        },
+        "true_answer": "Richard Branson",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": "Au Revoir",
+            "B": "Adi&oacute;s",
+            "C": "Ciao",
+            "D": "Salir",
+            "E": " Hola"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "options": {
+            "A": "Jet",
+            "B": "Space Capsule",
+            "C": "Balloon",
+            "D": "Helicopter",
+            "E": "Stealth Blimp"
+        },
+        "true_answer": "Helicopter",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How many furlongs are there in a mile?",
+        "options": {
+            "A": "Eight",
+            "B": "Two",
+            "C": "Ten",
+            "D": "Four",
+            "E": "Six"
+        },
+        "true_answer": "Eight",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How tall is the Burj Khalifa?",
+        "options": {
+            "A": "2,546 ft",
+            "B": "2,546 ft",
+            "C": "2,717 ft",
+            "D": "2,722 ft",
+            "E": "3,024 ft"
+        },
+        "true_answer": "2,722 ft",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Princeton",
+            "B": "Stanford",
+            "C": "Harvard",
+            "D": "University of Pennsylvania",
+            "E": "Stanford"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Spider-Man 2",
+            "B": "Wolverine: Adamantium Rage",
+            "C": "Howard the Duck",
+            "D": "Silver Surfer",
+            "E": "Howard the Duck"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Money",
+            "B": "Notebook",
+            "C": "Phone",
+            "D": "Watch",
+            "E": "Keys"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "poisson",
+            "B": "fiche",
+            "C": "fiche",
+            "D": "mer",
+            "E": "escargot"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "options": {
+            "A": "Earth",
+            "B": "Jupiter",
+            "C": "Saturn",
+            "D": "Mercury",
+            "E": "Mars"
+        },
+        "true_answer": "Mercury",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "69",
+            "B": "100",
+            "C": "69",
+            "D": "25",
+            "E": "50"
+        },
+        "true_answer": "100",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+        "options": {
+            "A": "Orange",
+            "B": "Pear",
+            "C": "Peach",
+            "D": "Plum",
+            "E": "Apple"
+        },
+        "true_answer": "Plum",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+        "options": {
+            "A": "Crocodile",
+            "B": "Tiger",
+            "C": "Gorilla",
+            "D": "Elephant",
+            "E": "Panda"
+        },
+        "true_answer": "Gorilla",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "7",
+            "D": "6",
+            "E": "8"
+        },
+        "true_answer": "7",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "General Median Time",
+            "B": "Global Meridian Time",
+            "C": "Glasgow Man Time",
+            "D": "Greenwich Mean Time",
+            "E": "General Median Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Triangle",
+            "B": "Octagon",
+            "C": "Hexagon",
+            "D": "Circle",
+            "E": "Square"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "options": {
+            "A": "Kentucky Fried Chicken",
+            "B": "Kangaroo Fried Chicken",
+            "C": "Kiwi Food Cut",
+            "D": "Kibbled Freaky Cow",
+            "E": "Kentucky Fresh Cheese"
+        },
+        "true_answer": "Kentucky Fried Chicken",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How many furlongs are there in a mile?",
+        "options": {
+            "A": "Six",
+            "B": "Eight",
+            "C": "Four",
+            "D": "Ten",
+            "E": "Two"
+        },
+        "true_answer": "Eight",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "John F. Kennedy",
+            "B": "Abraham Lincoln",
+            "C": "John F. Kennedy",
+            "D": "Theodore Roosevelt",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "options": {
+            "A": "7th",
+            "B": "2nd",
+            "C": "6th",
+            "D": "6th",
+            "E": "4th"
+        },
+        "true_answer": "6th",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Red",
+            "B": "Yellow",
+            "C": "Green",
+            "D": "Blue",
+            "E": "Orange"
+        },
+        "true_answer": "Green",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "options": {
+            "A": "HTC",
+            "B": "Google",
+            "C": "Oculus",
+            "D": "Razer",
+            "E": "Sony"
+        },
+        "true_answer": "HTC",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "options": {
+            "A": "Print",
+            "B": "Read",
+            "C": "Look",
+            "D": "Digest",
+            "E": "Write"
+        },
+        "true_answer": "Print",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When was the Playstation 3 released?",
+        "options": {
+            "A": "July 16, 2006",
+            "B": "October 6, 2006",
+            "C": "December 25, 2007",
+            "D": "January 8, 2007",
+            "E": "November 11, 2006"
+        },
+        "true_answer": "November 11, 2006",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Area 51 is located in which US state?",
+        "options": {
+            "A": "Arizona",
+            "B": "Nevada",
+            "C": "Utah",
+            "D": "Texas",
+            "E": "New Mexico"
+        },
+        "true_answer": "Nevada",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Wool",
+            "B": "Flax",
+            "C": "Straw",
+            "D": "Hemp",
+            "E": "Silk"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "options": {
+            "A": "Lawrence Bragg",
+            "B": "Marie Curie",
+            "C": "Malala Yousafzai",
+            "D": "Werner Heisenberg",
+            "E": "Yasser Arafat"
+        },
+        "true_answer": "Malala Yousafzai",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Notebook",
+            "B": "Money",
+            "C": "Phone",
+            "D": "Watch",
+            "E": "Keys"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "Global Meridian Time",
+            "B": "General Median Time",
+            "C": "Glasgow Man Time",
+            "D": "General Median Time",
+            "E": "Greenwich Mean Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Yellow",
+            "B": "Blue",
+            "C": "Green",
+            "D": "Red",
+            "E": "Pink"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Moldova",
+            "B": "Moldova",
+            "C": "Czech Republic",
+            "D": "Denmark",
+            "E": "Wales"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following blood component forms a plug at the site of injuries?",
+        "options": {
+            "A": "Plasma cells",
+            "B": "Red blood cells",
+            "C": "Platelets",
+            "D": "Blood plasma",
+            "E": "White blood cells"
+        },
+        "true_answer": "Platelets",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the Zodiac symbol for Gemini?",
+        "options": {
+            "A": "Scales",
+            "B": "Fish",
+            "C": "Lion",
+            "D": "Twins",
+            "E": "Maiden"
+        },
+        "true_answer": "Twins",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "Pupcia",
+            "B": "Polska",
+            "C": "P&oacute;land",
+            "D": "Polszka",
+            "E": "P&oacute;land"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is &quot;dabbing&quot;?",
+        "options": {
+            "A": "A medical procedure",
+            "B": "A musical instrument",
+            "C": "A dance",
+            "D": "A language",
+            "E": "A sport"
+        },
+        "true_answer": "A dance",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does a funambulist walk on?",
+        "options": {
+            "A": "The Sun",
+            "B": "Balls",
+            "C": "Broken Glass",
+            "D": "The Moon",
+            "E": "A Tight Rope"
+        },
+        "true_answer": "A Tight Rope",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which one of these is not a typical European sword design?",
+        "options": {
+            "A": "Flamberge",
+            "B": "Falchion",
+            "C": "Scimitar",
+            "D": "Ulfberht",
+            "E": "Ulfberth"
+        },
+        "true_answer": "Scimitar",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Loonie",
+            "B": "Moodie",
+            "C": "Foolie",
+            "D": "Boolie",
+            "E": "Foolie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who invented the first ever chocolate bar, in 1847?",
+        "options": {
+            "A": "John Cadbury",
+            "B": "John Tyler",
+            "C": "Andrew Johnson",
+            "D": "Joseph Fry",
+            "E": "John Adams"
+        },
+        "true_answer": "Joseph Fry",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Gemini",
+            "B": "Libra",
+            "C": "Capricorn",
+            "D": "Sagittarius",
+            "E": "Aries"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Millenium Falcon",
+            "B": "Big Eye",
+            "C": "Death Star",
+            "D": "Death Star",
+            "E": "Hubble Space Telescope"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "options": {
+            "A": "Toro",
+            "B": "Perro",
+            "C": "Gato",
+            "D": "Burro",
+            "E": "Caballo"
+        },
+        "true_answer": "Burro",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "options": {
+            "A": "Thrust",
+            "B": "Drag",
+            "C": "Drag",
+            "D": "Weight",
+            "E": "Lift"
+        },
+        "true_answer": "Lift",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "options": {
+            "A": "Twister",
+            "B": "Munchkin",
+            "C": "Uno",
+            "D": "Go Fish",
+            "E": "Twister"
+        },
+        "true_answer": "Uno",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "options": {
+            "A": "Jet",
+            "B": "Stealth Blimp",
+            "C": "Helicopter",
+            "D": "Ultralight Aircraft",
+            "E": "Space Capsule"
+        },
+        "true_answer": "Helicopter",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+        "options": {
+            "A": "Swiss Air",
+            "B": "Lufthansa",
+            "C": "Air France",
+            "D": "British Airways",
+            "E": "TWA"
+        },
+        "true_answer": "Swiss Air",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "fiche",
+            "B": "poisson",
+            "C": "escargot",
+            "D": "mer",
+            "E": "fiche"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "South Africa",
+            "B": "Hong Kong",
+            "C": "New Zealand",
+            "D": "Canada",
+            "E": "Australia"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Sagittarius",
+            "B": "Virgo",
+            "C": "Cancer",
+            "D": "Leo",
+            "E": "Libra"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Spider-Man 2",
+            "B": "Silver Surfer",
+            "C": "Howard the Duck",
+            "D": "Howard the Duck",
+            "E": "Wolverine: Adamantium Rage"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "options": {
+            "A": "Dance Dance Revolution",
+            "B": "Guitar Hero Live",
+            "C": "Meat Beat Mania",
+            "D": "Rock Band",
+            "E": "Guitar Hero Live"
+        },
+        "true_answer": "Rock Band",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which candy is NOT made by Mars?",
+        "options": {
+            "A": "Almond Joy",
+            "B": "M&amp;M&#039;s",
+            "C": "Kit Kat",
+            "D": "Twix",
+            "E": "Snickers"
+        },
+        "true_answer": "Almond Joy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Licorice",
+            "B": "Chocolate",
+            "C": "Peanut butter cups",
+            "D": "Bubblegum",
+            "E": "Lollipop"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "Miller Coors",
+            "B": "Anheuser Busch",
+            "C": "D. G. Yuengling and Son, Inc",
+            "D": "Samuel Adams",
+            "E": "Boston Beer Company"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+        "options": {
+            "A": "Cabbage Patch Kids",
+            "B": "Care Bears",
+            "C": "Rubik&rsquo;s Cube",
+            "D": "Nerf Guns",
+            "E": "Transformers"
+        },
+        "true_answer": "Cabbage Patch Kids",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Cellphone",
+            "B": "Key",
+            "C": "Sword",
+            "D": "Pen",
+            "E": "Cellphone"
+        },
+        "true_answer": "Key",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+        "options": {
+            "A": "Target",
+            "B": "Tractor",
+            "C": "Turkey",
+            "D": "Taxi",
+            "E": "Tango"
+        },
+        "true_answer": "Tango",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What machine element is located in the center of fidget spinners?",
+        "options": {
+            "A": "Screws",
+            "B": "Gears",
+            "C": "Axles",
+            "D": "Bearings",
+            "E": "Belts"
+        },
+        "true_answer": "Bearings",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": "Ciao",
+            "B": "Adi&oacute;s",
+            "C": "Au Revoir",
+            "D": "Salir",
+            "E": " Hola"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "options": {
+            "A": "Looked",
+            "B": "Digest",
+            "C": "Print",
+            "D": "Look",
+            "E": "Read"
+        },
+        "true_answer": "Print",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What alcoholic drink is made from molasses?",
+        "options": {
+            "A": "Whisky",
+            "B": "Gin",
+            "C": "Rum",
+            "D": "Vodka",
+            "E": "Tequila"
+        },
+        "true_answer": "Rum",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Sagittarius",
+            "B": "Cancer",
+            "C": "Virgo",
+            "D": "Libra",
+            "E": "Pisces"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Libra",
+            "B": "Sagittarius",
+            "C": "Cancer",
+            "D": "Aries",
+            "E": "Capricorn"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Truth",
+            "B": "Outcome",
+            "C": "Answer",
+            "D": "Cause",
+            "E": "Source"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Green",
+            "B": "Purple",
+            "C": "Blue",
+            "D": "Yellow",
+            "E": "Red"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Earth is located in which galaxy?",
+        "options": {
+            "A": "The Mars Galaxy",
+            "B": "The Mars Galaxy",
+            "C": "The Galaxy Note",
+            "D": "The Milky Way Galaxy",
+            "E": "The Black Hole"
+        },
+        "true_answer": "The Milky Way Galaxy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "options": {
+            "A": "James Madison",
+            "B": "John Quincy Adams",
+            "C": "Martin Van Buren",
+            "D": "Ulysses Grant",
+            "E": "Thomas Jefferson"
+        },
+        "true_answer": "Thomas Jefferson",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Benjamin Franklin",
+            "B": "Abraham Lincoln",
+            "C": "George Washington",
+            "D": "Thomas Jefferson",
+            "E": "Abraham Lincoln"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is Tasmania?",
+        "options": {
+            "A": "A flavor of Ben and Jerry&#039;s ice-cream",
+            "B": "The Name of a Warner Brothers Cartoon Character",
+            "C": "A flavor of Ben and Jerry's ice-cream",
+            "D": "An Australian State",
+            "E": "A Psychological Disorder"
+        },
+        "true_answer": "An Australian State",
+        "correct_answer": "D"
+    },
+    {
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "options": {
+            "A": "8",
+            "B": "12",
+            "C": "20",
+            "D": "15",
+            "E": "19"
+        },
+        "true_answer": "19",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "Brain",
+            "B": "Skin",
+            "C": "Heart",
+            "D": "large Intestine",
+            "E": "Liver"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "options": {
+            "A": "Yamaha Corporation",
+            "B": "Crypton Future Media",
+            "C": "Sega",
+            "D": "Sony",
+            "E": "Microsoft"
+        },
+        "true_answer": "Crypton Future Media",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When one is &quot;envious&quot;, they are said to be what color?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Yellow",
+            "D": "Red",
+            "E": "Purple"
+        },
+        "true_answer": "Green",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "options": {
+            "A": "Meat Beat Mania",
+            "B": "Meat Beat Mania",
+            "C": "Rock Band",
+            "D": "Dance Dance Revolution",
+            "E": "Guitar Hero Live"
+        },
+        "true_answer": "Rock Band",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "options": {
+            "A": "Professor",
+            "B": "Biologist",
+            "C": "Chef",
+            "D": "Model",
+            "E": "Musician"
+        },
+        "true_answer": "Model",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "options": {
+            "A": "Airplane",
+            "B": "Helicopter",
+            "C": "Jet",
+            "D": "Stealth Blimp",
+            "E": "Space Capsule"
+        },
+        "true_answer": "Helicopter",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "options": {
+            "A": "Watch",
+            "B": "Money",
+            "C": "Cellphone",
+            "D": "Notebook",
+            "E": "Keys"
+        },
+        "true_answer": "Watch",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Lollipop",
+            "B": "Bubblegum",
+            "C": "Licorice",
+            "D": "Chocolate",
+            "E": "Gummy Bears"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which candy is NOT made by Mars?",
+        "options": {
+            "A": "Kit Kat",
+            "B": "Snickers",
+            "C": "Almond Joy",
+            "D": "Twix",
+            "E": "M&amp;M&#039;s"
+        },
+        "true_answer": "Almond Joy",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "options": {
+            "A": "Benjamin Franklin",
+            "B": "Abraham Lincoln",
+            "C": "George Washington",
+            "D": "Thomas Jefferson",
+            "E": "John F. Kennedy"
+        },
+        "true_answer": "Benjamin Franklin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which sign of the zodiac comes between Virgo and Scorpio?",
+        "options": {
+            "A": "Libra",
+            "B": "Taurus",
+            "C": "Capricorn",
+            "D": "Capricorn",
+            "E": "Gemini"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+        "options": {
+            "A": "4th",
+            "B": "7th",
+            "C": "2nd",
+            "D": "5th",
+            "E": "6th"
+        },
+        "true_answer": "6th",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Silver Surfer",
+            "B": "Spider-Man 2",
+            "C": "Wolverine: Adamantium Rage",
+            "D": "Spider-Man 2",
+            "E": "Howard the Duck"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "8",
+            "B": "10",
+            "C": "9",
+            "D": "7",
+            "E": "6"
+        },
+        "true_answer": "7",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Who is the youngest person to recieve a Nobel Prize?",
+        "options": {
+            "A": "Werner Heisenberg",
+            "B": "Yasser Arafat",
+            "C": "Malala Yousafzai",
+            "D": "Lawrence Bragg",
+            "E": "Albert Einstein"
+        },
+        "true_answer": "Malala Yousafzai",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "Thomas Jefferson",
+            "B": "John F. Kennedy",
+            "C": "Theodore Roosevelt",
+            "D": "Abraham Lincoln",
+            "E": "John F. Kennedy"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "options": {
+            "A": "Czech Republic",
+            "B": "Denmark",
+            "C": "Moldova",
+            "D": "Wales",
+            "E": "Czech Republic"
+        },
+        "true_answer": "Wales",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Octagon",
+            "B": "Square",
+            "C": "Triangle",
+            "D": "Hexagon",
+            "E": "Circle"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the famous Papa John&#039;s last name?",
+        "options": {
+            "A": "Chowder",
+            "B": "ANDERSON",
+            "C": "Peters",
+            "D": "Schnatter",
+            "E": "Williams"
+        },
+        "true_answer": "Schnatter",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Big Eye",
+            "B": "Death Star",
+            "C": "Millenium Falcon",
+            "D": "Death Star",
+            "E": "Hubble Space Telescope"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who is the author of Jurrasic Park?",
+        "options": {
+            "A": "Chuck Paluhniuk",
+            "B": "Stephen King",
+            "C": "Peter Benchley",
+            "D": "Irvine Welsh",
+            "E": "Michael Crichton"
+        },
+        "true_answer": "Michael Crichton",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "options": {
+            "A": "Spruce Goose",
+            "B": "Flying Squirrel",
+            "C": "Trojan Horse",
+            "D": "Fat Man",
+            "E": "Noah&#039;s Ark"
+        },
+        "true_answer": "Spruce Goose",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Five dollars is worth how many nickles?",
+        "options": {
+            "A": "50",
+            "B": "69",
+            "C": "25",
+            "D": "100",
+            "E": "69"
+        },
+        "true_answer": "100",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which one of these is not a typical European sword design?",
+        "options": {
+            "A": "Ulfberht",
+            "B": "Scimitar",
+            "C": "Falchion",
+            "D": "Scimitar",
+            "E": "Flamberge"
+        },
+        "true_answer": "Scimitar",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "options": {
+            "A": "Pen",
+            "B": "Cellphone",
+            "C": "Pencil",
+            "D": "Sword",
+            "E": "Key"
+        },
+        "true_answer": "Key",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the Jewish New Year?",
+        "options": {
+            "A": "Rosh Hashanah",
+            "B": "Elul",
+            "C": "New Year",
+            "D": "Year of the Rooster",
+            "E": "Succoss"
+        },
+        "true_answer": "Rosh Hashanah",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "D. G. Yuengling and Son, Inc",
+            "B": "Miller Coors",
+            "C": "Boston Beer Company",
+            "D": "Anheuser Busch",
+            "E": "Coors Light"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What do the letters in the GMT time zone stand for?",
+        "options": {
+            "A": "General Median Time",
+            "B": "General Median Time",
+            "C": "Global Meridian Time",
+            "D": "Glasgow Man Time",
+            "E": "Greenwich Mean Time"
+        },
+        "true_answer": "Greenwich Mean Time",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "options": {
+            "A": "Chick-fil-A",
+            "B": "Sonic",
+            "C": "McDonald&#039;s",
+            "D": "Whataburger",
+            "E": "Burger King"
+        },
+        "true_answer": "McDonald&#039;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the nickname of the US state of California?",
+        "options": {
+            "A": "Sunshine State",
+            "B": "Empire State",
+            "C": "Treasure State",
+            "D": "Bay State",
+            "E": "Golden State"
+        },
+        "true_answer": "Golden State",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of Poland in Polish?",
+        "options": {
+            "A": "Polska",
+            "B": "Polszka",
+            "C": "Polszka",
+            "D": "Pupcia",
+            "E": "P&oacute;land"
+        },
+        "true_answer": "Polska",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The Flag of the European Union has how many stars on it?",
+        "options": {
+            "A": "8",
+            "B": "14",
+            "C": "12",
+            "D": "10",
+            "E": "16"
+        },
+        "true_answer": "12",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "options": {
+            "A": "8",
+            "B": "9",
+            "C": "6",
+            "D": "7",
+            "E": "10"
+        },
+        "true_answer": "7",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is not an Ivy League University?",
+        "options": {
+            "A": "Princeton",
+            "B": "Harvard",
+            "C": "Stanford",
+            "D": "University of Pennsylvania",
+            "E": "Stanford"
+        },
+        "true_answer": "Stanford",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+        "options": {
+            "A": "Transformers",
+            "B": "Barbie Dreamhouse",
+            "C": "Rubik&rsquo;s Cube",
+            "D": "Cabbage Patch Kids",
+            "E": "Care Bears"
+        },
+        "true_answer": "Cabbage Patch Kids",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following blood component forms a plug at the site of injuries?",
+        "options": {
+            "A": "Platelets",
+            "B": "White blood cells",
+            "C": "Red blood cells",
+            "D": "Blood plasma",
+            "E": "Blood plasma"
+        },
+        "true_answer": "Platelets",
+        "correct_answer": "A"
+    },
+    {
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "options": {
+            "A": "19",
+            "B": "18",
+            "C": "12",
+            "D": "20",
+            "E": "15"
+        },
+        "true_answer": "19",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Red Vines is a brand of what type of candy?",
+        "options": {
+            "A": "Licorice",
+            "B": "Chocolate",
+            "C": "Lollipop",
+            "D": "Bubblegum",
+            "E": "Lollipop"
+        },
+        "true_answer": "Licorice",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which American president appears on a one dollar bill?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "Thomas Jefferson",
+            "C": "Thomas Jefferson",
+            "D": "George Washington",
+            "E": "Benjamin Franklin"
+        },
+        "true_answer": "George Washington",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What alcoholic drink is made from molasses?",
+        "options": {
+            "A": "Vodka",
+            "B": "Rum",
+            "C": "Tequila",
+            "D": "Whisky",
+            "E": "Gin"
+        },
+        "true_answer": "Rum",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name of NASA&rsquo;s most famous space telescope?",
+        "options": {
+            "A": "Death Star",
+            "B": "Millenium Falcon",
+            "C": "Big Eye",
+            "D": "Death Star",
+            "E": "Hubble Space Telescope"
+        },
+        "true_answer": "Hubble Space Telescope",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Earth is located in which galaxy?",
+        "options": {
+            "A": "The Galaxy Note",
+            "B": "The Mars Galaxy",
+            "C": "The Milky Way Galaxy",
+            "D": "The Black Hole",
+            "E": "The Mars Galaxy"
+        },
+        "true_answer": "The Milky Way Galaxy",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "options": {
+            "A": "Sagittarius",
+            "B": "Pisces",
+            "C": "Libra",
+            "D": "Aries",
+            "E": "Capricorn"
+        },
+        "true_answer": "Libra",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following card games revolves around numbers and basic math?",
+        "options": {
+            "A": "Uno",
+            "B": "Go Fish",
+            "C": "Munchkin",
+            "D": "Twister",
+            "E": "Twister"
+        },
+        "true_answer": "Uno",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the closest planet to our solar system&#039;s sun?",
+        "options": {
+            "A": "Mars",
+            "B": "Earth",
+            "C": "Jupiter",
+            "D": "Venus",
+            "E": "Mercury"
+        },
+        "true_answer": "Mercury",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the profession of Elon Musk&#039;s mom, Maye Musk?",
+        "options": {
+            "A": "Biologist",
+            "B": "Musician",
+            "C": "Professor",
+            "D": "Chemist",
+            "E": "Model"
+        },
+        "true_answer": "Model",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+        "options": {
+            "A": "Cylinder",
+            "B": "Sphere",
+            "C": "Pyramid",
+            "D": "Diamond",
+            "E": "Cube"
+        },
+        "true_answer": "Cube",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What geometric shape is generally used for stop signs?",
+        "options": {
+            "A": "Triangle",
+            "B": "Circle",
+            "C": "Octagon",
+            "D": "Hexagon",
+            "E": "Pentagon"
+        },
+        "true_answer": "Octagon",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is the IATA code for Manchester Airport?",
+        "options": {
+            "A": "EGCC",
+            "B": "MAN",
+            "C": "EGLL",
+            "D": "EGLL",
+            "E": "LHR"
+        },
+        "true_answer": "MAN",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": {
+            "A": "large Intestine",
+            "B": "Liver",
+            "C": "Heart",
+            "D": "Large Intestine",
+            "E": "Skin"
+        },
+        "true_answer": "Skin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "options": {
+            "A": "Abraham Lincoln",
+            "B": "Thomas Jefferson",
+            "C": "John Adams",
+            "D": "Theodore Roosevelt",
+            "E": "John F. Kennedy"
+        },
+        "true_answer": "John F. Kennedy",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following is not the host of a program on NPR?",
+        "options": {
+            "A": "Terry Gross",
+            "B": "Ira Glass",
+            "C": "Ben Shapiro",
+            "D": "Peter Sagal",
+            "E": "Ben Shapiro"
+        },
+        "true_answer": "Ben Shapiro",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was the first ever London Underground line to be built?",
+        "options": {
+            "A": "Bakerloo Line",
+            "B": "District Line",
+            "C": "Metropolitan Line",
+            "D": "Victoria Line",
+            "E": "Circle Line"
+        },
+        "true_answer": "Metropolitan Line",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which one of these is not a typical European sword design?",
+        "options": {
+            "A": "Scimitar",
+            "B": "Falchion",
+            "C": "Flamberge",
+            "D": "Scimitar",
+            "E": "Ulfberht"
+        },
+        "true_answer": "Scimitar",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "options": {
+            "A": "The Bushwhackers",
+            "B": "The British Bulldogs",
+            "C": "The Midnight Express",
+            "D": "The Dream Team",
+            "E": "Demolition"
+        },
+        "true_answer": "Demolition",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "options": {
+            "A": "Pabst Brewing Company",
+            "B": "D. G. Yuengling and Son, Inc",
+            "C": "Boston Beer Company",
+            "D": "Miller Coors",
+            "E": "Anheuser Busch"
+        },
+        "true_answer": "D. G. Yuengling and Son, Inc",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which country has the union jack in its flag?",
+        "options": {
+            "A": "Canada",
+            "B": "China",
+            "C": "New Zealand",
+            "D": "South Africa",
+            "E": "Hong Kong"
+        },
+        "true_answer": "New Zealand",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "options": {
+            "A": "Shared",
+            "B": "Solid",
+            "C": "Secure",
+            "D": "Single",
+            "E": "Subscriber"
+        },
+        "true_answer": "Subscriber",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the French word for &quot;fish&quot;?",
+        "options": {
+            "A": "poisson",
+            "B": "escargot",
+            "C": "chat",
+            "D": "mer",
+            "E": "fiche"
+        },
+        "true_answer": "poisson",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When someone is cowardly, they are said to have what color belly?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Purple",
+            "D": "Yellow",
+            "E": "Red"
+        },
+        "true_answer": "Yellow",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "options": {
+            "A": "Cause",
+            "B": "Answer",
+            "C": "Source",
+            "D": "Truth",
+            "E": "Source"
+        },
+        "true_answer": "Truth",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What do the letters of the fast food chain KFC stand for?",
+        "options": {
+            "A": "Kibbled Freaky Cow",
+            "B": "Kangaroo Fried Cutlets",
+            "C": "Kentucky Fried Chicken",
+            "D": "Kiwi Food Cut",
+            "E": "Kentucky Fresh Cheese"
+        },
+        "true_answer": "Kentucky Fried Chicken",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are Panama hats made out of?",
+        "options": {
+            "A": "Hemp",
+            "B": "Cotton",
+            "C": "Flax",
+            "D": "Silk",
+            "E": "Straw"
+        },
+        "true_answer": "Straw",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "options": {
+            "A": "Foolie",
+            "B": "Moodie",
+            "C": "Boolie",
+            "D": "Doonie",
+            "E": "Loonie"
+        },
+        "true_answer": "Loonie",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "options": {
+            "A": "Pink",
+            "B": "Blue",
+            "C": "Green",
+            "D": "Yellow",
+            "E": "Blue"
+        },
+        "true_answer": "Pink",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How would one say goodbye in Spanish?",
+        "options": {
+            "A": "Hola",
+            "B": "Salir",
+            "C": "Au Revoir",
+            "D": "Adi&oacute;s",
+            "E": " Hola"
+        },
+        "true_answer": "Adi&oacute;s",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of these Marvel games was released on the Playstation 2?",
+        "options": {
+            "A": "Spider-Man 2",
+            "B": "Silver Surfer",
+            "C": "Spider-Man 2",
+            "D": "Howard the Duck",
+            "E": "Wolverine: Adamantium Rage"
+        },
+        "true_answer": "Spider-Man 2",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+        "options": {
+            "A": "Monty Python",
+            "B": "The League of Gentlemen&lrm;",
+            "C": "The Penny Dreadfuls",
+            "D": "The Goodies&lrm;",
+            "E": "The League of Gentlemen&lrm;"
+        },
+        "true_answer": "Monty Python",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the French word for &quot;hat&quot;?",
+        "options": {
+            "A": "Chapeau",
+            "B": "Bonnet",
+            "C": " Casque",
+            "D": "Montre",
+            "E": " &Eacute;charpe"
+        },
+        "true_answer": "Chapeau",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When someone is inexperienced they are said to be what color?",
+        "options": {
+            "A": "Red",
+            "B": "Purple",
+            "C": "Blue",
+            "D": "Green",
+            "E": "Yellow"
+        },
+        "true_answer": "Green",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the Spanish word for &quot;donkey&quot;?",
+        "options": {
+            "A": "Burro",
+            "B": "Toro",
+            "C": "Perro",
+            "D": "Caballo",
+            "E": "Perro"
+        },
+        "true_answer": "Burro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "options": {
+            "A": "Virgo",
+            "B": "Cancer",
+            "C": "Sagittarius",
+            "D": "Libra",
+            "E": "Leo"
+        },
+        "true_answer": "Cancer",
+        "correct_answer": "B"
+    }
 ]

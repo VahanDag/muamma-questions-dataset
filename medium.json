@@ -1,142 +1,4826 @@
 [
-    [
-        {
-            "question": "What is the German word for &quot;spoon&quot;?",
-            "options": {
-                "A": "L&ouml;ffel",
-                "B": "L\u00f6ffel",
-                "C": "Messer",
-                "D": "Gabel",
-                "E": "Essst&auml;bchen"
-            },
-            "true_answer": "L&ouml;ffel",
-            "correct_answer": "A"
-        }
-    ],
-    [
-        {
-            "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
-            "options": {
-                "A": "Ad hominem",
-                "B": "Tu quoque",
-                "C": "Argumentum ad populum",
-                "D": "Post hoc ergo propter hoc",
-                "E": "Post hoc ergo propter hoc"
-            },
-            "true_answer": "Ad hominem",
-            "correct_answer": "A"
-        }
-    ],
-    [
-        {
-            "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
-            "options": {
-                "A": "Vietnam War",
-                "B": "American Revolutionary War",
-                "C": "World War I",
-                "D": "World War II",
-                "E": "American Civil War"
-            },
-            "true_answer": "World War II",
-            "correct_answer": "D"
-        }
-    ],
-    [
-        {
-            "question": "Which of these companies does NOT manufacture automobiles?",
-            "options": {
-                "A": "Ducati",
-                "B": "Nissan",
-                "C": "GMC",
-                "D": "Nissan",
-                "E": "Fiat"
-            },
-            "true_answer": "Ducati",
-            "correct_answer": "A"
-        }
-    ],
-    [
-        {
-            "question": "What year was Apple Inc. founded?",
-            "options": {
-                "A": "1974",
-                "B": "1980",
-                "C": "1978",
-                "D": "1985",
-                "E": "1976"
-            },
-            "true_answer": "1976",
-            "correct_answer": "E"
-        }
-    ],
-    [
-        {
-            "question": "When was Hubba Bubba first introduced?",
-            "options": {
-                "A": "1984",
-                "B": "1979",
-                "C": "1980",
-                "D": "1972",
-                "E": "1950"
-            },
-            "true_answer": "1979",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "What is the romanized Russian word for &quot;winter&quot;?",
-            "options": {
-                "A": "Vesna",
-                "B": "Zima",
-                "C": "Leto",
-                "D": "Leto",
-                "E": "Osen&#039;"
-            },
-            "true_answer": "Zima",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "What is the romanized Russian word for &quot;winter&quot;?",
-            "options": {
-                "A": "Vesna",
-                "B": "Zima",
-                "C": "Leto",
-                "D": "Osen&#039;",
-                "E": "Leto"
-            },
-            "true_answer": "Zima",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
-            "options": {
-                "A": "Ferrari",
-                "B": "Maserati",
-                "C": "Alfa Romeo",
-                "D": "Lamborghini",
-                "E": "Fiat"
-            },
-            "true_answer": "Fiat",
-            "correct_answer": "E"
-        }
-    ],
-    [
-        {
-            "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
-            "options": {
-                "A": "Standing on his head",
-                "B": "Reciting pi to 100 digits",
-                "C": "Typing on a keyboard during a handstand",
-                "D": "Jumping over an office chair",
-                "E": "Jumping backwards over a desk"
-            },
-            "true_answer": "Jumping over an office chair",
-            "correct_answer": "D"
-        }
-    ]
+    {
+        "question": "Which country has the most Trappist breweries?",
+        "options": {
+            "A": "Germany",
+            "B": "Netherlands",
+            "C": "Belgium",
+            "D": "France",
+            "E": "USA"
+        },
+        "true_answer": "Belgium",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Mountain Dew",
+            "B": "Sprite",
+            "C": "Pepsi",
+            "D": "Dr. Pepper",
+            "E": "Coca-Cola"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "Netscape Navigator",
+            "B": "BackRub",
+            "C": "SearchPro",
+            "D": "CatMassage",
+            "E": "InfoSeek"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "B"
+    },
+    {
+        "question": "A doctor with a PhD is a doctor of what?",
+        "options": {
+            "A": "Pediatrics",
+            "B": "Psychology",
+            "C": "Phrenology",
+            "D": "Philosophy",
+            "E": "Physical Therapy"
+        },
+        "true_answer": "Philosophy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of these companies does NOT manufacture automobiles?",
+        "options": {
+            "A": "Fiat",
+            "B": "GMC",
+            "C": "Ducati",
+            "D": "Nissan",
+            "E": "Ducati"
+        },
+        "true_answer": "Ducati",
+        "correct_answer": "C"
+    },
+    {
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "options": {
+            "A": "Tate",
+            "B": "British Museum",
+            "C": "Tate",
+            "D": "Science Museum",
+            "E": "Natural History Museum"
+        },
+        "true_answer": "Natural History Museum",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What fast food chain has the most locations globally? ",
+        "options": {
+            "A": "Starbucks",
+            "B": "Burger King",
+            "C": "McDonalds",
+            "D": "KFC",
+            "E": "Subway"
+        },
+        "true_answer": "Subway",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "options": {
+            "A": "Frankfurt (Main) Hauptbahnhof",
+            "B": "Berlin Hauptbahnhof",
+            "C": "Paris Gare du Nord",
+            "D": "London Liverpool Street",
+            "E": "Brussels Midi"
+        },
+        "true_answer": "London Liverpool Street",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was Hubba Bubba first introduced?",
+        "options": {
+            "A": "1977",
+            "B": "1979",
+            "C": "1984",
+            "D": "1980",
+            "E": "1972"
+        },
+        "true_answer": "1979",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+        "options": {
+            "A": "American Revolutionary War",
+            "B": "World War II",
+            "C": "American Civil War",
+            "D": "World War I",
+            "E": "Vietnam War"
+        },
+        "true_answer": "World War II",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "options": {
+            "A": "Jumping backwards over a desk",
+            "B": "Standing on his head",
+            "C": "Eating a bowl of spaghetti while roller skating",
+            "D": "Typing on a keyboard during a handstand",
+            "E": "Jumping over an office chair"
+        },
+        "true_answer": "Jumping over an office chair",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Asus",
+            "B": "Samsung",
+            "C": "Hewlett-Packard",
+            "D": "Toshiba",
+            "E": "Dell"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "options": {
+            "A": "Liver",
+            "B": "Stomach",
+            "C": "Brain",
+            "D": "Bone",
+            "E": "Pancreatic"
+        },
+        "true_answer": "Pancreatic",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "options": {
+            "A": "Singapore",
+            "B": "Kuala Lumpur",
+            "C": "New York",
+            "D": "Beijing",
+            "E": "Tokyo"
+        },
+        "true_answer": "Beijing",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Majime",
+            "B": "Ukiyo",
+            "C": "Shiatsu",
+            "D": "Ikigai",
+            "E": "Ukiyo"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which country drives on the left side of the road?",
+        "options": {
+            "A": "Russia",
+            "B": "Italy",
+            "C": "Germany",
+            "D": "China",
+            "E": "Japan"
+        },
+        "true_answer": "Japan",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+        "options": {
+            "A": "Mathematics",
+            "B": "Physics",
+            "C": "Physiology/Medicine",
+            "D": "Peace",
+            "E": "Economics"
+        },
+        "true_answer": "Peace",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What does a milliner make and sell?",
+        "options": {
+            "A": "Scarves",
+            "B": "Shoes",
+            "C": "Hats",
+            "D": "Shirts",
+            "E": "Belts"
+        },
+        "true_answer": "Hats",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "options": {
+            "A": "Ad hominem",
+            "B": "Argumentum ad consequentiam",
+            "C": "Argumentum ad populum",
+            "D": "Tu quoque",
+            "E": "Post hoc ergo propter hoc"
+        },
+        "true_answer": "Ad hominem",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Meupareunia",
+            "B": "Gossypiboma",
+            "C": "Gossypiboma",
+            "D": "Gongoozler",
+            "E": "Jentacular"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Southeast",
+            "B": "Northeast",
+            "C": "Northeast and Southwest",
+            "D": "Southwest",
+            "E": "Northwest"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Count Chocula",
+            "B": "Franken Berry",
+            "C": "Count Chocula",
+            "D": "Boo-Berry",
+            "E": "Fruit Brute"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Twilight Zone Tower of Terror",
+            "B": "The Haunted Mansion",
+            "C": "Peter Pan&#039;s Flight",
+            "D": "It's a Small World",
+            "E": "Pirates of the Caribbean"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": {
+            "A": "Villa Savoye",
+            "B": "Sydney Opera House",
+            "C": "The Space Needle",
+            "D": "The Guggenheim",
+            "E": "The Parthenon"
+        },
+        "true_answer": "The Guggenheim",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "options": {
+            "A": "Princeton University",
+            "B": "Dartmouth College",
+            "C": "Yale University",
+            "D": "Columbia University",
+            "E": "Harvard University"
+        },
+        "true_answer": "Yale University",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "options": {
+            "A": "1942",
+            "B": "1796",
+            "C": "1933",
+            "D": "1796",
+            "E": "1833"
+        },
+        "true_answer": "1833",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "options": {
+            "A": "Pomodoro",
+            "B": "Aglio",
+            "C": "Pane",
+            "D": "Peperoncino",
+            "E": "Cipolla"
+        },
+        "true_answer": "Pomodoro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Chespin, Tepig, Froakie",
+            "B": "Snivy, Tepig, Oshawott",
+            "C": "Snivy, Fennekin, Froakie",
+            "D": "Chespin, Fennekin, Oshawott",
+            "E": "Snivy, Fennekin, Froakie"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": {
+            "A": "Bullfighting",
+            "B": "Flamenco",
+            "C": "Flamenco",
+            "D": "Fiestas",
+            "E": "Mariachi"
+        },
+        "true_answer": "Bullfighting",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What year was Apple Inc. founded?",
+        "options": {
+            "A": "1980",
+            "B": "1972",
+            "C": "1978",
+            "D": "1974",
+            "E": "1976"
+        },
+        "true_answer": "1976",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "options": {
+            "A": "Screwdriver",
+            "B": "Screwdriver",
+            "C": "Sex on the Beach",
+            "D": "Rusty Nail",
+            "E": "Manhattan"
+        },
+        "true_answer": "Rusty Nail",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "options": {
+            "A": "Tall",
+            "B": "Funny",
+            "C": "Rude",
+            "D": "Hairy",
+            "E": "Rude"
+        },
+        "true_answer": "Hairy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In the Morse code, which letter is indicated by 3 dots? ",
+        "options": {
+            "A": "Q",
+            "B": "C",
+            "C": "A",
+            "D": "S",
+            "E": "O"
+        },
+        "true_answer": "S",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "CatMassage",
+            "B": "Goober",
+            "C": "Netscape Navigator",
+            "D": "BackRub",
+            "E": "SearchPro"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "options": {
+            "A": "Tandoori",
+            "B": "Tiki masala",
+            "C": "Tiki masala",
+            "D": "Pani puri",
+            "E": "Biryani"
+        },
+        "true_answer": "Tandoori",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Osen&#039;",
+            "B": "Leto",
+            "C": "Osen'",
+            "D": "Zima",
+            "E": "Vesna"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is a dead mall?",
+        "options": {
+            "A": "A mall with no stores",
+            "B": "A mall that has been condemed",
+            "C": "A mall that is thriving with activity",
+            "D": "A mall with high vacancy rates or low consumer foot traffic",
+            "E": "A mall after business hours"
+        },
+        "true_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "correct_answer": "D"
+    },
+    {
+        "question": "A doctor with a PhD is a doctor of what?",
+        "options": {
+            "A": "Chemistry",
+            "B": "Philosophy",
+            "C": "Phrenology",
+            "D": "Physical Therapy",
+            "E": "Psychology"
+        },
+        "true_answer": "Philosophy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Michael Breidenbruecker",
+            "B": "Sean Parker",
+            "C": "Mark Zuckerberg",
+            "D": "Felix Miller",
+            "E": "Daniel Ek"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Two",
+            "B": "Five",
+            "C": "Six",
+            "D": "Four",
+            "E": "Three"
+        },
+        "true_answer": "Three",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "options": {
+            "A": "Duke of Cambridge",
+            "B": "Duke of Cambridge",
+            "C": "Her Majesty&#039;s Loyal Opposition",
+            "D": "Manager of the Crown Estate",
+            "E": "First Lord of the Treasury"
+        },
+        "true_answer": "First Lord of the Treasury",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Four",
+            "B": "Seven",
+            "C": "Six",
+            "D": "Five",
+            "E": "Three"
+        },
+        "true_answer": "Three",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When was Hubba Bubba first introduced?",
+        "options": {
+            "A": "1985",
+            "B": "1972",
+            "C": "1979",
+            "D": "1980",
+            "E": "1984"
+        },
+        "true_answer": "1979",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "options": {
+            "A": "Seoul",
+            "B": "Singapore",
+            "C": "Beijing",
+            "D": "Tokyo",
+            "E": "Kuala Lumpur"
+        },
+        "true_answer": "Beijing",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": {
+            "A": "The Space Needle",
+            "B": "Villa Savoye",
+            "C": "The Taj Mahal",
+            "D": "Sydney Opera House",
+            "E": "The Guggenheim"
+        },
+        "true_answer": "The Guggenheim",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "options": {
+            "A": "Pilfsner",
+            "B": "India Pale Ale",
+            "C": "Baltic Porter",
+            "D": "India Pale Ale",
+            "E": "Pale Lager"
+        },
+        "true_answer": "Pale Lager",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In what year was McDonald&#039;s founded?",
+        "options": {
+            "A": "1955",
+            "B": "1951",
+            "C": "1947",
+            "D": "1951",
+            "E": "1964"
+        },
+        "true_answer": "1955",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "options": {
+            "A": "Liver",
+            "B": "Bone",
+            "C": "Lung",
+            "D": "Stomach",
+            "E": "Pancreatic"
+        },
+        "true_answer": "Pancreatic",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "options": {
+            "A": "First Lord of the Treasury",
+            "B": "Duke of Cambridge",
+            "C": "Her Majesty&#039;s Loyal Opposition",
+            "D": "Duke of Cambridge",
+            "E": "Manager of the Crown Estate"
+        },
+        "true_answer": "First Lord of the Treasury",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+        "options": {
+            "A": "Big Mouth Billy Bass",
+            "B": "Big Billy Bass",
+            "C": "Singing Fish",
+            "D": "Big Billy Bass",
+            "E": "Sardeen"
+        },
+        "true_answer": "Big Mouth Billy Bass",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "options": {
+            "A": "Fifty",
+            "B": "Five",
+            "C": "Ten",
+            "D": "Twenty",
+            "E": "One hundred"
+        },
+        "true_answer": "Five",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "options": {
+            "A": "Latvian",
+            "B": "Greek",
+            "C": "Russian",
+            "D": "Hungarian",
+            "E": "Italian"
+        },
+        "true_answer": "Hungarian",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "options": {
+            "A": "King&#039;s Head",
+            "B": "Red Lion",
+            "C": "Royal Oak",
+            "D": "The Green Dragon",
+            "E": "White Hart"
+        },
+        "true_answer": "Red Lion",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What year was Apple Inc. founded?",
+        "options": {
+            "A": "1974",
+            "B": "1980",
+            "C": "1976",
+            "D": "1978",
+            "E": "1980"
+        },
+        "true_answer": "1976",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "options": {
+            "A": "Pisces",
+            "B": "Aquarius",
+            "C": "Scorpio",
+            "D": "Leo",
+            "E": "Capricorn"
+        },
+        "true_answer": "Aquarius",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "options": {
+            "A": "Lavender",
+            "B": "Peppermint",
+            "C": "Bergamot oil",
+            "D": "Vanilla",
+            "E": "Honey"
+        },
+        "true_answer": "Bergamot oil",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is a Burgee?",
+        "options": {
+            "A": "A window",
+            "B": "A rope",
+            "C": "A flag",
+            "D": "A rope",
+            "E": "A type of food"
+        },
+        "true_answer": "A flag",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "options": {
+            "A": "Manhattan",
+            "B": "Screwdriver",
+            "C": "Margarita",
+            "D": "Rusty Nail",
+            "E": "Sex on the Beach"
+        },
+        "true_answer": "Rusty Nail",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is real haggis made of?",
+        "options": {
+            "A": "Sheep&#039;s Heart, Liver and Lungs",
+            "B": "Whole Sheep",
+            "C": "Sheep&#039;s Heart, Kidneys and Lungs",
+            "D": "Sheep's Eyes, Kidneys and Stomach",
+            "E": "Sheep&#039;s Liver, Kidneys and Eyes"
+        },
+        "true_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is a dead mall?",
+        "options": {
+            "A": "A mall with high vacancy rates or low consumer foot traffic",
+            "B": "A mall that has been condemed",
+            "C": "A mall that has a thriving business and high consumer foot traffic",
+            "D": "A mall with no stores",
+            "E": "A mall after business hours"
+        },
+        "true_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "options": {
+            "A": "Lamborghini",
+            "B": "Fiat",
+            "C": "Alfa Romeo",
+            "D": "Maserati",
+            "E": "Ferrari"
+        },
+        "true_answer": "Fiat",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": {
+            "A": "Salsa dancing",
+            "B": "Flamenco",
+            "C": "Mariachi",
+            "D": "Bullfighting",
+            "E": "Fiestas"
+        },
+        "true_answer": "Bullfighting",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+        "options": {
+            "A": "Max",
+            "B": "Matthew",
+            "C": "Mike",
+            "D": "Mark",
+            "E": "Mary"
+        },
+        "true_answer": "Mike",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Rolex is a company that specializes in what type of product?",
+        "options": {
+            "A": "Watches",
+            "B": "Computers",
+            "C": "Cars",
+            "D": "Sports equipment",
+            "E": "Sports equipment"
+        },
+        "true_answer": "Watches",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Pirates of the Caribbean",
+            "B": "The Haunted Mansion",
+            "C": "Peter Pan&#039;s Flight",
+            "D": "The Haunted Mansion",
+            "E": "Twilight Zone Tower of Terror"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Brazillian",
+            "B": "Brazil",
+            "C": "Brasilia",
+            "D": "Brasil",
+            "E": "Bras&iacute;l"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "options": {
+            "A": "Colt 9mm",
+            "B": "Thompson",
+            "C": "Smith & Wesson",
+            "D": "MAC-10",
+            "E": "M3"
+        },
+        "true_answer": "M3",
+        "correct_answer": "E"
+    },
+    {
+        "question": "On average, Americans consume 100 pounds of what per second?",
+        "options": {
+            "A": "Potatoes",
+            "B": "Donuts",
+            "C": "Pizza",
+            "D": "Cocaine",
+            "E": "Chocolate"
+        },
+        "true_answer": "Chocolate",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Felix Miller",
+            "B": "Daniel Ek",
+            "C": "Sean Parker",
+            "D": "Felix Miller",
+            "E": "Michael Breidenbruecker"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2005",
+            "B": "2006",
+            "C": "2003",
+            "D": "2006",
+            "E": "2004"
+        },
+        "true_answer": "2004",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Shiatsu",
+            "B": "Majime",
+            "C": "Ukiyo",
+            "D": "Ikigai",
+            "E": "Ukiyo"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "options": {
+            "A": "One Detroit Center",
+            "B": "One Detroit Center",
+            "C": "Taipei 101",
+            "D": "Niagara Mohawk Building",
+            "E": "Westendstrasse 1"
+        },
+        "true_answer": "Niagara Mohawk Building",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "July 4, 1776",
+            "B": "August 4, 1776",
+            "C": "June 4, 1776",
+            "D": "May 4, 1776",
+            "E": "July 2, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+        "options": {
+            "A": "Fumihiko Maki",
+            "B": "Bjarke Ingels",
+            "C": "David Childs",
+            "D": "Frank Gehry",
+            "E": "Michael Arad"
+        },
+        "true_answer": "David Childs",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Tilde",
+            "B": "Interrobang",
+            "C": "Pilcrow",
+            "D": "Ampersand",
+            "E": "Hashtag"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "CatMassage",
+            "B": "Netscape Navigator",
+            "C": "BackRub",
+            "D": "Bing",
+            "E": "SearchPro"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which country has the most Trappist breweries?",
+        "options": {
+            "A": "USA",
+            "B": "France",
+            "C": "Belgium",
+            "D": "Netherlands",
+            "E": "Germany"
+        },
+        "true_answer": "Belgium",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Mountain Dew",
+            "B": "Sprite",
+            "C": "Coca-Cola",
+            "D": "Dr. Pepper",
+            "E": "Sprite"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is a &quot;dakimakura&quot;?",
+        "options": {
+            "A": "A word used to describe two people who truly love each other",
+            "B": "A Chinese meal, essentially composed of fish",
+            "C": "A Chinese meal, essentially composed of fish",
+            "D": "A yoga posture",
+            "E": "A body pillow"
+        },
+        "true_answer": "A body pillow",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the last letter of the Greek alphabet?",
+        "options": {
+            "A": "Omega",
+            "B": "Kappa",
+            "C": "Mu",
+            "D": "Delta",
+            "E": "Epsilon"
+        },
+        "true_answer": "Omega",
+        "correct_answer": "A"
+    },
+    {
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "options": {
+            "A": "Tate",
+            "B": "Tate",
+            "C": "British Museum",
+            "D": "Science Museum",
+            "E": "Natural History Museum"
+        },
+        "true_answer": "Natural History Museum",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "options": {
+            "A": "Have It Your Way",
+            "B": "Why Pay More!?",
+            "C": "Have It Your Way",
+            "D": "We Love to See You Smile",
+            "E": "Making People Happy Through Food"
+        },
+        "true_answer": "We Love to See You Smile",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "options": {
+            "A": "Tiki masala",
+            "B": "Biryani",
+            "C": "Tandoori",
+            "D": "Pani puri",
+            "E": "Rasgulla"
+        },
+        "true_answer": "Tandoori",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Boo-Berry",
+            "B": "Fruit Brute",
+            "C": "Yummy Mummy",
+            "D": "Count Chocula",
+            "E": "Franken Berry"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "July 2, 1776",
+            "B": "June 4, 1776",
+            "C": "April 4, 1776",
+            "D": "May 4, 1776",
+            "E": "July 4, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "options": {
+            "A": "L&ouml;ffel",
+            "B": "Messer",
+            "C": "Essst&auml;bchen",
+            "D": "Gabel",
+            "E": "Fork"
+        },
+        "true_answer": "L&ouml;ffel",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is a &quot;dakimakura&quot;?",
+        "options": {
+            "A": "A body pillow",
+            "B": "A yoga posture",
+            "C": "A Chinese meal, essentially composed of fish",
+            "D": "A word used to describe two people who truly love each other",
+            "E": "A Chinese meal, essentially composed of fish"
+        },
+        "true_answer": "A body pillow",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "options": {
+            "A": "Niagara Mohawk Building",
+            "B": "Empire State Building",
+            "C": "One Detroit Center",
+            "D": "Taipei 101",
+            "E": "Westendstrasse 1"
+        },
+        "true_answer": "Niagara Mohawk Building",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "options": {
+            "A": "Greek",
+            "B": "Russian",
+            "C": "Russian",
+            "D": "Hungarian",
+            "E": "Latvian"
+        },
+        "true_answer": "Hungarian",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2003",
+            "B": "2004",
+            "C": "2005",
+            "D": "2003",
+            "E": "2006"
+        },
+        "true_answer": "2004",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "options": {
+            "A": "Honey",
+            "B": "Vanilla",
+            "C": "Lavender",
+            "D": "Bergamot oil",
+            "E": "Chamomile"
+        },
+        "true_answer": "Bergamot oil",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Northwest",
+            "B": "Southeast",
+            "C": "Northeast",
+            "D": "East",
+            "E": "Southwest"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What year was Apple Inc. founded?",
+        "options": {
+            "A": "1978",
+            "B": "1978",
+            "C": "1976",
+            "D": "1980",
+            "E": "1974"
+        },
+        "true_answer": "1976",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Boo-Berry",
+            "B": "Franken Berry",
+            "C": "Choco-Berry",
+            "D": "Count Chocula",
+            "E": "Fruit Brute"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+        "options": {
+            "A": "Bjarke Ingels",
+            "B": "Frank Lloyd Wright",
+            "C": "Michael Arad",
+            "D": "David Childs",
+            "E": "Fumihiko Maki"
+        },
+        "true_answer": "David Childs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+        "options": {
+            "A": "Government",
+            "B": "Ghost",
+            "C": "Geronimo",
+            "D": "Going",
+            "E": "Group"
+        },
+        "true_answer": "Government",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is real haggis made of?",
+        "options": {
+            "A": "Sheep&#039;s Heart, Kidneys and Lungs",
+            "B": "Sheep&#039;s Liver, Kidneys and Eyes",
+            "C": "Sheep&#039;s Heart, Liver and Lungs",
+            "D": "Sheep's Liver, Kidneys and Eyes",
+            "E": "Whole Sheep"
+        },
+        "true_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When was Nintendo founded?",
+        "options": {
+            "A": "September 23rd, 1889",
+            "B": "March 4th, 1887",
+            "C": "October 19th, 1891",
+            "D": "December 27th, 1894",
+            "E": "March 4th, 1887"
+        },
+        "true_answer": "September 23rd, 1889",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "options": {
+            "A": "Harvard University",
+            "B": "Brown University",
+            "C": "Princeton University",
+            "D": "Yale University",
+            "E": "Columbia University"
+        },
+        "true_answer": "Yale University",
+        "correct_answer": "D"
+    },
+    {
+        "question": "After how many years would you celebrate your crystal anniversary?",
+        "options": {
+            "A": "20",
+            "B": "10",
+            "C": "25",
+            "D": "30",
+            "E": "15"
+        },
+        "true_answer": "15",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the romanized Japanese word for &quot;university&quot;?",
+        "options": {
+            "A": "Daigaku",
+            "B": "Toshokan",
+            "C": "Jimusho",
+            "D": "Shokudou",
+            "E": "Toshokan"
+        },
+        "true_answer": "Daigaku",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "options": {
+            "A": "$12.7 Billion",
+            "B": "$2.7 Billion",
+            "C": "$956 Million",
+            "D": "$1.7 Billion",
+            "E": "$95 Million"
+        },
+        "true_answer": "$12.7 Billion",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Gongoozler",
+            "B": "Meupareunia",
+            "C": "Gossypiboma",
+            "D": "Meupareunia",
+            "E": "Jentacular"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Shiatsu",
+            "B": "Ukiyo",
+            "C": "Ukiyo",
+            "D": "Ikigai",
+            "E": "Majime"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does a milliner make and sell?",
+        "options": {
+            "A": "Shoes",
+            "B": "Shoes",
+            "C": "Shirts",
+            "D": "Hats",
+            "E": "Belts"
+        },
+        "true_answer": "Hats",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "options": {
+            "A": "Tiki masala",
+            "B": "Tandoori",
+            "C": "Butter chicken",
+            "D": "Biryani",
+            "E": "Pani puri"
+        },
+        "true_answer": "Tandoori",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Pepsi",
+            "B": "Mountain Dew",
+            "C": "Sprite",
+            "D": "Dr. Pepper",
+            "E": "Coca-Cola"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "options": {
+            "A": "Samurai",
+            "B": "Ninja",
+            "C": "Shogun",
+            "D": "Ninja",
+            "E": "Shinobi"
+        },
+        "true_answer": "Shogun",
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "options": {
+            "A": "One hundred",
+            "B": "Five",
+            "C": "Ten",
+            "D": "Fifty",
+            "E": "Twenty"
+        },
+        "true_answer": "Five",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Michael Breidenbruecker",
+            "B": "Sean Parker",
+            "C": "Elon Musk",
+            "D": "Daniel Ek",
+            "E": "Felix Miller"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was Hubba Bubba first introduced?",
+        "options": {
+            "A": "1980",
+            "B": "1982",
+            "C": "1979",
+            "D": "1984",
+            "E": "1972"
+        },
+        "true_answer": "1979",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Peter Pan&#039;s Flight",
+            "B": "The Haunted Mansion",
+            "C": "Pirates of the Caribbean",
+            "D": "Twilight Zone Tower of Terror",
+            "E": "The Haunted Mansion"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "options": {
+            "A": "1796",
+            "B": "1833",
+            "C": "1942",
+            "D": "1933",
+            "E": "1796"
+        },
+        "true_answer": "1833",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "options": {
+            "A": "MAC-10",
+            "B": "Colt 9mm",
+            "C": "M3",
+            "D": "Colt 9mm",
+            "E": "Thompson"
+        },
+        "true_answer": "M3",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "Netscape Navigator",
+            "B": "SearchPro",
+            "C": "CatMassage",
+            "D": "Yahoo Search",
+            "E": "BackRub"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "options": {
+            "A": "Paris Gare du Nord",
+            "B": "Amsterdam Amstel",
+            "C": "London Liverpool Street",
+            "D": "Brussels Midi",
+            "E": "Frankfurt (Main) Hauptbahnhof"
+        },
+        "true_answer": "London Liverpool Street",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "options": {
+            "A": "Pisces",
+            "B": "Aries",
+            "C": "Aquarius",
+            "D": "Scorpio",
+            "E": "Capricorn"
+        },
+        "true_answer": "Aquarius",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Bras&iacute;l",
+            "B": "Brazil",
+            "C": "Brazi",
+            "D": "Brasilia",
+            "E": "Brasil"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Hewlett-Packard",
+            "B": "Asus",
+            "C": "Toshiba",
+            "D": "Apple",
+            "E": "Dell"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In what year was McDonald&#039;s founded?",
+        "options": {
+            "A": "1964",
+            "B": "1947",
+            "C": "1972",
+            "D": "1951",
+            "E": "1955"
+        },
+        "true_answer": "1955",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2004",
+            "B": "2006",
+            "C": "2005",
+            "D": "2004",
+            "E": "2003"
+        },
+        "true_answer": "2004",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "options": {
+            "A": "Cinnamon",
+            "B": "Saffron",
+            "C": "Cardamom",
+            "D": "Vanilla",
+            "E": "Turmeric"
+        },
+        "true_answer": "Saffron",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Fruit Brute",
+            "B": "Count Chocula",
+            "C": "Franken Berry",
+            "D": "Boo-Berry",
+            "E": "Fruit Brute"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": {
+            "A": "The Space Needle",
+            "B": "Villa Savoye",
+            "C": "Sydney Opera House",
+            "D": "The Guggenheim",
+            "E": "The Louvre Pyramid"
+        },
+        "true_answer": "The Guggenheim",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Asus",
+            "B": "Hewlett-Packard",
+            "C": "Dell",
+            "D": "Toshiba",
+            "E": "IBM"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+        "options": {
+            "A": "Video Games",
+            "B": "Board Games",
+            "C": "Television Shows",
+            "D": "Books",
+            "E": "Films"
+        },
+        "true_answer": "Board Games",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "options": {
+            "A": "Russian",
+            "B": "Hungarian",
+            "C": "Latvian",
+            "D": "Greek",
+            "E": "Russian"
+        },
+        "true_answer": "Hungarian",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "options": {
+            "A": "Ad hominem",
+            "B": "Tu quoque",
+            "C": "Argumentum ad populum",
+            "D": "Post hoc ergo propter hoc",
+            "E": "Ad nauseam"
+        },
+        "true_answer": "Ad hominem",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Adam Smith",
+            "B": "Michael Breidenbruecker",
+            "C": "Felix Miller",
+            "D": "Sean Parker",
+            "E": "Daniel Ek"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "6",
+            "D": "2",
+            "E": "4"
+        },
+        "true_answer": "4",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "options": {
+            "A": "Fiat",
+            "B": "Lamborghini",
+            "C": "Alfa Romeo",
+            "D": "Maserati",
+            "E": "Ferrari"
+        },
+        "true_answer": "Fiat",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "options": {
+            "A": "Screwdriver",
+            "B": "Manhattan",
+            "C": "Sex on the Beach",
+            "D": "Rusty Nail",
+            "E": "Screwdriver"
+        },
+        "true_answer": "Rusty Nail",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "options": {
+            "A": "Ten",
+            "B": "Five",
+            "C": "Fifteen",
+            "D": "Twenty",
+            "E": "One hundred"
+        },
+        "true_answer": "Five",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where does water from Poland Spring water bottles come from?",
+        "options": {
+            "A": "Masovia, Poland",
+            "B": "Maine, United States",
+            "C": "Bavaria, Poland",
+            "D": "Hesse, Germany",
+            "E": "Bavaria, Poland"
+        },
+        "true_answer": "Maine, United States",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "options": {
+            "A": "Horse",
+            "B": "Guitar",
+            "C": "Weave",
+            "D": "Boat",
+            "E": "Guitar"
+        },
+        "true_answer": "Horse",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Japanese word for &quot;university&quot;?",
+        "options": {
+            "A": "Shokudou",
+            "B": "Jimusho",
+            "C": "Jimusho",
+            "D": "Toshokan",
+            "E": "Daigaku"
+        },
+        "true_answer": "Daigaku",
+        "correct_answer": "E"
+    },
+    {
+        "question": "After how many years would you celebrate your crystal anniversary?",
+        "options": {
+            "A": "30",
+            "B": "20",
+            "C": "25",
+            "D": "10",
+            "E": "15"
+        },
+        "true_answer": "15",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Brasilia",
+            "B": "Brazil",
+            "C": "Brazos",
+            "D": "Brasil",
+            "E": "Bras&iacute;l"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": {
+            "A": "Fiestas",
+            "B": "Mariachi",
+            "C": "Flamenco",
+            "D": "Bullfighting",
+            "E": "Mariachi"
+        },
+        "true_answer": "Bullfighting",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew",
+            "B": "Do The Dew",
+            "C": "Give Me A Dew",
+            "D": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "E": "Mountain Dew, the choice of champions!"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the soft drink Pepsi originally introduced as?",
+        "options": {
+            "A": "Carolina Cola",
+            "B": "Kola Krazy",
+            "C": "Brad&#039;s Drink",
+            "D": "Pepsin Syrup",
+            "E": "Pepsin Pop"
+        },
+        "true_answer": "Brad&#039;s Drink",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Meraki",
+            "B": "Ikigai",
+            "C": "Ukiyo",
+            "D": "Majime",
+            "E": "Shiatsu"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When was Nintendo founded?",
+        "options": {
+            "A": "March 4th, 1887",
+            "B": "October 19th, 1891",
+            "C": "September 23rd, 1889",
+            "D": "December 27th, 1894",
+            "E": "November 2nd, 1905"
+        },
+        "true_answer": "September 23rd, 1889",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "options": {
+            "A": "Her new puppy from great grandpa vern.",
+            "B": "My trip to the moon",
+            "C": "tribute",
+            "D": "Me at the zoo",
+            "E": "carrie rides a truck"
+        },
+        "true_answer": "Me at the zoo",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "The Haunted Mansion",
+            "B": "The Haunted Mansion",
+            "C": "Pirates of the Caribbean",
+            "D": "Peter Pan&#039;s Flight",
+            "E": "Twilight Zone Tower of Terror"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is real haggis made of?",
+        "options": {
+            "A": "Sheep&#039;s Heart, Kidneys and Lungs",
+            "B": "Sheep&#039;s Heart, Liver and Lungs",
+            "C": "Sheep&#039;s Liver, Kidneys and Eyes",
+            "D": "Sheep's Lungs, Liver and Eyes",
+            "E": "Whole Sheep"
+        },
+        "true_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which country drives on the left side of the road?",
+        "options": {
+            "A": "Germany",
+            "B": "Germany",
+            "C": "Russia",
+            "D": "Japan",
+            "E": "China"
+        },
+        "true_answer": "Japan",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "options": {
+            "A": "M3",
+            "B": "Colt 9mm",
+            "C": "MAC-10",
+            "D": "Thompson",
+            "E": "Colt 9mm"
+        },
+        "true_answer": "M3",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which river flows through the Scottish city of Glasgow?",
+        "options": {
+            "A": "Clyde",
+            "B": "Tay",
+            "C": "Tay",
+            "D": "Tweed",
+            "E": "Dee"
+        },
+        "true_answer": "Clyde",
+        "correct_answer": "A"
+    },
+    {
+        "question": "On average, Americans consume 100 pounds of what per second?",
+        "options": {
+            "A": "Donuts",
+            "B": "Chocolate",
+            "C": "Potatoes",
+            "D": "Cocaine",
+            "E": "Cocaine"
+        },
+        "true_answer": "Chocolate",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the unit of currency in Laos?",
+        "options": {
+            "A": "Ruble",
+            "B": "Kip",
+            "C": "Dollar",
+            "D": "Yen",
+            "E": "Konra"
+        },
+        "true_answer": "Kip",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "options": {
+            "A": "King&#039;s Head",
+            "B": "Blue Horse",
+            "C": "Red Lion",
+            "D": "Royal Oak",
+            "E": "White Hart"
+        },
+        "true_answer": "Red Lion",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Osen&#039;",
+            "B": "Leto",
+            "C": "Zima",
+            "D": "Vesna",
+            "E": "Vesna"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "options": {
+            "A": "Tokyo",
+            "B": "New York",
+            "C": "Singapore",
+            "D": "Beijing",
+            "E": "Kuala Lumpur"
+        },
+        "true_answer": "Beijing",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Brasilia",
+            "B": "Brazl",
+            "C": "Bras&iacute;l",
+            "D": "Brasil",
+            "E": "Brazil"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Fruit Brute",
+            "B": "Lucky Charms",
+            "C": "Franken Berry",
+            "D": "Count Chocula",
+            "E": "Boo-Berry"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Snivy, Fennekin, Froakie",
+            "B": "Snivy, Fennekin, Froakie",
+            "C": "Chespin, Tepig, Froakie",
+            "D": "Snivy, Tepig, Oshawott",
+            "E": "Chespin, Fennekin, Oshawott"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "options": {
+            "A": "Rusty Nail",
+            "B": "Manhattan",
+            "C": "Sex on the Beach",
+            "D": "Screwdriver",
+            "E": "Screwdriver"
+        },
+        "true_answer": "Rusty Nail",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "options": {
+            "A": "Her new puppy from great grandpa vern.",
+            "B": "carrie rides a truck",
+            "C": "Me at the zoo",
+            "D": "Her new puppy from great grandpa vern.",
+            "E": "tribute"
+        },
+        "true_answer": "Me at the zoo",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "options": {
+            "A": "Standing on his head",
+            "B": "Jumping backwards over a desk",
+            "C": "Typing on a keyboard during a handstand",
+            "D": "Jumping over an office chair",
+            "E": "Riding a unicycle"
+        },
+        "true_answer": "Jumping over an office chair",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Felix Miller",
+            "B": "Sean Parker",
+            "C": "Mark Zuckerberg",
+            "D": "Michael Breidenbruecker",
+            "E": "Daniel Ek"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Hewlett-Packard",
+            "B": "IBM",
+            "C": "Toshiba",
+            "D": "Asus",
+            "E": "Dell"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "options": {
+            "A": "Rude",
+            "B": "Hairy",
+            "C": "Funny",
+            "D": "Tall",
+            "E": "Rude"
+        },
+        "true_answer": "Hairy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "options": {
+            "A": "Science Museum",
+            "B": "British Museum",
+            "C": "Victoria and Albert Museum",
+            "D": "Natural History Museum",
+            "E": "Tate"
+        },
+        "true_answer": "Natural History Museum",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Twilight Zone Tower of Terror",
+            "B": "The Haunted Mansion",
+            "C": "The Haunted Mansion",
+            "D": "Pirates of the Caribbean",
+            "E": "Peter Pan&#039;s Flight"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What fast food chain has the most locations globally? ",
+        "options": {
+            "A": "KFC",
+            "B": "McDonalds",
+            "C": "Starbucks",
+            "D": "Subway",
+            "E": "Burger King"
+        },
+        "true_answer": "Subway",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Coca-Cola",
+            "B": "Coca-Cola",
+            "C": "Dr. Pepper",
+            "D": "Mountain Dew",
+            "E": "Sprite"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is real haggis made of?",
+        "options": {
+            "A": "Sheep&#039;s Heart, Kidneys and Lungs",
+            "B": "Whole Sheep",
+            "C": "Sheep&#039;s Liver, Kidneys and Eyes",
+            "D": "Sheep&#039;s Heart, Liver and Lungs",
+            "E": "Sheep's Kidneys, Liver and Lungs"
+        },
+        "true_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is a Burgee?",
+        "options": {
+            "A": "A flag",
+            "B": "A rope",
+            "C": "A window",
+            "D": "A door",
+            "E": "A type of food"
+        },
+        "true_answer": "A flag",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "options": {
+            "A": "Essst&auml;bchen",
+            "B": "Messer",
+            "C": "L&ouml;ffel",
+            "D": "Knife",
+            "E": "Gabel"
+        },
+        "true_answer": "L&ouml;ffel",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "July 2, 1776",
+            "B": "June 4, 1776",
+            "C": "May 4, 1776",
+            "D": "July 4, 1776",
+            "E": "May 2, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "options": {
+            "A": "Russian",
+            "B": "Russian",
+            "C": "Latvian",
+            "D": "Greek",
+            "E": "Hungarian"
+        },
+        "true_answer": "Hungarian",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Where does water from Poland Spring water bottles come from?",
+        "options": {
+            "A": "Maine, United States",
+            "B": "Masovia, Poland",
+            "C": "Hesse, Germany",
+            "D": "Bavaria, Germany",
+            "E": "Bavaria, Poland"
+        },
+        "true_answer": "Maine, United States",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "B": "Do The Dew",
+            "C": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew",
+            "D": "Give Me A Dew",
+            "E": "Kickstart your day with Mountain Dew"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Northwest",
+            "B": "Southeast",
+            "C": "North",
+            "D": "Northeast",
+            "E": "Southwest"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "options": {
+            "A": "Have It Your Way",
+            "B": "We Love to See You Smile",
+            "C": "Why Pay More!?",
+            "D": "Have It Your Way",
+            "E": "Making People Happy Through Food"
+        },
+        "true_answer": "We Love to See You Smile",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "options": {
+            "A": "Pancreatic",
+            "B": "Heart",
+            "C": "Stomach",
+            "D": "Liver",
+            "E": "Bone"
+        },
+        "true_answer": "Pancreatic",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "options": {
+            "A": "India",
+            "B": "Soviet Union",
+            "C": "Poland",
+            "D": "Canada",
+            "E": "United States of America"
+        },
+        "true_answer": "India",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "options": {
+            "A": "White Hart",
+            "B": "Red Lion",
+            "C": "Royal Oak",
+            "D": "The Blue Dog",
+            "E": "King&#039;s Head"
+        },
+        "true_answer": "Red Lion",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Japanese word for &quot;university&quot;?",
+        "options": {
+            "A": "Toshokan",
+            "B": "Daigaku",
+            "C": "Shokudou",
+            "D": "Shokudou",
+            "E": "Jimusho"
+        },
+        "true_answer": "Daigaku",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+        "options": {
+            "A": "Dress",
+            "B": "Kilt",
+            "C": "Dress",
+            "D": "Rhobes",
+            "E": "Skirt"
+        },
+        "true_answer": "Kilt",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "6",
+            "B": "4",
+            "C": "5",
+            "D": "3",
+            "E": "2"
+        },
+        "true_answer": "4",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "options": {
+            "A": "Karashi",
+            "B": "Ponzu",
+            "C": "Horseradish",
+            "D": "Wasabi ",
+            "E": "Mentsuyu"
+        },
+        "true_answer": "Wasabi ",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "options": {
+            "A": "Fifty",
+            "B": "Twenty",
+            "C": "Ten",
+            "D": "Five",
+            "E": "One hundred"
+        },
+        "true_answer": "Five",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+        "options": {
+            "A": "Matthew",
+            "B": "Michelle",
+            "C": "Max",
+            "D": "Mike",
+            "E": "Mark"
+        },
+        "true_answer": "Mike",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "options": {
+            "A": "Paris Gare du Nord",
+            "B": "Berlin Hauptbahnhof",
+            "C": "London Liverpool Street",
+            "D": "Brussels Midi",
+            "E": "Frankfurt (Main) Hauptbahnhof"
+        },
+        "true_answer": "London Liverpool Street",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which country drives on the left side of the road?",
+        "options": {
+            "A": "France",
+            "B": "Russia",
+            "C": "China",
+            "D": "Germany",
+            "E": "Japan"
+        },
+        "true_answer": "Japan",
+        "correct_answer": "E"
+    },
+    {
+        "question": "On average, Americans consume 100 pounds of what per second?",
+        "options": {
+            "A": "Potatoes",
+            "B": "Pizza",
+            "C": "Chocolate",
+            "D": "Cocaine",
+            "E": "Donuts"
+        },
+        "true_answer": "Chocolate",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the last letter of the Greek alphabet?",
+        "options": {
+            "A": "Epsilon",
+            "B": "Mu",
+            "C": "Kappa",
+            "D": "Omega",
+            "E": "Lambda"
+        },
+        "true_answer": "Omega",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "options": {
+            "A": "Appeal to authority",
+            "B": "Ad hominem",
+            "C": "Tu quoque",
+            "D": "Post hoc ergo propter hoc",
+            "E": "Argumentum ad populum"
+        },
+        "true_answer": "Ad hominem",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "options": {
+            "A": "MAC-10",
+            "B": "Thompson",
+            "C": "M16",
+            "D": "M3",
+            "E": "Colt 9mm"
+        },
+        "true_answer": "M3",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the Swedish word for &quot;window&quot;?",
+        "options": {
+            "A": "Br&ouml;st",
+            "B": "Ruta",
+            "C": "Sk&auml;rm",
+            "D": "H&aring;l",
+            "E": "F&ouml;nster"
+        },
+        "true_answer": "F&ouml;nster",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "The Haunted Mansion",
+            "B": "Twilight Zone Tower of Terror",
+            "C": "The Haunted Mansion",
+            "D": "Peter Pan&#039;s Flight",
+            "E": "Pirates of the Caribbean"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "options": {
+            "A": "Tu quoque",
+            "B": "Post hoc ergo propter hoc",
+            "C": "Hominem ad populum",
+            "D": "Argumentum ad populum",
+            "E": "Ad hominem"
+        },
+        "true_answer": "Ad hominem",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "options": {
+            "A": "Columbia University",
+            "B": "Yale University",
+            "C": "Stanford University",
+            "D": "Princeton University",
+            "E": "Harvard University"
+        },
+        "true_answer": "Yale University",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What fast food chain has the most locations globally? ",
+        "options": {
+            "A": "KFC",
+            "B": "McDonalds",
+            "C": "Starbucks",
+            "D": "Burger King",
+            "E": "Subway"
+        },
+        "true_answer": "Subway",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "options": {
+            "A": "Scorpio",
+            "B": "Capricorn",
+            "C": "Aquarius",
+            "D": "Gemini",
+            "E": "Pisces"
+        },
+        "true_answer": "Aquarius",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "options": {
+            "A": "Making People Happy Through Food",
+            "B": "Why Pay More!?",
+            "C": "Have it Your Way",
+            "D": "Have It Your Way",
+            "E": "We Love to See You Smile"
+        },
+        "true_answer": "We Love to See You Smile",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "options": {
+            "A": "$956 Million",
+            "B": "$2.7 Billion",
+            "C": "$12.7 Billion",
+            "D": "$56 Million",
+            "E": "$95 Million"
+        },
+        "true_answer": "$12.7 Billion",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "options": {
+            "A": "Vodka",
+            "B": "Rum",
+            "C": "Tequila",
+            "D": "Gin",
+            "E": "Whiskey"
+        },
+        "true_answer": "Gin",
+        "correct_answer": "D"
+    },
+    {
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "options": {
+            "A": "Politics",
+            "B": "Economics",
+            "C": "Physics",
+            "D": "Chemistry",
+            "E": "Philosophy"
+        },
+        "true_answer": "Economics",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When was Nintendo founded?",
+        "options": {
+            "A": "September 23rd, 1889",
+            "B": "October 19th, 1891",
+            "C": "March 4th, 1887",
+            "D": "December 27th, 1894",
+            "E": "November 15th, 1902"
+        },
+        "true_answer": "September 23rd, 1889",
+        "correct_answer": "A"
+    },
+    {
+        "question": "After how many years would you celebrate your crystal anniversary?",
+        "options": {
+            "A": "25",
+            "B": "20",
+            "C": "30",
+            "D": "15",
+            "E": "10"
+        },
+        "true_answer": "15",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew",
+            "B": "Give Me A Dew",
+            "C": "Do The Dew",
+            "D": "Live for the hips, die for the taste Mounatian Dew",
+            "E": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Felix Miller",
+            "B": "Daniel Ek",
+            "C": "Mark Zuckerberg",
+            "D": "Michael Breidenbruecker",
+            "E": "Sean Parker"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Six",
+            "B": "Four",
+            "C": "Three",
+            "D": "Five",
+            "E": "Seven"
+        },
+        "true_answer": "Three",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Brasilia",
+            "B": "Brasil",
+            "C": "Bras&iacute;l",
+            "D": "Brazill",
+            "E": "Brazil"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "options": {
+            "A": "L&ouml;ffel",
+            "B": "Gabel",
+            "C": "Essst&auml;bchen",
+            "D": "Messer",
+            "E": "Essst\u00e4bchen"
+        },
+        "true_answer": "L&ouml;ffel",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "options": {
+            "A": "cat playing piano",
+            "B": "tribute",
+            "C": "carrie rides a truck",
+            "D": "Her new puppy from great grandpa vern.",
+            "E": "Me at the zoo"
+        },
+        "true_answer": "Me at the zoo",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "options": {
+            "A": "Guitar",
+            "B": "Guitar",
+            "C": "Weave",
+            "D": "Boat",
+            "E": "Horse"
+        },
+        "true_answer": "Horse",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who invented Pastafarianism?",
+        "options": {
+            "A": "Robert Smith",
+            "B": "Eric Tignor",
+            "C": "Bobby Henderson",
+            "D": "Zach Soldi",
+            "E": "Bill Nye"
+        },
+        "true_answer": "Bobby Henderson",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Toshiba",
+            "B": "Dell",
+            "C": "Hewlett-Packard",
+            "D": "Toshiba",
+            "E": "Asus"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Mountain Dew",
+            "B": "Dr. Pepper",
+            "C": "Sprite",
+            "D": "Pepsi",
+            "E": "Coca-Cola"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "options": {
+            "A": "Aglio",
+            "B": "Pomodoro",
+            "C": "Limone",
+            "D": "Peperoncino",
+            "E": "Cipolla"
+        },
+        "true_answer": "Pomodoro",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2006",
+            "B": "2006",
+            "C": "2004",
+            "D": "2005",
+            "E": "2003"
+        },
+        "true_answer": "2004",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In what year was McDonald&#039;s founded?",
+        "options": {
+            "A": "1940",
+            "B": "1955",
+            "C": "1947",
+            "D": "1951",
+            "E": "1964"
+        },
+        "true_answer": "1955",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "5",
+            "B": "4",
+            "C": "2",
+            "D": "6",
+            "E": "3"
+        },
+        "true_answer": "4",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Snivy, Fennekin, Froakie",
+            "B": "Snivy, Tepig, Oshawott",
+            "C": "Chespin, Tepig, Froakie",
+            "D": "Snivy, Fennekin, Froakie",
+            "E": "Chespin, Fennekin, Oshawott"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "options": {
+            "A": "Mentsuyu",
+            "B": "Wasabi ",
+            "C": "Ponzu",
+            "D": "Mentsuyu",
+            "E": "Karashi"
+        },
+        "true_answer": "Wasabi ",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "options": {
+            "A": "Poland",
+            "B": "India",
+            "C": "United States of America",
+            "D": "Brazil",
+            "E": "Soviet Union"
+        },
+        "true_answer": "India",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where did the pineapple plant originate?",
+        "options": {
+            "A": "Asia",
+            "B": "South America",
+            "C": "Africa",
+            "D": "Hawaii",
+            "E": "Europe"
+        },
+        "true_answer": "South America",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Two",
+            "B": "Six",
+            "C": "Three",
+            "D": "Four",
+            "E": "Five"
+        },
+        "true_answer": "Three",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+        "options": {
+            "A": "John DeSeno",
+            "B": "Jimmy DeSeno",
+            "C": "Jerry DeSeno",
+            "D": "Justin DeSeno",
+            "E": "Josh DeSeno"
+        },
+        "true_answer": "Josh DeSeno",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Northeast",
+            "B": "Northwest",
+            "C": "Northwest",
+            "D": "Southeast",
+            "E": "Southwest"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "options": {
+            "A": "Ninja",
+            "B": "Samurai",
+            "C": "Ninja",
+            "D": "Shogun",
+            "E": "Shinobi"
+        },
+        "true_answer": "Shogun",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Rolex is a company that specializes in what type of product?",
+        "options": {
+            "A": "Cars",
+            "B": "Watches",
+            "C": "Sports equipment",
+            "D": "Cars",
+            "E": "Computers"
+        },
+        "true_answer": "Watches",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Meupareunia",
+            "B": "Gossypiboma",
+            "C": "Gongoozler",
+            "D": "Gossypiboma",
+            "E": "Jentacular"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "options": {
+            "A": "Clubs",
+            "B": "Diamonds",
+            "C": "Jokers",
+            "D": "Hearts",
+            "E": "Spades"
+        },
+        "true_answer": "Hearts",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What does a milliner make and sell?",
+        "options": {
+            "A": "Shirts",
+            "B": "Shoes",
+            "C": "Belts",
+            "D": "Hats",
+            "E": "Hats"
+        },
+        "true_answer": "Hats",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+        "options": {
+            "A": "Taipei 101",
+            "B": "Niagara Mohawk Building",
+            "C": "Westendstrasse 1",
+            "D": "Taipei 101",
+            "E": "One Detroit Center"
+        },
+        "true_answer": "Niagara Mohawk Building",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Ukiyo",
+            "B": "Majime",
+            "C": "Shiatsu",
+            "D": "Ikigai",
+            "E": "Ukiyo"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?",
+        "options": {
+            "A": "Weave",
+            "B": "Boat",
+            "C": "Guitar",
+            "D": "Guitar",
+            "E": "Horse"
+        },
+        "true_answer": "Horse",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "options": {
+            "A": "Her Majesty&#039;s Loyal Opposition",
+            "B": "Manager of the Crown Estate",
+            "C": "First Lord of the Treasury",
+            "D": "Duke of Cambridge",
+            "E": "Queen of England"
+        },
+        "true_answer": "First Lord of the Treasury",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Chespin, Fennekin, Oshawott",
+            "B": "Chespin, Tepig, Froakie",
+            "C": "Snivy, Fennekin, Froakie",
+            "D": "Chespin, Fennekin, Oshawott",
+            "E": "Snivy, Tepig, Oshawott"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+        "options": {
+            "A": "Dress",
+            "B": "Kilt",
+            "C": "Rhobes",
+            "D": "Skirt",
+            "E": "Dress"
+        },
+        "true_answer": "Kilt",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "options": {
+            "A": "Biryani",
+            "B": "Tiki masala",
+            "C": "Pani puri",
+            "D": "Tandoori",
+            "E": "Tiki masala"
+        },
+        "true_answer": "Tandoori",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "options": {
+            "A": "1833",
+            "B": "1942",
+            "C": "1942",
+            "D": "1933",
+            "E": "1796"
+        },
+        "true_answer": "1833",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": {
+            "A": "Flamenco",
+            "B": "Mariachi",
+            "C": "Fiestas",
+            "D": "Mariachi",
+            "E": "Bullfighting"
+        },
+        "true_answer": "Bullfighting",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who is the founder of &quot;The Lego Group&quot;?",
+        "options": {
+            "A": " Jens Niels Christiansen",
+            "B": " Gerhardt Kirk Christiansen",
+            "C": "Christine Christiansen",
+            "D": "Kirstine Christiansen",
+            "E": "Ole Kirk Christiansen"
+        },
+        "true_answer": "Ole Kirk Christiansen",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Sprite",
+            "B": "Dr. Pepper",
+            "C": "Coca-Cola",
+            "D": "Coca-Cola",
+            "E": "Mountain Dew"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Interrobang",
+            "B": "Pound sign",
+            "C": "Pilcrow",
+            "D": "Tilde",
+            "E": "Ampersand"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "options": {
+            "A": "Wasabi ",
+            "B": "Mentsuyu",
+            "C": "Tamari",
+            "D": "Karashi",
+            "E": "Ponzu"
+        },
+        "true_answer": "Wasabi ",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "options": {
+            "A": "King&#039;s Head",
+            "B": "Royal Oak",
+            "C": "White Hart",
+            "D": "Red Lion",
+            "E": "Black Swan"
+        },
+        "true_answer": "Red Lion",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Scotch whisky and Drambuie make up which cocktail?",
+        "options": {
+            "A": "Rusty Nail",
+            "B": "Screwdriver",
+            "C": "Sex on the Beach",
+            "D": "Manhattan",
+            "E": "Screwdriver"
+        },
+        "true_answer": "Rusty Nail",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "options": {
+            "A": "Pomodoro",
+            "B": "Peperoncino",
+            "C": "Parmigiano",
+            "D": "Cipolla",
+            "E": "Aglio"
+        },
+        "true_answer": "Pomodoro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+        "options": {
+            "A": "Neoclassical",
+            "B": "Gothic Revival",
+            "C": "Modernism",
+            "D": "Renaissance",
+            "E": "Baroque"
+        },
+        "true_answer": "Modernism",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The website &quot;Shut Up &amp; Sit Down&quot; reviews which form of media?",
+        "options": {
+            "A": "Television Shows",
+            "B": "Cooking Recipes",
+            "C": "Video Games",
+            "D": "Films",
+            "E": "Board Games"
+        },
+        "true_answer": "Board Games",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the last letter of the Greek alphabet?",
+        "options": {
+            "A": "Omega",
+            "B": "Mu",
+            "C": "Kappa",
+            "D": "Alpha",
+            "E": "Epsilon"
+        },
+        "true_answer": "Omega",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "options": {
+            "A": "Baltic Porter",
+            "B": "Pale Lager",
+            "C": "Pilfsner",
+            "D": "India Pale Ale",
+            "E": "Craft Stout"
+        },
+        "true_answer": "Pale Lager",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "options": {
+            "A": "Saffron",
+            "B": "Cayenne pepper",
+            "C": "Vanilla",
+            "D": "Cardamom",
+            "E": "Cinnamon"
+        },
+        "true_answer": "Saffron",
+        "correct_answer": "A"
+    },
+    {
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "options": {
+            "A": "Tate",
+            "B": "Science Museum",
+            "C": "Natural History Museum",
+            "D": "Tate",
+            "E": "British Museum"
+        },
+        "true_answer": "Natural History Museum",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "options": {
+            "A": "Making People Happy Through Food",
+            "B": "Have It Your Way",
+            "C": "Have It Your Way",
+            "D": "We Love to See You Smile",
+            "E": "Why Pay More!?"
+        },
+        "true_answer": "We Love to See You Smile",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "options": {
+            "A": "$2.7 Billion",
+            "B": "$956 Million",
+            "C": "$86 Million",
+            "D": "$12.7 Billion",
+            "E": "$95 Million"
+        },
+        "true_answer": "$12.7 Billion",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the Portuguese word for &quot;Brazil&quot;?",
+        "options": {
+            "A": "Brazil",
+            "B": "Brasils",
+            "C": "Brasil",
+            "D": "Bras&iacute;l",
+            "E": "Brasilia"
+        },
+        "true_answer": "Brasil",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "options": {
+            "A": "Typing on a keyboard during a handstand",
+            "B": "Jumping backwards over a desk",
+            "C": "Standing on his head",
+            "D": "Jumping over an office chair",
+            "E": "Doing a backflip"
+        },
+        "true_answer": "Jumping over an office chair",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which language is NOT Indo-European?",
+        "options": {
+            "A": "Hungarian",
+            "B": "Russian",
+            "C": "Latvian",
+            "D": "Turkish",
+            "E": "Greek"
+        },
+        "true_answer": "Hungarian",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "options": {
+            "A": "Lung",
+            "B": "Liver",
+            "C": "Bone",
+            "D": "Pancreatic",
+            "E": "Stomach"
+        },
+        "true_answer": "Pancreatic",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+        "options": {
+            "A": "Frank Gehry",
+            "B": "Bjarke Ingels",
+            "C": "Fumihiko Maki",
+            "D": "David Childs",
+            "E": "Michael Arad"
+        },
+        "true_answer": "David Childs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which river flows through the Scottish city of Glasgow?",
+        "options": {
+            "A": "Thames",
+            "B": "Tay",
+            "C": "Dee",
+            "D": "Tweed",
+            "E": "Clyde"
+        },
+        "true_answer": "Clyde",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "options": {
+            "A": "Peach",
+            "B": "Bergamot oil",
+            "C": "Vanilla",
+            "D": "Lavender",
+            "E": "Honey"
+        },
+        "true_answer": "Bergamot oil",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "options": {
+            "A": "Funny",
+            "B": "Hairy",
+            "C": "Rude",
+            "D": "Smart",
+            "E": "Tall"
+        },
+        "true_answer": "Hairy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is real haggis made of?",
+        "options": {
+            "A": "Sheep&#039;s Liver, Kidneys and Eyes",
+            "B": "Whole Sheep",
+            "C": "Sheep&#039;s Heart, Kidneys and Lungs",
+            "D": "Sheep&#039;s Heart, Liver and Lungs",
+            "E": "Sheep's Liver, Kidneys and Eyes"
+        },
+        "true_answer": "Sheep&#039;s Heart, Liver and Lungs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2003",
+            "B": "2006",
+            "C": "2006",
+            "D": "2005",
+            "E": "2004"
+        },
+        "true_answer": "2004",
+        "correct_answer": "E"
+    },
+    {
+        "question": "A doctor with a PhD is a doctor of what?",
+        "options": {
+            "A": "Phrenology",
+            "B": "Philosophy",
+            "C": "Physical Therapy",
+            "D": "Physical Education",
+            "E": "Psychology"
+        },
+        "true_answer": "Philosophy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+        "options": {
+            "A": "Gothic Revival",
+            "B": "Baroque",
+            "C": "Modernism",
+            "D": "Neoclassical",
+            "E": "Renaissance"
+        },
+        "true_answer": "Modernism",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Ikigai",
+            "B": "Majime",
+            "C": "Ukiyo",
+            "D": "Majime",
+            "E": "Shiatsu"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "E"
+    },
+    {
+        "question": "After how many years would you celebrate your crystal anniversary?",
+        "options": {
+            "A": "15",
+            "B": "20",
+            "C": "25",
+            "D": "10",
+            "E": "30"
+        },
+        "true_answer": "15",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is a &quot;dakimakura&quot;?",
+        "options": {
+            "A": "A body pillow",
+            "B": "A Chinese meal, essentially composed of fish",
+            "C": "A Chinese meal, essentially composed of fish",
+            "D": "A yoga posture",
+            "E": "A word used to describe two people who truly love each other"
+        },
+        "true_answer": "A body pillow",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "options": {
+            "A": "Capricorn",
+            "B": "Aquarius",
+            "C": "Pisces",
+            "D": "Scorpio",
+            "E": "Aries"
+        },
+        "true_answer": "Aquarius",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the unit of currency in Laos?",
+        "options": {
+            "A": "Dollar",
+            "B": "Yuan",
+            "C": "Kip",
+            "D": "Konra",
+            "E": "Ruble"
+        },
+        "true_answer": "Kip",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these companies does NOT manufacture automobiles?",
+        "options": {
+            "A": "Ducati",
+            "B": "Fiat",
+            "C": "Ducati",
+            "D": "Nissan",
+            "E": "GMC"
+        },
+        "true_answer": "Ducati",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+        "options": {
+            "A": "Economics",
+            "B": "Physics",
+            "C": "Mathematics",
+            "D": "Peace",
+            "E": "Physiology/Medicine"
+        },
+        "true_answer": "Peace",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+        "options": {
+            "A": "Big Mouth Billy Bass",
+            "B": "Sardeen",
+            "C": "Big Billy Bass",
+            "D": "Billy Big Bass",
+            "E": "Singing Fish"
+        },
+        "true_answer": "Big Mouth Billy Bass",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Sprite",
+            "B": "Fanta",
+            "C": "Coca-Cola",
+            "D": "Dr. Pepper",
+            "E": "Mountain Dew"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "options": {
+            "A": "First Minister of the UK",
+            "B": "Manager of the Crown Estate",
+            "C": "Her Majesty&#039;s Loyal Opposition",
+            "D": "Duke of Cambridge",
+            "E": "First Lord of the Treasury"
+        },
+        "true_answer": "First Lord of the Treasury",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "options": {
+            "A": "India Pale Ale",
+            "B": "Pale Lager",
+            "C": "Pilfsner",
+            "D": "Baltic Porter",
+            "E": "Pale Ale"
+        },
+        "true_answer": "Pale Lager",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+        "options": {
+            "A": "Toshiba",
+            "B": "Asus",
+            "C": "Dell",
+            "D": "Sony",
+            "E": "Hewlett-Packard"
+        },
+        "true_answer": "Hewlett-Packard",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "options": {
+            "A": "Cloves",
+            "B": "Cinnamon",
+            "C": "Vanilla",
+            "D": "Cardamom",
+            "E": "Saffron"
+        },
+        "true_answer": "Saffron",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Where did the pineapple plant originate?",
+        "options": {
+            "A": "Asia",
+            "B": "South America",
+            "C": "Africa",
+            "D": "Europe",
+            "E": "Hawaii"
+        },
+        "true_answer": "South America",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "options": {
+            "A": "1933",
+            "B": "1796",
+            "C": "1833",
+            "D": "1942",
+            "E": "1925"
+        },
+        "true_answer": "1833",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "options": {
+            "A": "Thin",
+            "B": "Hairy",
+            "C": "Funny",
+            "D": "Rude",
+            "E": "Tall"
+        },
+        "true_answer": "Hairy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the currency of Poland?",
+        "options": {
+            "A": "Z\u0142oty",
+            "B": "Krone",
+            "C": "Euro",
+            "D": "Ruble",
+            "E": "Euro"
+        },
+        "true_answer": "Z\u0142oty",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Gossypiboma",
+            "B": "Gongoozler",
+            "C": "Gossypiboma",
+            "D": "Jentacular",
+            "E": "Meupareunia"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "B": "Do The Dew",
+            "C": "Give Me A Dew",
+            "D": "Mountain Dew: Dew the Mountain",
+            "E": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "options": {
+            "A": "Rum",
+            "B": "Tequila",
+            "C": "Vodka",
+            "D": "Rum",
+            "E": "Gin"
+        },
+        "true_answer": "Gin",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "options": {
+            "A": "Messer",
+            "B": "Gabel",
+            "C": "Essst&auml;bchen",
+            "D": "Gabel",
+            "E": "L&ouml;ffel"
+        },
+        "true_answer": "L&ouml;ffel",
+        "correct_answer": "E"
+    },
+    {
+        "question": "A doctor with a PhD is a doctor of what?",
+        "options": {
+            "A": "Philosophy",
+            "B": "Physical Therapy",
+            "C": "Psychology",
+            "D": "Physical Education",
+            "E": "Phrenology"
+        },
+        "true_answer": "Philosophy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+        "options": {
+            "A": "American Civil War",
+            "B": "World War II",
+            "C": "Vietnam War",
+            "D": "War of 1812",
+            "E": "American Revolutionary War"
+        },
+        "true_answer": "World War II",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What fast food chain has the most locations globally? ",
+        "options": {
+            "A": "KFC",
+            "B": "Burger King",
+            "C": "Subway",
+            "D": "McDonalds",
+            "E": "Starbucks"
+        },
+        "true_answer": "Subway",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?",
+        "options": {
+            "A": "Making People Happy Through Food",
+            "B": "Have It Your Way",
+            "C": "We Love to See You Smile",
+            "D": "Why Pay More!?",
+            "E": "Have It Your Way"
+        },
+        "true_answer": "We Love to See You Smile",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "options": {
+            "A": "Clubs",
+            "B": "Hearts",
+            "C": "Diamonds",
+            "D": "Hearts",
+            "E": "Spades"
+        },
+        "true_answer": "Hearts",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Osen'",
+            "B": "Leto",
+            "C": "Zima",
+            "D": "Osen&#039;",
+            "E": "Vesna"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does the &quot;G&quot; mean in &quot;G-Man&quot;?",
+        "options": {
+            "A": "Ghost",
+            "B": "Geronimo",
+            "C": "Geronimo",
+            "D": "Government",
+            "E": "Going"
+        },
+        "true_answer": "Government",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "May 4, 1776",
+            "B": "June 2, 1776",
+            "C": "June 4, 1776",
+            "D": "July 2, 1776",
+            "E": "July 4, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "West",
+            "B": "Southwest",
+            "C": "Northwest",
+            "D": "Northeast",
+            "E": "Southeast"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who invented Pastafarianism?",
+        "options": {
+            "A": "Bill Nye",
+            "B": "Bobby Henderson",
+            "C": "Eric Tignor",
+            "D": "Eric Tignor",
+            "E": "Zach Soldi"
+        },
+        "true_answer": "Bobby Henderson",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where does water from Poland Spring water bottles come from?",
+        "options": {
+            "A": "Bavaria, Poland",
+            "B": "Maine, United States",
+            "C": "Masovia, Poland",
+            "D": "Bavaria, Poland",
+            "E": "Hesse, Germany"
+        },
+        "true_answer": "Maine, United States",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": {
+            "A": "Sydney Opera House",
+            "B": "Villa Savoye",
+            "C": "The Guggenheim",
+            "D": "Villa Savoye",
+            "E": "The Space Needle"
+        },
+        "true_answer": "The Guggenheim",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Ampersand",
+            "B": "Interrobang",
+            "C": "Hashtag",
+            "D": "Tilde",
+            "E": "Pilcrow"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When was Nintendo founded?",
+        "options": {
+            "A": "March 4th, 1887",
+            "B": "September 23rd, 1889",
+            "C": "October 19th, 1891",
+            "D": "December 27th, 1894",
+            "E": "November 8th, 1905"
+        },
+        "true_answer": "September 23rd, 1889",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Osen&#039;",
+            "B": "Leto",
+            "C": "Leto",
+            "D": "Vesna",
+            "E": "Zima"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "options": {
+            "A": "Me at the zoo",
+            "B": "cats dancing ballet",
+            "C": "tribute",
+            "D": "carrie rides a truck",
+            "E": "Her new puppy from great grandpa vern."
+        },
+        "true_answer": "Me at the zoo",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Amsterdam Centraal station is twinned with what station?",
+        "options": {
+            "A": "London Liverpool Street",
+            "B": "Brussels Midi",
+            "C": "Frankfurt (Main) Hauptbahnhof",
+            "D": "Paris Gare du Nord",
+            "E": "Berlin Hauptbahnhof"
+        },
+        "true_answer": "London Liverpool Street",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+        "options": {
+            "A": "David Childs",
+            "B": "Bjarke Ingels",
+            "C": "Frank Gehry",
+            "D": "Fumihiko Maki",
+            "E": "Michael Arad"
+        },
+        "true_answer": "David Childs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Tilde",
+            "B": "Ampersand",
+            "C": "Hashtag",
+            "D": "Interrobang",
+            "E": "Pilcrow"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is a dead mall?",
+        "options": {
+            "A": "A mall after business hours",
+            "B": "A mall with high vacancy rates or low consumer foot traffic",
+            "C": "A mall that has been condemed",
+            "D": "A mall with no stores",
+            "E": "A mall with no roof"
+        },
+        "true_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "options": {
+            "A": "Typing on a keyboard during a handstand",
+            "B": "Jumping over an office chair",
+            "C": "Jumping backwards over a desk",
+            "D": "Standing on his head",
+            "E": "Juggling apples"
+        },
+        "true_answer": "Jumping over an office chair",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Four",
+            "B": "Six",
+            "C": "Three",
+            "D": "Seven",
+            "E": "Five"
+        },
+        "true_answer": "Three",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "options": {
+            "A": "$2.7 Billion",
+            "B": "$12.7 Billion",
+            "C": "$95 Million",
+            "D": "$7.4 Billion",
+            "E": "$956 Million"
+        },
+        "true_answer": "$12.7 Billion",
+        "correct_answer": "B"
+    },
+    {
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "options": {
+            "A": "Physics",
+            "B": "Economics",
+            "C": "Philosophy",
+            "D": "Engineering",
+            "E": "Politics"
+        },
+        "true_answer": "Economics",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where did the pineapple plant originate?",
+        "options": {
+            "A": "Europe",
+            "B": "South America",
+            "C": "Africa",
+            "D": "Hawaii",
+            "E": "Asia"
+        },
+        "true_answer": "South America",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In what year was McDonald&#039;s founded?",
+        "options": {
+            "A": "1956",
+            "B": "1947",
+            "C": "1955",
+            "D": "1964",
+            "E": "1951"
+        },
+        "true_answer": "1955",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "options": {
+            "A": "Clubs",
+            "B": "Hearts",
+            "C": "Jokers",
+            "D": "Spades",
+            "E": "Diamonds"
+        },
+        "true_answer": "Hearts",
+        "correct_answer": "B"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "June 4, 1776",
+            "B": "July 4, 1776",
+            "C": "May 4, 1776",
+            "D": "May 4, 1776",
+            "E": "July 2, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+        "options": {
+            "A": "Shiatsu",
+            "B": "Ukiyo",
+            "C": "Majime",
+            "D": "Majime",
+            "E": "Ikigai"
+        },
+        "true_answer": "Shiatsu",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "options": {
+            "A": "Pane",
+            "B": "Aglio",
+            "C": "Pomodoro",
+            "D": "Cipolla",
+            "E": "Peperoncino"
+        },
+        "true_answer": "Pomodoro",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Snivy, Tepig, Oshawott",
+            "B": "Snivy, Fennekin, Froakie",
+            "C": "Chespin, Fennekin, Oshawott",
+            "D": "Chespin, Tepig, Froakie",
+            "E": "Snivy, Fennekin, Froakie"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the unit of currency in Laos?",
+        "options": {
+            "A": "Kip",
+            "B": "Konra",
+            "C": "Dollar",
+            "D": "Konra",
+            "E": "Ruble"
+        },
+        "true_answer": "Kip",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When was Hubba Bubba first introduced?",
+        "options": {
+            "A": "1972",
+            "B": "1979",
+            "C": "1980",
+            "D": "1984",
+            "E": "1972"
+        },
+        "true_answer": "1979",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Peter Pan&#039;s Flight",
+            "B": "The Haunted Mansion",
+            "C": "Pirates of the Caribbean",
+            "D": "Twilight Zone Tower of Terror",
+            "E": "The Haunted Mansion"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the star sign of someone born on Valentines day?",
+        "options": {
+            "A": "Scorpio",
+            "B": "Aquarius",
+            "C": "Pisces",
+            "D": "Capricorn",
+            "E": "Taurus"
+        },
+        "true_answer": "Aquarius",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Meupareunia",
+            "B": "Jentacular",
+            "C": "Gossypiboma",
+            "D": "Gongoozler",
+            "E": "Gongoozler"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+        "options": {
+            "A": "Mike",
+            "B": "Milton",
+            "C": "Max",
+            "D": "Mark",
+            "E": "Matthew"
+        },
+        "true_answer": "Mike",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which country drives on the left side of the road?",
+        "options": {
+            "A": "China",
+            "B": "Russia",
+            "C": "Germany",
+            "D": "Japan",
+            "E": "Germany"
+        },
+        "true_answer": "Japan",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "CatMassage",
+            "B": "SearchPro",
+            "C": "SearchPro",
+            "D": "Netscape Navigator",
+            "E": "BackRub"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "options": {
+            "A": "Seoul",
+            "B": "Singapore",
+            "C": "Tokyo",
+            "D": "Beijing",
+            "E": "Kuala Lumpur"
+        },
+        "true_answer": "Beijing",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the currency of Poland?",
+        "options": {
+            "A": "Z\u0142oty",
+            "B": "Ruble",
+            "C": "Dollar",
+            "D": "Krone",
+            "E": "Euro"
+        },
+        "true_answer": "Z\u0142oty",
+        "correct_answer": "A"
+    },
+    {
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "options": {
+            "A": "Red Lioness",
+            "B": "Red Lion",
+            "C": "White Hart",
+            "D": "King&#039;s Head",
+            "E": "Royal Oak"
+        },
+        "true_answer": "Red Lion",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Fruit Brute",
+            "B": "Count Chocula",
+            "C": "Boo-Berry",
+            "D": "Franken Berry",
+            "E": "Boo-Berry"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "options": {
+            "A": "Alfa Romeo",
+            "B": "Lamborghini",
+            "C": "Maserati",
+            "D": "Ferrari",
+            "E": "Fiat"
+        },
+        "true_answer": "Fiat",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "2",
+            "B": "5",
+            "C": "3",
+            "D": "6",
+            "E": "4"
+        },
+        "true_answer": "4",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the defining characteristic of someone who is described as hirsute?",
+        "options": {
+            "A": "Funny",
+            "B": "Rude",
+            "C": "Funny",
+            "D": "Hairy",
+            "E": "Tall"
+        },
+        "true_answer": "Hairy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In the Morse code, which letter is indicated by 3 dots? ",
+        "options": {
+            "A": "S",
+            "B": "D",
+            "C": "A",
+            "D": "C",
+            "E": "O"
+        },
+        "true_answer": "S",
+        "correct_answer": "A"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2004",
+            "B": "2007",
+            "C": "2006",
+            "D": "2005",
+            "E": "2003"
+        },
+        "true_answer": "2004",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "options": {
+            "A": "Vanilla",
+            "B": "Paprika",
+            "C": "Saffron",
+            "D": "Cinnamon",
+            "E": "Cardamom"
+        },
+        "true_answer": "Saffron",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the Swedish word for &quot;window&quot;?",
+        "options": {
+            "A": "Ruta",
+            "B": "F&ouml;nster",
+            "C": "V&auml;gg",
+            "D": "Sk&auml;rm",
+            "E": "H&aring;l"
+        },
+        "true_answer": "F&ouml;nster",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What does a milliner make and sell?",
+        "options": {
+            "A": "Shirts",
+            "B": "Trousers",
+            "C": "Belts",
+            "D": "Hats",
+            "E": "Shoes"
+        },
+        "true_answer": "Hats",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": {
+            "A": "Sydney Opera House",
+            "B": "The Space Needle",
+            "C": "Villa Savoye",
+            "D": "The Guggenheim",
+            "E": "Villa Savoye"
+        },
+        "true_answer": "The Guggenheim",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the General Mills Corporation&#039;s monster cereals was the last to be released in the 1970&#039;s?",
+        "options": {
+            "A": "Boo-Berry",
+            "B": "Boo-Berry",
+            "C": "Fruit Brute",
+            "D": "Count Chocula",
+            "E": "Franken Berry"
+        },
+        "true_answer": "Fruit Brute",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who is a co-founder of music streaming service Spotify?",
+        "options": {
+            "A": "Michael Breidenbruecker",
+            "B": "Sean Parker",
+            "C": "Felix Miller",
+            "D": "Felix Miller",
+            "E": "Daniel Ek"
+        },
+        "true_answer": "Daniel Ek",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What was the original name of the search engine &quot;Google&quot;?",
+        "options": {
+            "A": "Netscape Navigator",
+            "B": "SearchPro",
+            "C": "CatMassage",
+            "D": "CatMassage",
+            "E": "BackRub"
+        },
+        "true_answer": "BackRub",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "options": {
+            "A": "Cornell University",
+            "B": "Princeton University",
+            "C": "Columbia University",
+            "D": "Yale University",
+            "E": "Harvard University"
+        },
+        "true_answer": "Yale University",
+        "correct_answer": "D"
+    },
+    {
+        "question": "After how many years would you celebrate your crystal anniversary?",
+        "options": {
+            "A": "30",
+            "B": "20",
+            "C": "10",
+            "D": "15",
+            "E": "25"
+        },
+        "true_answer": "15",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "4",
+            "D": "6",
+            "E": "3"
+        },
+        "true_answer": "4",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is a dead mall?",
+        "options": {
+            "A": "A mall with no stores",
+            "B": "A mall with functioning stores and thriving business",
+            "C": "A mall after business hours",
+            "D": "A mall with high vacancy rates or low consumer foot traffic",
+            "E": "A mall that has been condemed"
+        },
+        "true_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Do The Dew",
+            "B": "Grab a Dew",
+            "C": "Give Me A Dew",
+            "D": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew",
+            "E": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In 2013 how much money was lost by Nigerian scams?",
+        "options": {
+            "A": "$956 Million",
+            "B": "$2.4 Billion",
+            "C": "$2.7 Billion",
+            "D": "$12.7 Billion",
+            "E": "$95 Million"
+        },
+        "true_answer": "$12.7 Billion",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the German word for &quot;spoon&quot;?",
+        "options": {
+            "A": "Gabel",
+            "B": "Essst&auml;bchen",
+            "C": "Essl\u00f6ffen",
+            "D": "Messer",
+            "E": "L&ouml;ffel"
+        },
+        "true_answer": "L&ouml;ffel",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the Italian word for &quot;tomato&quot;?",
+        "options": {
+            "A": "Pomodoro",
+            "B": "Peperoncino",
+            "C": "Aglio",
+            "D": "Limone",
+            "E": "Cipolla"
+        },
+        "true_answer": "Pomodoro",
+        "correct_answer": "A"
+    },
+    {
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "options": {
+            "A": "Philosophy",
+            "B": "Psychology",
+            "C": "Economics",
+            "D": "Politics",
+            "E": "Physics"
+        },
+        "true_answer": "Economics",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following carbonated soft drinks were introduced first?",
+        "options": {
+            "A": "Pepsi",
+            "B": "Coca-Cola",
+            "C": "Sprite",
+            "D": "Mountain Dew",
+            "E": "Dr. Pepper"
+        },
+        "true_answer": "Dr. Pepper",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+        "options": {
+            "A": "Pancreatic",
+            "B": "Stomach",
+            "C": "Breast",
+            "D": "Bone",
+            "E": "Liver"
+        },
+        "true_answer": "Pancreatic",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Leto",
+            "B": "Vesna",
+            "C": "Leto",
+            "D": "Osen&#039;",
+            "E": "Zima"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+        "options": {
+            "A": "Big Billy Bass",
+            "B": "Big Mouth Billy Bass",
+            "C": "Sardeen",
+            "D": "Big Billy Bass",
+            "E": "Singing Fish"
+        },
+        "true_answer": "Big Mouth Billy Bass",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What fast food chain has the most locations globally? ",
+        "options": {
+            "A": "Starbucks",
+            "B": "Subway",
+            "C": "KFC",
+            "D": "Burger King",
+            "E": "McDonalds"
+        },
+        "true_answer": "Subway",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Southwest",
+            "B": "Southeast",
+            "C": "Northwest",
+            "D": "Southwest",
+            "E": "Northeast"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+        "options": {
+            "A": "Shinobi",
+            "B": "Emperor",
+            "C": "Samurai",
+            "D": "Shogun",
+            "E": "Ninja"
+        },
+        "true_answer": "Shogun",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "options": {
+            "A": "Peter Pan&#039;s Flight",
+            "B": "Pirates of the Caribbean",
+            "C": "Twilight Zone Tower of Terror",
+            "D": "The Haunted Mansion",
+            "E": "The Haunted Mansion"
+        },
+        "true_answer": "Twilight Zone Tower of Terror",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Pilcrow",
+            "B": "Ampersand",
+            "C": "Percent sign",
+            "D": "Interrobang",
+            "E": "Tilde"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Who is the founder of &quot;The Lego Group&quot;?",
+        "options": {
+            "A": "Kirstine Christiansen",
+            "B": " Jens Niels Christiansen",
+            "C": "Lars Christiansen",
+            "D": " Gerhardt Kirk Christiansen",
+            "E": "Ole Kirk Christiansen"
+        },
+        "true_answer": "Ole Kirk Christiansen",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+        "options": {
+            "A": "Jim DeSeno",
+            "B": "Josh DeSeno",
+            "C": "Jimmy DeSeno",
+            "D": "Justin DeSeno",
+            "E": "John DeSeno"
+        },
+        "true_answer": "Josh DeSeno",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "options": {
+            "A": "Pilfsner",
+            "B": "India Pale Ale",
+            "C": "India Pale Ale",
+            "D": "Pale Lager",
+            "E": "Baltic Porter"
+        },
+        "true_answer": "Pale Lager",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was Hubba Bubba first introduced?",
+        "options": {
+            "A": "1983",
+            "B": "1979",
+            "C": "1984",
+            "D": "1980",
+            "E": "1972"
+        },
+        "true_answer": "1979",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "options": {
+            "A": "Vodka",
+            "B": "Tequila",
+            "C": "Rum",
+            "D": "Gin",
+            "E": "Rum"
+        },
+        "true_answer": "Gin",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+        "options": {
+            "A": "Fiat",
+            "B": "Ferrari",
+            "C": "Maserati",
+            "D": "Porsche",
+            "E": "Alfa Romeo"
+        },
+        "true_answer": "Fiat",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?",
+        "options": {
+            "A": "MAC-10",
+            "B": "M3",
+            "C": "Colt 9mm",
+            "D": "Colt 9mm",
+            "E": "Thompson"
+        },
+        "true_answer": "M3",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Earl Grey tea is black tea flavoured with what?",
+        "options": {
+            "A": "Honey",
+            "B": "Lavender",
+            "C": "Chamomile",
+            "D": "Vanilla",
+            "E": "Bergamot oil"
+        },
+        "true_answer": "Bergamot oil",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In a standard set of playing cards, which is the only king without a moustache?",
+        "options": {
+            "A": "Diamonds",
+            "B": "Hearts",
+            "C": "Spades",
+            "D": "Clubs",
+            "E": "Hearts"
+        },
+        "true_answer": "Hearts",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Jentacular",
+            "B": "Gossypiboma",
+            "C": "Meupareunia",
+            "D": "Gossypiboma",
+            "E": "Gongoozler"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is a &quot;dakimakura&quot;?",
+        "options": {
+            "A": "A Chinese meal, essentially composed of fish",
+            "B": "A yoga posture",
+            "C": "A Chinese meal, essentially composed of fish",
+            "D": "A word used to describe two people who truly love each other",
+            "E": "A body pillow"
+        },
+        "true_answer": "A body pillow",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "options": {
+            "A": "Rum",
+            "B": "Tequila",
+            "C": "Vodka",
+            "D": "Gin",
+            "E": "Rum"
+        },
+        "true_answer": "Gin",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is a dead mall?",
+        "options": {
+            "A": "A mall with a thriving business",
+            "B": "A mall after business hours",
+            "C": "A mall with high vacancy rates or low consumer foot traffic",
+            "D": "A mall with no stores",
+            "E": "A mall that has been condemed"
+        },
+        "true_answer": "A mall with high vacancy rates or low consumer foot traffic",
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+        "options": {
+            "A": "One hundred",
+            "B": "Five",
+            "C": "Ten",
+            "D": "Fifteen",
+            "E": "Twenty"
+        },
+        "true_answer": "Five",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What direction does the Statue of Liberty face?",
+        "options": {
+            "A": "Northwest",
+            "B": "Northeast",
+            "C": "Southeast",
+            "D": "Northwest",
+            "E": "Southwest"
+        },
+        "true_answer": "Southeast",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "options": {
+            "A": "May 14, 1776",
+            "B": "June 4, 1776",
+            "C": "May 4, 1776",
+            "D": "July 2, 1776",
+            "E": "July 4, 1776"
+        },
+        "true_answer": "July 4, 1776",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When did the website &quot;Facebook&quot; launch?",
+        "options": {
+            "A": "2004",
+            "B": "2007",
+            "C": "2003",
+            "D": "2006",
+            "E": "2005"
+        },
+        "true_answer": "2004",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is a Burgee?",
+        "options": {
+            "A": "A rope",
+            "B": "A window",
+            "C": "A type of food",
+            "D": "A flag",
+            "E": "A type of food"
+        },
+        "true_answer": "A flag",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "options": {
+            "A": "Four",
+            "B": "Five",
+            "C": "Five",
+            "D": "Six",
+            "E": "Three"
+        },
+        "true_answer": "Three",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who invented Pastafarianism?",
+        "options": {
+            "A": "Zach Soldi",
+            "B": "Bobby Henderson",
+            "C": "Eric Tignor",
+            "D": "Bill Nye",
+            "E": "Zach Soldi"
+        },
+        "true_answer": "Bobby Henderson",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+        "options": {
+            "A": "Balancing a spoon on his nose",
+            "B": "Typing on a keyboard during a handstand",
+            "C": "Jumping backwards over a desk",
+            "D": "Jumping over an office chair",
+            "E": "Standing on his head"
+        },
+        "true_answer": "Jumping over an office chair",
+        "correct_answer": "D"
+    },
+    {
+        "question": "This field is sometimes known as &ldquo;The Dismal Science.&rdquo;",
+        "options": {
+            "A": "Physics",
+            "B": "Economics",
+            "C": "Politics",
+            "D": "Psychology",
+            "E": "Philosophy"
+        },
+        "true_answer": "Economics",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What was Mountain Dew&#039;s original slogan?",
+        "options": {
+            "A": "Give Me A Dew",
+            "B": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "C": "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew",
+            "D": "Get that barefoot feelin' drinkin' Mountain Dew",
+            "E": "Do The Dew"
+        },
+        "true_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the name given to Indian food cooked over charcoal in a clay oven?",
+        "options": {
+            "A": "Tandoori",
+            "B": "Tiki masala",
+            "C": "Pani puri",
+            "D": "Biryani",
+            "E": "Tiki masala"
+        },
+        "true_answer": "Tandoori",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which country has the most Trappist breweries?",
+        "options": {
+            "A": "USA",
+            "B": "Belgium",
+            "C": "Netherlands",
+            "D": "Germany",
+            "E": "France"
+        },
+        "true_answer": "Belgium",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "options": {
+            "A": "Pilcrow",
+            "B": "Tilde",
+            "C": "Interrobang",
+            "D": "Hash",
+            "E": "Ampersand"
+        },
+        "true_answer": "Ampersand",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "options": {
+            "A": "Baltic Porter",
+            "B": "Pilfsner",
+            "C": "India Pale Ale",
+            "D": "Pale Lager",
+            "E": "India Pale Ale"
+        },
+        "true_answer": "Pale Lager",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was the destination of the missing flight MH370?",
+        "options": {
+            "A": "Kuala Lumpur",
+            "B": "Bangkok",
+            "C": "Beijing",
+            "D": "Singapore",
+            "E": "Tokyo"
+        },
+        "true_answer": "Beijing",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was the soft drink Pepsi originally introduced as?",
+        "options": {
+            "A": "Pepsin Soda",
+            "B": "Carolina Cola",
+            "C": "Pepsin Syrup",
+            "D": "Brad&#039;s Drink",
+            "E": "Pepsin Pop"
+        },
+        "true_answer": "Brad&#039;s Drink",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Where did the pineapple plant originate?",
+        "options": {
+            "A": "Europe",
+            "B": "Africa",
+            "C": "Hawaii",
+            "D": "South America",
+            "E": "Asia"
+        },
+        "true_answer": "South America",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the world&#039;s most expensive spice by weight?",
+        "options": {
+            "A": "Cinnamon",
+            "B": "Vanilla",
+            "C": "Cardamom",
+            "D": "Saffron",
+            "E": "Turmeric"
+        },
+        "true_answer": "Saffron",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "options": {
+            "A": "6",
+            "B": "5",
+            "C": "4",
+            "D": "3",
+            "E": "2"
+        },
+        "true_answer": "4",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "options": {
+            "A": "India",
+            "B": "China",
+            "C": "United States of America",
+            "D": "Poland",
+            "E": "Soviet Union"
+        },
+        "true_answer": "India",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which essential condiment is also known as Japanese horseradish?",
+        "options": {
+            "A": "Mentsuyu",
+            "B": "Soy sauce",
+            "C": "Ponzu",
+            "D": "Karashi",
+            "E": "Wasabi "
+        },
+        "true_answer": "Wasabi ",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+        "options": {
+            "A": "Snivy, Tepig, Oshawott",
+            "B": "Snivy, Fennekin, Froakie",
+            "C": "Snivy, Fennekin, Froakie",
+            "D": "Chespin, Tepig, Froakie",
+            "E": "Chespin, Fennekin, Oshawott"
+        },
+        "true_answer": "Snivy, Tepig, Oshawott",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the Morse code, which letter is indicated by 3 dots? ",
+        "options": {
+            "A": "C",
+            "B": "S",
+            "C": "A",
+            "D": "O",
+            "E": "T"
+        },
+        "true_answer": "S",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "options": {
+            "A": "Leto",
+            "B": "Zima",
+            "C": "Leto",
+            "D": "Vesna",
+            "E": "Osen&#039;"
+        },
+        "true_answer": "Zima",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+        "options": {
+            "A": "Ad hominem",
+            "B": "Tu quoque",
+            "C": "Non sequitur",
+            "D": "Argumentum ad populum",
+            "E": "Post hoc ergo propter hoc"
+        },
+        "true_answer": "Ad hominem",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The term &quot;scientist&quot; was coined in which year?",
+        "options": {
+            "A": "1796",
+            "B": "1942",
+            "C": "1933",
+            "D": "1833",
+            "E": "1922"
+        },
+        "true_answer": "1833",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": {
+            "A": "Salsa dancing",
+            "B": "Fiestas",
+            "C": "Bullfighting",
+            "D": "Mariachi",
+            "E": "Flamenco"
+        },
+        "true_answer": "Bullfighting",
+        "correct_answer": "C"
+    },
+    {
+        "question": "A doctor with a PhD is a doctor of what?",
+        "options": {
+            "A": "Phrenology",
+            "B": "Philosophy",
+            "C": "Phrenology",
+            "D": "Physical Therapy",
+            "E": "Psychology"
+        },
+        "true_answer": "Philosophy",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of these words means &quot;idle spectator&quot;?",
+        "options": {
+            "A": "Jentacular",
+            "B": "Gossypiboma",
+            "C": "Meupareunia",
+            "D": "Gossypiboma",
+            "E": "Gongoozler"
+        },
+        "true_answer": "Gongoozler",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+        "options": {
+            "A": "Economics",
+            "B": "Physics",
+            "C": "Biology",
+            "D": "Physiology/Medicine",
+            "E": "Peace"
+        },
+        "true_answer": "Peace",
+        "correct_answer": "E"
+    }
 ]

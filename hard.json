@@ -1,72 +1,3182 @@
 [
-    [
-        {
-            "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
-            "options": {
-                "A": "Justin Bieber - Love Yourself",
-                "B": "Ed Sheeran - I See Fire",
-                "C": "Marvin Gaye - Sexual Healing",
-                "D": "a-ha - Take On Me",
-                "E": "Coldplay - Midnight"
-            },
-            "true_answer": "Ed Sheeran - I See Fire",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
-            "options": {
-                "A": "Pug",
-                "B": "Bulldog",
-                "C": "Pug",
-                "D": "Yorkshire Terrier",
-                "E": "Boxer"
-            },
-            "true_answer": "Bulldog",
-            "correct_answer": "B"
-        }
-    ],
-    [
-        {
-            "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
-            "options": {
-                "A": "Open Room",
-                "B": "Sitting Room",
-                "C": "Parlor",
-                "D": "Loft",
-                "E": "Drawing Room"
-            },
-            "true_answer": "Parlor",
-            "correct_answer": "C"
-        }
-    ],
-    [
-        {
-            "question": "How many calories are in a 355 ml can of Pepsi Cola?",
-            "options": {
-                "A": "100",
-                "B": "200",
-                "C": "150",
-                "D": "155",
-                "E": "250"
-            },
-            "true_answer": "150",
-            "correct_answer": "C"
-        }
-    ],
-    [
-        {
-            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
-            "options": {
-                "A": "Snake Pit",
-                "B": "The Tomb of the Acient&#039;s",
-                "C": "The Puppet Master&#039;s Theater",
-                "D": "The Shatter&#039;s",
-                "E": "Spider Den"
-            },
-            "true_answer": "The Shatter&#039;s",
-            "correct_answer": "D"
-        }
-    ]
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Flowers",
+            "B": "Trees",
+            "C": "Vegetables",
+            "D": "Grains",
+            "E": "Bushes"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "15 MPH",
+            "B": "30 MPH",
+            "C": "24 MPH",
+            "D": "20 MPH",
+            "E": "200 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is not another name for the eggplant?",
+        "options": {
+            "A": "Guinea Squash",
+            "B": "Melongene",
+            "C": "Brinjal",
+            "D": "Melongene",
+            "E": "Potimarron"
+        },
+        "true_answer": "Potimarron",
+        "correct_answer": "E"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Center Parcs",
+            "B": "Yelloh Village",
+            "C": "Villa Plus",
+            "D": "Keycamp",
+            "E": "Villa Plus"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "Lindex",
+            "B": "H &amp; M",
+            "C": "Volvo",
+            "D": "IKEA",
+            "E": "Clas Ohlson"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "Coldplay - Midnight",
+            "B": "a-ha - Take On Me",
+            "C": "Ed Sheeran - I See Fire",
+            "D": "Marvin Gaye - Sexual Healing",
+            "E": "Ed Sheeran - I See Fire"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "The inability to stand up",
+            "C": "A feverish desire to rip one&#039;s clothes off",
+            "D": "The inability to fly",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When was &quot;YouTube&quot; founded?",
+        "options": {
+            "A": "September 12, 2005",
+            "B": "May 22, 2004",
+            "C": "February 14, 2005",
+            "D": "July 19, 2009",
+            "E": "May 22, 2022"
+        },
+        "true_answer": "February 14, 2005",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to stand up",
+            "B": "The inability to make decisions",
+            "C": "The inability to concentrate on anything",
+            "D": "A feverish desire to rip one&#039;s clothes off",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "options": {
+            "A": "32.50 Pounds",
+            "B": "40 Pounds",
+            "C": "30 Pounds",
+            "D": "31 Pounds",
+            "E": "35 Pounds"
+        },
+        "true_answer": "35 Pounds",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Chartreuse is a color between yellow and what?",
+        "options": {
+            "A": "Blue",
+            "B": "Red",
+            "C": "Black",
+            "D": "Purple",
+            "E": "Green"
+        },
+        "true_answer": "Green",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "St. Mark&rsquo;s Basilica",
+            "B": "Catania Cathedral",
+            "C": "Catania Cathedral",
+            "D": "St. Peter&#039;s Basilica",
+            "E": "The Duomo of Florence"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What year was the RoboSapien toy robot released?",
+        "options": {
+            "A": "2000",
+            "B": "2004",
+            "C": "2006",
+            "D": "2001",
+            "E": "2002"
+        },
+        "true_answer": "2004",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Pupet Master's Theater",
+            "B": "The Puppet Master&#039;s Theater",
+            "C": "The Tomb of the Acient&#039;s",
+            "D": "Snake Pit",
+            "E": "The Shatter&#039;s"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "E"
+    },
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Trees",
+            "B": "Grains",
+            "C": "Fruits",
+            "D": "Vegetables",
+            "E": "Flowers"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "A"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You are incomprehensible/an idiot.",
+            "B": "Your appearance is repulsive.",
+            "C": "You are out of shape/weak.",
+            "D": "You are extremely intelligent.",
+            "E": "You smell extremely unpleasant."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "options": {
+            "A": "Citi Bank",
+            "B": "HSBC",
+            "C": "Standard Chartered",
+            "D": "Bank of China",
+            "E": "OCBC"
+        },
+        "true_answer": "OCBC",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "German",
+            "B": "Danish",
+            "C": "Polish",
+            "D": "Turkish",
+            "E": "Spanish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "options": {
+            "A": "The Simoleon Family",
+            "B": "The Proud Family",
+            "C": "The Family",
+            "D": "The Happy Family",
+            "E": "The Goth Family"
+        },
+        "true_answer": "The Goth Family",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "options": {
+            "A": "Phones",
+            "B": "Paper",
+            "C": "Computers",
+            "D": "Processors",
+            "E": "Paper"
+        },
+        "true_answer": "Paper",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "options": {
+            "A": "1 Week",
+            "B": "1 Month",
+            "C": "3 Days",
+            "D": "3 Weeks",
+            "E": "2 Months"
+        },
+        "true_answer": "1 Month",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "options": {
+            "A": "A geometric theorem",
+            "B": "A chess move",
+            "C": "A building in Oxford University",
+            "D": "A percussion instrument",
+            "E": "A geometric theorem"
+        },
+        "true_answer": "A percussion instrument",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "options": {
+            "A": "2 Years",
+            "B": "1 Month",
+            "C": "1 Week",
+            "D": "2 Months",
+            "E": "3 Weeks"
+        },
+        "true_answer": "1 Month",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Bulldog",
+            "B": "Boxer",
+            "C": "Pug",
+            "D": "Yorkshire Terrier",
+            "E": "Golden Retriever"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which film star has his statue in Leicester Square?",
+        "options": {
+            "A": "Charlie Chaplin",
+            "B": "Paul Newman",
+            "C": "Rowan Atkinson ",
+            "D": "Bruce Willis",
+            "E": "Alfred Hitchcock"
+        },
+        "true_answer": "Charlie Chaplin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You smell extremely unpleasant.",
+            "B": "Your appearance is repulsive.",
+            "C": "You are out of shape/weak.",
+            "D": "You are incomprehensible/an idiot.",
+            "E": "You have a great sense of smell."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "options": {
+            "A": "Kawkab",
+            "B": "Shams",
+            "C": "Najma",
+            "D": "Layla",
+            "E": "Qamar"
+        },
+        "true_answer": "Qamar",
+        "correct_answer": "E"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Center Parcs",
+            "B": "Yelloh Village",
+            "C": "Yelloh Village",
+            "D": "Villa Plus",
+            "E": "Keycamp"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Chartreuse is a color between yellow and what?",
+        "options": {
+            "A": "Green",
+            "B": "Black",
+            "C": "Purple",
+            "D": "Pink",
+            "E": "Red"
+        },
+        "true_answer": "Green",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Named after the mallow flower, mauve is a shade of what?",
+        "options": {
+            "A": "Red",
+            "B": "Pink",
+            "C": "Purple",
+            "D": "Brown",
+            "E": "Green"
+        },
+        "true_answer": "Purple",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What year was Queen Elizabeth II born?",
+        "options": {
+            "A": "1929",
+            "B": "1930",
+            "C": "1926",
+            "D": "1923",
+            "E": "1924"
+        },
+        "true_answer": "1926",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Blue",
+            "B": "Pink",
+            "C": "Yellow",
+            "D": "Green",
+            "E": "Red"
+        },
+        "true_answer": "Red",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Transportation",
+            "B": "Shadows",
+            "C": "Bright lights",
+            "D": "Eating",
+            "E": "Transportation"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "180",
+            "B": "100",
+            "C": "155",
+            "D": "200",
+            "E": "150"
+        },
+        "true_answer": "150",
+        "correct_answer": "E"
+    },
+    {
+        "question": "How many notes are there on a standard grand piano?",
+        "options": {
+            "A": "78",
+            "B": "108",
+            "C": "98",
+            "D": "99",
+            "E": "88"
+        },
+        "true_answer": "88",
+        "correct_answer": "E"
+    },
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Grains",
+            "B": "Trees",
+            "C": "Vegetables",
+            "D": "Flowers",
+            "E": "Animals"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "options": {
+            "A": "13%",
+            "B": "17%",
+            "C": "7%",
+            "D": "28%",
+            "E": "20%"
+        },
+        "true_answer": "28%",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to fly",
+            "C": "The inability to make decisions",
+            "D": "A feverish desire to rip one&#039;s clothes off",
+            "E": "The inability to stand up"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was Bank of America originally established as?",
+        "options": {
+            "A": "Bank of Italy",
+            "B": "Bank of Charlotte",
+            "C": "Bank of Long Island",
+            "D": "Bank of Pennsylvania",
+            "E": "Bank of France"
+        },
+        "true_answer": "Bank of Italy",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Gold",
+            "B": "Nickel",
+            "C": "Copper",
+            "D": "Silver",
+            "E": "Iron"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the romanized Korean word for &quot;heart&quot;?",
+        "options": {
+            "A": "Simcha",
+            "B": "Segseu",
+            "C": "Aejeong",
+            "D": "Jeongsin",
+            "E": "Simjang"
+        },
+        "true_answer": "Simjang",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+        "options": {
+            "A": "Loft",
+            "B": "Kitchen",
+            "C": "Parlor",
+            "D": "Sitting Room",
+            "E": "Open Room"
+        },
+        "true_answer": "Parlor",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to stand up",
+            "C": "The inability to make decisions",
+            "D": "The inability to concentrate on anything",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "200 MPH",
+            "B": "1000 MPH",
+            "C": "15 MPH",
+            "D": "24 MPH",
+            "E": "20 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "20%",
+            "B": "10%",
+            "C": "25%",
+            "D": "30%",
+            "E": "15%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What year was Queen Elizabeth II born?",
+        "options": {
+            "A": "1930",
+            "B": "1929",
+            "C": "1923",
+            "D": "1926",
+            "E": "1924"
+        },
+        "true_answer": "1926",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Water",
+            "B": "Man",
+            "C": "Time",
+            "D": "Home",
+            "E": "Space"
+        },
+        "true_answer": "Time",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "options": {
+            "A": "Phineas",
+            "B": "Harry",
+            "C": "Harry",
+            "D": "Ezra",
+            "E": "Gus"
+        },
+        "true_answer": "Harry",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "German",
+            "B": "Danish",
+            "C": "German",
+            "D": "Turkish",
+            "E": "Polish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Silver",
+            "B": "Iron",
+            "C": "Nickel",
+            "D": "Copper",
+            "E": "Gold"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "15%",
+            "D": "30%",
+            "E": "20%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Blue",
+            "B": "Green",
+            "C": "Yellow",
+            "D": "Red",
+            "E": "Pink"
+        },
+        "true_answer": "Red",
+        "correct_answer": "D"
+    },
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Flowers",
+            "B": "Vegetables",
+            "C": "Grains",
+            "D": "Trees",
+            "E": "Animals"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to stand up",
+            "D": "The inability to concentrate on anything",
+            "E": "The inability to stand up"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "options": {
+            "A": "George VI",
+            "B": "Charles II",
+            "C": "Edward VIII",
+            "D": "Edward VIII",
+            "E": "Victoria"
+        },
+        "true_answer": "Edward VIII",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "options": {
+            "A": "India",
+            "B": "Papua New Guinea",
+            "C": "Ethiopia",
+            "D": "China",
+            "E": "India"
+        },
+        "true_answer": "India",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Yorkshire Terrier",
+            "B": "Golden Retriever",
+            "C": "Pug",
+            "D": "Boxer",
+            "E": "Bulldog"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Configuration Alignment System",
+            "B": "Traffic Call-sign Abbreviation System",
+            "C": "Traffic Configuration Alignment System",
+            "D": "Traffic Collision Avoidance System",
+            "E": "Traffic Communication Alert System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+        "options": {
+            "A": "Andrew Scott Reisse",
+            "B": "Jack McCauley",
+            "C": "Mark Zuckerberg",
+            "D": "Palmer Luckey",
+            "E": "Nate Mitchell"
+        },
+        "true_answer": "Andrew Scott Reisse",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "options": {
+            "A": "Najma",
+            "B": "Kawkab",
+            "C": "Shams",
+            "D": "Qamar",
+            "E": "Nawar"
+        },
+        "true_answer": "Qamar",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "Volvo",
+            "B": "Lindex",
+            "C": "Clas Ohlson",
+            "D": "H &amp; M",
+            "E": "IKEA"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Mescaline",
+            "B": "Psilocybin",
+            "C": "Mercury",
+            "D": "Cyanide",
+            "E": "Nicotine"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "options": {
+            "A": "The Simoleon Family",
+            "B": "The Goth Family",
+            "C": "The Simoleans Family",
+            "D": "The Family",
+            "E": "The Proud Family"
+        },
+        "true_answer": "The Goth Family",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "options": {
+            "A": "7 years",
+            "B": "1 year",
+            "C": "6 months",
+            "D": "2 years",
+            "E": "8 years"
+        },
+        "true_answer": "7 years",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to stand up",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to concentrate on anything",
+            "D": "The ability to stand up",
+            "E": "The inability to make decisions"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Tomb of the Ancients",
+            "B": "The Puppet Master&#039;s Theater",
+            "C": "The Tomb of the Acient&#039;s",
+            "D": "The Shatter&#039;s",
+            "E": "Snake Pit"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "7%",
+            "D": "13%",
+            "E": "28%"
+        },
+        "true_answer": "28%",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Transportation",
+            "B": "Bright lights",
+            "C": "Shadows",
+            "D": "Spiders",
+            "E": "Eating"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+        "options": {
+            "A": "Loft",
+            "B": "Sitting Room",
+            "C": "Parlor",
+            "D": "Open Room",
+            "E": "Bedroom"
+        },
+        "true_answer": "Parlor",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "The Beatles - Let It Be",
+            "B": "a-ha - Take On Me",
+            "C": "Coldplay - Midnight",
+            "D": "Ed Sheeran - I See Fire",
+            "E": "Marvin Gaye - Sexual Healing"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Named after the mallow flower, mauve is a shade of what?",
+        "options": {
+            "A": "Brown",
+            "B": "Pink",
+            "C": "Blue",
+            "D": "Red",
+            "E": "Purple"
+        },
+        "true_answer": "Purple",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to stand up",
+            "C": "A feverish desire to rip one&#039;s clothes off",
+            "D": "The ability to remember everything perfectly",
+            "E": "The inability to make decisions"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "20 MPH",
+            "B": "200 MPH",
+            "C": "15 MPH",
+            "D": "18 MPH",
+            "E": "24 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "options": {
+            "A": "OCBC",
+            "B": "Bank of China",
+            "C": "HSBC",
+            "D": "CitiBank",
+            "E": "Standard Chartered"
+        },
+        "true_answer": "OCBC",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "155",
+            "B": "100",
+            "C": "400",
+            "D": "150",
+            "E": "200"
+        },
+        "true_answer": "150",
+        "correct_answer": "D"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You are out of touch with reality.",
+            "B": "You are incomprehensible/an idiot.",
+            "C": "You smell extremely unpleasant.",
+            "D": "You are out of shape/weak.",
+            "E": "Your appearance is repulsive."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "H & M",
+            "B": "Clas Ohlson",
+            "C": "Lindex",
+            "D": "IKEA",
+            "E": "H &amp; M"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "German",
+            "B": "German",
+            "C": "Danish",
+            "D": "Polish",
+            "E": "Turkish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Nephelococcygia is the practice of doing what?",
+        "options": {
+            "A": "Finding shapes in clouds",
+            "B": "Breaking glass with your voice",
+            "C": "Singing underwater",
+            "D": "Sleeping with your eyes open",
+            "E": "Swimming in freezing water"
+        },
+        "true_answer": "Finding shapes in clouds",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "15%",
+            "B": "5%",
+            "C": "25%",
+            "D": "10%",
+            "E": "20%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to make decisions",
+            "C": "A feverish desire to rip one&#039;s clothes off",
+            "D": "The inability to stand up",
+            "E": "The inability to make decisions"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Psilocybin",
+            "B": "Nicotine",
+            "C": "Cyanide",
+            "D": "Mescaline",
+            "E": "Cyanide"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "B"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Yelloh Village",
+            "B": "Keycamp",
+            "C": "Villa Plus",
+            "D": "Yelloh Village",
+            "E": "Center Parcs"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Vacuum cleaners",
+            "B": "Bright lights",
+            "C": "Eating",
+            "D": "Shadows",
+            "E": "Transportation"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Person",
+            "B": "Water",
+            "C": "Man",
+            "D": "Home",
+            "E": "Time"
+        },
+        "true_answer": "Time",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Collision Avoidance System",
+            "B": "Traffic Call-sign Abbreviation System",
+            "C": "Traffic Configuration Alignment System",
+            "D": "Traffic Communication Alert System",
+            "E": "Traffic Call-sign Abbreviation System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to stand up",
+            "B": "The inability to make decisions",
+            "C": "The inability to make decisions",
+            "D": "The inability to concentrate on anything",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Chartreuse is a color between yellow and what?",
+        "options": {
+            "A": "Green",
+            "B": "Purple",
+            "C": "Blue",
+            "D": "Red",
+            "E": "Black"
+        },
+        "true_answer": "Green",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "options": {
+            "A": "2 Months",
+            "B": "3 Weeks",
+            "C": "1 Month",
+            "D": "2 Weeks",
+            "E": "1 Week"
+        },
+        "true_answer": "1 Month",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "options": {
+            "A": "Papua New Guinea",
+            "B": "China",
+            "C": "Japan",
+            "D": "Ethiopia",
+            "E": "India"
+        },
+        "true_answer": "India",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "20 MPH",
+            "B": "200 MPH",
+            "C": "24 MPH",
+            "D": "23 MPH",
+            "E": "15 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+        "options": {
+            "A": "Mat Zo",
+            "B": "Zedd",
+            "C": "Madeon",
+            "D": "Skrillex",
+            "E": "deadmau5"
+        },
+        "true_answer": "Madeon",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What was Bank of America originally established as?",
+        "options": {
+            "A": "Bank of Long Island",
+            "B": "Bank of Charlotte",
+            "C": "Bank of Italy",
+            "D": "Bank of Pennsylvania",
+            "E": "Bank of California"
+        },
+        "true_answer": "Bank of Italy",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "options": {
+            "A": "5",
+            "B": "6",
+            "C": "10",
+            "D": "8",
+            "E": "12"
+        },
+        "true_answer": "10",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "options": {
+            "A": "Charles II",
+            "B": "Edward VII",
+            "C": "Edward VIII",
+            "D": "Victoria",
+            "E": "George VI"
+        },
+        "true_answer": "Edward VIII",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Where is Apple Inc. headquartered?",
+        "options": {
+            "A": "San Francisco, California",
+            "B": "Redwood City, California",
+            "C": "Santa Monica, CA",
+            "D": "Redmond, Washington",
+            "E": "Cupertino, California"
+        },
+        "true_answer": "Cupertino, California",
+        "correct_answer": "E"
+    },
+    {
+        "question": "How many notes are there on a standard grand piano?",
+        "options": {
+            "A": "98",
+            "B": "88",
+            "C": "108",
+            "D": "78",
+            "E": "97"
+        },
+        "true_answer": "88",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Pink",
+            "B": "Red",
+            "C": "Blue",
+            "D": "Green",
+            "E": "Purple"
+        },
+        "true_answer": "Red",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "Marvin Gaye - Sexual Healing",
+            "B": "a-ha - Take On Me",
+            "C": "Ed Sheeran - I See Fire",
+            "D": "Daft Punk - One More Time",
+            "E": "Coldplay - Midnight"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "C"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Villa Plus",
+            "B": "Keycamp",
+            "C": "Yelloh Village",
+            "D": "Center Parcs",
+            "E": "Yelloh Village"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "150",
+            "B": "155",
+            "C": "100",
+            "D": "180",
+            "E": "200"
+        },
+        "true_answer": "150",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Where is Apple Inc. headquartered?",
+        "options": {
+            "A": "Redmond, Washington",
+            "B": "Redmond, Washington",
+            "C": "Cupertino, California",
+            "D": "Redwood City, California",
+            "E": "Santa Monica, CA"
+        },
+        "true_answer": "Cupertino, California",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to make decisions",
+            "C": "The inability to concentrate on anything",
+            "D": "The inability to stand up",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to stand up",
+            "D": "The inability to make decisions",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "options": {
+            "A": "35 Pounds",
+            "B": "34 Pounds",
+            "C": "40 Pounds",
+            "D": "30 Pounds",
+            "E": "32.50 Pounds"
+        },
+        "true_answer": "35 Pounds",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which film star has his statue in Leicester Square?",
+        "options": {
+            "A": "Rowan Atkinson ",
+            "B": "Charlie Chaplin",
+            "C": "Robert De Niro",
+            "D": "Paul Newman",
+            "E": "Alfred Hitchcock"
+        },
+        "true_answer": "Charlie Chaplin",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Bright lights",
+            "B": "Transportation",
+            "C": "Shadows",
+            "D": "Spiders",
+            "E": "Eating"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "options": {
+            "A": "St. Louis, MO",
+            "B": "Chicago, IL",
+            "C": "Philidelphia, PA",
+            "D": "West Point, NY",
+            "E": "San Fransisco, CA"
+        },
+        "true_answer": "St. Louis, MO",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Call-sign Abbreviation System",
+            "B": "Traffic Configuration Alignment System",
+            "C": "Traffic Communication Alert System",
+            "D": "Traffic Collision Avoidance System",
+            "E": "Traffic Call-sign Abbreviations System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Water",
+            "B": "Man",
+            "C": "Home",
+            "D": "Time",
+            "E": "Language"
+        },
+        "true_answer": "Time",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Bulldog",
+            "B": "Chihuahua",
+            "C": "Yorkshire Terrier",
+            "D": "Boxer",
+            "E": "Pug"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Nephelococcygia is the practice of doing what?",
+        "options": {
+            "A": "Playing musical instruments underwater",
+            "B": "Finding shapes in clouds",
+            "C": "Sleeping with your eyes open",
+            "D": "Swimming in freezing water",
+            "E": "Breaking glass with your voice"
+        },
+        "true_answer": "Finding shapes in clouds",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "options": {
+            "A": "28%",
+            "B": "7%",
+            "C": "13%",
+            "D": "20%",
+            "E": "10%"
+        },
+        "true_answer": "28%",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "Catania Cathedral",
+            "B": "The Duomo of Florence",
+            "C": "St. Mark&rsquo;s Basilica",
+            "D": "St. Peter&#039;s Basilica",
+            "E": "Catania Cathedral"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "10%",
+            "B": "20%",
+            "C": "25%",
+            "D": "15%",
+            "E": "5%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "options": {
+            "A": "George VI",
+            "B": "Edward VIII",
+            "C": "Charles II",
+            "D": "Victoria",
+            "E": "Charles II"
+        },
+        "true_answer": "Edward VIII",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+        "options": {
+            "A": "Zedd",
+            "B": "Skrillex",
+            "C": "deadmau5",
+            "D": "Madeon",
+            "E": "Mat Zo"
+        },
+        "true_answer": "Madeon",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "IKEA",
+            "B": "Volvo",
+            "C": "Clas Ohlson",
+            "D": "H &amp; M",
+            "E": "Lindex"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Blue",
+            "B": "Yellow",
+            "C": "Red",
+            "D": "Green",
+            "E": "Pink"
+        },
+        "true_answer": "Red",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Gold",
+            "B": "Nickel",
+            "C": "Copper",
+            "D": "Silver",
+            "E": "Iron"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "When was &quot;YouTube&quot; founded?",
+        "options": {
+            "A": "February 14, 2005",
+            "B": "March 30, 2006",
+            "C": "July 19, 2009",
+            "D": "September 12, 2005",
+            "E": "May 22, 2004"
+        },
+        "true_answer": "February 14, 2005",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Sword of the Stars",
+            "B": "Snake Pit",
+            "C": "The Shatter&#039;s",
+            "D": "The Puppet Master&#039;s Theater",
+            "E": "The Tomb of the Acient&#039;s"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "options": {
+            "A": "A chess move",
+            "B": "A percussion instrument",
+            "C": "A building in Oxford University",
+            "D": "A geometric theorem",
+            "E": "A geometric theorem"
+        },
+        "true_answer": "A percussion instrument",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "St. Peter&#039;s Basilica",
+            "B": "St. Mark&rsquo;s Basilica",
+            "C": "Catania Cathedral",
+            "D": "The Duomo of Florence",
+            "E": "Catania Cathedral"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "A"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Yelloh Village",
+            "B": "Villa Plus",
+            "C": "Yelloh Village",
+            "D": "Keycamp",
+            "E": "Center Parcs"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Communication Alert System",
+            "B": "Traffic Configuration Alignment System",
+            "C": "Traffic Collision Avoidance System",
+            "D": "Traffic Call-sign Abbreviation System",
+            "E": "Traffic Configuration Alignment System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Home",
+            "B": "Car",
+            "C": "Time",
+            "D": "Man",
+            "E": "Water"
+        },
+        "true_answer": "Time",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What year was the RoboSapien toy robot released?",
+        "options": {
+            "A": "2001",
+            "B": "2005",
+            "C": "2004",
+            "D": "2000",
+            "E": "2006"
+        },
+        "true_answer": "2004",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Named after the mallow flower, mauve is a shade of what?",
+        "options": {
+            "A": "Brown",
+            "B": "Purple",
+            "C": "Red",
+            "D": "Pink",
+            "E": "Yellow"
+        },
+        "true_answer": "Purple",
+        "correct_answer": "B"
+    },
+    {
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "options": {
+            "A": "2 years",
+            "B": "7 years",
+            "C": "8 years",
+            "D": "9 years",
+            "E": "6 months"
+        },
+        "true_answer": "7 years",
+        "correct_answer": "B"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "20%",
+            "D": "15%",
+            "E": "30%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "D"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You are out of shape/weak.",
+            "B": "You are incomprehensible/an idiot.",
+            "C": "Your appearance is repulsive.",
+            "D": "You smell extremely unpleasant.",
+            "E": "You are out of shape/weak."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+        "options": {
+            "A": "Mat Zo",
+            "B": "deadmau5",
+            "C": "Skrillex",
+            "D": "Zedd",
+            "E": "Madeon"
+        },
+        "true_answer": "Madeon",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Gold",
+            "B": "Nickel",
+            "C": "Copper",
+            "D": "Iron",
+            "E": "Silver"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "options": {
+            "A": "San Fransisco, CA",
+            "B": "Philidelphia, PA",
+            "C": "St. Louis, MO",
+            "D": "West Point, NY",
+            "E": "Detroit, MI"
+        },
+        "true_answer": "St. Louis, MO",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to stand up",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to make decisions",
+            "D": "The inability to stand up",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "A feverish desire to rip one's clothes off",
+            "D": "The inability to concentrate on anything",
+            "E": "The inability to stand up"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "D"
+    },
+    {
+        "question": "When was &quot;YouTube&quot; founded?",
+        "options": {
+            "A": "March 25, 2007",
+            "B": "May 22, 2004",
+            "C": "July 19, 2009",
+            "D": "February 14, 2005",
+            "E": "September 12, 2005"
+        },
+        "true_answer": "February 14, 2005",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to stand up",
+            "D": "The inability to concentrate on anything",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "options": {
+            "A": "13",
+            "B": "12",
+            "C": "8",
+            "D": "6",
+            "E": "10"
+        },
+        "true_answer": "10",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "options": {
+            "A": "People",
+            "B": "Place",
+            "C": "Pineapple",
+            "D": "Pineapple juice",
+            "E": "Thing"
+        },
+        "true_answer": "Thing",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "options": {
+            "A": "The Proud Family",
+            "B": "The Simoleon Family",
+            "C": "The Perfect Family",
+            "D": "The Family",
+            "E": "The Goth Family"
+        },
+        "true_answer": "The Goth Family",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "Ed Sheeran - I See Fire",
+            "B": "a-ha - Take On Me",
+            "C": "Coldplay - Midnight",
+            "D": "Marvin Gaye - Sexual Healing",
+            "E": "Calvin Harris - This Is What You Came For"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Shatter&#039;s",
+            "B": "The Tomb of the Acient&#039;s",
+            "C": "The Puppet Master&#039;s Theater",
+            "D": "Snake Pit",
+            "E": "The Catacombs"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "options": {
+            "A": "Bank of China",
+            "B": "HSBC",
+            "C": "Standard Chartered",
+            "D": "Bank of China",
+            "E": "OCBC"
+        },
+        "true_answer": "OCBC",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Arsenic",
+            "B": "Cyanide",
+            "C": "Nicotine",
+            "D": "Mescaline",
+            "E": "Psilocybin"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How many notes are there on a standard grand piano?",
+        "options": {
+            "A": "68",
+            "B": "98",
+            "C": "78",
+            "D": "108",
+            "E": "88"
+        },
+        "true_answer": "88",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "options": {
+            "A": "35 Pounds",
+            "B": "40 Pounds",
+            "C": "32.50 Pounds",
+            "D": "30 Pounds",
+            "E": "31 Pounds"
+        },
+        "true_answer": "35 Pounds",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "Volvo",
+            "B": "Lindex",
+            "C": "IKEA",
+            "D": "Clas Ohlson",
+            "E": "H &amp; M"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "The inability to stand up",
+            "C": "The inability to stand up",
+            "D": "The inability to concentrate on anything",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "A"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You are incomprehensible/an idiot.",
+            "B": "You are out of shape/weak.",
+            "C": "Your appearance is repulsive.",
+            "D": "You have a great sense of humor.",
+            "E": "You smell extremely unpleasant."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "E"
+    },
+    {
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "options": {
+            "A": "People",
+            "B": "Thing",
+            "C": "Pineapple",
+            "D": "People",
+            "E": "Place"
+        },
+        "true_answer": "Thing",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "options": {
+            "A": "Charles II",
+            "B": "Queen Elizabeth II",
+            "C": "George VI",
+            "D": "Victoria",
+            "E": "Edward VIII"
+        },
+        "true_answer": "Edward VIII",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "options": {
+            "A": "Zongxian",
+            "B": "Feiji",
+            "C": "Chewbacca",
+            "D": "Qiche",
+            "E": "Huojian"
+        },
+        "true_answer": "Feiji",
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "150",
+            "B": "100",
+            "C": "200",
+            "D": "250",
+            "E": "155"
+        },
+        "true_answer": "150",
+        "correct_answer": "A"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Keycamp",
+            "B": "Yelloh Village",
+            "C": "Camping Village Fabulous",
+            "D": "Villa Plus",
+            "E": "Center Parcs"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+        "options": {
+            "A": "Palmer Luckey",
+            "B": "Mark Zuckerberg",
+            "C": "Jack McCauley",
+            "D": "Andrew Scott Reisse",
+            "E": "Nate Mitchell"
+        },
+        "true_answer": "Andrew Scott Reisse",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "options": {
+            "A": "Computers",
+            "B": "Processors",
+            "C": "Paper",
+            "D": "Phones",
+            "E": "Paper"
+        },
+        "true_answer": "Paper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Shatter&#039;s",
+            "B": "Snake Pit",
+            "C": "The Puppet Master&#039;s Theater",
+            "D": "The Tomb of the Ancients",
+            "E": "The Tomb of the Acient&#039;s"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Psilocybin",
+            "B": "Nicotine",
+            "C": "Cyanide",
+            "D": "Arbutin",
+            "E": "Mescaline"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which film star has his statue in Leicester Square?",
+        "options": {
+            "A": "Rowan Atkinson ",
+            "B": "Charlie Chaplin",
+            "C": "Alfred Hitchcock",
+            "D": "Marilyn Monroe",
+            "E": "Paul Newman"
+        },
+        "true_answer": "Charlie Chaplin",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+        "options": {
+            "A": "Loft",
+            "B": "Open Room",
+            "C": "Sitting Room",
+            "D": "Parlor",
+            "E": "Den"
+        },
+        "true_answer": "Parlor",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "The inability to stand up",
+            "C": "A feverish desire to rip one&#039;s clothes off",
+            "D": "The inability to concentrate on anything",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to concentrate on anything",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Yorkshire Terrier",
+            "B": "Pug",
+            "C": "Chihuahua",
+            "D": "Bulldog",
+            "E": "Boxer"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What was Bank of America originally established as?",
+        "options": {
+            "A": "Bank of New York",
+            "B": "Bank of Long Island",
+            "C": "Bank of Charlotte",
+            "D": "Bank of Pennsylvania",
+            "E": "Bank of Italy"
+        },
+        "true_answer": "Bank of Italy",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Transportation",
+            "B": "Public speaking",
+            "C": "Eating",
+            "D": "Bright lights",
+            "E": "Shadows"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Space",
+            "B": "Time",
+            "C": "Water",
+            "D": "Home",
+            "E": "Man"
+        },
+        "true_answer": "Time",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "German",
+            "B": "Danish",
+            "C": "Turkish",
+            "D": "Polish",
+            "E": "German"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "options": {
+            "A": "Ezra",
+            "B": "Harry",
+            "C": "Phineas",
+            "D": "Gus",
+            "E": "Harry"
+        },
+        "true_answer": "Harry",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Korean word for &quot;heart&quot;?",
+        "options": {
+            "A": "Aejeong",
+            "B": "Jeongsin",
+            "C": "Simjang",
+            "D": "Segseu",
+            "E": "Simjam"
+        },
+        "true_answer": "Simjang",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "The inability to concentrate on anything",
+            "C": "The inability to make decisions",
+            "D": "A feverish desire to rip one&#039;s clothes off",
+            "E": "The inability to stand up"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "200 MPH",
+            "B": "30 MPH",
+            "C": "20 MPH",
+            "D": "24 MPH",
+            "E": "15 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "D"
+    },
+    {
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "options": {
+            "A": "Papua New Guinea",
+            "B": "China",
+            "C": "India",
+            "D": "Ethiopia",
+            "E": "Egypt"
+        },
+        "true_answer": "India",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the most commonly used noun in the English language?",
+        "options": {
+            "A": "Space",
+            "B": "Home",
+            "C": "Man",
+            "D": "Time",
+            "E": "Water"
+        },
+        "true_answer": "Time",
+        "correct_answer": "D"
+    },
+    {
+        "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+        "options": {
+            "A": "You smell extremely unpleasant.",
+            "B": "You are out of shape/weak.",
+            "C": "You are out of shape/weak.",
+            "D": "You are incomprehensible/an idiot.",
+            "E": "Your appearance is repulsive."
+        },
+        "true_answer": "You smell extremely unpleasant.",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+        "options": {
+            "A": "The Puppet Master&#039;s Theater",
+            "B": "Ocean Trench",
+            "C": "The Shatter&#039;s",
+            "D": "Snake Pit",
+            "E": "The Tomb of the Acient&#039;s"
+        },
+        "true_answer": "The Shatter&#039;s",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?",
+        "options": {
+            "A": "Jack McCauley",
+            "B": "Mark Zuckerberg",
+            "C": "Andrew Scott Reisse",
+            "D": "Palmer Luckey",
+            "E": "Nate Mitchell"
+        },
+        "true_answer": "Andrew Scott Reisse",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "options": {
+            "A": "OCBC",
+            "B": "Standard Chartered",
+            "C": "DBS",
+            "D": "Bank of China",
+            "E": "HSBC"
+        },
+        "true_answer": "OCBC",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to concentrate on anything",
+            "B": "The inability to concentrate on anything",
+            "C": "The inability to make decisions",
+            "D": "The inability to stand up",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Red",
+            "B": "Blue",
+            "C": "Green",
+            "D": "Green",
+            "E": "Pink"
+        },
+        "true_answer": "Red",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "options": {
+            "A": "Computers",
+            "B": "Phones",
+            "C": "Paper",
+            "D": "Processors",
+            "E": "Computers"
+        },
+        "true_answer": "Paper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How many notes are there on a standard grand piano?",
+        "options": {
+            "A": "98",
+            "B": "108",
+            "C": "88",
+            "D": "68",
+            "E": "78"
+        },
+        "true_answer": "88",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "Ed Sheeran - I See Fire",
+            "B": "a-ha - Take On Me",
+            "C": "Marvin Gaye - Sexual Healing",
+            "D": "Taylor Swift - Shake It Off",
+            "E": "Coldplay - Midnight"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What was Bank of America originally established as?",
+        "options": {
+            "A": "Bank of Long Island",
+            "B": "Bank of Charlotte",
+            "C": "Bank of Philadelphia",
+            "D": "Bank of Italy",
+            "E": "Bank of Pennsylvania"
+        },
+        "true_answer": "Bank of Italy",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Opium",
+            "B": "Psilocybin",
+            "C": "Cyanide",
+            "D": "Mescaline",
+            "E": "Nicotine"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who founded the Khan Academy?",
+        "options": {
+            "A": "Adel Khan",
+            "B": "Sal Khan",
+            "C": "Salaj Khan",
+            "D": "Kitt Khan",
+            "E": "Ben Khan"
+        },
+        "true_answer": "Sal Khan",
+        "correct_answer": "B"
+    },
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Vegetables",
+            "B": "Trees",
+            "C": "Flowers",
+            "D": "Grains",
+            "E": "Grains"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "Polish",
+            "B": "German",
+            "C": "Turkish",
+            "D": "Danish",
+            "E": "English"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "C"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "250",
+            "B": "150",
+            "C": "200",
+            "D": "100",
+            "E": "155"
+        },
+        "true_answer": "150",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Where is Apple Inc. headquartered?",
+        "options": {
+            "A": "Redmond, Washington",
+            "B": "Menlo Park, California",
+            "C": "Redwood City, California",
+            "D": "Cupertino, California",
+            "E": "Santa Monica, CA"
+        },
+        "true_answer": "Cupertino, California",
+        "correct_answer": "D"
+    },
+    {
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "options": {
+            "A": "10",
+            "B": "8",
+            "C": "9",
+            "D": "6",
+            "E": "12"
+        },
+        "true_answer": "10",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "options": {
+            "A": "Najma",
+            "B": "Kawkab",
+            "C": "Shams",
+            "D": "Najma",
+            "E": "Qamar"
+        },
+        "true_answer": "Qamar",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What year was Queen Elizabeth II born?",
+        "options": {
+            "A": "1945",
+            "B": "1929",
+            "C": "1923",
+            "D": "1926",
+            "E": "1930"
+        },
+        "true_answer": "1926",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Transportation",
+            "B": "Shadows",
+            "C": "Bright lights",
+            "D": "Eating",
+            "E": "Telephones"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "options": {
+            "A": "Paper",
+            "B": "Phones",
+            "C": "Toothpaste",
+            "D": "Computers",
+            "E": "Processors"
+        },
+        "true_answer": "Paper",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "options": {
+            "A": "Phineas",
+            "B": "Ezra",
+            "C": "Harry",
+            "D": "Michael",
+            "E": "Gus"
+        },
+        "true_answer": "Harry",
+        "correct_answer": "C"
+    },
+    {
+        "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+        "options": {
+            "A": "13%",
+            "B": "20%",
+            "C": "28%",
+            "D": "15%",
+            "E": "7%"
+        },
+        "true_answer": "28%",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Boxer",
+            "B": "Yorkshire Terrier",
+            "C": "Bulldog",
+            "D": "Golden Retriever",
+            "E": "Pug"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+        "options": {
+            "A": "Coldplay - Midnight",
+            "B": "Ed Sheeran - I See Fire",
+            "C": "Marvin Gaye - Sexual Healing",
+            "D": "a-ha - Take On Me",
+            "E": "Justin Bieber - Baby"
+        },
+        "true_answer": "Ed Sheeran - I See Fire",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+        "options": {
+            "A": "Huoche",
+            "B": "Feiji",
+            "C": "Huojian",
+            "D": "Zongxian",
+            "E": "Qiche"
+        },
+        "true_answer": "Feiji",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+        "options": {
+            "A": "The Proud Family",
+            "B": "The Goth Family",
+            "C": "The Simoleon Family",
+            "D": "The Smart Family",
+            "E": "The Family"
+        },
+        "true_answer": "The Goth Family",
+        "correct_answer": "B"
+    },
+    {
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "options": {
+            "A": "Place",
+            "B": "People",
+            "C": "Pineapple",
+            "D": "Thing",
+            "E": "People"
+        },
+        "true_answer": "Thing",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Green",
+            "B": "Yellow",
+            "C": "Blue",
+            "D": "Pink",
+            "E": "Red"
+        },
+        "true_answer": "Red",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "options": {
+            "A": "West Point, NY",
+            "B": "Philidelphia, PA",
+            "C": "St. Louis, MO",
+            "D": "Chicago, IL",
+            "E": "San Fransisco, CA"
+        },
+        "true_answer": "St. Louis, MO",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "Lindex",
+            "B": "Clas Ohlson",
+            "C": "H &amp; M",
+            "D": "H & M",
+            "E": "IKEA"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following chemicals are found in eggplant seeds?",
+        "options": {
+            "A": "Mescaline",
+            "B": "Cyanide",
+            "C": "Psilocybin",
+            "D": "Cyanide",
+            "E": "Nicotine"
+        },
+        "true_answer": "Nicotine",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What year was the RoboSapien toy robot released?",
+        "options": {
+            "A": "2000",
+            "B": "2001",
+            "C": "2004",
+            "D": "2006",
+            "E": "2003"
+        },
+        "true_answer": "2004",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "options": {
+            "A": "India",
+            "B": "India",
+            "C": "China",
+            "D": "Ethiopia",
+            "E": "Papua New Guinea"
+        },
+        "true_answer": "India",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+        "options": {
+            "A": "30 Pounds",
+            "B": "28 Pounds",
+            "C": "32.50 Pounds",
+            "D": "40 Pounds",
+            "E": "35 Pounds"
+        },
+        "true_answer": "35 Pounds",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following is not another name for the eggplant?",
+        "options": {
+            "A": "Potato",
+            "B": "Guinea Squash",
+            "C": "Brinjal",
+            "D": "Melongene",
+            "E": "Potimarron"
+        },
+        "true_answer": "Potimarron",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Who founded the Khan Academy?",
+        "options": {
+            "A": "Sal Khan",
+            "B": "Adel Khan",
+            "C": "Ben Khan",
+            "D": "Salman Khan",
+            "E": "Kitt Khan"
+        },
+        "true_answer": "Sal Khan",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Silver",
+            "B": "Gold",
+            "C": "Copper",
+            "D": "Iron",
+            "E": "Nickel"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "St. Mark&rsquo;s Basilica",
+            "B": "Catania Cathedral",
+            "C": "St. Peter&#039;s Basilica",
+            "D": "The Duomo of Florence",
+            "E": "St. Mark's Basilica"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What is the romanized Korean word for &quot;heart&quot;?",
+        "options": {
+            "A": "Aejeong",
+            "B": "Jinsim",
+            "C": "Jeongsin",
+            "D": "Segseu",
+            "E": "Simjang"
+        },
+        "true_answer": "Simjang",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "German",
+            "B": "German",
+            "C": "Turkish",
+            "D": "Polish",
+            "E": "Danish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "C"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Yelloh Village",
+            "B": "Keycamp",
+            "C": "Villa Plus",
+            "D": "Holiday Inn",
+            "E": "Center Parcs"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?",
+        "options": {
+            "A": "30%",
+            "B": "15%",
+            "C": "20%",
+            "D": "10%",
+            "E": "25%"
+        },
+        "true_answer": "15%",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What is the romanized Korean word for &quot;heart&quot;?",
+        "options": {
+            "A": "Simjang",
+            "B": "Segseu",
+            "C": "Simjang",
+            "D": "Jeongsin",
+            "E": "Aejeong"
+        },
+        "true_answer": "Simjang",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following is not another name for the eggplant?",
+        "options": {
+            "A": "Potimarron",
+            "B": "Melongene",
+            "C": "Guinea Squash",
+            "D": "Potimarron",
+            "E": "Brinjal"
+        },
+        "true_answer": "Potimarron",
+        "correct_answer": "A"
+    },
+    {
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "options": {
+            "A": "1 Week",
+            "B": "2 Months",
+            "C": "1 Month",
+            "D": "3 Weeks",
+            "E": "3 Weeks"
+        },
+        "true_answer": "1 Month",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Where is Apple Inc. headquartered?",
+        "options": {
+            "A": "Redwood City, California",
+            "B": "Redmond, Washington",
+            "C": "Cupertino, California",
+            "D": "Seattle, Washington",
+            "E": "Santa Monica, CA"
+        },
+        "true_answer": "Cupertino, California",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Who founded the Khan Academy?",
+        "options": {
+            "A": "Sal Khan",
+            "B": "Ben Khan",
+            "C": "Kitt Khan",
+            "D": "Sam Khan",
+            "E": "Adel Khan"
+        },
+        "true_answer": "Sal Khan",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+        "options": {
+            "A": "6",
+            "B": "8",
+            "C": "12",
+            "D": "7",
+            "E": "10"
+        },
+        "true_answer": "10",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "St. Mark's Basilica",
+            "B": "Catania Cathedral",
+            "C": "St. Mark&rsquo;s Basilica",
+            "D": "The Duomo of Florence",
+            "E": "St. Peter&#039;s Basilica"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "E"
+    },
+    {
+        "question": "When was &quot;YouTube&quot; founded?",
+        "options": {
+            "A": "September 12, 2005",
+            "B": "May 22, 2004",
+            "C": "April 6, 2003",
+            "D": "July 19, 2009",
+            "E": "February 14, 2005"
+        },
+        "true_answer": "February 14, 2005",
+        "correct_answer": "E"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "Polish",
+            "B": "German",
+            "C": "Turkish",
+            "D": "German",
+            "E": "Danish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+        "options": {
+            "A": "Parlor",
+            "B": "Loft",
+            "C": "Open Room",
+            "D": "Bedroom",
+            "E": "Sitting Room"
+        },
+        "true_answer": "Parlor",
+        "correct_answer": "A"
+    },
+    {
+        "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+        "options": {
+            "A": "Papua New Guinea",
+            "B": "Ethiopia",
+            "C": "India",
+            "D": "Australia",
+            "E": "China"
+        },
+        "true_answer": "India",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Pug",
+            "B": "Boxer",
+            "C": "Bulldog",
+            "D": "Poodle",
+            "E": "Yorkshire Terrier"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Red",
+            "B": "Yellow",
+            "C": "Green",
+            "D": "Blue",
+            "E": "Pink"
+        },
+        "true_answer": "Red",
+        "correct_answer": "A"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Collision Avoidance System",
+            "B": "Traffic Communication Alert System",
+            "C": "Traffic Call-sign Abbreviation System",
+            "D": "Traffic Configuration Alignment System",
+            "E": "Traffic Call-sign Abbreviation System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Sciophobia is the fear of what?",
+        "options": {
+            "A": "Eating",
+            "B": "Bright lights",
+            "C": "Shadows",
+            "D": "Eating",
+            "E": "Transportation"
+        },
+        "true_answer": "Shadows",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+        "options": {
+            "A": "See no evil, hear no evil, speak no evil",
+            "B": "I came, I saw, I won",
+            "C": "I came, I saw, I conquered",
+            "D": "Life, liberty, and happiness",
+            "E": "Past, present, and future"
+        },
+        "true_answer": "I came, I saw, I conquered",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+        "options": {
+            "A": "Pineapple",
+            "B": "People",
+            "C": "Thing",
+            "D": "Place",
+            "E": "People"
+        },
+        "true_answer": "Thing",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Iron",
+            "B": "Nickel",
+            "C": "Silver",
+            "D": "Copper",
+            "E": "Gold"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which film star has his statue in Leicester Square?",
+        "options": {
+            "A": "Charlie Chaplin",
+            "B": "Rowan Atkinson ",
+            "C": "Alfred Hitchcock",
+            "D": "Paul Newman",
+            "E": "Rowan Atkinson"
+        },
+        "true_answer": "Charlie Chaplin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Nephelococcygia is the practice of doing what?",
+        "options": {
+            "A": "Counting the number of stars in the sky",
+            "B": "Swimming in freezing water",
+            "C": "Breaking glass with your voice",
+            "D": "Sleeping with your eyes open",
+            "E": "Finding shapes in clouds"
+        },
+        "true_answer": "Finding shapes in clouds",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+        "options": {
+            "A": "Kawkab",
+            "B": "Kawkab",
+            "C": "Qamar",
+            "D": "Shams",
+            "E": "Najma"
+        },
+        "true_answer": "Qamar",
+        "correct_answer": "C"
+    },
+    {
+        "question": "What year was the RoboSapien toy robot released?",
+        "options": {
+            "A": "2004",
+            "B": "2001",
+            "C": "2000",
+            "D": "2006",
+            "E": "2003"
+        },
+        "true_answer": "2004",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What year was Queen Elizabeth II born?",
+        "options": {
+            "A": "1926",
+            "B": "1932",
+            "C": "1929",
+            "D": "1923",
+            "E": "1930"
+        },
+        "true_answer": "1926",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which product did Nokia, the telecommunications company, originally sell?",
+        "options": {
+            "A": "Computers",
+            "B": "Processors",
+            "C": "Phones",
+            "D": "Paper",
+            "E": "Computers"
+        },
+        "true_answer": "Paper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "200 MPH",
+            "B": "15 MPH",
+            "C": "25 MPH",
+            "D": "24 MPH",
+            "E": "20 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+        "options": {
+            "A": "The Duomo of Florence",
+            "B": "St. Mark&rsquo;s Basilica",
+            "C": "Catania Cathedral",
+            "D": "Catania Cathedral",
+            "E": "St. Peter&#039;s Basilica"
+        },
+        "true_answer": "St. Peter&#039;s Basilica",
+        "correct_answer": "E"
+    },
+    {
+        "question": "What is the airspeed velocity of an unladen swallow?",
+        "options": {
+            "A": "24 MPH",
+            "B": "15 MPH",
+            "C": "25 MPH",
+            "D": "20 MPH",
+            "E": "200 MPH"
+        },
+        "true_answer": "24 MPH",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which film star has his statue in Leicester Square?",
+        "options": {
+            "A": "Charlie Chaplin",
+            "B": "Alfred Hitchcock",
+            "C": "Rowan Atkinson ",
+            "D": "Paul Newman",
+            "E": "Brad Pitt"
+        },
+        "true_answer": "Charlie Chaplin",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+        "options": {
+            "A": "Bank of Manila",
+            "B": "OCBC",
+            "C": "Standard Chartered",
+            "D": "Bank of China",
+            "E": "HSBC"
+        },
+        "true_answer": "OCBC",
+        "correct_answer": "B"
+    },
+    {
+        "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "options": {
+            "A": "Harry",
+            "B": "Ezra",
+            "C": "Gus",
+            "D": "Harry",
+            "E": "Phineas"
+        },
+        "true_answer": "Harry",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+        "options": {
+            "A": "I came, I saw, I conquered",
+            "B": "I came, I saw, I left",
+            "C": "Past, present, and future",
+            "D": "See no evil, hear no evil, speak no evil",
+            "E": "Life, liberty, and happiness"
+        },
+        "true_answer": "I came, I saw, I conquered",
+        "correct_answer": "A"
+    },
+    {
+        "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+        "options": {
+            "A": "Pug",
+            "B": "Bulldog",
+            "C": "Boxer",
+            "D": "Yorkshire Terrier",
+            "E": "Golden Retriever"
+        },
+        "true_answer": "Bulldog",
+        "correct_answer": "B"
+    },
+    {
+        "question": "If you planted the seeds of Quercus robur, what would grow?",
+        "options": {
+            "A": "Flowers",
+            "B": "Vegetables",
+            "C": "Grains",
+            "D": "Trees",
+            "E": "Vegetables"
+        },
+        "true_answer": "Trees",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "options": {
+            "A": "St. Louis, MO",
+            "B": "San Fransisco, CA",
+            "C": "Philidelphia, PA",
+            "D": "Miami, FL",
+            "E": "West Point, NY"
+        },
+        "true_answer": "St. Louis, MO",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Where is Apple Inc. headquartered?",
+        "options": {
+            "A": "Redwood City, California",
+            "B": "Cupertino, California",
+            "C": "Redmond, Washington",
+            "D": "Los Angeles, California",
+            "E": "Santa Monica, CA"
+        },
+        "true_answer": "Cupertino, California",
+        "correct_answer": "B"
+    },
+    {
+        "question": "What year was Queen Elizabeth II born?",
+        "options": {
+            "A": "1923",
+            "B": "1929",
+            "C": "1926",
+            "D": "1955",
+            "E": "1930"
+        },
+        "true_answer": "1926",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;abulia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to stand up",
+            "B": "A feverish desire to rip one&#039;s clothes off",
+            "C": "The inability to stand up",
+            "D": "The inability to make decisions",
+            "E": "The inability to concentrate on anything"
+        },
+        "true_answer": "The inability to make decisions",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Originally another word for poppy, coquelicot is a shade of what?",
+        "options": {
+            "A": "Green",
+            "B": "Blue",
+            "C": "Red",
+            "D": "White",
+            "E": "Pink"
+        },
+        "true_answer": "Red",
+        "correct_answer": "C"
+    },
+    {
+        "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+        "options": {
+            "A": "Villa Plus",
+            "B": "Yelloh Village",
+            "C": "Haven Holidays",
+            "D": "Center Parcs",
+            "E": "Keycamp"
+        },
+        "true_answer": "Center Parcs",
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which one of these Swedish companies was founded in 1943?",
+        "options": {
+            "A": "IKEA",
+            "B": "Clas Ohlson",
+            "C": "Lindex",
+            "D": "H &amp; M",
+            "E": "Volvo"
+        },
+        "true_answer": "IKEA",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Nephelococcygia is the practice of doing what?",
+        "options": {
+            "A": "Breaking glass with your voice",
+            "B": "Sleeping with your eyes open",
+            "C": "Finding shapes in clouds",
+            "D": "Swimming in freezing water",
+            "E": "Singing with your eyes closed"
+        },
+        "true_answer": "Finding shapes in clouds",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Quadrangularis Reversum is best described as which of the following?",
+        "options": {
+            "A": "A percussion instrument",
+            "B": "A building in Oxford University",
+            "C": "A chess move",
+            "D": "A geometric theorem",
+            "E": "A geometric theorem"
+        },
+        "true_answer": "A percussion instrument",
+        "correct_answer": "A"
+    },
+    {
+        "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+        "options": {
+            "A": "Nickel",
+            "B": "Gold",
+            "C": "Silver",
+            "D": "Copper",
+            "E": "Iron"
+        },
+        "true_answer": "Copper",
+        "correct_answer": "D"
+    },
+    {
+        "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+        "options": {
+            "A": "155",
+            "B": "100",
+            "C": "200",
+            "D": "150",
+            "E": "250"
+        },
+        "true_answer": "150",
+        "correct_answer": "D"
+    },
+    {
+        "question": "What is the romanized Korean word for &quot;heart&quot;?",
+        "options": {
+            "A": "Segseu",
+            "B": "Jeongsin",
+            "C": "Aejeong",
+            "D": "Seojang",
+            "E": "Simjang"
+        },
+        "true_answer": "Simjang",
+        "correct_answer": "E"
+    },
+    {
+        "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+        "options": {
+            "A": "Traffic Communication Alert System",
+            "B": "Traffic Call-sign Abbreviation System",
+            "C": "Traffic Collision Avoidance System",
+            "D": "Traffic Call-sign Abbreviation System",
+            "E": "Traffic Configuration Alignment System"
+        },
+        "true_answer": "Traffic Collision Avoidance System",
+        "correct_answer": "C"
+    },
+    {
+        "question": "The word &quot;astasia&quot; means which of the following?",
+        "options": {
+            "A": "The inability to make decisions",
+            "B": "The inability to concentrate on anything",
+            "C": "The inability to stand up",
+            "D": "The inability to make decisions",
+            "E": "A feverish desire to rip one&#039;s clothes off"
+        },
+        "true_answer": "The inability to stand up",
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+        "options": {
+            "A": "Turkish",
+            "B": "Spanish",
+            "C": "German",
+            "D": "Polish",
+            "E": "Danish"
+        },
+        "true_answer": "Turkish",
+        "correct_answer": "A"
+    }
 ]
