@@ -1,0 +1,3594 @@
+{
+    "dataset1": [
+        {
+            "question": "In which year did the Hubble Space Telescope launch into space?",
+            "options": {
+                "A": "1981",
+                "B": "1990",
+                "C": "1986",
+                "D": "1978",
+                "E": "1995"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which food product was affected by the adoption of CRISPR gene editing technology to make it non-browning?",
+            "options": {
+                "A": "Potatoes",
+                "B": "Bananas",
+                "C": "Apples",
+                "D": "Tomatoes",
+                "E": "Peaches"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Identify the video game that first introduced ray tracing technology to enhance its graphics rendering.",
+            "options": {
+                "A": "Battlefield V",
+                "B": "Metro Exodus",
+                "C": "Tomb Raider",
+                "D": "Cyberpunk 2077",
+                "E": "Control"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Who was the ruler known for the construction of the extensive road network in the Inca Empire?",
+            "options": {
+                "A": "Manco Capac",
+                "B": "Atahualpa",
+                "C": "Pachacuti",
+                "D": "Huayna Capac",
+                "E": "T\u00fapac Inca Yupanqui"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "The zero-fuel airplane, Solar Impulse 2, completed its circumnavigation in what year?",
+            "options": {
+                "A": "2018",
+                "B": "2016",
+                "C": "2017",
+                "D": "2015",
+                "E": "2019"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "The discovery of the Higgs boson at CERN utilized which primary particle detector?",
+            "options": {
+                "A": "ATLAS",
+                "B": "ALICE",
+                "C": "CMS",
+                "D": "TOTEM",
+                "E": "LHCb"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "Which contemporary philosopher is known for the concept of 'hyperreality'?",
+            "options": {
+                "A": "Alain de Botton",
+                "B": "Judith Butler",
+                "C": "Slavoj \u017di\u017eek",
+                "D": "Jean Baudrillard",
+                "E": "Michel Foucault"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the designation of the exoplanet discovered by TESS in the habitable zone of the star TOI 700 in 2020?",
+            "options": {
+                "A": "TOI 700 d",
+                "B": "TOI 700 c",
+                "C": "TOI 700 b",
+                "D": "TOI 700 e",
+                "E": "TOI 700 a"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset2": [
+        {
+            "question": "In which country was the traditional practice of 'forest bathing,' or shinrin-yoku, developed?",
+            "options": {
+                "A": "Korea",
+                "B": "Japan",
+                "C": "China",
+                "D": "Finland",
+                "E": "Thailand"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who was the first female artist to achieve a Grammy nomination for Album of the Year in 2020?",
+            "options": {
+                "A": "Billie Eilish",
+                "B": "Taylor Swift",
+                "C": "Lizzo",
+                "D": "Ariana Grande",
+                "E": "Lana Del Rey"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "Which novel series by Andrzej Sapkowski was adapted into a successful video game franchise?",
+            "options": {
+                "A": "Metro 2033",
+                "B": "Dragonlance",
+                "C": "The Witcher",
+                "D": "Discworld",
+                "E": "The Dark Tower"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which term refers to the study of the relationship between human language and our perception of color?",
+            "options": {
+                "A": "Phonology",
+                "B": "Morphology",
+                "C": "Chromatics",
+                "D": "Linguistic relativity",
+                "E": "Semiotics"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "The largest known prime number discovered as of 2021 is a type of prime known by what name?",
+            "options": {
+                "A": "Fermat",
+                "B": "Euclid",
+                "C": "Mersenne",
+                "D": "Euler",
+                "E": "Sophie Germain"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the term for the economic scenario where accelerating inflation leads to a loss in the currency's value, as witnessed in Venezuela?",
+            "options": {
+                "A": "Deflation",
+                "B": "Depression",
+                "C": "Recession",
+                "D": "Stagflation",
+                "E": "Hyperinflation"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "Which car manufacturer announced its commitment to become carbon neutral in its global products and operations by 2040?",
+            "options": {
+                "A": "Hyundai",
+                "B": "Ford",
+                "C": "Toyota",
+                "D": "Honda",
+                "E": "General Motors"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "The breakthrough CRISPR gene editing tool utilizes an enzyme called Cas9. What does 'Cas' stand for?",
+            "options": {
+                "A": "Capsid Associated System",
+                "B": "CRISPR Associated System",
+                "C": "Cellular Autosomal System",
+                "D": "Cytoplasmic Anti-gene Silencer",
+                "E": "Catalytic Sequence"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset3": [
+        {
+            "question": "What is the name of the largest active volcano located in Europe?",
+            "options": {
+                "A": "Vesuvius",
+                "B": "Etna",
+                "C": "Stromboli",
+                "D": "Hecla",
+                "E": "Mount Olympus"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which hormone, released by the pancreas, helps to lower blood sugar levels?",
+            "options": {
+                "A": "Insulin",
+                "B": "Glucagon",
+                "C": "Adrenaline",
+                "D": "Cortisol",
+                "E": "Somatostatin"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the title of the critically acclaimed TV series created by Vince Gilligan that ended in 2013?",
+            "options": {
+                "A": "Game of Thrones",
+                "B": "The Sopranos",
+                "C": "Mad Men",
+                "D": "Breaking Bad",
+                "E": "The Wire"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "In mathematics, what is the term for a pattern that can be split into parts that are reduced-size copies of the whole?",
+            "options": {
+                "A": "Algorithm",
+                "B": "Matrix",
+                "C": "Vector",
+                "D": "Equation",
+                "E": "Fractal"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "Which artist caused a global stir in the art world in 2020 by selling a digital artwork for over $69 million using blockchain technology?",
+            "options": {
+                "A": "Banksy",
+                "B": "Damien Hirst",
+                "C": "Jeff Koons",
+                "D": "Beeple",
+                "E": "David Hockney"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the main premise of the Anthropic Principle in cosmology?",
+            "options": {
+                "A": "The universe is expanding at an accelerating rate.",
+                "B": "Life exists because the universe's properties are finely tuned for it.",
+                "C": "The universe is composed largely of dark matter and dark energy.",
+                "D": "Multiple universes exist alongside our own.",
+                "E": "The universe has no center and looks the same in every direction."
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Which historical figure is famed for the creation of the Library of Alexandria?",
+            "options": {
+                "A": "Julius Caesar",
+                "B": "Alexander the Great",
+                "C": "Ptolemy I Soter",
+                "D": "Cleopatra",
+                "E": "Archimedes"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In the most recent edition of 'Principles of Neural Science,' what emerging principle is highlighted as a significant driver of brain development and functional refinement?",
+            "options": {
+                "A": "Neurotransmitter modulation",
+                "B": "Experience-dependent plasticity",
+                "C": "Inhibitory-excitatory balance",
+                "D": "Genetic determination",
+                "E": "Homeostatic regulation"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset4": [
+        {
+            "question": "The 'International Day of Sport for Development and Peace' is celebrated on which date?",
+            "options": {
+                "A": "April 6",
+                "B": "March 21",
+                "C": "June 23",
+                "D": "August 12",
+                "E": "September 5"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which programming language introduced the concept of 'coroutines' for concurrency as a language feature in its recent version updates?",
+            "options": {
+                "A": "Java",
+                "B": "Python",
+                "C": "C#",
+                "D": "Kotlin",
+                "E": "Swift"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "As of 2021, which car company holds the record for producing the fastest electric vehicle?",
+            "options": {
+                "A": "Nissan",
+                "B": "Rimac",
+                "C": "Tesla",
+                "D": "Porsche",
+                "E": "Lucid Motors"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "The 'trolley problem' is a thought experiment in which field of study?",
+            "options": {
+                "A": "Sociology",
+                "B": "Ethics",
+                "C": "Economics",
+                "D": "Political Science",
+                "E": "Psychology"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the mathematical ratio commonly found in the patterns of sunflowers and pine cones known as?",
+            "options": {
+                "A": "Euler's number",
+                "B": "Pi",
+                "C": "The Golden Ratio",
+                "D": "The Silver Ratio",
+                "E": "Avogadro's number"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "To which family of instruments does the recently revived 'serpent' belong?",
+            "options": {
+                "A": "String instruments",
+                "B": "Percussion instruments",
+                "C": "Brass instruments",
+                "D": "Woodwind instruments",
+                "E": "Keyboard instruments"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "Who is the author of the book 'Factfulness', which highlights ten human instincts that distort our perspective?",
+            "options": {
+                "A": "Malcolm Gladwell",
+                "B": "Steven Pinker",
+                "C": "Daniel Kahneman",
+                "D": "Hans Rosling",
+                "E": "Jared Diamond"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "In 2021, what was the significant cybersecurity event that targeted thousands of companies worldwide through a software supply chain attack?",
+            "options": {
+                "A": "Heartbleed",
+                "B": "SolarWinds hack",
+                "C": "WannaCry ransomware attack",
+                "D": "NotPetya attack",
+                "E": "Equifax data breach"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset5": [
+        {
+            "question": "Who was the first woman to win a Nobel Prize?",
+            "options": {
+                "A": "Dorothy Hodgkin",
+                "B": "Marie Curie",
+                "C": "Rosalind Franklin",
+                "D": "Ada Lovelace",
+                "E": "Lise Meitner"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "As of 2023, which of the following materials is known for having the highest tensile strength?",
+            "options": {
+                "A": "Graphene",
+                "B": "Kevlar",
+                "C": "Carbon Fiber",
+                "D": "Spider silk",
+                "E": "Steel"
+            },
+            "correct_answer": "A",
+            "difficulty": 2,
+            "topic": "Material Science"
+        },
+        {
+            "question": "Which country has the most official languages at national level?",
+            "options": {
+                "A": "South Africa",
+                "B": "India",
+                "C": "Papua New Guinea",
+                "D": "Switzerland",
+                "E": "Bolivia"
+            },
+            "correct_answer": "A",
+            "difficulty": 3,
+            "topic": "General Knowledge"
+        },
+        {
+            "question": "What is the primary method for exoplanet detection that involves observing the dimming of a star's light?",
+            "options": {
+                "A": "Radial velocity method",
+                "B": "Direct imaging",
+                "C": "Gravitational microlensing",
+                "D": "Transit photometry",
+                "E": "Astrometry"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "In set theory, which axiom states that every set has a power set?",
+            "options": {
+                "A": "Axiom of extensionality",
+                "B": "Axiom of regularity",
+                "C": "Axiom of power set",
+                "D": "Axiom of infinity",
+                "E": "Axiom of choice"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Mathematics"
+        },
+        {
+            "question": "Which film script received the first ever registered NFT associated with a major motion picture in 2021?",
+            "options": {
+                "A": "Avengers: Endgame",
+                "B": "Pulp Fiction",
+                "C": "Zero Contact",
+                "D": "Inception",
+                "E": "The Matrix"
+            },
+            "correct_answer": "C",
+            "difficulty": 6,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "What is the title of the research paper where the concept of 'black holes' was first predicted, published in 1916?",
+            "options": {
+                "A": "Relativity: The Special and General Theory",
+                "B": "On the Electrodynamics of Moving Bodies",
+                "C": "The Foundation of the General Theory of Relativity",
+                "D": "\u00dcber die spezielle und die allgemeine Relativit\u00e4tstheorie",
+                "E": "Gravitation"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Science"
+        },
+        {
+            "question": "Which contemporary philosopher argued for the notion of an 'expanding circle' of moral concern?",
+            "options": {
+                "A": "Judith Butler",
+                "B": "Slavoj \u017di\u017eek",
+                "C": "Michael Sandel",
+                "D": "Peter Singer",
+                "E": "Alain de Botton"
+            },
+            "correct_answer": "D",
+            "difficulty": 8,
+            "topic": "Philosophy"
+        }
+    ],
+    "dataset6": [
+        {
+            "question": "Which country was the first to grant women the right to vote, in 1893?",
+            "options": {
+                "A": "United States",
+                "B": "United Kingdom",
+                "C": "New Zealand",
+                "D": "Sweden",
+                "E": "Australia"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What is the term for programming code executed directly by the computer's hardware, without an interpreter or compiler?",
+            "options": {
+                "A": "High-level language",
+                "B": "Machine code",
+                "C": "Source code",
+                "D": "Bytecode",
+                "E": "Scripting language"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "In soccer, what is the term for a method where a player kicks the ball after it has been kicked by another player without it touching the ground?",
+            "options": {
+                "A": "Header",
+                "B": "Nut-meg",
+                "C": "Volley",
+                "D": "Bicycle Kick",
+                "E": "Free-Kick"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Sports"
+        },
+        {
+            "question": "What hormone, released by the pancreas, is primarily responsible for reducing blood glucose levels?",
+            "options": {
+                "A": "Glucagon",
+                "B": "Adrenaline",
+                "C": "Cortisol",
+                "D": "Insulin",
+                "E": "Thyroxine"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "Name the socialist economic model where the means of production are owned and managed cooperatively.",
+            "options": {
+                "A": "Feudalism",
+                "B": "Capitalism",
+                "C": "Market socialism",
+                "D": "Syndicalism",
+                "E": "Communism"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which ancient Greek historian is known as the 'Father of History'?",
+            "options": {
+                "A": "Thucydides",
+                "B": "Herodotus",
+                "C": "Xenophon",
+                "D": "Socrates",
+                "E": "Plato"
+            },
+            "correct_answer": "B",
+            "difficulty": 6,
+            "topic": "History"
+        },
+        {
+            "question": "In terms of environmental science, what is the primary cause of 'Ocean Acidification'?",
+            "options": {
+                "A": "Overfishing",
+                "B": "Oil spills",
+                "C": "Plastic pollution",
+                "D": "Increased UV radiation",
+                "E": "Increased atmospheric CO2 levels"
+            },
+            "correct_answer": "E",
+            "difficulty": 7,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "What art movement, exemplified by artists like Claude Monet and Pierre-Auguste Renoir, focused on capturing the impression of the moment, especially in terms of light and color?",
+            "options": {
+                "A": "Baroque",
+                "B": "Expressionism",
+                "C": "Impressionism",
+                "D": "Cubism",
+                "E": "Surrealism"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Art & Design"
+        }
+    ],
+    "dataset7": [
+        {
+            "question": "Marco Polo is famous for his travels to which region?",
+            "options": {
+                "A": "South America",
+                "B": "Africa",
+                "C": "Australia",
+                "D": "North America",
+                "E": "Asia"
+            },
+            "correct_answer": "E",
+            "difficulty": 1,
+            "topic": "History"
+        },
+        {
+            "question": "What theory describes the behavior of particles at the atomic and subatomic levels?",
+            "options": {
+                "A": "Classical Mechanics",
+                "B": "Quantum Mechanics",
+                "C": "General Relativity",
+                "D": "Thermodynamics",
+                "E": "Electromagnetism"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Science"
+        },
+        {
+            "question": "Which body of water is connected to the Mediterranean Sea by the Strait of Gibraltar?",
+            "options": {
+                "A": "Red Sea",
+                "B": "Black Sea",
+                "C": "North Sea",
+                "D": "Atlantic Ocean",
+                "E": "Caspian Sea"
+            },
+            "correct_answer": "D",
+            "difficulty": 3,
+            "topic": "Geography"
+        },
+        {
+            "question": "What is the oldest surviving system of laws, dating back to about 1754 BC?",
+            "options": {
+                "A": "Roman Law",
+                "B": "The Ten Commandments",
+                "C": "The Code of Hammurabi",
+                "D": "The Magna Carta",
+                "E": "The Code of Ur-Nammu"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "History"
+        },
+        {
+            "question": "What is the technical term for the fear of public speaking?",
+            "options": {
+                "A": "Agoraphobia",
+                "B": "Claustrophobia",
+                "C": "Acrophobia",
+                "D": "Arachnophobia",
+                "E": "Glossophobia"
+            },
+            "correct_answer": "E",
+            "difficulty": 5,
+            "topic": "Psychology"
+        },
+        {
+            "question": "Released in 2020, which video game involves players controlling a character stranded in an interplanetary corporate dystopia?",
+            "options": {
+                "A": "The Outer Worlds",
+                "B": "Death Stranding",
+                "C": "Cyberpunk 2077",
+                "D": "Control",
+                "E": "Doom Eternal"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Video Games"
+        },
+        {
+            "question": "In 2021, what new state-of-the-art semiconductor material was announced to potentially succeed silicon?",
+            "options": {
+                "A": "Gallium Nitride",
+                "B": "Diamond",
+                "C": "Indium Gallium Arsenide",
+                "D": "Graphene",
+                "E": "Boron Nitride"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which neurological disorder is characterized by impaired social interaction, repetitive behavior, and restricted interests?",
+            "options": {
+                "A": "Down Syndrome",
+                "B": "Autism Spectrum Disorder",
+                "C": "Schizophrenia",
+                "D": "Bipolar Disorder",
+                "E": "Attention Deficit Hyperactivity Disorder"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Health & Medicine"
+        }
+    ],
+    "dataset8": [
+        {
+            "question": "The 'Ring of Fire' is a region of high volcanic and seismic activity that encircles which ocean?",
+            "options": {
+                "A": "Atlantic Ocean",
+                "B": "Indian Ocean",
+                "C": "Arctic Ocean",
+                "D": "Pacific Ocean",
+                "E": "Southern Ocean"
+            },
+            "correct_answer": "D",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "Who wrote the 1925 novel 'The Great Gatsby'?",
+            "options": {
+                "A": "Ernest Hemingway",
+                "B": "F. Scott Fitzgerald",
+                "C": "John Steinbeck",
+                "D": "William Faulkner",
+                "E": "J.D. Salinger"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Literature"
+        },
+        {
+            "question": "What is the central idea of Keynesian economics?",
+            "options": {
+                "A": "The invisible hand of the free market",
+                "B": "Government intervention can mitigate economic recessions",
+                "C": "Laissez-faire capitalism",
+                "D": "Supply-side economics",
+                "E": "Austrian School of economics"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Economics"
+        },
+        {
+            "question": "The Hubble Space Telescope, launched in 1990, orbits Earth from which layer of our atmosphere?",
+            "options": {
+                "A": "Troposphere",
+                "B": "Stratosphere",
+                "C": "Mesosphere",
+                "D": "Thermosphere",
+                "E": "Exosphere"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "What is the symbolic logic representation for the logical conjunction (AND)?",
+            "options": {
+                "A": "\u2228",
+                "B": "\u2192",
+                "C": "\u00ac",
+                "D": "\u2227",
+                "E": "\u2194"
+            },
+            "correct_answer": "D",
+            "difficulty": 5,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "Which city hosted the first Olympic Games of the modern era in 1896?",
+            "options": {
+                "A": "Paris",
+                "B": "London",
+                "C": "Rome",
+                "D": "Berlin",
+                "E": "Athens"
+            },
+            "correct_answer": "E",
+            "difficulty": 6,
+            "topic": "Sports"
+        },
+        {
+            "question": "Which American singer, who rose to fame in the late 1990s, is often credited with inspiring the resurgence of teen pop?",
+            "options": {
+                "A": "Britney Spears",
+                "B": "Christina Aguilera",
+                "C": "Jessica Simpson",
+                "D": "Mandy Moore",
+                "E": "Jennifer Lopez"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "Music"
+        },
+        {
+            "question": "What is 'Pantone 17-3938 Very Peri', which was chosen as the Pantone Color of the Year for 2022?",
+            "options": {
+                "A": "A shade of Green",
+                "B": "A shade of Red",
+                "C": "A shade of Blue",
+                "D": "A shade of Yellow",
+                "E": "A shade of Orange"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Art & Design"
+        }
+    ],
+    "dataset9": [
+        {
+            "question": "Which country recently launched the Mars probe 'Tianwen-1'?",
+            "options": {
+                "A": "Russia",
+                "B": "China",
+                "C": "United States",
+                "D": "India",
+                "E": "United Arab Emirates"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who is considered the father of modern computer science?",
+            "options": {
+                "A": "Charles Babbage",
+                "B": "Alan Turing",
+                "C": "John Von Neumann",
+                "D": "Ada Lovelace",
+                "E": "Bill Gates"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "In the context of global energy markets, what does 'OPEC' stand for?",
+            "options": {
+                "A": "Organization of Petroleum Exporting Countries",
+                "B": "Official Petroleum Economic Committee",
+                "C": "Organization of Petroleum Exchange Commissions",
+                "D": "Oil and Petroleum Exporting Cartel",
+                "E": "Oil Production and Exploration Company"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Which of the following elements is a liquid at room temperature?",
+            "options": {
+                "A": "Aluminium",
+                "B": "Bromine",
+                "C": "Chlorine",
+                "D": "Diamond",
+                "E": "Iron"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the central theme of the philosophical work 'Being and Time' by Martin Heidegger?",
+            "options": {
+                "A": "The nature of consciousness",
+                "B": "Ethical practices in modern society",
+                "C": "The meaning of 'being'",
+                "D": "Political theories of government",
+                "E": "Existential risk and future of humanity"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which ancient civilization's mythology included the sun god 'Inti'?",
+            "options": {
+                "A": "Egyptian",
+                "B": "Norse",
+                "C": "Aztec",
+                "D": "Inca",
+                "E": "Roman"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the time complexity of the Fast Fourier Transform (FFT) algorithm?",
+            "options": {
+                "A": "O(n^2)",
+                "B": "O(n log n)",
+                "C": "O(log n)",
+                "D": "O(n^3)",
+                "E": "O(2^n)"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "In economics, the Laffer Curve is a theoretical representation of the relationship between:",
+            "options": {
+                "A": "Interest rates and inflation",
+                "B": "Unemployment and inflation",
+                "C": "National debt and GDP",
+                "D": "Tax rates and government revenue",
+                "E": "Supply and demand"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset10": [
+        {
+            "question": "Which city is known for the architectural masterpiece 'La Sagrada Familia'?",
+            "options": {
+                "A": "Rome",
+                "B": "Barcelona",
+                "C": "Paris",
+                "D": "Lisbon",
+                "E": "Prague"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Who is the author of the 2021 Booker Prize-winning novel 'The Promise'?",
+            "options": {
+                "A": "Margaret Atwood",
+                "B": "Douglas Stuart",
+                "C": "Richard Powers",
+                "D": "Kazuo Ishiguro",
+                "E": "Damon Galgut"
+            },
+            "correct_answer": "E",
+            "difficulty": 2
+        },
+        {
+            "question": "The Hubble Space Telescope, launched into low Earth orbit in 1990, is named after which American astronomer?",
+            "options": {
+                "A": "Carl Sagan",
+                "B": "Edwin Hubble",
+                "C": "Neil deGrasse Tyson",
+                "D": "Frank Drake",
+                "E": "George Ellery Hale"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "The concept of 'peak oil' refers to:",
+            "options": {
+                "A": "The year when global oil prices reached their maximum",
+                "B": "The point at which global oil extraction rates start to decline",
+                "C": "The highest oil production by a single country",
+                "D": "The peak demand for oil in developing nations",
+                "E": "The maximum capacity of oil refineries"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which neurotransmitter is primarily associated with feelings of well-being and happiness?",
+            "options": {
+                "A": "Adrenaline",
+                "B": "Cortisol",
+                "C": "Oxytocin",
+                "D": "Serotonin",
+                "E": "Dopamine"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the title of the game that won 'Game of the Year' at The Game Awards in 2020?",
+            "options": {
+                "A": "The Last of Us Part II",
+                "B": "Ghost of Tsushima",
+                "C": "Cyberpunk 2077",
+                "D": "Hades",
+                "E": "Animal Crossing: New Horizons"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "The 'Great Green Wall' initiative aims to combat desertification in which region?",
+            "options": {
+                "A": "The Sahara Desert",
+                "B": "The Amazon Rainforest",
+                "C": "The Gobi Desert",
+                "D": "The Australian Outback",
+                "E": "The Mojave Desert"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "Which philosopher coined the term 'ubermensch' in the context of transcending traditional morals?",
+            "options": {
+                "A": "S\u00f8ren Kierkegaard",
+                "B": "Jean-Paul Sartre",
+                "C": "Friedrich Nietzsche",
+                "D": "Immanuel Kant",
+                "E": "Plato"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset11": [
+        {
+            "question": "On which continent does the world's longest river, the Nile, primarily flow?",
+            "options": {
+                "A": "Asia",
+                "B": "South America",
+                "C": "Afrikey",
+                "D": "Europe",
+                "E": "North America"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which 2021 action-adventure video game features a protagonist named Colt Vahn trapped in a time loop?",
+            "options": {
+                "A": "Hitman 3",
+                "B": "Deathloop",
+                "C": "Cyberpunk 2077",
+                "D": "Returnal",
+                "E": "Resident Evil Village"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "In terms of environmental impact, the 'carbon footprint' measures the total amount of what?",
+            "options": {
+                "A": "Carbon monoxide emissions",
+                "B": "Carbon dioxide equivalent emissions",
+                "C": "Carbon fiber production waste",
+                "D": "Carbonate mineral mining effects",
+                "E": "Carbon-based fuel consumption"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which painting technique involves applying wet paint onto a wet plaster surface?",
+            "options": {
+                "A": "Fresco",
+                "B": "Encaustic",
+                "C": "Tempera",
+                "D": "Gouache",
+                "E": "Acrylic"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the 'Lorentz factor' used to calculate in the theory of relativity?",
+            "options": {
+                "A": "The energy output of a star",
+                "B": "The expansion rate of the Universe",
+                "C": "The curvature of space-time near a black hole",
+                "D": "Time dilation and relativistic mass",
+                "E": "The strength of the gravitational force"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "The 'Jumping Frenchmen of Maine' is a rare disorder that belongs to what category of conditions?",
+            "options": {
+                "A": "Personality disorders",
+                "B": "Neurodegenerative diseases",
+                "C": "Psychogenic movements",
+                "D": "Hyperkinetic movement disorders",
+                "E": "Sleep disorders"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the term for a price that is statistically unrelated to previous prices in financial markets, resembling a random walk?",
+            "options": {
+                "A": "Market chaos",
+                "B": "Pricing equilibrium",
+                "C": "Efficient market",
+                "D": "Stochastic drift",
+                "E": "Martingale"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "The political concept 'Pax Americana' refers to a period of relative peace sustained by which nation's influence?",
+            "options": {
+                "A": "The British Empire",
+                "B": "Roman Empire",
+                "C": "United States of America",
+                "D": "Soviet Union",
+                "E": "Chinese Dynasty"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset12": [
+        {
+            "question": "In Shakespearean literature, who is the prince of Denmark?",
+            "options": {
+                "A": "Macbeth",
+                "B": "Othello",
+                "C": "Hamlet",
+                "D": "Lear",
+                "E": "Romeo"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "The 2023 sports event 'Super Bowl LVII' is set to be held in which city?",
+            "options": {
+                "A": "Tampa",
+                "B": "Miami",
+                "C": "Los Angeles",
+                "D": "Glendale",
+                "E": "Houston"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "The COVID-19 pandemic saw the rise of 'mRNA vaccine' technology. Who are the founders of BioNTech, one of the pioneer companies for this vaccine type?",
+            "options": {
+                "A": "Albert Bourla and St\u00e9phane Bancel",
+                "B": "U\u011fur \u015eahin and \u00d6zlem T\u00fcreci",
+                "C": "Elizabeth Holmes and Ramesh Balwani",
+                "D": "Moderna",
+                "E": "Kizzmekia Corbett and Barney Graham"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which of these celestial bodies is considered a 'dwarf planet' by the International Astronomical Union?",
+            "options": {
+                "A": "Europa",
+                "B": "Ganymede",
+                "C": "Pluto",
+                "D": "Ceres",
+                "E": "Both C and D"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "In culinary arts, the 'Maillard reaction' refers to the browning process of which food components?",
+            "options": {
+                "A": "Fats and sugars",
+                "B": "Acids and bases",
+                "C": "Proteins and sugars",
+                "D": "Water and oils",
+                "E": "Starches and acids"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the primary language spoken in the country with the international vehicle registration code 'H'?",
+            "options": {
+                "A": "Croatian",
+                "B": "Dutch",
+                "C": "Finnish",
+                "D": "Hungarian",
+                "E": "Portuguese"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Which mathematician introduced the concept of the 'null set', the set containing no elements?",
+            "options": {
+                "A": "Blaise Pascal",
+                "B": "Richard Dedekind",
+                "C": "Georg Cantor",
+                "D": "John von Neumann",
+                "E": "Leonhard Euler"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the term in linguistics for the study and interpretation of texts in terms of their linguistic and tonal style?",
+            "options": {
+                "A": "Phonology",
+                "B": "Syntax",
+                "C": "Semantics",
+                "D": "Pragmatics",
+                "E": "Stylistics"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset13": [
+        {
+            "question": "In which year did the social media platform Twitter launch?",
+            "options": {
+                "A": "2002",
+                "B": "2004",
+                "C": "2006",
+                "D": "2008",
+                "E": "2010"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which of the following elements was named after a recently discovered dwarf planet in 2016?",
+            "options": {
+                "A": "Neptunium",
+                "B": "Plutonium",
+                "C": "Erisium",
+                "D": "Cerium",
+                "E": "Haumea"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "In psychology, the 'Barnum effect' is best exemplified by what?",
+            "options": {
+                "A": "Operant conditioning",
+                "B": "Belief in horoscopes",
+                "C": "Placebo effect",
+                "D": "Cognitive dissonance",
+                "E": "Hawthorne effect"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which mathematician is known for formulating the Last Theorem, which was unsolved for over 350 years until it was proved in 1994 by Andrew Wiles?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Euclid",
+                "C": "Carl Friedrich Gauss",
+                "D": "Leonhard Euler",
+                "E": "Pierre de Fermat"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "Identify the literary work that introduced the 'Three Laws of Robotics'.",
+            "options": {
+                "A": "Do Androids Dream of Electric Sheep?",
+                "B": "Neuromancer",
+                "C": "I, Robot",
+                "D": "The Hitchhiker's Guide to the Galaxy",
+                "E": "Foundation"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "The Finkelstein reaction, developed in 1910, is a method commonly used in organic chemistry to exchange which type of atom in an alkyl halide?",
+            "options": {
+                "A": "Oxygen",
+                "B": "Sulfur",
+                "C": "Bromine",
+                "D": "Chlorine",
+                "E": "Iodine"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "Which 2016 event sometimes referred to as 'The Year of the Underdog', saw Leicester City win the English Premier League against all odds?",
+            "options": {
+                "A": "Champions League",
+                "B": "Euro 2016",
+                "C": "Premier League",
+                "D": "FIFA World Cup",
+                "E": "Olympics"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Who was appointed as the first female UN Secretary-General Special Representative and Head of the UN Mission for Ebola Emergency Response?",
+            "options": {
+                "A": "Amina J. Mohammed",
+                "B": "Christine Lagarde",
+                "C": "Angela Merkel",
+                "D": "Isabel de Saint Malo",
+                "E": "Aisling Reidy"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset14": [
+        {
+            "question": "The concept of 'zero waste' is a philosophy that encourages the redesign of resource life cycles to ensure products are reused. In which decade did it first gain popularity?",
+            "options": {
+                "A": "1970s",
+                "B": "1980s",
+                "C": "1990s",
+                "D": "2000s",
+                "E": "2010s"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "As of early 2023, which deep-learning model created by OpenAI serves as an advanced language model?",
+            "options": {
+                "A": "Watson",
+                "B": "BERT",
+                "C": "ChatGPT",
+                "D": "AlphaGo",
+                "E": "Tay"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What astronomical event, predicted by Einstein's theory of relativity, was directly observed for the first time in 2019?",
+            "options": {
+                "A": "Supernova",
+                "B": "Solar Eclipse",
+                "C": "Black Hole Imaging",
+                "D": "Gamma-Ray Burst",
+                "E": "Gravitational Wave Detection"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "The economic concept of a 'Nudge', popularized by Richard H. Thaler and Cass R. Sunstein in their 2008 book, is an aspect of which broader field of study?",
+            "options": {
+                "A": "Behavioral Economics",
+                "B": "Classical Economics",
+                "C": "Supply Chain Management",
+                "D": "Sustainable Development",
+                "E": "Financial Risk Analysis"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "The 'Battle of the Teutoburg Forest' had significant ramifications for the Roman Empire. In which year did this event occur?",
+            "options": {
+                "A": "9 CE",
+                "B": "55 BCE",
+                "C": "312 CE",
+                "D": "410 CE",
+                "E": "1453 CE"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Identify the Mesoamerican civilization known for creating a fully developed written language and contribution to art, architecture, and mathematical and astronomical systems.",
+            "options": {
+                "A": "Aztec",
+                "B": "Maya",
+                "C": "Inca",
+                "D": "Olmec",
+                "E": "Toltec"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "In the field of computer science, which of the following is known as the hardest class of computational problems within the P versus NP problem?",
+            "options": {
+                "A": "P-Class Problems",
+                "B": "NP-Hard Problems",
+                "C": "NP-Complete Problems",
+                "D": "EXPTIME Problems",
+                "E": "Co-NP Problems"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "In 2020, a significant trade agreement formed one of the largest free-trade zones in history by GDP. What is the name of this agreement?",
+            "options": {
+                "A": "Brexit",
+                "B": "NAFTA",
+                "C": "CPTPP",
+                "D": "RCEP",
+                "E": "EU Single Market"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset15": [
+        {
+            "question": "Which popular video game franchise created by Nintendo introduced the character 'Kirby'?",
+            "options": {
+                "A": "Super Mario",
+                "B": "The Legend of Zelda",
+                "C": "Kirby's Dream Land",
+                "D": "Metroid",
+                "E": "Pok\u00e9mon"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "Which planet is often referred to as Earth's 'sister planet' due to its similar size and proximity?",
+            "options": {
+                "A": "Mars",
+                "B": "Venus",
+                "C": "Mercury",
+                "D": "Jupiter",
+                "E": "Saturn"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which composer is known for the 'Enigma Variations', a set of musical variations where each is a musical sketch of one of his friends?",
+            "options": {
+                "A": "Felix Mendelssohn",
+                "B": "Pyotr Ilyich Tchaikovsky",
+                "C": "Edward Elgar",
+                "D": "Johannes Brahms",
+                "E": "Anton\u00edn Dvo\u0159\u00e1k"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "The 'Five Eyes' is an intelligence alliance comprising which countries?",
+            "options": {
+                "A": "United States, United Kingdom, Canada, Australia, New Zealand",
+                "B": "United States, United Kingdom, France, Germany, Japan",
+                "C": "Russia, China, Brazil, India, South Africa",
+                "D": "United States, Canada, Mexico, Brazil, Argentina",
+                "E": "China, North Korea, Iran, Russia, Venezuela"
+            },
+            "correct_answer": "A",
+            "difficulty": 4
+        },
+        {
+            "question": "Named after a city in Belgium, what process is used for the mass-production of steel?",
+            "options": {
+                "A": "Puddling",
+                "B": "Bessofication",
+                "C": "Bessemer Process",
+                "D": "Finex Process",
+                "E": "Siemens-Martin Process"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "In 2021, which nation-state was believed to be responsible for a sophisticated cyberespionage campaign targeting multiple U.S. federal agencies and corporations, known as the SolarWinds hack?",
+            "options": {
+                "A": "China",
+                "B": "North Korea",
+                "C": "Iran",
+                "D": "Russia",
+                "E": "Cuba"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Who is credited with the design and creation of the geodesic dome, popularized in the mid-20th century?",
+            "options": {
+                "A": "Frank Lloyd Wright",
+                "B": "Le Corbusier",
+                "C": "I. M. Pei",
+                "D": "Buckminster Fuller",
+                "E": "Oscar Niemeyer"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "In political theory, the 'veil of ignorance' is a method of determining the morality of issues proposed by which philosopher?",
+            "options": {
+                "A": "Immanuel Kant",
+                "B": "John Locke",
+                "C": "John Rawls",
+                "D": "Thomas Hobbes",
+                "E": "Aristotle"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset16": [
+        {
+            "question": "In world cultures, 'Holi' is a popular festival that celebrates the arrival of spring. It originated in which country?",
+            "options": {
+                "A": "India",
+                "B": "Thailand",
+                "C": "Mexico",
+                "D": "Greece",
+                "E": "Brazil"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "The 'Richter Scale' is used to measure the magnitude of what natural phenomenon?",
+            "options": {
+                "A": "Tornadoes",
+                "B": "Hurricanes",
+                "C": "Tsunamis",
+                "D": "Earthquakes",
+                "E": "Volcanic Eruptions"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Who was the Greek god of time, often depicted as turning the zodiac wheel?",
+            "options": {
+                "A": "Zeus",
+                "B": "Chronos",
+                "C": "Hermes",
+                "D": "Ares",
+                "E": "Apollo"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "Which disease, targeted for global eradication, has been prevented by systematic vaccination totalling over $17 billion in investments by the Global Polio Eradication Initiative?",
+            "options": {
+                "A": "Measles",
+                "B": "Tuberculosis",
+                "C": "Malaria",
+                "D": "Polio",
+                "E": "Smallpox"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "The 'Great Pacific Garbage Patch' is a collection of marine debris predominantly composed of what material?",
+            "options": {
+                "A": "Wood",
+                "B": "Plastic",
+                "C": "Metal",
+                "D": "Glass",
+                "E": "Rubber"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which philosopher is best known for his allegory in which prisoners chained inside a cave mistake shadows on the wall as reality?",
+            "options": {
+                "A": "Socrates",
+                "B": "Plato",
+                "C": "Aristotle",
+                "D": "Epicurus",
+                "E": "Seneca"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "In automotive history, the 'Quattro' four-wheel drive system was a revolutionary innovation introduced by which car manufacturer?",
+            "options": {
+                "A": "Toyota",
+                "B": "Ford",
+                "C": "Audi",
+                "D": "BMW",
+                "E": "Subaru"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the name given to the rapid construction of large amounts of infrastructure, particularly in China, which results in the creation of ghost cities?",
+            "options": {
+                "A": "Skyscraper Boom",
+                "B": "Property Bubble",
+                "C": "Infrastructural Mimicry",
+                "D": "Urbanization Burst",
+                "E": "Overbuilding"
+            },
+            "correct_answer": "E",
+            "difficulty": 8
+        }
+    ],
+    "dataset17": [
+        {
+            "question": "In what year was the smartphone application TikTok internationally released?",
+            "options": {
+                "A": "2013",
+                "B": "2014",
+                "C": "2015",
+                "D": "2016",
+                "E": "2017"
+            },
+            "correct_answer": "E",
+            "difficulty": 1
+        },
+        {
+            "question": "Which vitamin is primarily responsible for regulating calcium and phosphate in the body, known as the 'sunshine vitamin'?",
+            "options": {
+                "A": "Vitamin A",
+                "B": "Vitamin B12",
+                "C": "Vitamin C",
+                "D": "Vitamin D",
+                "E": "Vitamin E"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Which mathematician is notable for formulating the last theorem that went unsolved for over 350 years until 1994?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Leonhard Euler",
+                "C": "Pierre de Fermat",
+                "D": "Carl Friedrich Gauss",
+                "E": "Andrew Wiles"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "As of 2023, which country leads in the production of electric vehicles (EVs)?",
+            "options": {
+                "A": "United States",
+                "B": "Germany",
+                "C": "Japan",
+                "D": "South Korea",
+                "E": "China"
+            },
+            "correct_answer": "E",
+            "difficulty": 4
+        },
+        {
+            "question": "Which historical figure was known as the 'Scourge of God'?",
+            "options": {
+                "A": "Napoleon Bonaparte",
+                "B": "Julius Caesar",
+                "C": "Alexander the Great",
+                "D": "Genghis Khan",
+                "E": "Attila the Hun"
+            },
+            "correct_answer": "E",
+            "difficulty": 5
+        },
+        {
+            "question": "What is the name of the physical principle that describes the conservation of momentum in fluid dynamics?",
+            "options": {
+                "A": "Pascal's Law",
+                "B": "Archimedes' Principle",
+                "C": "Bernoulli's Equation",
+                "D": "Venturi Effect",
+                "E": "Reynolds Number"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In the video game industry, what new gaming console was released in late 2020?",
+            "options": {
+                "A": "Xbox Series X/S",
+                "B": "PlayStation 5",
+                "C": "Nintendo Switch",
+                "D": "Google Stadia",
+                "E": "All of the above"
+            },
+            "correct_answer": "E",
+            "difficulty": 7
+        },
+        {
+            "question": "The 'Eurozone' refers to a group of European Union nations that use what currency?",
+            "options": {
+                "A": "Euro",
+                "B": "Pound Sterling",
+                "C": "Swiss Franc",
+                "D": "U.S. Dollar",
+                "E": "Yen"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset18": [
+        {
+            "question": "Which river is considered the longest in the world?",
+            "options": {
+                "A": "Amazon River",
+                "B": "Nile River",
+                "C": "Yangtze River",
+                "D": "Mississippi River",
+                "E": "Yenisei River"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "The first successful vaccine was introduced by Edward Jenner to combat which disease?",
+            "options": {
+                "A": "Poliomyelitis",
+                "B": "Smallpox",
+                "C": "Measles",
+                "D": "Influenza",
+                "E": "Typhus"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which novel features the fictional location West Egg?",
+            "options": {
+                "A": "To Kill a Mockingbird",
+                "B": "1984",
+                "C": "The Great Gatsby",
+                "D": "Moby-Dick",
+                "E": "Pride and Prejudice"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "In the context of environmental science, what does the term 'albedo' refer to?",
+            "options": {
+                "A": "The process of species extinction",
+                "B": "The percentage of incoming sunlight reflected by Earth's surface",
+                "C": "A measurement of water vapor in the atmosphere",
+                "D": "A type of greenhouse gas",
+                "E": "The angle of the sun's rays hitting the earth"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What does Moore's Law, formulated in 1965, predict about technology?",
+            "options": {
+                "A": "The speed of a computer processor will double every two years",
+                "B": "The number of transistors on a microchip will double every two years",
+                "C": "The cost of computers will halve every two years",
+                "D": "The size of computers will halve every two years",
+                "E": "The energy efficiency of computers will double every two years"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which contemporary artist is known for the iconic 'Balloon Dog' sculptures?",
+            "options": {
+                "A": "Banksy",
+                "B": "Damien Hirst",
+                "C": "Jeff Koons",
+                "D": "Anish Kapoor",
+                "E": "Yayoi Kusama"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the primary component of the Universe according to the standard Lambda-CDM model of cosmology?",
+            "options": {
+                "A": "Ordinary Matter",
+                "B": "Dark Matter",
+                "C": "Dark Energy",
+                "D": "Neutrinos",
+                "E": "Black Holes"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the current base sequence numbering system that RNA vaccines make use of?",
+            "options": {
+                "A": "Binary",
+                "B": "Decimal",
+                "C": "Hexadecimal",
+                "D": "Nucleotide",
+                "E": "Quinary"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset19": [
+        {
+            "question": "Pho is a traditional soup from which country?",
+            "options": {
+                "A": "China",
+                "B": "Thailand",
+                "C": "Vietnam",
+                "D": "Japan",
+                "E": "Korea"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "In Egyptian mythology, who is the god of the dead?",
+            "options": {
+                "A": "Ra",
+                "B": "Osiris",
+                "C": "Anubis",
+                "D": "Horus",
+                "E": "Seth"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "The term 'gerrymandering' relates to which political practice?",
+            "options": {
+                "A": "Campaign financing",
+                "B": "Electoral college voting",
+                "C": "Redistricting for advantage",
+                "D": "Filibustering",
+                "E": "Voter suppression"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "As of 2023, what is the newest element added to the periodic table?",
+            "options": {
+                "A": "Moscovium (Mc)",
+                "B": "Oganesson (Og)",
+                "C": "Tennessine (Ts)",
+                "D": "Livermorium (Lv)",
+                "E": "None of the above"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "In sports, the '2022 FIFA World Cup' was hosted by which country?",
+            "options": {
+                "A": "Russia",
+                "B": "Qatar",
+                "C": "Brazil",
+                "D": "South Africa",
+                "E": "Japan"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "Which language, as of 2023, is estimated to have the most native speakers worldwide?",
+            "options": {
+                "A": "English",
+                "B": "Spanish",
+                "C": "Mandarin Chinese",
+                "D": "Hindi",
+                "E": "Arabic"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In the era of space exploration, what is the name of the largest telescope launched into space as of 2023?",
+            "options": {
+                "A": "Hubble Space Telescope",
+                "B": "Chandra X-Ray Observatory",
+                "C": "Spitzer Space Telescope",
+                "D": "James Webb Space Telescope",
+                "E": "Kepler Space Telescope"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Which branch of psychology focuses on the study of how humans relate to each other and group dynamics?",
+            "options": {
+                "A": "Clinical Psychology",
+                "B": "Cognitive Psychology",
+                "C": "Developmental Psychology",
+                "D": "Social Psychology",
+                "E": "Evolutionary Psychology"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset20": [
+        {
+            "question": "The painting 'The Starry Night' is a work by which artist?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Leonardo da Vinci",
+                "C": "Vincent van Gogh",
+                "D": "Claude Monet",
+                "E": "Salvador Dal\u00ed"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "The term 'big data' is typically associated with which computing concept?",
+            "options": {
+                "A": "Artificial Intelligence",
+                "B": "Data Mining",
+                "C": "Cloud Computing",
+                "D": "Virtual Reality",
+                "E": "Cybersecurity"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which 2022 film directed by Jordan Peele features the tagline 'Run.'?",
+            "options": {
+                "A": "Us",
+                "B": "Get Out",
+                "C": "Nope",
+                "D": "Being John Malkovich",
+                "E": "It Follows"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "In ancient Roman culture, who was the god of war?",
+            "options": {
+                "A": "Jupiter",
+                "B": "Mars",
+                "C": "Neptune",
+                "D": "Vulcan",
+                "E": "Pluto"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the concept of 'entanglement' in quantum mechanics?",
+            "options": {
+                "A": "A measurable property of subatomic particles",
+                "B": "The inability to accurately predict particle position and velocity at the same time",
+                "C": "The phenomenon where the state of one particle is dependent on the state of another, regardless of distance",
+                "D": "A type of particle collision process",
+                "E": "The creation of a black hole"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which architect designed the Guggenheim Museum in Bilbao, Spain?",
+            "options": {
+                "A": "Frank Lloyd Wright",
+                "B": "Zaha Hadid",
+                "C": "Ieoh Ming Pei",
+                "D": "Frank Gehry",
+                "E": "Renzo Piano"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "The concept of 'degrowth' is associated with which academic field?",
+            "options": {
+                "A": "Psychology",
+                "B": "Philosophy",
+                "C": "Economics",
+                "D": "Linguistics",
+                "E": "Environmental Science"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "A polyglot is someone who has the ability to do what?",
+            "options": {
+                "A": "Solve complex mathematical equations",
+                "B": "Speak multiple languages",
+                "C": "Play several musical instruments",
+                "D": "Recall past lives",
+                "E": "Predict future events"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset21": [
+        {
+            "question": "In what year did the World Health Organization declare the global COVID-19 pandemic?",
+            "options": {
+                "A": "2019",
+                "B": "2020",
+                "C": "2021",
+                "D": "2022",
+                "E": "2023"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "Health & Medicine"
+        },
+        {
+            "question": "Which company launched the James Webb Space Telescope?",
+            "options": {
+                "A": "Blue Origin",
+                "B": "SpaceX",
+                "C": "Space Force",
+                "D": "NASA",
+                "E": "Roscosmos"
+            },
+            "correct_answer": "D",
+            "difficulty": 2,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "What is the primary purpose of the Belt and Road Initiative proposed by China?",
+            "options": {
+                "A": "Military expansion",
+                "B": "Cultural exchange",
+                "C": "Trade and infrastructure development",
+                "D": "Technological innovation",
+                "E": "Environmental protection"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which novel won the 2020 Booker Prize?",
+            "options": {
+                "A": "Shuggie Bain",
+                "B": "The Testaments",
+                "C": "Girl, Woman, Other",
+                "D": "The Promise",
+                "E": "The Shadow King"
+            },
+            "correct_answer": "A",
+            "difficulty": 4,
+            "topic": "Literature"
+        },
+        {
+            "question": "Which ancient civilization's recently discovered city is being referred to as the 'Rise of Aten'?",
+            "options": {
+                "A": "Mayan",
+                "B": "Incan",
+                "C": "Egyptian",
+                "D": "Mesopotamian",
+                "E": "Indus Valley"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "History"
+        },
+        {
+            "question": "What psychological approach is typically associated with the treatment of phobias using controlled exposure to the fear source?",
+            "options": {
+                "A": "Psychoanalysis",
+                "B": "Humanistic therapy",
+                "C": "Cognitive-behavioral therapy",
+                "D": "Existential therapy",
+                "E": "Gestalt therapy"
+            },
+            "correct_answer": "C",
+            "difficulty": 6,
+            "topic": "Psychology"
+        },
+        {
+            "question": "In the context of environmental science, what does the term 'Anthropocene' refer to?",
+            "options": {
+                "A": "A newly discovered greenhouse gas",
+                "B": "The geological era marked by significant human impact on Earth's geology and ecosystems",
+                "C": "A conservation strategy for endangered species",
+                "D": "The study of ancient human agriculture techniques",
+                "E": "A theory on the evolution of anthropods"
+            },
+            "correct_answer": "B",
+            "difficulty": 7,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Identify the unsolved problem in number theory that involves determining whether every even whole number greater than 2 is the sum of two prime numbers.",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Goldbach's Conjecture",
+                "C": "Riemann Hypothesis",
+                "D": "P vs NP Problem",
+                "E": "Collatz Conjecture"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Mathematics"
+        }
+    ],
+    "dataset22": [
+        {
+            "question": "Which major river passes through Baghdad, the capital of Iraq?",
+            "options": {
+                "A": "Nile",
+                "B": "Tigris",
+                "C": "Euphrates",
+                "D": "Jordan",
+                "E": "Indus"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "Geography"
+        },
+        {
+            "question": "Which contemporary artist is known for using a Spin Painting technique?",
+            "options": {
+                "A": "Damien Hirst",
+                "B": "Jeff Koons",
+                "C": "Banksy",
+                "D": "Takashi Murakami",
+                "E": "Jasper Johns"
+            },
+            "correct_answer": "A",
+            "difficulty": 2,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "Who was the first female head of government in modern history?",
+            "options": {
+                "A": "Margaret Thatcher",
+                "B": "Indira Gandhi",
+                "C": "Sirimavo Bandaranaike",
+                "D": "Angela Merkel",
+                "E": "Golda Meir"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Great Leaders"
+        },
+        {
+            "question": "In terms of cybersecurity, what does the term 'white hat' refer to?",
+            "options": {
+                "A": "A graphical user interface element",
+                "B": "A type of computer hardware",
+                "C": "A malicious hacker",
+                "D": "An ethical hacker",
+                "E": "A data encryption method"
+            },
+            "correct_answer": "D",
+            "difficulty": 4,
+            "topic": "Computer Science"
+        },
+        {
+            "question": "What is the name given to the economic theory that suggests the total amount of money in an economy primarily determines its economic growth and inflation?",
+            "options": {
+                "A": "Keynesian Economics",
+                "B": "Supply-Side Economics",
+                "C": "Monetarism",
+                "D": "Austrian School",
+                "E": "Behavioral Economics"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Economics"
+        },
+        {
+            "question": "Which film won the Academy Award for Best Picture in 2021?",
+            "options": {
+                "A": "Nomadland",
+                "B": "The Father",
+                "C": "Judas and the Black Messiah",
+                "D": "Mank",
+                "E": "Minari"
+            },
+            "correct_answer": "A",
+            "difficulty": 6,
+            "topic": "Cinema & TV"
+        },
+        {
+            "question": "What team won the English Premier League in the 2020-2021 season?",
+            "options": {
+                "A": "Manchester City",
+                "B": "Liverpool FC",
+                "C": "Manchester United",
+                "D": "Chelsea FC",
+                "E": "Arsenal FC"
+            },
+            "correct_answer": "A",
+            "difficulty": 7,
+            "topic": "Sports"
+        },
+        {
+            "question": "The discovery of which particle at the Large Hadron Collider in 2012 confirmed a long-standing prediction of the Standard Model of particle physics?",
+            "options": {
+                "A": "Top Quark",
+                "B": "Tau Neutrino",
+                "C": "Higgs Boson",
+                "D": "Charm Quark",
+                "E": "Majorana Fermion"
+            },
+            "correct_answer": "C",
+            "difficulty": 8,
+            "topic": "Science"
+        }
+    ],
+    "dataset23": [
+        {
+            "question": "In which country would you find the historic city of Petra?",
+            "options": {
+                "A": "Egypt",
+                "B": "Jordan",
+                "C": "Israel",
+                "D": "Syria",
+                "E": "Iraq"
+            },
+            "correct_answer": "B",
+            "difficulty": 1,
+            "topic": "World Cultures"
+        },
+        {
+            "question": "What was the name of the rover that landed on Mars in February 2021 as part of NASA's Mars 2020 mission?",
+            "options": {
+                "A": "Opportunity",
+                "B": "Spirit",
+                "C": "Curiosity",
+                "D": "Perseverance",
+                "E": "Pathfinder"
+            },
+            "correct_answer": "D",
+            "difficulty": 2,
+            "topic": "Technology"
+        },
+        {
+            "question": "Which composer is known for the minimalist piece 'Music for 18 Musicians'?",
+            "options": {
+                "A": "Philip Glass",
+                "B": "Steve Reich",
+                "C": "John Cage",
+                "D": "La Monte Young",
+                "E": "Terry Riley"
+            },
+            "correct_answer": "B",
+            "difficulty": 3,
+            "topic": "Music"
+        },
+        {
+            "question": "Identify the philosopher who is famous for the quote, 'Man is condemned to be free.'",
+            "options": {
+                "A": "Friedrich Nietzsche",
+                "B": "S\u00f8ren Kierkegaard",
+                "C": "Jean-Paul Sartre",
+                "D": "Albert Camus",
+                "E": "Immanuel Kant"
+            },
+            "correct_answer": "C",
+            "difficulty": 4,
+            "topic": "Philosophy"
+        },
+        {
+            "question": "What term is used to describe the state of the atmosphere at a particular time and place, including temperature, air pressure, humidity, wind, cloudiness, and precipitation?",
+            "options": {
+                "A": "Climate",
+                "B": "Weather",
+                "C": "Environment",
+                "D": "Atmospheric pressure",
+                "E": "Meteorology"
+            },
+            "correct_answer": "B",
+            "difficulty": 5,
+            "topic": "Popular Science"
+        },
+        {
+            "question": "Which automotive company announced its plan to produce only electric vehicles by 2030?",
+            "options": {
+                "A": "Ford",
+                "B": "Toyota",
+                "C": "General Motors",
+                "D": "Volkswagen",
+                "E": "Jaguar Land Rover"
+            },
+            "correct_answer": "E",
+            "difficulty": 6,
+            "topic": "Automotive"
+        },
+        {
+            "question": "What is the most widely spoken language in the world when considering only native speakers?",
+            "options": {
+                "A": "Spanish",
+                "B": "English",
+                "C": "Mandarin Chinese",
+                "D": "Hindi",
+                "E": "Arabic"
+            },
+            "correct_answer": "C",
+            "difficulty": 7,
+            "topic": "Language & Linguistics"
+        },
+        {
+            "question": "What is the name of the concept in game theory where each player's optimal choice depends on the choices of others?",
+            "options": {
+                "A": "Game Matrix",
+                "B": "Nash Equilibrium",
+                "C": "Prisoner's Dilemma",
+                "D": "Dominant Strategy",
+                "E": "Zero-sum Game"
+            },
+            "correct_answer": "B",
+            "difficulty": 8,
+            "topic": "Mind Games"
+        }
+    ],
+    "dataset24": [
+        {
+            "question": "Who is considered the 'Father of the Indian Constitution'?",
+            "options": {
+                "A": "Mahatma Gandhi",
+                "B": "Jawaharlal Nehru",
+                "C": "B. R. Ambedkar",
+                "D": "Sardar Patel",
+                "E": "Rabindranath Tagore"
+            },
+            "correct_answer": "C",
+            "difficulty": 1,
+            "topic": "Politics"
+        },
+        {
+            "question": "What is the current (as of 2023) standard model for the origin of the universe known as?",
+            "options": {
+                "A": "Steady State Theory",
+                "B": "Big Bang Theory",
+                "C": "Multiverse Theory",
+                "D": "String Theory",
+                "E": "Ekpyrotic Scenario"
+            },
+            "correct_answer": "B",
+            "difficulty": 2,
+            "topic": "Astronomy"
+        },
+        {
+            "question": "Which Pok\u00e9mon was featured in an environmental campaign in 2021 to raise awareness about the fragility of ocean life?",
+            "options": {
+                "A": "Squirtle",
+                "B": "Piplup",
+                "C": "Lapras",
+                "D": "Tentacool",
+                "E": "Magikarp"
+            },
+            "correct_answer": "C",
+            "difficulty": 3,
+            "topic": "Environmental Science"
+        },
+        {
+            "question": "Which Greek god is referred to as the 'shaker of the earth' in mythology?",
+            "options": {
+                "A": "Zeus",
+                "B": "Poseidon",
+                "C": "Ares",
+                "D": "Hephaestus",
+                "E": "Apollo"
+            },
+            "correct_answer": "B",
+            "difficulty": 4,
+            "topic": "Mythology"
+        },
+        {
+            "question": "As of 2023, which city is recognized as having the most Michelin-starred restaurants in the world?",
+            "options": {
+                "A": "Paris",
+                "B": "New York City",
+                "C": "Tokyo",
+                "D": "Hong Kong",
+                "E": "London"
+            },
+            "correct_answer": "C",
+            "difficulty": 5,
+            "topic": "Food & Cuisine"
+        },
+        {
+            "question": "What is the psychological phenomenon where a person in a group is less likely to take action or feel a sense of responsibility when others are present?",
+            "options": {
+                "A": "Group polarization",
+                "B": "Social loafing",
+                "C": "The bystander effect",
+                "D": "Conformity",
+                "E": "Deindividuation"
+            },
+            "correct_answer": "C",
+            "difficulty": 6,
+            "topic": "Psychology"
+        },
+        {
+            "question": "Which artist painted 'The Tower of Blue Horses', a work that has been lost since the end of World War II?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Marc Chagall",
+                "C": "Wassily Kandinsky",
+                "D": "Franz Marc",
+                "E": "Paul Klee"
+            },
+            "correct_answer": "D",
+            "difficulty": 7,
+            "topic": "Art & Design"
+        },
+        {
+            "question": "What is the significance of the Hardy-Weinberg principle in population genetics?",
+            "options": {
+                "A": "It predicts the conditions under which evolution would not occur",
+                "B": "It describes the inheritance patterns of single-gene disorders",
+                "C": "It calculates the age of fossils based on carbon decay",
+                "D": "It identifies the number of species in a given ecosystem",
+                "E": "It offers a genetic explanation for the phenomenon of extinction"
+            },
+            "correct_answer": "A",
+            "difficulty": 8,
+            "topic": "Science"
+        }
+    ],
+    "dataset25": [
+        {
+            "question": "In what year was the Wi-Fi technology first released for consumer use?",
+            "options": {
+                "A": "1997",
+                "B": "1985",
+                "C": "1999",
+                "D": "2003",
+                "E": "1991"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which country currently has the world's fastest supercomputer as of 2023?",
+            "options": {
+                "A": "United States",
+                "B": "China",
+                "C": "Japan",
+                "D": "Switzerland",
+                "E": "Germany"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which of the following elements was named after a recently created synthetic element as of 2023?",
+            "options": {
+                "A": "Lawrencium",
+                "B": "Tennessine",
+                "C": "Oganesson",
+                "D": "Moscovium",
+                "E": "Nihonium"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which of these mathematical problems remains unsolved as of 2023?",
+            "options": {
+                "A": "Fermat's Last Theorem",
+                "B": "Goldbach's Conjecture",
+                "C": "The Poincar\u00e9 Conjecture",
+                "D": "The Riemann Hypothesis",
+                "E": "P=np problem"
+            },
+            "correct_answer": "D",
+            "difficulty": 4
+        },
+        {
+            "question": "Which Nobel Prize-winning author wrote the book 'The Ministry of Utmost Happiness'?",
+            "options": {
+                "A": "Alice Munro",
+                "B": "Kazuo Ishiguro",
+                "C": "Doris Lessing",
+                "D": "Arundhati Roy",
+                "E": "Bob Dylan"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Who directed the film 'Parasite' that won the Academy Award for Best Picture in 2020?",
+            "options": {
+                "A": "Jordan Peele",
+                "B": "Bong Joon-ho",
+                "C": "Martin Scorsese",
+                "D": "Steven Spielberg",
+                "E": "Quentin Tarantino"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the 2023 release title of Taylor Swift's album that revisits her earlier work?",
+            "options": {
+                "A": "Fearless (Taylor's Version)",
+                "B": "1989 (Taylor's Version)",
+                "C": "Red (Taylor's Version)",
+                "D": "Speak Now (Taylor's Version)",
+                "E": "Taylor Swift (Taylor's Version)"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which Asian country's capital's name means 'City of Victory' and was recently planned for relocation?",
+            "options": {
+                "A": "Thailand",
+                "B": "India",
+                "C": "Indonesia",
+                "D": "Malaysia",
+                "E": "Vietnam"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset26": [
+        {
+            "question": "What is the oldest currently functioning university in the world?",
+            "options": {
+                "A": "University of Oxford",
+                "B": "University of Bologna",
+                "C": "Al-Azhar University",
+                "D": "University of Salamanca",
+                "E": "University of Al Quaraouiyine"
+            },
+            "correct_answer": "E",
+            "difficulty": 1
+        },
+        {
+            "question": "By 2023, what is the primary goal of the Artemis program conducted by NASA?",
+            "options": {
+                "A": "Establish a sustainable human presence on Mars",
+                "B": "Launch a new space telescope to search for exoplanets",
+                "C": "Return humans to the Moon and establish a gateway",
+                "D": "Land a human on an asteroid",
+                "E": "Explore the outer planets with advanced drones"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "Which application became the most downloaded in 2022, surpassing other major social media platforms?",
+            "options": {
+                "A": "Facebook",
+                "B": "TikTok",
+                "C": "Instagram",
+                "D": "WeChat",
+                "E": "Snapchat"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What recent astronomical event, occurring in 2022, will next be visible from Earth in 2125?",
+            "options": {
+                "A": "Halley's Comet",
+                "B": "The Transit of Venus",
+                "C": "A Blue Moon",
+                "D": "A Total Solar Eclipse",
+                "E": "The Great Conjunction"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "In economics, which 2021 Nobel laureate was recognized for their work using natural experiments to address societal issues?",
+            "options": {
+                "A": "Abhijit Banerjee",
+                "B": "Esther Duflo",
+                "C": "David Card",
+                "D": "Angus Deaton",
+                "E": "Michael Kremer"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which recent video game sequel released in 2023 revisits the post-apocalyptic world of its critically acclaimed predecessor?",
+            "options": {
+                "A": "The Last of Us Part III",
+                "B": "God of War: Ragnar\u00f6k",
+                "C": "Mass Effect 4",
+                "D": "Elden Ring 2",
+                "E": "Horizon Forbidden West 2"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "In psychology, what term is used to describe the phenomenon of reduced empathy from exposure to violent media, identified in recent studies?",
+            "options": {
+                "A": "Catharsis",
+                "B": "Habituation",
+                "C": "Desensitization",
+                "D": "Cognitive Dissonance",
+                "E": "Psychic Numbing"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "As of the latest negotiations in 2023, which country is on the verge of joining the European Union?",
+            "options": {
+                "A": "Ukraine",
+                "B": "Serbia",
+                "C": "Norway",
+                "D": "Switzerland",
+                "E": "Albania"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset27": [
+        {
+            "question": "Which language that is described as a 'constructed international auxiliary language' reached its centenary in 2017?",
+            "options": {
+                "A": "Esperanto",
+                "B": "Lojban",
+                "C": "Interlingua",
+                "D": "Volap\u00fck",
+                "E": "Ido"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which country recently reached a significant solar power milestone by switching on the world's largest solar farm in 2022?",
+            "options": {
+                "A": "Australia",
+                "B": "China",
+                "C": "India",
+                "D": "United States",
+                "E": "Saudi Arabia"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Who is the author of the 2022 Pulitzer Prize-winning novel 'The Netanyahus: An Account of a Minor and Ultimately Even Negligible Episode in the History of a Very Famous Family'?",
+            "options": {
+                "A": "Richard Powers",
+                "B": "Colson Whitehead",
+                "C": "Joshua Cohen",
+                "D": "Viet Thanh Nguyen",
+                "E": "Louise Erdrich"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "What famous landmark began a significant renovation project in 2021 that is expected to last several years due to deterioration?",
+            "options": {
+                "A": "The Colosseum in Rome",
+                "B": "The Eiffel Tower in Paris",
+                "C": "Big Ben in London",
+                "D": "The Statue of Liberty in New York",
+                "E": "The Sydney Opera House in Sydney"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "In the 2022 FIFA World Cup, which player received the Golden Boot award as the tournament's top goal-scorer?",
+            "options": {
+                "A": "Lionel Messi",
+                "B": "Neymar Jr.",
+                "C": "Kylian Mbapp\u00e9",
+                "D": "Cristiano Ronaldo",
+                "E": "Karim Benzema"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "Which popular streaming service announced a crackdown on password sharing among customers not living in the same household in 2023?",
+            "options": {
+                "A": "Netflix",
+                "B": "HBO Max",
+                "C": "Amazon Prime Video",
+                "D": "Disney+",
+                "E": "Hulu"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "With the advent of personalized medicine, what is the name of the technology that edits genes and has been proposed as a method to cure genetic diseases?",
+            "options": {
+                "A": "Polymerase chain reaction (PCR)",
+                "B": "CRISPR-Cas9",
+                "C": "Gene therapy",
+                "D": "Stem cell technology",
+                "E": "Nanomedicine"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Which philosopher, known for their work in ethics and aesthetics, released a controversial book in 2022 on the topic of 'cancel culture'?",
+            "options": {
+                "A": "Judith Butler",
+                "B": "Slavoj \u017di\u017eek",
+                "C": "Martha Nussbaum",
+                "D": "Peter Singer",
+                "E": "Cornel West"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset28": [
+        {
+            "question": "Introduced in 2021, what is the name of the electric pickup truck by Ford that revives a classic model name?",
+            "options": {
+                "A": "Ford F-150 Lightning",
+                "B": "Ford Ranger Electric",
+                "C": "Ford Maverick EV",
+                "D": "Ford Bronco E",
+                "E": "Ford Mustang Mach-E Truck"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Which cultural site, often described as 'the eighth wonder of the world,' began reconstruction efforts in 2021 after being destroyed in 2015?",
+            "options": {
+                "A": "Notre-Dame de Paris",
+                "B": "The Great Wall of China",
+                "C": "The Sphinx of Giza",
+                "D": "The Bamiyan Buddhas",
+                "E": "The Mausoleum at Halicarnassus"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the title of the video game developed by Hazelight Studios that won 'Game of the Year' at The Game Awards 2021?",
+            "options": {
+                "A": "Deathloop",
+                "B": "Resident Evil Village",
+                "C": "It Takes Two",
+                "D": "Metroid Dread",
+                "E": "Ratchet & Clank: Rift Apart"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "By 2023, what is the new record for the deepest point ever reached by a human-operated submersible in the ocean?",
+            "options": {
+                "A": "Mariana Trench",
+                "B": "Java Trench",
+                "C": "Tonga Trench",
+                "D": "Puerto Rico Trench",
+                "E": "South Sandwich Trench"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "In astronomy, what recently discovered type of planet is described as 'super-puff' or 'cotton candy' due to its unusually low density?",
+            "options": {
+                "A": "Gas giant",
+                "B": "Ice giant",
+                "C": "Super-Earth",
+                "D": "Mini-Neptune",
+                "E": "Hot Jupiter"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "What environmental concept has gained traction through the 2023 UN Climate Change Conference (COP28) as a critical approach to mitigate global warming?",
+            "options": {
+                "A": "Carbon capture and storage",
+                "B": "Green economy",
+                "C": "Circular economy",
+                "D": "Sustainable development goals",
+                "E": "Regenerative agriculture"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "In 2022, which company made groundbreaking strides in quantum computing by claiming to achieve 'quantum supremacy' with their processor?",
+            "options": {
+                "A": "Google",
+                "B": "IBM",
+                "C": "Intel",
+                "D": "Microsoft",
+                "E": "QuantumScape"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "In language & linguistics, which recently coined term has been used to describe the phenomenon where public figures 'shift' their accents to sound more authentic to an audience?",
+            "options": {
+                "A": "Code-Switching",
+                "B": "Dialect Levelling",
+                "C": "Accent Drift",
+                "D": "Linguistic Incongruence",
+                "E": "Phonetic Accommodation"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset29": [
+        {
+            "question": "Which country recently launched the Chang'e 5 mission to collect lunar samples?",
+            "options": {
+                "A": "USA",
+                "B": "Russia",
+                "C": "China",
+                "D": "India",
+                "E": "Israel"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "What is the title of the first novel ever written on a typewriter?",
+            "options": {
+                "A": "War and Peace",
+                "B": "The Wonderful Wizard of Oz",
+                "C": "Adventures of Huckleberry Finn",
+                "D": "Moby Dick",
+                "E": "Pride and Prejudice"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "As of 2023, who holds the record for the fastest 100m sprint in the world?",
+            "options": {
+                "A": "Justin Gatlin",
+                "B": "Yohan Blake",
+                "C": "Asafa Powell",
+                "D": "Usain Bolt",
+                "E": "Tyson Gay"
+            },
+            "correct_answer": "D",
+            "difficulty": 3
+        },
+        {
+            "question": "What element, discovered in 2019, has the atomic number 119?",
+            "options": {
+                "A": "Tennessine",
+                "B": "Oganesson",
+                "C": "Ununennium",
+                "D": "Moscovium",
+                "E": "Livermorium"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "Who was the Greek goddess associated with the concept of 'chaos'?",
+            "options": {
+                "A": "Nyx",
+                "B": "Gaia",
+                "C": "Eris",
+                "D": "Chaos",
+                "E": "Ananke"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Which of the following statements about 'dark matter' reflects the consensus of astronomers as of 2023?",
+            "options": {
+                "A": "Dark matter emits light but doesn't interact with normal matter.",
+                "B": "Dark matter is a byproduct of black hole radiation.",
+                "C": "Dark matter and dark energy are the same.",
+                "D": "Dark matter interacts through gravity but does not emit light.",
+                "E": "Dark matter is only found in the center of galaxies."
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "Which current language is considered the closest living relative of Latin?",
+            "options": {
+                "A": "Italian",
+                "B": "French",
+                "C": "Romanian",
+                "D": "Sardinian",
+                "E": "Spanish"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "Which of these economists introduced the concept of 'creative destruction'?",
+            "options": {
+                "A": "Adam Smith",
+                "B": "John Maynard Keynes",
+                "C": "Karl Marx",
+                "D": "Joseph Schumpeter",
+                "E": "Milton Friedman"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset30": [
+        {
+            "question": "What recent feature in electric cars allows for bidirectional charging?",
+            "options": {
+                "A": "Inductive charging pads",
+                "B": "Vehicle-to-grid (V2G) technology",
+                "C": "Regenerative braking systems",
+                "D": "Solar panels",
+                "E": "Capacitive coupling"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "Which ancient civilization built the 'Lost City' of Petra?",
+            "options": {
+                "A": "The Mayans",
+                "B": "The Inca",
+                "C": "The Aztecs",
+                "D": "The Romans",
+                "E": "The Nabateans"
+            },
+            "correct_answer": "E",
+            "difficulty": 2
+        },
+        {
+            "question": "Which of these iconic films was pivotal in making CGI mainstream in the 90s?",
+            "options": {
+                "A": "Tron",
+                "B": "Jurassic Park",
+                "C": "The Matrix",
+                "D": "Terminator 2: Judgment Day",
+                "E": "Toy Story"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "What term describes the study of fish behavior, structure, physiology, and classification?",
+            "options": {
+                "A": "Herpetology",
+                "B": "Entomology",
+                "C": "Ichthyology",
+                "D": "Ornithology",
+                "E": "Mammalogy"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "In computer science, what is the name given to the abstract data type that represents a countable number of ordered values?",
+            "options": {
+                "A": "Array",
+                "B": "Stack",
+                "C": "Queue",
+                "D": "LinkedList",
+                "E": "Graph"
+            },
+            "correct_answer": "A",
+            "difficulty": 5
+        },
+        {
+            "question": "Based on cognitive science studies, what phenomenon describes the tendency to overlook obvious information in search of complex answers?",
+            "options": {
+                "A": "Occam's Razor",
+                "B": "Confirmation bias",
+                "C": "The Einstellung effect",
+                "D": "Hindsight bias",
+                "E": "The Hawthorne effect"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "What artist shocked the art world with his unconventional artwork 'Fountain' in 1917?",
+            "options": {
+                "A": "Pablo Picasso",
+                "B": "Salvador Dal\u00ed",
+                "C": "Marcel Duchamp",
+                "D": "Andy Warhol",
+                "E": "Jackson Pollock"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "Which astronomical event, detected by gravitational waves, was a historic first in 2017?",
+            "options": {
+                "A": "Detection of an exoplanet's atmosphere",
+                "B": "Observation of the cosmic microwave background",
+                "C": "Discovery of the first interstellar object, 'Oumuamua",
+                "D": "Collision of two neutron stars, GW170817",
+                "E": "The photographing of a black hole's event horizon"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset31": [
+        {
+            "question": "What is the main ingredient in the traditional Japanese dish sashimi?",
+            "options": {
+                "A": "Rice",
+                "B": "Fresh raw fish or meat",
+                "C": "Cooked vegetables",
+                "D": "Noodles",
+                "E": "Tofu"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "In which city can you find the historic site, Machu Picchu?",
+            "options": {
+                "A": "La Paz, Bolivia",
+                "B": "Quito, Ecuador",
+                "C": "Cusco, Peru",
+                "D": "Bogot\u00e1, Colombia",
+                "E": "Santiago, Chile"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "What relatively recent psychological concept deals with the perception of time passing more quickly as one gets older?",
+            "options": {
+                "A": "Chronostasis",
+                "B": "Procrastination",
+                "C": "Time compression",
+                "D": "Temporal disintegration",
+                "E": "Circadian rhythm"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Which band released the influential 2016 album 'A Moon Shaped Pool'?",
+            "options": {
+                "A": "Coldplay",
+                "B": "Radiohead",
+                "C": "Arcade Fire",
+                "D": "The Strokes",
+                "E": "Tame Impala"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "What political theory centers on the idea of a 'veil of ignorance' to establish fairness?",
+            "options": {
+                "A": "Utilitarianism",
+                "B": "Libertarianism",
+                "C": "Marxism",
+                "D": "Rawlsianism",
+                "E": "Anarchism"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Fibonacci numbers can be visualized in nature most conspicuously through which phenomenon?",
+            "options": {
+                "A": "The branching of trees",
+                "B": "The shape of galaxies",
+                "C": "The arrangement of leaves on a stem",
+                "D": "The formation of clouds",
+                "E": "The patterns on a zebra"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "The 2019 Nobel Prize in Physiology or Medicine was awarded for discoveries in how cells sense and adapt to what environmental change?",
+            "options": {
+                "A": "Water availability",
+                "B": "Oxygen availability",
+                "C": "Nutrient availability",
+                "D": "Temperature changes",
+                "E": "pH changes"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Which ancient philosopher founded the Academy, one of the earliest institutions of higher learning in the Western world?",
+            "options": {
+                "A": "Socrates",
+                "B": "Aristotle",
+                "C": "Plato",
+                "D": "Epicurus",
+                "E": "Zeno of Elea"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset32": [
+        {
+            "question": "Which recent video game features a vast open-world universe and is known for its use of procedural generation?",
+            "options": {
+                "A": "Minecraft",
+                "B": "Fortnite",
+                "C": "No Man's Sky",
+                "D": "Cyberpunk 2077",
+                "E": "Star Citizen"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "As of 2023, which constructing company is known for developing the tallest modular buildings?",
+            "options": {
+                "A": "Balfour Beatty",
+                "B": "Vinci",
+                "C": "Skanska",
+                "D": "Lendlease",
+                "E": "Laing O'Rourke"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Who was the second female Prime Minister of the United Kingdom, succeeding David Cameron in 2016?",
+            "options": {
+                "A": "Margaret Thatcher",
+                "B": "Theresa May",
+                "C": "Angela Merkel",
+                "D": "Jacinda Ardern",
+                "E": "Indira Gandhi"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "The 2024 Paris Olympics plans to introduce a new sport that combines which two disciplines?",
+            "options": {
+                "A": "Breakdancing and Gymnastics",
+                "B": "Climbing and Parkour",
+                "C": "Skateboarding and Surfing",
+                "D": "Karate and Taekwondo",
+                "E": "Rowing and Canoeing"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Identify the court painter to King Philip IV whose works include 'Las Meninas' and 'The Surrender of Breda'.",
+            "options": {
+                "A": "El Greco",
+                "B": "Francisco Goya",
+                "C": "Diego Vel\u00e1zquez",
+                "D": "Pablo Picasso",
+                "E": "Joan Mir\u00f3"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "In health and medicine, CRISPR technology is a powerful tool for what?",
+            "options": {
+                "A": "Genome editing",
+                "B": "Vaccine development",
+                "C": "Drug design",
+                "D": "Biometric monitoring",
+                "E": "Organ transplants"
+            },
+            "correct_answer": "A",
+            "difficulty": 6
+        },
+        {
+            "question": "What is the serial position effect in psychology?",
+            "options": {
+                "A": "A tendency to remember high-drama events more vividly than mundane ones",
+                "B": "A preference for serial storytelling over self-contained stories",
+                "C": "The phenomenon where faster processes can interfere with slower ones",
+                "D": "A phenomenon where people tend to remember the first and last items in a series best",
+                "E": "The belief that people who engage in behaviors in a sequence are seen as more believable"
+            },
+            "correct_answer": "D",
+            "difficulty": 7
+        },
+        {
+            "question": "The concept of \u2018Pareto Efficiency\u2019 is a fundamental principle in which field?",
+            "options": {
+                "A": "Medicine",
+                "B": "Engineering",
+                "C": "Economics",
+                "D": "Physics",
+                "E": "Sociology"
+            },
+            "correct_answer": "C",
+            "difficulty": 8
+        }
+    ],
+    "dataset33": [
+        {
+            "question": "Which company is well-known for its historic role in the development of the internet?",
+            "options": {
+                "A": "IBM",
+                "B": "Microsoft",
+                "C": "Apple",
+                "D": "AT&T",
+                "E": "DARPA"
+            },
+            "correct_answer": "E",
+            "difficulty": 1
+        },
+        {
+            "question": "Who was the first woman to win a Nobel Prize in two different scientific fields?",
+            "options": {
+                "A": "Dorothy Crowfoot Hodgkin",
+                "B": "Marie Curie",
+                "C": "Elizabeth Blackburn",
+                "D": "Ada Yonath",
+                "E": "Barbara McClintock"
+            },
+            "correct_answer": "B",
+            "difficulty": 2
+        },
+        {
+            "question": "Which country's cuisine is the origin of the traditional dish 'Ramen'?",
+            "options": {
+                "A": "China",
+                "B": "Japan",
+                "C": "South Korea",
+                "D": "Thailand",
+                "E": "Vietnam"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "As of 2023, which country holds the record for the most FIFA World Cup titles in football (soccer)?",
+            "options": {
+                "A": "Spain",
+                "B": "Brazil",
+                "C": "Germany",
+                "D": "Italy",
+                "E": "Argentina"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "The concept of 'Tabula Rasa,' suggesting that humans are born without built-in mental content, is associated with which philosopher?",
+            "options": {
+                "A": "Aristotle",
+                "B": "Immanuel Kant",
+                "C": "Friedrich Nietzsche",
+                "D": "John Locke",
+                "E": "Plato"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "What term describes the recent phenomenon where technology is being designed to mitigate the effects of human activity on climate?",
+            "options": {
+                "A": "Bioengineering",
+                "B": "Sustainable Design",
+                "C": "Green Computing",
+                "D": "Climate Engineering",
+                "E": "Eco-Mode Technology"
+            },
+            "correct_answer": "D",
+            "difficulty": 6
+        },
+        {
+            "question": "In literature, who is considered the father of modern stream of consciousness as a narrative device?",
+            "options": {
+                "A": "James Joyce",
+                "B": "Virginia Woolf",
+                "C": "William Faulkner",
+                "D": "Marcel Proust",
+                "E": "Ernest Hemingway"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "As of 2023, which company developed an AI deemed capable of achieving human-level performance in playing complex strategy games?",
+            "options": {
+                "A": "IBM",
+                "B": "Google DeepMind",
+                "C": "OpenAI",
+                "D": "Facebook AI Research",
+                "E": "Baidu"
+            },
+            "correct_answer": "B",
+            "difficulty": 8
+        }
+    ],
+    "dataset34": [
+        {
+            "question": "Which 2023 electric vehicle model popularized the concept of using a structural battery pack as part of its chassis?",
+            "options": {
+                "A": "Tesla Model S Plaid",
+                "B": "Tesla Cybertruck",
+                "C": "Rivian R1T",
+                "D": "Ford F-150 Lightning",
+                "E": "Lucid Air"
+            },
+            "correct_answer": "B",
+            "difficulty": 1
+        },
+        {
+            "question": "In 2021, which country made the decision to change its capital city due to environmental and congestion concerns?",
+            "options": {
+                "A": "Indonesia",
+                "B": "Brazil",
+                "C": "Egypt",
+                "D": "Kazakhstan",
+                "E": "Malaysia"
+            },
+            "correct_answer": "A",
+            "difficulty": 2
+        },
+        {
+            "question": "What is the name of the 2023 space telescope scheduled to launch as a part of NASA's mission to search for exoplanets?",
+            "options": {
+                "A": "Chandra X-ray Observatory",
+                "B": "James Webb Space Telescope",
+                "C": "Roman Space Telescope",
+                "D": "Hubble Space Telescope",
+                "E": "Spitzer Space Telescope"
+            },
+            "correct_answer": "C",
+            "difficulty": 3
+        },
+        {
+            "question": "Who was appointed as the new Secretary-General of the United Nations in 2022?",
+            "options": {
+                "A": "Ban Ki-moon",
+                "B": "Kofi Annan",
+                "C": "Ant\u00f3nio Guterres",
+                "D": "Bill Gates",
+                "E": "Christine Lagarde"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What 2023 event, often referred to as 'The Great Conjunction,' involved a major alignment of Earth, Venus, and Jupiter?",
+            "options": {
+                "A": "Lunar Eclipse",
+                "B": "Solar Eclipse",
+                "C": "Planetary Parade",
+                "D": "Supermoon",
+                "E": "Haley's Comet Passing"
+            },
+            "correct_answer": "C",
+            "difficulty": 5
+        },
+        {
+            "question": "The 2023 novel 'The City of Mist' is a collection of short stories by which author, known for magical realism?",
+            "options": {
+                "A": "J.K. Rowling",
+                "B": "Isabel Allende",
+                "C": "Haruki Murakami",
+                "D": "Neil Gaiman",
+                "E": "Gabriel Garc\u00eda M\u00e1rquez"
+            },
+            "correct_answer": "E",
+            "difficulty": 6
+        },
+        {
+            "question": "In 2022, the art world was shaken by the sale of which artist's 'Untitled' painting for over $200 million?",
+            "options": {
+                "A": "Jean-Michel Basquiat",
+                "B": "Pablo Picasso",
+                "C": "Roy Lichtenstein",
+                "D": "Andy Warhol",
+                "E": "Jackson Pollock"
+            },
+            "correct_answer": "A",
+            "difficulty": 7
+        },
+        {
+            "question": "What is the name of the quantum computing language released by Microsoft for cloud computing in 2020?",
+            "options": {
+                "A": "Q#",
+                "B": "Qiskit",
+                "C": "Silq",
+                "D": "Quantum",
+                "E": "Braket"
+            },
+            "correct_answer": "A",
+            "difficulty": 8
+        }
+    ],
+    "dataset35": [
+        {
+            "question": "Which mountain range stretches along the western coast of South America?",
+            "options": {
+                "A": "Andes",
+                "B": "Rockies",
+                "C": "Himalayas",
+                "D": "Alps",
+                "E": "Pyrenees"
+            },
+            "correct_answer": "A",
+            "difficulty": 1
+        },
+        {
+            "question": "Who led the Soviet Union during the Cuban Missile Crisis in 1962?",
+            "options": {
+                "A": "Vladimir Lenin",
+                "B": "Joseph Stalin",
+                "C": "Mikhail Gorbachev",
+                "D": "Nikita Khrushchev",
+                "E": "Leonid Brezhnev"
+            },
+            "correct_answer": "D",
+            "difficulty": 2
+        },
+        {
+            "question": "Which planet's discovery in 2023 by indirect methods set a new record for the closest exoplanet to Earth?",
+            "options": {
+                "A": "Proxima Centauri b",
+                "B": "Kepler-452b",
+                "C": "TOI-700d",
+                "D": "LHS 3844b",
+                "E": "Ross 128b"
+            },
+            "correct_answer": "A",
+            "difficulty": 3
+        },
+        {
+            "question": "Who was elected President of South Korea in 2022?",
+            "options": {
+                "A": "Kim Jong-un",
+                "B": "Moon Jae-in",
+                "C": "Yoon Suk-yeol",
+                "D": "Park Geun-hye",
+                "E": "Lee Myung-bak"
+            },
+            "correct_answer": "C",
+            "difficulty": 4
+        },
+        {
+            "question": "What is the name of the psychological effect where individuals assume someone else will intervene in a critical situation, leading to inaction?",
+            "options": {
+                "A": "Confirmation Bias",
+                "B": "Bystander Effect",
+                "C": "Hawthorne Effect",
+                "D": "Sunk Cost Fallacy",
+                "E": "Imposter Syndrome"
+            },
+            "correct_answer": "B",
+            "difficulty": 5
+        },
+        {
+            "question": "What was the 'James Webb Space Telescope' primarily designed to study?",
+            "options": {
+                "A": "The outer planets",
+                "B": "Exoplanetary systems",
+                "C": "The Sun's corona",
+                "D": "Cosmic microwave background radiation",
+                "E": "Comets within our solar system"
+            },
+            "correct_answer": "B",
+            "difficulty": 6
+        },
+        {
+            "question": "Which video game, released in 2023, utilized groundbreaking neural network AI to create highly realistic non-playable character behaviors?",
+            "options": {
+                "A": "Cyberpunk 2077",
+                "B": "FIFA 24",
+                "C": "Grand Theft Auto VI",
+                "D": "Elden Ring II",
+                "E": "Starfield"
+            },
+            "correct_answer": "C",
+            "difficulty": 7
+        },
+        {
+            "question": "What innovative technology is at the core of the XENONnT experiment inaugurated in 2020 for dark matter detection?",
+            "options": {
+                "A": "Cherenkov detector",
+                "B": "Liquid argon time projection chamber",
+                "C": "Superconducting nanowire",
+                "D": "Liquid xenon time projection chamber",
+                "E": "Photomultiplier tube array"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ],
+    "dataset36": [
+        {
+            "question": "In what year did the European Union implement its General Data Protection Regulation (GDPR)?",
+            "options": {
+                "A": "2016",
+                "B": "2017",
+                "C": "2018",
+                "D": "2019",
+                "E": "2020"
+            },
+            "correct_answer": "C",
+            "difficulty": 1
+        },
+        {
+            "question": "The psychological term 'Eudaimonia' is most closely associated with the pursuit of what?",
+            "options": {
+                "A": "Physical comfort",
+                "B": "Fleeting happiness",
+                "C": "A meaningful life",
+                "D": "Personal success",
+                "E": "Material wealth"
+            },
+            "correct_answer": "C",
+            "difficulty": 2
+        },
+        {
+            "question": "By 2023, which country had significantly advanced its hyperloop transportation system prototype?",
+            "options": {
+                "A": "China",
+                "B": "United States",
+                "C": "India",
+                "D": "United Arab Emirates",
+                "E": "Saudi Arabia"
+            },
+            "correct_answer": "B",
+            "difficulty": 3
+        },
+        {
+            "question": "As of 2023, which element had recently been discovered to have novel superconducting properties at high pressures?",
+            "options": {
+                "A": "Osmium",
+                "B": "Hydrogen",
+                "C": "Einsteinium",
+                "D": "Bismuth",
+                "E": "Carbon"
+            },
+            "correct_answer": "B",
+            "difficulty": 4
+        },
+        {
+            "question": "Which renowned artist directed the biographical film 'At Eternity\u2019s Gate' in 2018 about the life of Vincent van Gogh?",
+            "options": {
+                "A": "Martin Scorsese",
+                "B": "Quentin Tarantino",
+                "C": "Steven Spielberg",
+                "D": "Julian Schnabel",
+                "E": "Woody Allen"
+            },
+            "correct_answer": "D",
+            "difficulty": 5
+        },
+        {
+            "question": "Where did the 2023 G20 summit take place, addressing global economic issues and international coordination?",
+            "options": {
+                "A": "Rome, Italy",
+                "B": "Buenos Aires, Argentina",
+                "C": "Jakarta, Indonesia",
+                "D": "Hamburg, Germany",
+                "E": "Cannes, France"
+            },
+            "correct_answer": "C",
+            "difficulty": 6
+        },
+        {
+            "question": "The AI model 'GPT-4', released in 2023, is known for its capability in what area?",
+            "options": {
+                "A": "Translation",
+                "B": "Natural Language Processing",
+                "C": "Computer Vision",
+                "D": "Predictive Text Generation",
+                "E": "Robotics Motion Planning"
+            },
+            "correct_answer": "B",
+            "difficulty": 7
+        },
+        {
+            "question": "Which ancient civilization mythology included the cosmogony where the universe originated from an egg, the 'Hiranyagarbha'?",
+            "options": {
+                "A": "Ancient Greek",
+                "B": "Roman",
+                "C": "Norse",
+                "D": "Hindu",
+                "E": "Egyptian"
+            },
+            "correct_answer": "D",
+            "difficulty": 8
+        }
+    ]
+}

@@ -7,7 +7,7 @@ from openai import OpenAI
 client = OpenAI()
 
 # İlk JSON dosyası
-current_file_number = 16
+current_file_number = 18
 questions_file = f"questions{current_file_number}.json"
 
 # JSON dosyasını yüklemek ve dosya numarasını güncellemek için fonksiyon
